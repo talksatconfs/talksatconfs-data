@@ -1,0 +1,476 @@
+name: 'PHP UK Conference 2019'
+description: 'We are pleased to present the 14th Annual PHP UK Conference. An optional workshop day followed by two days of amazing talks, plentiful networking opportunities and great socials. PHP UK offers the most up-to-date PHP information and training.'
+location: London
+venue: ''
+city: London
+country: 'United Kingdom'
+link: 'https://joind.in/event/php-uk-conference-2019'
+playlist: 'youtube:PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f'
+from_date: '2019-02-20'
+to_date: '2019-02-22'
+tags: ''
+talks:
+  -
+    title: 'Building first-class REST APIs with Symfony'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'Michael Cullum'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zvl5__Wov9o'
+    slides: null
+  -
+    title: "MySQL 8.0: Not Only Good, it's GREAT"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: "Gabriela D'Avila Ferrara"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tADkhBB-oIg'
+    slides: null
+  -
+    title: 'Dive Deep Into Blockchain'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'Tomasz Kowalczyk'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CD_t5jZtX48'
+    slides: null
+  -
+    title: "Web Developer's HTTP Toolbox"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-21 00:00'
+    speakers:
+      -
+        name: 'Lorna Mitchell'
+        twitter: lornajane
+        github: lornajane
+    videos: null
+    slides: null
+  -
+    title: 'Database Encryption in a GDPR World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'Scott Dutton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RTZXgxYGOWA'
+    slides: null
+  -
+    title: 'From Good to SOLID - Becoming a Better PHP Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-22 00:00'
+    speakers:
+      -
+        name: 'Katerina Trajchevska'
+        twitter: ktrajchevska
+        github: trajchevska
+    videos:
+      - 'youtube:ILFcofVJUF4'
+    slides: null
+  -
+    title: 'Workshop 2: BDD in Practice'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'Ciaran McNulty'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Everything is Awesome - The LEGOⓇ Approach to Being an Awesome Co-worker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-21 00:00'
+    speakers:
+      -
+        name: 'Paul Verbeek Mast'
+        twitter: paul_v_m
+        github: null
+    videos:
+      - 'youtube:gzUL5cPhD8Q'
+    slides: null
+  -
+    title: 'Getting Going with Automated Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-21 00:00'
+    speakers:
+      -
+        name: 'Gary Hockin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Deploying your first Micro-Service Application to Kubernetes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-21 00:00'
+    speakers:
+      -
+        name: 'Bastian Hofmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'From Dev to Prod with GitLab CI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'Stephan Hochdorfer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Fx0yYvK-aRE'
+    slides: null
+  -
+    title: 'Does Your Code Measure Up?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'Adam Culp'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dVu1AShtuQo'
+    slides: null
+  -
+    title: 'I Deploy on Fridays (And Maybe You Should Too)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'Michiel Rook'
+        twitter: michieltcs
+        github: null
+    videos:
+      - 'youtube:clbnkvJb_mM'
+    slides: null
+  -
+    title: 'Pre-Conference Social'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'PHP UK Conference'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Hybrid Databases: How De-normalizing Your Data with JSON Can Boost Query Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-22 00:00'
+    speakers:
+      -
+        name: 'Dave Stokes'
+        twitter: iansltx
+        github: mysqlmentor
+    videos:
+      - 'youtube:Y7Z1vwbG7rY'
+    slides: null
+  -
+    title: 'Controlling the Variables'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'Thijs Feryn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:f3EU-sd9KPY'
+    slides: null
+  -
+    title: 'API Standards 2.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-22 00:00'
+    speakers:
+      -
+        name: 'Michael Heap'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Machine Learning and Trend Analysis in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'Michael Cullum'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Massively Scaled High Performance Web Services with PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'Demin Yin'
+        twitter: deminy
+        github: deminy
+    videos:
+      - 'youtube:_Yjk7EcZ2dI'
+    slides: null
+  -
+    title: 'Running Your PHP Site on AWS Lambda'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'Neal Brooks'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TTyIBOnpI9s'
+    slides: null
+  -
+    title: 'A Practical Introduction to Strategic Domain Driven Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-22 00:00'
+    speakers:
+      -
+        name: 'Pim Elshoff'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Storing Non-Scalar Data'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos:
+      - 'youtube:sIJithgF6f0'
+    slides: null
+  -
+    title: 'Workshop 1: Kubernetes By Example'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'David McKay'
+        twitter: rawkode
+        github: rawkode
+    videos: null
+    slides: null
+  -
+    title: 'Test to Break Principles'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'Rob Waller'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JDwFyRXbVHQ'
+    slides: null
+  -
+    title: 'Transparent Docker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-22 00:00'
+    speakers:
+      -
+        name: 'Donald Tyler'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Best Practices for Crafting High Quality PHP Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-21 00:00'
+    speakers:
+      -
+        name: 'James Titcumb'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'LAMP ❤️ AWS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-22 00:00'
+    speakers:
+      -
+        name: M1ke
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Your App Lives on a Network: Networking for Web Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'Wim Godden'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:t0JdGOYuQzc'
+    slides: null
+  -
+    title: 'Microservices Gone Wrong'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'Anthony Ferrara'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5QIpzNPVDaY'
+    slides: null
+  -
+    title: 'Learning The Hows and Whys of Machine Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'Liam Wiltshire'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hr6l9g2Fbis'
+    slides: null
+  -
+    title: 'More Secrets of Cryptography'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'Chris Riley'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Nny7xf-anfU'
+    slides: null
+  -
+    title: 'Everything is Awesome'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'Paul Verbeek Mast'
+        twitter: paul_v_m
+        github: null
+    videos:
+      - 'youtube:gzUL5cPhD8Q'
+    slides: null
+  -
+    title: 'From Good To SOLID: How to Become a Better PHP Developer?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'Katerina Trajchevska'
+        twitter: ktrajchevska
+        github: trajchevska
+    videos:
+      - 'youtube:ILFcofVJUF4'
+    slides: null
+  -
+    title: 'How De-normalizing Your Data with JSON Can Boost Query Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-20 00:00'
+    speakers:
+      -
+        name: 'David Stokes'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Y7Z1vwbG7rY'
+    slides: null

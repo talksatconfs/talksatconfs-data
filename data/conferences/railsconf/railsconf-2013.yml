@@ -1,0 +1,1052 @@
+name: 'RailsConf 2013'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2013-04-29'
+to_date: '2013-05-02'
+tags: ''
+talks:
+  -
+    title: 'The Long Ball - Upgrading long lived Rails apps from 1.x-4.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-02 00:00'
+    speakers:
+      -
+        name: 'Jesse Wolgamott'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:97fpzfRGTcs'
+    slides: null
+  -
+    title: 'Of Buyers And Renters and keeping a roof over our heads'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'Sebastian Delmont'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XakfJ2spb3w'
+    slides: null
+  -
+    title: 'The War For Talent: How To Succeed As an Employer or Engineer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Allan Grant'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9L_jiJddLPo'
+    slides: null
+  -
+    title: 'TDD Workshop: Mocking, Stubbing, and Faking External Services'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'Harlow Ward'
+        twitter: null
+        github: null
+      -
+        name: 'Adarsh Pandit'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8368hGNIJMQ'
+    slides: null
+  -
+    title: 'TDD Workshop: Outward-in Development, Unit Tests, and Fixture Data'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'Harlow Ward'
+        twitter: null
+        github: null
+      -
+        name: 'Adarsh Pandit'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sj5TXzgZ1Sk'
+    slides: null
+  -
+    title: 'No Traffic, No Users, No Problem! - Usability Testing for New Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Jim Jones'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pCOuOxFRajQ'
+    slides: null
+  -
+    title: 'Your First Rails Pull Request'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-01 00:00'
+    speakers:
+      -
+        name: 'Mark McSpadden'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UEB6H8jAzIg'
+    slides: null
+  -
+    title: "How to Write Documentation for People That Don't Read"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'Kevin Burke'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cC67PzBgRYE'
+    slides: null
+  -
+    title: 'An Intervention for ActiveRecord'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'Ernie Miller'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yuh9COzp5vo'
+    slides: null
+  -
+    title: 'Configuration Management Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-01 00:00'
+    speakers:
+      -
+        name: 'Beau Harrington'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MDeUgHHTiyg'
+    slides: null
+  -
+    title: 'Designing great APIs: Learning from Jony Ive, Orwell, and the Kano ...'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'Jonathan Dahl'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RfueDq8-Wwg'
+    slides: null
+  -
+    title: 'Changing the wheels on the bus at 80 mph: upgrading to Rails 3 on a...'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Julian Giuca'
+        twitter: null
+        github: null
+      -
+        name: 'Andrew Bloomgarden'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xi7z-vGNNGw'
+    slides: null
+  -
+    title: 'Engine Yard Cloud'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-01 00:00'
+    speakers:
+      -
+        name: 'Edward Chiu'
+        twitter: null
+        github: null
+      -
+        name: 'PJ Hagerty'
+        twitter: aspleenic
+        github: null
+    videos:
+      - 'youtube:Wq0gDAi3KEk'
+    slides: null
+  -
+    title: 'Monitoring the Health of Your App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Carl Lerche'
+        twitter: null
+        github: null
+      -
+        name: 'Yehuda Katz'
+        twitter: wycats
+        github: null
+    videos:
+      - 'youtube:--uFArE8YUk'
+    slides: null
+  -
+    title: 'What Ruby Developers Can Learn From Go'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'Lionel Barrow'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-zz-byus8DA'
+    slides: null
+  -
+    title: 'Keeping the lights on: Application monitoring with Sensu and BatsD'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-01 00:00'
+    speakers:
+      -
+        name: 'Aaron Pfeifer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:b76GfS7x_j8'
+    slides: null
+  -
+    title: "Opening Keynote - Patterns of Basecamp's Application Architecture"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'David Heinemeier Hansson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yhseQP52yIY'
+    slides: null
+  -
+    title: 'Ruby Libraries Important for Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'Michael Hartl'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:noWORpSTQGE'
+    slides: null
+  -
+    title: 'How to Talk to Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-02 00:00'
+    speakers:
+      -
+        name: 'Ben Orenstein'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:l9JXH7JPjR4'
+    slides: null
+  -
+    title: 'Front-end Testing for Skeptics'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Luke Francl'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9GO7XGmv5gk'
+    slides: null
+  -
+    title: 'Rails Vs. The Client Side'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'Noel Rappin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qeI25OjHyDA'
+    slides: null
+  -
+    title: 'Sleeping with the enemy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'George Brocklehurst'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:K6sRwQuWNLg'
+    slides: null
+  -
+    title: 'Cache = Cash!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'STEFAN WINTERMEYER'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7uKxDVflXdI'
+    slides: null
+  -
+    title: 'Datomic, from Ruby, from Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-02 00:00'
+    speakers:
+      -
+        name: 'Yoko Harada'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1E_n47ct280'
+    slides: null
+  -
+    title: 'Schemas for the Real World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-01 00:00'
+    speakers:
+      -
+        name: 'Carina C. Zona'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OHysMs8hUlE'
+    slides: null
+  -
+    title: 'Flattening The Cloud Learning Curve Using Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'Michael Murphy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PbBPOG--gqI'
+    slides: null
+  -
+    title: 'BDD and Acceptance Testing with RSpec & Capybara'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Brian Sam-Bodden'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BG_DDUD4M9E'
+    slides: null
+  -
+    title: 'Nobody will Train You but You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Zachary Briggs'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-0yajJLVbzw'
+    slides: null
+  -
+    title: 'Testing HTTP APIs in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Shai Rosenfeld'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lTSl7IwbrvI'
+    slides: null
+  -
+    title: 'Split Testing for Product Discovery'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'Bryan Woods'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5hgNaSVDkEs'
+    slides: null
+  -
+    title: 'Security is hard, but we can’t go shopping'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'André Arko'
+        twitter: indirect
+        github: indirect
+    videos:
+      - 'youtube:tV7IPygjseI'
+    slides: null
+  -
+    title: 'TDDing iOS Apps for fun and profit with RubyMotion'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-02 00:00'
+    speakers:
+      -
+        name: 'Brian Sam-Bodden'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7v3_t5SK8DM'
+    slides: null
+  -
+    title: 'Pry — The Good Parts!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'Conrad Irwin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jDXsEzOHb2M'
+    slides: null
+  -
+    title: 'Testing Complex Systems: Creating data and limiting scope'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'Noel Rappin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RdTt9kA-O5Q'
+    slides: null
+  -
+    title: 'Incremental Design - A conversation with a designer and a developer.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Rebecca Miller-Webster'
+        twitter: null
+        github: null
+      -
+        name: 'Savannah Wolf'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:t97ePwSk_wc'
+    slides: null
+  -
+    title: "You've got a Sinatra on your Rails"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'José Valim'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TslkdT3PfKc'
+    slides: null
+  -
+    title: "Services and Rails: The Sh*t They Don't Tell You"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-01 00:00'
+    speakers:
+      -
+        name: 'Brian Morton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:o5u87SZ6S9M'
+    slides: null
+  -
+    title: 'Closing Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-02 00:00'
+    speakers:
+      -
+        name: 'Aaron Patterson'
+        twitter: tenderlove
+        github: tenderlove
+    videos:
+      - 'youtube:5kgUL_FfUZY'
+    slides: null
+  -
+    title: 'Properly Factored MVC in Rails Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-01 00:00'
+    speakers:
+      -
+        name: 'Katrina Owen'
+        twitter: null
+        github: null
+      -
+        name: 'Jeff Casimir'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:KaBrHBlMHBI'
+    slides: null
+  -
+    title: 'How a Request Becomes a Response'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Aimee Simone'
+        twitter: null
+        github: null
+      -
+        name: 'Christopher Greene'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Cj2VDSugHM8'
+    slides: null
+  -
+    title: 'Simple and Elegant Rails Code with Functional Style'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Attila Domokos'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:glU_I3Xiooc'
+    slides: null
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-01 00:00'
+    speakers:
+      -
+        name: 'James Duncan Davidson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jOvWDlmufcw'
+    slides: null
+  -
+    title: 'Zero-downtime payment platforms'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-01 00:00'
+    speakers:
+      -
+        name: 'Prem Sichanugrist'
+        twitter: null
+        github: null
+      -
+        name: 'Ryan Twomey'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:uJ_38moGKGY'
+    slides: null
+  -
+    title: 'Delicious Controversy: Docs & Tests'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'Thomas Meeks'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9md-GTF_Th8'
+    slides: null
+  -
+    title: 'Crafting Gems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-01 00:00'
+    speakers:
+      -
+        name: 'Pat Allan'
+        twitter: Pat
+        github: Pat
+    videos:
+      - 'youtube:Mmm1cVvPEYU'
+    slides: null
+  -
+    title: 'Describing Your World with Seahorse'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-01 00:00'
+    speakers:
+      -
+        name: 'Trevor Rowe'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NFhL7RhwnFU'
+    slides: null
+  -
+    title: 'Object-Oriented Lessons for a Service-Oriented World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Chris Kelly'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sk2PXKsQNug'
+    slides: null
+  -
+    title: 'Hacking the academic experience'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-02 00:00'
+    speakers:
+      -
+        name: 'Emily Stolfo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:a0teD9ynuTM'
+    slides: null
+  -
+    title: 'The Magic Tricks of Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'Sandi Metz'
+        twitter: sendimetz
+        github: skmetz
+    videos:
+      - 'youtube:URSWYvyc42M'
+    slides: null
+  -
+    title: 'Workshop: Rails for Zombies: Parts 1 & 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Aimee Simone'
+        twitter: null
+        github: null
+      -
+        name: 'Christopher Greene'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4Vk4W767lak'
+    slides: null
+  -
+    title: 'DevOps for the Rubyist Soul'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-01 00:00'
+    speakers:
+      -
+        name: 'John Downey'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:KmUq-SIFmgE'
+    slides: null
+  -
+    title: 'Developing Rails Apps in Technical Isolation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-01 00:00'
+    speakers:
+      -
+        name: 'Jesus Jackson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HU4xrpUUrnk'
+    slides: null
+  -
+    title: 'Introducing Brainstem, your companion for rich Rails APIs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'Andrew Cantino'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MDNbcpHrVJk'
+    slides: null
+  -
+    title: 'Natural Language Processing with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Brandon Black'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JznIgC5_h4M'
+    slides: null
+  -
+    title: 'Building Extractable Libraries in Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Patrick S. Robertson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xXLijKrPMv4'
+    slides: null
+  -
+    title: 'Forget Scaling: Focus on Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'Terence Lee'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:e_2s3kN0ZSE'
+    slides: null
+  -
+    title: 'Real-Time Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Brian Cardarella'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fOI3EjsUEww'
+    slides: null
+  -
+    title: 'Firefighting on Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-01 00:00'
+    speakers:
+      -
+        name: 'Ethan Vizitei'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ynLsBa0zqrU'
+    slides: null
+  -
+    title: 'Rails is Just Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Jesse Wolgamott'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Nqr_j4j26Uk'
+    slides: null
+  -
+    title: "Rails' Insecure Defaults"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Bryan Helmkamp'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4MCfEb0R7ow'
+    slides: null
+  -
+    title: 'Automation in Deployment on Hybrid Hosting and Private Cloud Enviro...'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Fletcher Nichol'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:11eqsPfEbr8'
+    slides: null
+  -
+    title: 'Lightning Talks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-01 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:4T24oUPPaFI'
+    slides: null
+  -
+    title: 'Creating Mountable Engines'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-01 00:00'
+    speakers:
+      -
+        name: 'Patrick Peak'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:s3NJ15Svq8U'
+    slides: null
+  -
+    title: 'Data Storage: NoSQL Toasters and a Cloud of Kitchen Sinks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'Casey Rosenthal'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zw050fRE0ek'
+    slides: null
+  -
+    title: 'From Rails to the Web Server to the Browser'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'David Padilla'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:A0M4BwYrYiA'
+    slides: null
+  -
+    title: 'Using Elasticsearch with Rails Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-01 00:00'
+    speakers:
+      -
+        name: 'Brian Gugliemetti'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:U-LrUN6jal8'
+    slides: null
+  -
+    title: "Postgres, the Best Tool You're Already Using"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-30 00:00'
+    speakers:
+      -
+        name: 'Adam Sanderson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YWj8ws6jc0g'
+    slides: null
+  -
+    title: 'Dissecting Ruby with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-02 00:00'
+    speakers:
+      -
+        name: 'Richard Schneeman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Zd2oUU4qDnY'
+    slides: null
+  -
+    title: 'Humanity On Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Daniel Azuma'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:elxE-WBXs_k'
+    slides: null
+  -
+    title: 'Maintainable Templates'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'Brendan Loudermilk'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:elRlAjtaFsg'
+    slides: null
+  -
+    title: 'Ruby Hero Awards'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-05-01 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:wfy_ctBaU2o'
+    slides: null
+  -
+    title: 'How Shopify Scales Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-04-29 00:00'
+    speakers:
+      -
+        name: 'John Duff'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xh4GPjCmmbY'
+    slides: null

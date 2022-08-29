@@ -1,0 +1,422 @@
+name: 'JSUnconf 2018'
+description: "JavaScript Unconference 2018 in Hamburg. It's your conference. You decide what will happen."
+location: ''
+venue: ''
+city: Hamburg
+country: Germany
+link: 'https://2018.jsunconf.eu/'
+playlist: 'youtube.com:PL37ZVnwpeshEEJRcF9y_ksT3-X7ljKp1a'
+from_date: '2018-04-21'
+to_date: '2018-04-22'
+tags: ''
+talks:
+  -
+    title: 'Introduction to Web Security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 00:00'
+    speakers:
+      -
+        name: 'Dominik Kundel'
+        twitter: dkundel
+        github: kundel
+    videos:
+      - 'youtube:-vYak5hEGrY'
+    slides: null
+  -
+    title: 'Native Web Animation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 00:00'
+    speakers:
+      -
+        name: 'Lisi Linhart'
+        twitter: lisi_linhart
+        github: null
+    videos:
+      - 'youtube:Nf_LOfzpric'
+    slides: null
+  -
+    title: 'Micro Frontends'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 00:00'
+    speakers:
+      -
+        name: 'Elmar Burke  '
+        twitter: null
+        github: null
+      -
+        name: 'Hans-Christian Otto'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xY8CaVQ2OHY'
+    slides: null
+  -
+    title: 'preconnect, prefetch, preload, pre what? An intro to Resource Hints'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 00:00'
+    speakers:
+      -
+        name: 'Robin Drexler'
+        twitter: RobinDrexler
+        github: robin-drexler
+    videos:
+      - 'youtube:6q75MVFLlok'
+    slides: null
+  -
+    title: 'How hard can it be! Practical uses of complexity theory'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 00:00'
+    speakers:
+      -
+        name: 'Anna Melzer'
+        twitter: wellendonner
+        github: amelzer
+    videos:
+      - 'youtube:ljVPAqR-aF0'
+    slides: null
+  -
+    title: 'Machine Learning in the Browser'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 00:00'
+    speakers:
+      -
+        name: 'LIAN LI'
+        twitter: Chimney42
+        github: Chimney42
+    videos:
+      - 'youtube:4fzgDaILoTc'
+    slides: null
+  -
+    title: 'Down the SVG Rabbit Hole'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 00:00'
+    speakers:
+      -
+        name: 'Robyn Larsen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IChfGN8nm5Q'
+    slides: null
+  -
+    title: 'Houdini the new CSS Magic'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 00:00'
+    speakers:
+      -
+        name: 'Karsten Buckstegge'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vZk7qPTVs5s'
+    slides: null
+  -
+    title: 'High Performance Web Fonts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 00:00'
+    speakers:
+      -
+        name: 'Peter Müller'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xRMc0JtQEG0'
+    slides: null
+  -
+    title: 'Putting WebAssembly in your web app today!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 00:00'
+    speakers:
+      -
+        name: 'Johann Hofmann'
+        twitter: johannh
+        github: johannhof
+    videos:
+      - 'youtube:-WtE0Bv6iSs'
+    slides: null
+  -
+    title: 'The importance of taking a break'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 00:00'
+    speakers:
+      -
+        name: 'Ramon Huidobro'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6T_6THrR5Qo'
+    slides: null
+  -
+    title: AV1
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 00:00'
+    speakers:
+      -
+        name: 'Istvan Szmozsanszky'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hJ_oKpl8pIo'
+    slides: null
+  -
+    title: 'Hacking create react app to use preact'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 00:00'
+    speakers:
+      -
+        name: 'Daniel Spitzer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UAxJCo3ZZ2w'
+    slides: null
+  -
+    title: 'Health, mental health and what not'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 00:00'
+    speakers:
+      -
+        name: 'Diana Ilithya'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kVZCfOLymtM'
+    slides: null
+  -
+    title: 'Punchcard coding with CSS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 00:00'
+    speakers:
+      -
+        name: 'Fabricius Seifert'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UjHv5D-pcm8'
+    slides: null
+  -
+    title: 'The algorithmic beauty of plants'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 00:00'
+    speakers:
+      -
+        name: 'Anna Melzer'
+        twitter: wellendonner
+        github: amelzer
+    videos:
+      - 'youtube:B1CT5pLKVSM'
+    slides: null
+  -
+    title: 'A word from an organizer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 00:00'
+    speakers:
+      -
+        name: 'Gregor Elke'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zqihrf4YXiU'
+    slides: null
+  -
+    title: 'In app browsers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 00:00'
+    speakers:
+      -
+        name: 'Franco Speziali'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SUKJsPSvrF0'
+    slides: null
+  -
+    title: 'Check your links with hyperlink'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 00:00'
+    speakers:
+      -
+        name: 'Peter Müller'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1AAp2fn7yCU'
+    slides: null
+  -
+    title: 'The importance of cross cultural competency'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 00:00'
+    speakers:
+      -
+        name: 'Julia Hurrelmann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dgdir5XDdOk'
+    slides: null
+  -
+    title: 'Think outside the box'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 00:00'
+    speakers:
+      -
+        name: 'Philipp Hinrichsen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kmWlte7m8yI'
+    slides: null
+  -
+    title: 'Turning wireframes into code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 00:00'
+    speakers:
+      -
+        name: 'Markus Siering'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://slidr.io/HerrBertling/from-wireframes-to-code'
+  -
+    title: 'World domination'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 00:00'
+    speakers:
+      -
+        name: 'Kathrin Holzmann'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://slidr.io/Lelith/world-domination-101-global-conquest-and-ruling-with-living-design-syste#1'
+  -
+    title: '(Web) Hooked on a feeling with Serverless'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 00:00'
+    speakers:
+      -
+        name: 'Emanuel Kluge'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://github.com/herschel666/web-hooked-on-a-feeling-with-serverless'
+  -
+    title: 'Accelerating talent through community bootcamps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 00:00'
+    speakers:
+      -
+        name: 'Julia Hurrelmann'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://shopifyengineering.myshopify.com/blogs/engineering/accelerating-android-talent-through-community-bootcamps'
+  -
+    title: 'lerna - migrate your package zoo to a monorepo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 00:00'
+    speakers:
+      -
+        name: 'Arnd Issler'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://speakerdeck.com/arndissler/lerna-migrate-your-package-zoo-to-a-monorepo'
+  -
+    title: 'Web accessibility'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 00:00'
+    speakers:
+      -
+        name: 'Darek Kay'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://darekkay.github.io/presentations/accessible-web/index.html#/'
+  -
+    title: 'Screenshot Tests'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 00:00'
+    speakers:
+      -
+        name: 'Ansgar Mertens'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'http://amrtns.com/talks/screenshot-tests'
+  -
+    title: 'Handling and validating user input in a react app'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 00:00'
+    speakers:
+      -
+        name: 'Edward Byne'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'http://slides.com/edwardbyne/deck-2'

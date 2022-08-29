@@ -1,0 +1,195 @@
+name: 'Smashing Conference San Francisco 2018'
+description: 'Learn how others failed, so that you won’thave to make the same mistakes. You willalso discover techniques, strategies andtooling to get to better results, faster.'
+location: ''
+venue: ''
+city: 'San Francisco, CA'
+country: 'United States'
+link: 'https://archive.smashingconf.com/sf-2018/'
+playlist: 'vimeo.com:5138297'
+from_date: '2018-04-17'
+to_date: '2018-04-18'
+tags: ''
+talks:
+  -
+    title: 'How Being A Graphic Designer Helped Me Through Stuff'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-17 09:50'
+    speakers:
+      -
+        name: 'Aaron Draplin'
+        twitter: draplin
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Unlocking the Power of CSS Grid Layout'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-17 10:40'
+    speakers:
+      -
+        name: 'Rachel Andrew'
+        twitter: rachelandrew
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/266792891'
+    slides:
+      - 'https://www.slideshare.net/rachelandrew/grid-and-flexbox-smashing-conf-sf'
+  -
+    title: 'Redesigning Slack'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-17 12:00'
+    speakers:
+      -
+        name: 'Mina Markham'
+        twitter: 'Mina Markham'
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Designing Powerful User Experiences With Psychology'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-17 12:50'
+    speakers:
+      -
+        name: 'Joe Leech'
+        twitter: mrJoe
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/266781642'
+    slides:
+      - 'https://www.dropbox.com/s/10po95ugxi3hsh1/mr%20Joe%20Leech%20Design%20a%20fantastic%20UX%20with%20Psychology%20copy.pdf?dl=0'
+  -
+    title: 'Name That Script!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-17 15:10'
+    speakers:
+      -
+        name: 'Trent Walton'
+        twitter: trentwalton
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/266794924'
+    slides:
+      - 'https://speakerdeck.com/trentwalton/name-that-script'
+  -
+    title: 'Fast By Default, Modern Loading Best Practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-17 16:00'
+    speakers:
+      -
+        name: 'Addy Osmani'
+        twitter: addyosmani
+        github: addyosmani
+    videos: null
+    slides: null
+  -
+    title: 'Cross Cultural Design in the Age of Globalization'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-17 17:20'
+    speakers:
+      -
+        name: 'Yiying Lu'
+        twitter: YiyingLu
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/266796772'
+    slides: null
+  -
+    title: 'The Ugly Truth of Design Systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-18 10:05'
+    speakers:
+      -
+        name: 'Mark Boulton'
+        twitter: markboulton
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/266786570'
+    slides: null
+  -
+    title: 'Beyond Media Queries'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-18 10:55'
+    speakers:
+      -
+        name: 'Michael Riethmuller'
+        twitter: MikeRiethmuller
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/266788829'
+    slides:
+      - 'http://madebymike.com.au/smashing-conf-2018/'
+  -
+    title: 'Approaching Pixels And Projections'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-18 12:10'
+    speakers:
+      -
+        name: 'Kate Dawkins'
+        twitter: StudioDawkins
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Our Everyday Relationships with Digital Interfaces'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-18 13:00'
+    speakers:
+      -
+        name: 'Claudio Guglieri'
+        twitter: claudioguglieri
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Vertical Writing On The Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-18 15:20'
+    speakers:
+      -
+        name: 'Huijing Chen'
+        twitter: hj_chen
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/266779370'
+    slides:
+      - 'https://www.chenhuijing.com/slides/30-smashingsf-2018'
+  -
+    title: 'Design in the Era of the Algorithm'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-18 16:10'
+    speakers:
+      -
+        name: 'Josh Clark'
+        twitter: bigmediumjosh
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/266784191'
+    slides:
+      - 'https://www.dropbox.com/s/yjuopq27qqs2kjk/design-in-era-of-algorithm-45.pdf?dl=0'

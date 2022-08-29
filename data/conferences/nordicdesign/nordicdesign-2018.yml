@@ -1,0 +1,164 @@
+name: 'Nordic.design - 2018'
+description: ''
+location: Stockholm
+venue: ''
+city: ''
+country: ''
+link: 'https://nordic.design/2018/schedule'
+playlist: ''
+from_date: '2018-09-05'
+to_date: '2018-09-05'
+tags: ''
+talks:
+  -
+    title: 'What Happens Next? Everything That Comes After Setting Up Your Design System'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 11:55'
+    speakers:
+      -
+        name: 'Isha Kasliwal'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'From 2D to 3D: How Web Designers Can Get Started in AR/VR'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 15:50'
+    speakers:
+      -
+        name: 'Morgane Santos'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Designing for digital communication: closing the gap between what we type and what we mean'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 17:00'
+    speakers:
+      -
+        name: 'Jennifer Daniel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Lightning talk - What we learned when designing for voice'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 12:25'
+    speakers:
+      -
+        name: 'Daria Reshetko'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How to quit your day job, dump your partner and make it as an artist. The highs and lows of taking risks and following your calling'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 14:30'
+    speakers:
+      -
+        name: 'Danger Dave'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Keynote: Designing for a connected world.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 09:40'
+    speakers:
+      -
+        name: 'Dr. Kate Stone'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "The secrets data won't tell you"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 10:10'
+    speakers:
+      -
+        name: 'Vicki Tan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Making simulated environments more accessible with cross-cultural research'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 14:00'
+    speakers:
+      -
+        name: 'Dr. Camela Logan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Potential of Variable Fonts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 11:25'
+    speakers:
+      -
+        name: 'Bianca Berning'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Lightning talk ⚡️'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 16:50'
+    speakers: {  }
+    videos: null
+    slides: null
+  -
+    title: 'Keynote: Designing in the Open: Shedding the fear of collaboration, and embracing feedback earlier in the design process.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 17:30'
+    speakers:
+      -
+        name: 'Noah Levin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Substantive Tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 15:20'
+    speakers:
+      -
+        name: 'Mala Kumar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

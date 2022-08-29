@@ -1,0 +1,306 @@
+name: 'JS Kongress 2017'
+description: 'Int. JavaScript Kongress about the Future of JavaScript. Topics: PWA, Angular, React, Architecture, Node, Performance'
+location: ''
+venue: ''
+city: Munich
+country: Germany
+link: 'https://2017.js-kongress.de/'
+playlist: 'youtube:PL8ajgHZ7PoCt3l5RXoyqVu_r7gYJU0dMx'
+from_date: '2017-11-13'
+to_date: '2017-11-14'
+tags: ''
+talks:
+  -
+    title: 'Opening Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-13 00:00'
+    speakers:
+      -
+        name: 'Ashley Williams'
+        twitter: ag_dubs
+        github: ashleygwilliams
+    videos:
+      - 'youtube:vxciS8IUUJU'
+    slides: null
+  -
+    title: 'Short story: When a close-knit JS App family needed rescue from an unruly State butler'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-13 00:00'
+    speakers:
+      -
+        name: 'Varsha Saha'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9x_ISrxxyzY'
+    slides: null
+  -
+    title: 'Buffalo: when Node and APIs become BFFs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-13 00:00'
+    speakers:
+      -
+        name: 'Netto Farah'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Eh54j-hFbQg'
+    slides: null
+  -
+    title: 'Reactive Brain Waves'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-13 00:00'
+    speakers:
+      -
+        name: 'Uri Shaked'
+        twitter: UriShaked
+        github: urish
+    videos:
+      - 'youtube:hYiQ5svNjtw'
+    slides: null
+  -
+    title: 'A Tale of TurboFan: Four years that changed V8 forever'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-13 00:00'
+    speakers:
+      -
+        name: 'Benedikt Meurer'
+        twitter: bmeurer
+        github: bmeurer
+    videos:
+      - 'youtube:cvybnv79Sek'
+    slides: null
+  -
+    title: 'Machine learning in Education'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-13 00:00'
+    speakers:
+      -
+        name: 'Michał Koźmiński'
+        twitter: michalkozminski
+        github: null
+    videos:
+      - 'youtube:kkp2C1fir68'
+    slides: null
+  -
+    title: 'Open Web, Open Source, Open Communities'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-13 00:00'
+    speakers:
+      -
+        name: 'Shubheksha Jalan'
+        twitter: ScribblingOn
+        github: shubheksha
+    videos:
+      - 'youtube:39MliXD0prU'
+    slides: null
+  -
+    title: 'JavaScript’s “+” Operator and Decision Fatigue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-13 00:00'
+    speakers:
+      -
+        name: 'Emily Freeman'
+        twitter: editingemily
+        github: null
+    videos:
+      - 'youtube:v8ToNvB-_Q8'
+    slides: null
+  -
+    title: 'Building a radio data network with Node.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-13 00:00'
+    speakers:
+      -
+        name: 'Thomas Watson'
+        twitter: wa7son
+        github: null
+    videos:
+      - 'youtube:5Xz6LJuvHCc'
+    slides: null
+  -
+    title: 'A visual guide of rendering performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-13 00:00'
+    speakers:
+      -
+        name: 'Martin Splitt'
+        twitter: g33konaut
+        github: g33konaut
+    videos:
+      - 'youtube:pCIe8gMv5oY'
+    slides: null
+  -
+    title: 'The Browser, The Machine Learning and The Future we might not have imagined just less than a year ago'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-13 00:00'
+    speakers:
+      -
+        name: 'Carmen Popoviciu'
+        twitter: CarmenPopoviciu
+        github: null
+    videos:
+      - 'youtube:tIUiqFj4oSY'
+    slides: null
+  -
+    title: 'The Browser is not a document reader!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-14 00:00'
+    speakers:
+      -
+        name: 'Rachel Nabors'
+        twitter: rachelnabors
+        github: null
+    videos:
+      - 'youtube:vMEzMVk8yAU'
+    slides: null
+  -
+    title: '“There is no spoon” - Building VR experiences in the Browser (With JS)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-14 00:00'
+    speakers:
+      -
+        name: 'Felipe Torres'
+        twitter: fforres
+        github: null
+    videos:
+      - 'youtube:QBPWO_h2zck'
+    slides: null
+  -
+    title: 'Progressive Web Apps: An easy answer to unequal housework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-14 00:00'
+    speakers:
+      -
+        name: 'Sara Harkousse'
+        twitter: Sara_harkousse
+        github: null
+    videos:
+      - 'youtube:W4RKqT7RiIk'
+    slides: null
+  -
+    title: 'Tomorrow’s JavaScript debugger'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-14 00:00'
+    speakers:
+      -
+        name: 'Amit Zur'
+        twitter: amitzur
+        github: amitzur
+    videos:
+      - 'youtube:Rop3EgPvBMw'
+    slides: null
+  -
+    title: 'Break Up With Your Frontend Monolith'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-14 00:00'
+    speakers:
+      -
+        name: 'Elisabeth Engel'
+        twitter: _lizzelo_
+        github: null
+    videos:
+      - 'youtube:W3_8sxUurzA'
+    slides: null
+  -
+    title: 'OUTBREAK: index-sw-9a4c43b4b4778e7d1ca619eaaf5ac1db.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-14 00:00'
+    speakers:
+      -
+        name: 'Alexander Pope'
+        twitter: popeindustries
+        github: popeindustries
+    videos:
+      - 'youtube:cHDhGG-wPkk'
+    slides: null
+  -
+    title: 'Rethinking web accessibility: Using AR for people with disabilities'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-14 00:00'
+    speakers:
+      -
+        name: 'Shwetank Dixit'
+        twitter: shwetank
+        github: shwetank
+    videos:
+      - 'youtube:Cpo-xtsKp-Q'
+    slides: null
+  -
+    title: 'WebAssembly for the rest of us'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-14 00:00'
+    speakers:
+      -
+        name: 'Jan-Erik Rediger'
+        twitter: badboy_
+        github: badboy
+    videos:
+      - 'youtube:SGkZbxIGDNE'
+    slides: null
+  -
+    title: 'ECMAScript of the Future: ES2017 & Beyond'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-14 00:00'
+    speakers:
+      -
+        name: 'Brian Terlson'
+        twitter: bterlson
+        github: null
+    videos:
+      - 'youtube:0opjPdK55QA'
+    slides: null
+  -
+    title: 'The parallel future of the browser (Closing Keynote)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-14 00:00'
+    speakers:
+      -
+        name: 'Lin Clark'
+        twitter: linclark
+        github: linclark
+    videos:
+      - 'youtube:xCBWS8G5Cm0'
+    slides: null

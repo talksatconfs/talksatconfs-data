@@ -1,0 +1,222 @@
+name: '2020 - Laracon Online (Summer)'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: 'https://web.archive.org/web/20201031153220/https://laracon.net/'
+playlist: 'youtube:PLyfOROdV5_9MaOo6sahVlYMpRWXNLPy4U'
+from_date: '2020-08-26'
+to_date: '2020-08-26'
+tags: ''
+talks:
+  -
+    title: 'Freek Van Der Herten - A Practical Look At Multitenancy In Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-08-26 04:30'
+    speakers:
+      -
+        name: 'Freek Van Der Verten'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OMiILuVTHCw'
+    slides: null
+  -
+    title: 'Jenny Shen - Build Bridges, Not Walls - Design For Users Across Cultures'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-08-26 05:00'
+    speakers:
+      -
+        name: 'Jenny Shen'
+        twitter: jennyshen
+        github: shenjenny
+    videos:
+      - 'youtube:lJb1wemLvwo'
+    slides: null
+  -
+    title: 'Jonathan Reinink - Building Modern Monoliths With Inertia.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-08-26 05:30'
+    speakers:
+      -
+        name: 'Jonathan Reinink'
+        twitter: reinink
+        github: null
+    videos:
+      - 'youtube:3MABSYPxpbs'
+    slides: null
+  -
+    title: 'Jeffrey Way - Bad Is Good.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-08-26 06:00'
+    speakers:
+      -
+        name: 'Jeffrey Way'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MsTP_jfdUvA'
+    slides: null
+  -
+    title: 'Taylor Otwell - Exploring Laravel 8.X'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-08-26 06:45'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:m9hcGZ89sDk'
+    slides: null
+  -
+    title: 'Prosper Otemuyiwa - Supercharging Laravel Apps With Machine Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-08-26 08:30'
+    speakers:
+      -
+        name: 'Prosper Otemuyiwa'
+        twitter: unicodeveloper
+        github: null
+    videos:
+      - 'youtube:TpWy-eyYCks'
+    slides: null
+  -
+    title: 'Colin Decarlo - The Importance Of Practice'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-08-26 09:00'
+    speakers:
+      -
+        name: 'Colin DeCarlo'
+        twitter: colindecarlo
+        github: null
+    videos:
+      - 'youtube:B3q7HGVkZZk'
+    slides: null
+  -
+    title: "Matt Stauffer - Don't Cry When Your Dev Dependencies Die"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-08-26 09:30'
+    speakers:
+      -
+        name: 'Matt Stauffer'
+        twitter: stauffermatt
+        github: null
+    videos:
+      - 'youtube:sGB-kekl874'
+    slides: null
+  -
+    title: 'Marcel Pociot - Refactoring To Simplicity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-08-26 10:00'
+    speakers:
+      -
+        name: 'Marcel Pociot'
+        twitter: marcelpociot
+        github: mpociot
+    videos:
+      - 'youtube:JuidkFRmlNU'
+    slides: null
+  -
+    title: 'Adam Wathan - Building A Component Library With Tailwind CSS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-08-26 10:30'
+    speakers:
+      -
+        name: 'Adam Wathan'
+        twitter: adamwathan
+        github: null
+    videos:
+      - 'youtube:X0aa66_TM1M'
+    slides: null
+  -
+    title: "Jessica Archer - The Laravel Developer's Guide To Vue Spas - Part 2"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-08-26 11:00'
+    speakers:
+      -
+        name: 'Jessica Archer'
+        twitter: jessarchercodes
+        github: null
+    videos:
+      - 'youtube:9Ll1XPj0-Bo'
+    slides: null
+  -
+    title: 'April Dunford - Power Positioning - How To Harness A Marketing Superpower'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-08-26 11:30'
+    speakers:
+      -
+        name: 'April Dunford'
+        twitter: aprildunford
+        github: null
+    videos:
+      - 'youtube:Mf_osb21AX8'
+    slides: null
+  -
+    title: 'Caleb Porzio - All The Cool New Things In Livewire & Alpine'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-08-26 12:00'
+    speakers:
+      -
+        name: 'Caleb Porzio'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:e91-WEmbOEo'
+    slides: null
+  -
+    title: 'Tim Macdonald - Follow The Eloquent Road'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-08-26 12:30'
+    speakers:
+      -
+        name: 'Tim Macdonald'
+        twitter: timacdonald87
+        github: null
+    videos:
+      - 'youtube:zTebtcTdF5A'
+    slides: null
+  -
+    title: 'Jack Ellis - How We Scaled Fathom Analytics To Handle Billions Of Requests'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-08-26 13:00'
+    speakers:
+      -
+        name: 'Jack Ellis'
+        twitter: jackellis
+        github: null
+    videos:
+      - 'youtube:xWi64tVm_Qk'
+    slides: null

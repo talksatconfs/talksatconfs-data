@@ -1,0 +1,250 @@
+name: '2022 - Laracon Online (Winter)'
+description: "For the first time ever we'll be streaming Laracon for free on YouTube allowing us to reach the entire Laravel community. This is a huge moment (and experiment) for us. Thank you to our incredible partners for helping us achieve this!\r\n\r\nAll talks are brand new, never before presented at any Laracon, and presented live during the event. We have 17 amazing speakers lined up including a keynote from Taylor Otwell on the state of Laravel and what's new in Laravel 9."
+location: ''
+venue: ''
+city: ''
+country: ''
+link: 'https://laracon.net/'
+playlist: PLyfOROdV5_9OjT_LdVOuvbuD9HWHUV9Ut
+from_date: '2022-02-09'
+to_date: '2022-02-09'
+tags: ''
+talks:
+  -
+    title: "Actions are a Dev's Best Friend"
+    description: ''
+    tags: ''
+    link: 'https://laracon.net/#schedule'
+    talk_date: '2022-02-09 14:00'
+    speakers:
+      -
+        name: 'Luke Downing'
+        twitter: LukeDowning19
+        github: lukeraymonddowning
+    videos:
+      - 'youtube:0Rq-yHAwYjQ'
+    slides: null
+  -
+    title: 'Modularising the Monolith'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-02-09 14:40'
+    speakers:
+      -
+        name: 'Ryuta Hamasaki'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0Rq-yHAwYjQ'
+    slides: null
+  -
+    title: 'Digital Nomadding in the Time of COVID'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-02-09 15:20'
+    speakers:
+      -
+        name: 'Polly Washburn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0Rq-yHAwYjQ'
+    slides: null
+  -
+    title: 'Typing In and Out of Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-02-09 15:35'
+    speakers:
+      -
+        name: 'Craig Morris'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0Rq-yHAwYjQ'
+    slides: null
+  -
+    title: 'Everything Flex'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-02-09 15:50'
+    speakers:
+      -
+        name: 'Shruti Balasa'
+        twitter: shrutibalasa
+        github: null
+    videos:
+      - 'youtube:0Rq-yHAwYjQ'
+    slides: null
+  -
+    title: 'Dealing with Criticism'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-02-09 16:20'
+    speakers:
+      -
+        name: 'Kristin Collins'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0Rq-yHAwYjQ'
+    slides: null
+  -
+    title: 'A Little Bit More Lambda'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-02-09 05:00'
+    speakers:
+      -
+        name: 'Aaron Francis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0Rq-yHAwYjQ'
+    slides: null
+  -
+    title: 'Web 3.0 and Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-02-09 05:40'
+    speakers:
+      -
+        name: 'Marcel Pociot'
+        twitter: marcelpociot
+        github: mpociot
+    videos:
+      - 'youtube:0Rq-yHAwYjQ'
+    slides: null
+  -
+    title: 'Laravel Update'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-02-09 17:40'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:0Rq-yHAwYjQ'
+    slides: null
+  -
+    title: 'How to do API integrations in Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-02-09 19:40'
+    speakers:
+      -
+        name: 'Steve McDougall'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0Rq-yHAwYjQ'
+    slides: null
+  -
+    title: 'Building Awesome Blade Components With Alpine'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-02-09 20:20'
+    speakers:
+      -
+        name: 'Caleb Porzio'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0Rq-yHAwYjQ'
+    slides: null
+  -
+    title: 'Discovering Route Discovery'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-02-09 21:20'
+    speakers:
+      -
+        name: 'Freek van der Herten'
+        twitter: freekmurze
+        github: freekmurze
+    videos:
+      - 'youtube:0Rq-yHAwYjQ'
+    slides: null
+  -
+    title: 'The Art of Programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-02-09 21:35'
+    speakers:
+      -
+        name: 'Erika Heidi'
+        twitter: erikaheidi
+        github: erikaheidi
+    videos:
+      - 'youtube:0Rq-yHAwYjQ'
+    slides: null
+  -
+    title: 'Using Lando for local Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-02-09 21:50'
+    speakers:
+      -
+        name: 'Rory McDaniel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0Rq-yHAwYjQ'
+    slides: null
+  -
+    title: 'The Jigsaw Challenge'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-02-09 22:05'
+    speakers:
+      -
+        name: 'Zuzana Kunckova'
+        twitter: zuzana_kunckova
+        github: null
+    videos:
+      - 'youtube:0Rq-yHAwYjQ'
+    slides: null
+  -
+    title: 'Laravel for millions and some…'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-02-09 22:20'
+    speakers:
+      -
+        name: 'Ashley Hindle'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0Rq-yHAwYjQ'
+    slides: null
+  -
+    title: 'Keep Thinking Like a Hacker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-02-09 23:00'
+    speakers:
+      -
+        name: 'Stephen Rees-Carter'
+        twitter: valorin
+        github: null
+    videos:
+      - 'youtube:0Rq-yHAwYjQ'
+    slides: null

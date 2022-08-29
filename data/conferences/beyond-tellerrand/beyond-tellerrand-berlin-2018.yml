@@ -1,0 +1,185 @@
+name: 'Beyond Tellerrand Berlin 2018'
+description: 'beyond tellerrand is an affordable event about web design, development, creativity, design and much more. Taking place in Düsseldorf, Berlin and Munich.'
+location: ''
+venue: ''
+city: Berlin
+country: Germany
+link: 'https://beyondtellerrand.com/events/berlin-2018/'
+playlist: 'youtube.com:PL8ZzmQWppBBu222VjDTnhqRxtK5sKVEWl'
+from_date: '2018-11-05'
+to_date: '2018-11-08'
+tags: ''
+talks:
+  -
+    title: 'The Accidental (Design) Leader'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-05 00:00'
+    speakers:
+      -
+        name: 'Andy Budd'
+        twitter: andybudd
+        github: null
+    videos:
+      - 'youtube:8eYH6Z3LmhU'
+    slides:
+      - 'https://www.dropbox.com/s/e3mqrneqieuyc0x/Design%20Leadership.pdf?dl=0'
+  -
+    title: 'Box Alignment'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-05 00:00'
+    speakers:
+      -
+        name: 'Chen Hui Jing'
+        twitter: hj_chen
+        github: huijing
+    videos:
+      - 'youtube:Vw6Uq7g0LF0'
+    slides:
+      - 'https://noti.st/huijing/nUHc2N/box-alignment'
+  -
+    title: 'The New Design Material'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-05 00:00'
+    speakers:
+      -
+        name: 'Josh Clark'
+        twitter: bigmediumjosh
+        github: null
+    videos:
+      - 'youtube:V-xxR8K9vas'
+    slides:
+      - 'https://www.dropbox.com/s/leowkciq5h291qj/new-design-material-45.pdf?dl=0'
+  -
+    title: 'Extreme Typography on the Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-05 00:00'
+    speakers:
+      -
+        name: 'David Jonathan Ross'
+        twitter: djrrb
+        github: null
+    videos:
+      - 'youtube:y7UDfs4XNko'
+    slides: null
+  -
+    title: 'Conquer Variable Web Typography'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-05 00:00'
+    speakers:
+      -
+        name: 'Oliver Schöndorfer'
+        twitter: glyphe
+        github: null
+    videos:
+      - 'youtube:zjIaiHe9Yk0'
+    slides:
+      - 'https://noti.st/glyphe/zKxaG9/conquer-variable-web-typography'
+  -
+    title: 'Build Bridges, Not Walls – Design for Users Across Cultures'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-05 00:00'
+    speakers:
+      -
+        name: 'Jenny Shen'
+        twitter: jennyshen
+        github: shenjenny
+    videos:
+      - 'youtube:TWzfcZRkDTM'
+    slides: null
+  -
+    title: Prismatic
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-05 00:00'
+    speakers:
+      -
+        name: 'Frederik Vanhoutte'
+        twitter: wblut
+        github: null
+    videos:
+      - 'youtube:esjxuKT_650'
+    slides: null
+  -
+    title: 'I, Human'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-05 00:00'
+    speakers:
+      -
+        name: 'Léonie Watson'
+        twitter: LeonieWatson
+        github: null
+    videos:
+      - 'youtube:EyQfJhUEwBY'
+    slides:
+      - 'https://decks.tink.uk/2018/btconf/index.html'
+  -
+    title: 'The Abridged History Of Having Fun \/\/ith Keyboards'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-05 00:00'
+    speakers:
+      -
+        name: 'Marcin Wichary'
+        twitter: mwichary
+        github: null
+    videos:
+      - 'youtube:3u22w2t0DV4'
+    slides: null
+  -
+    title: 'Warmup - Bifrost'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-05 00:00'
+    speakers:
+      -
+        name: 'Daniel Stamer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bmweqQPyILA'
+    slides: null
+  -
+    title: 'Warmup - From Print to Screen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-05 00:00'
+    speakers:
+      -
+        name: 'Johannes Ippen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LIKXqoThSDU'
+    slides: null
+  -
+    title: 'Warmup - Lockpicking'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-05 00:00'
+    speakers:
+      -
+        name: 'Mark Koelle'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9yiUhHg4UMI'
+    slides: null

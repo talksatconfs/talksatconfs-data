@@ -1,0 +1,261 @@
+name: '.concat() 2018'
+description: 'The web development and UX conference in Salzburg. One day, two tracks, 19 amazing speakers.'
+location: 'Salzburg, Austria'
+venue: ''
+city: Salzburg
+country: Austria
+link: 'https://2018.conc.at/'
+playlist: 'youtube:PLk6SiqL_RyfexKKeCbkPW-4CBmROYWDIe'
+from_date: '2018-03-03'
+to_date: '2018-03-03'
+tags: ''
+talks:
+  -
+    title: 'Thinking PRPL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Houssein Djirdeh'
+        twitter: hdjirdeh
+        github: housseindjirdeh
+    videos:
+      - 'youtube:RcHWKieBslk'
+    slides: null
+  -
+    title: 'PHP in 2018'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Rasmus Lerdorf'
+        twitter: rasmus
+        github: null
+    videos:
+      - 'youtube:umxGUWYmiSw'
+    slides:
+      - 'http://talks.php.net/concat18'
+  -
+    title: 'When Fast is Faster Than Fastest'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Daniel Clifford'
+        twitter: expatdanno
+        github: null
+    videos:
+      - 'youtube:4M5VK-RfP0E'
+    slides: null
+  -
+    title: 'Designing Great Progressive Web Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Nicole Saidy'
+        twitter: nicolesaidy
+        github: null
+    videos:
+      - 'youtube:2NZc4C7uNcU'
+    slides: null
+  -
+    title: 'Remote device sign-in – Authenticating without a keyboard'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Tiffany Conroy'
+        twitter: theophani
+        github: null
+    videos:
+      - 'youtube:KdJ6j-1tPVE'
+    slides: null
+  -
+    title: 'Psychological safety: How to become a team that learns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Georg Sorst'
+        twitter: piefke_schorsch
+        github: null
+    videos:
+      - 'youtube:ybD7ge-TU5k'
+    slides: null
+  -
+    title: 'Live and let die: Untangling the web of objects'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Michael Lippautz'
+        twitter: mlippautz
+        github: null
+    videos:
+      - 'youtube:qETWAqrhUL4'
+    slides: null
+  -
+    title: 'When Old meets New: Codebases'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Ursula Sarracini'
+        twitter: ursulasarracini
+        github: null
+    videos:
+      - 'youtube:J5Z-UUoWg60'
+    slides: null
+  -
+    title: 'Server-Side Swift from Scratch'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Brandon Williams'
+        twitter: mbrandonw
+        github: null
+    videos:
+      - 'youtube:Qh3acxkzT8M'
+    slides: null
+  -
+    title: "Let's save the internet: How to make browsers…"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Ola Gasidlo'
+        twitter: misprintedtype
+        github: zoepage
+    videos:
+      - 'youtube:lH581sCW57w'
+    slides: null
+  -
+    title: 'The strategy guide to CSS Custom Properties'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Mike Riethmuller'
+        twitter: MikeRiethmuller
+        github: null
+    videos:
+      - 'youtube:Zg8f0fNekp4'
+    slides: null
+  -
+    title: 'Lightning talks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:-i58z7H7emg'
+    slides: null
+  -
+    title: 'Bringing GraphQL to the Enterprise: When IBM met Apollo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Ryan Mackey'
+        twitter: ReadOnlyMackey
+        github: null
+    videos:
+      - 'youtube:DXKZHV-BHmM'
+    slides: null
+  -
+    title: "Your Algorithm isn't neutral..."
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Ivana McConnell'
+        twitter: IvanaMcConnell
+        github: null
+    videos:
+      - 'youtube:As5fhzBY5xk'
+    slides: null
+  -
+    title: 'Styled Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Max Stoiber'
+        twitter: mxstbr
+        github: mxstbr
+    videos:
+      - 'youtube:1AuEnDiuRs4'
+    slides: null
+  -
+    title: 'Build bridges, not walls – Design for users across cultures'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Jenny Shen'
+        twitter: jennyshen
+        github: shenjenny
+    videos:
+      - 'youtube:ER3534JJucc'
+    slides: null
+  -
+    title: 'Fast. Simple. Accessible.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Estelle Weyl'
+        twitter: estellevw
+        github: null
+    videos:
+      - 'youtube:Zk4X_AmPsoU'
+    slides: null
+  -
+    title: 'Mathematics of Animation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Varun Vachhar'
+        twitter: winkerVSbecks
+        github: null
+    videos:
+      - 'youtube:o59ioaZ6x3g'
+    slides: null

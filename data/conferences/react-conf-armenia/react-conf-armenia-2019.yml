@@ -1,0 +1,38 @@
+name: 'React Conf Armenia 2019'
+description: 'A full-day two-track React conf all about React'
+location: ''
+venue: ''
+city: Yerevan
+country: Armenia
+link: 'https://reactconf.am'
+playlist: ''
+from_date: '2019-05-25'
+to_date: '2019-05-25'
+tags: ''
+talks:
+  -
+    title: 'CALL FOR SPEAKERS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-25 10:00'
+    speakers:
+      -
+        name: 'JS CONF ARMENIA'
+        twitter: ReactConfAM
+        github: JSConfArmenia
+    videos: null
+    slides: null
+  -
+    title: 'REQUEST AN INVITE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-25 10:00'
+    speakers:
+      -
+        name: 'JS CONF ARMENIA'
+        twitter: ReactConfAM
+        github: JSConfArmenia
+    videos: null
+    slides: null

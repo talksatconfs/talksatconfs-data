@@ -1,0 +1,97 @@
+name: 'Spotlight Vue.js FITC 2018'
+description: 'Join us for a full day on the popular open-source progressive framework Vue.js.  Designed to be incrementally adoptable, Vue.js is easily implementable into other projects, can be embedded into existing pages, and can also function as a web application framework. Get up to speed in only one day with Spotlight: Vue.js!'
+location: ''
+venue: ''
+city: Toronto
+country: Canada
+link: 'https://fitc.ca/event/vue/'
+playlist: 'youtube:PL6WlXq09jd27eO0tipTckuxDBNagYxHZT'
+from_date: '2018-03-03'
+to_date: '2018-03-03'
+tags: ''
+talks:
+  -
+    title: 'Simplicity is Vuetiful'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Michael Bennett'
+        twitter: null
+        github: bennett000
+    videos:
+      - 'youtube:7Hb2Xyyqt-w'
+    slides: null
+  -
+    title: '7 Secret Patterns Vue Consultants Don’t Want You to Know'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Chris Fritz'
+        twitter: chrisvfritz
+        github: chrisvfritz
+    videos:
+      - 'youtube:7lpemgMhi0k'
+    slides: null
+  -
+    title: 'Building Mobile Apps with Vue and Framework7'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Simon MacDonald'
+        twitter: macdonst
+        github: macdonst
+    videos:
+      - 'youtube:iq1lJdVzpik'
+    slides:
+      - 'https://slides.com/simonmacdonald/building-mobile-apps-with-vue-js-15-20-27?utm_content=buffer42c0f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#/'
+  -
+    title: 'Vue PWA to Hybrid with Corber'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Alexander Blom'
+        twitter: alexblom
+        github: AlexBlom
+    videos:
+      - 'youtube:gb9wX03vuwE'
+    slides: null
+  -
+    title: 'The Importance of State Management in Vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Hassan Djirdeh'
+        twitter: djirdehh
+        github: djirdehh
+    videos:
+      - 'youtube:B7g7MOrDtMY'
+    slides: null
+  -
+    title: 'Create an Engaging Native Mobile App with Vue and NativeScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-03 00:00'
+    speakers:
+      -
+        name: 'Jen Looper'
+        twitter: jenlooper
+        github: jlooper
+    videos:
+      - 'youtube:3kA4b8o8Wfo'
+    slides: null

@@ -1,0 +1,121 @@
+name: 'AlterConf Los Angeles, CA - 2015'
+description: ''
+location: 'Los Angeles, CA'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2015/los-angeles-ca'
+playlist: ''
+from_date: '2015-11-21'
+to_date: '2015-11-21'
+tags: ''
+talks:
+  -
+    title: "Disability isn't always what you expect"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-11-21 00:00'
+    speakers:
+      -
+        name: 'Ben Hopkins'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:w3FuimYyoxw'
+    slides: null
+  -
+    title: 'Gender Bias - Identifying the unconscious evil in ourselves to shape a better humanity.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-11-21 00:00'
+    speakers:
+      -
+        name: 'Indu Alagarsamy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fIOq4js8Bzg'
+    slides: null
+  -
+    title: 'Being Young, Gifted, Black, and Other Adjectives in the Gaming Industry'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-11-21 00:00'
+    speakers:
+      -
+        name: 'Charles Babb'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7YrnqdAXvto'
+    slides: null
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Ashe Dryden'
+        twitter: ashedryden
+        github: ashedryden
+    videos: null
+    slides: null
+  -
+    title: 'Screening of Gaming in Color'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-11-21 00:00'
+    speakers:
+      -
+        name: 'Philip Jones & Ryan Paul'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Brogrammer Culture in Tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-11-21 00:00'
+    speakers:
+      -
+        name: 'Archie Prakash'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:u7k-eqljWco'
+    slides: null
+  -
+    title: 'Deconstructing Binary Spaces'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-11-21 00:00'
+    speakers:
+      -
+        name: 'Drian Juarez'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Learning from Gay Straight Alliances to Diversify Tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-11-21 00:00'
+    speakers:
+      -
+        name: 'Ash López'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CN0F6MBWKjY'
+    slides: null

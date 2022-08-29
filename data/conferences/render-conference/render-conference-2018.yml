@@ -1,0 +1,232 @@
+name: 'Render Conference 2018'
+description: 'A one-day conference for front-end devs taking place in Oxford, UK.'
+location: ''
+venue: ''
+city: Oxford
+country: 'United Kingdom'
+link: 'https://2018.render-conf.com/'
+playlist: 'youtube.com:PLBzScQzZ83I9c8OjCkL2rBi_-23grnDTF'
+from_date: '2018-03-23'
+to_date: '2018-03-23'
+tags: ''
+talks:
+  -
+    title: 'A CSS Carol'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-23 00:00'
+    speakers:
+      -
+        name: 'Una Kravets'
+        twitter: una
+        github: null
+    videos:
+      - 'youtube:vHvvwkpW32w'
+    slides:
+      - 'https://gist.github.com/una/cc47837b6e9af31dbc7b12c2268fa596'
+  -
+    title: 'FaCSSt—CSS and Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-23 00:00'
+    speakers:
+      -
+        name: 'Harry Roberts'
+        twitter: csswizardry
+        github: null
+    videos:
+      - 'youtube:IUtWdDpCkVw'
+    slides:
+      - 'https://speakerdeck.com/csswizardry/facsst-css-and-performance-1'
+  -
+    title: 'Data Sketches | A year of exotic data visualizations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-23 00:00'
+    speakers:
+      -
+        name: 'Nadieh Bremer'
+        twitter: NadiehBremer
+        github: null
+    videos:
+      - 'youtube:ZqoqBfwULbQ'
+    slides: null
+  -
+    title: "Let's Get Chatty with Conversational Interface in JavaScript"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-23 00:00'
+    speakers:
+      -
+        name: 'Tomomi Imura'
+        twitter: girlie_mac
+        github: null
+    videos:
+      - 'youtube:Asmcr07cfc0'
+    slides:
+      - 'https://speakerdeck.com/girlie_mac/lets-get-chatty-with-conversational-interface-in-javascript'
+  -
+    title: "Teach Your Bundler The Users' Habits"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-23 00:00'
+    speakers:
+      -
+        name: 'Minko Gechev'
+        twitter: mgechev
+        github: null
+    videos:
+      - 'youtube:L5tPWCB7jX0'
+    slides:
+      - 'https://slidr.io/mgechev/teach-your-bundler-users-habits#1'
+  -
+    title: 'How to hack a web app?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-23 00:00'
+    speakers:
+      -
+        name: 'Asim Hussain'
+        twitter: jawache
+        github: jawache
+    videos:
+      - 'youtube:xb6yyztEe_A'
+    slides: null
+  -
+    title: 'Serving for the win - Deploys and hosting for the rest of us'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-23 00:00'
+    speakers:
+      -
+        name: 'Phil Hawksworth'
+        twitter: philhawksworth
+        github: philhawksworth
+    videos:
+      - 'youtube:x2iE0eo68Ok'
+    slides:
+      - 'https://speakerdeck.com/philhawksworth/serving-for-the-win-deployments-and-infrastructure-for-the-rest-of-us'
+  -
+    title: 'Reducing the friction of online payments'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-23 00:00'
+    speakers:
+      -
+        name: "Peter O'Shaughnessy"
+        twitter: poshaughnessy
+        github: null
+    videos:
+      - 'youtube:RQ1uChMJcHM'
+    slides:
+      - 'https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present?slide=id.p'
+  -
+    title: 'Escaping the Sandbox with Puck.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-23 00:00'
+    speakers:
+      -
+        name: 'Gordon Williams'
+        twitter: Espruino
+        github: null
+    videos:
+      - 'youtube:UpPH6OsHpuk'
+    slides: null
+  -
+    title: 'Common ways we break accessibility and how to avoid them'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-23 00:00'
+    speakers:
+      -
+        name: 'Laura Carvajal'
+        twitter: lc512k
+        github: lc512k
+    videos:
+      - 'youtube:O_OJfY4Jax4'
+    slides: null
+  -
+    title: 'Creating IoT applications with Web Bluetooth'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-23 00:00'
+    speakers:
+      -
+        name: 'Martin Woolley'
+        twitter: bluetooth_mdw
+        github: null
+    videos:
+      - 'youtube:-xtbTdOMqcg'
+    slides:
+      - 'https://drive.google.com/file/d/1olro7ag4Nu-F9h2T3zxsrO7bZbugb_ee/view'
+  -
+    title: 'Physical interfaces for digital applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-23 00:00'
+    speakers:
+      -
+        name: 'Indira Knight'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:KUGRh_OyNz0'
+    slides: null
+  -
+    title: 'WebAssembly as cross-platform architecture?!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-23 00:00'
+    speakers:
+      -
+        name: 'Benedek Gagyi'
+        twitter: BenedekGagyi
+        github: benedekgagyi
+    videos:
+      - 'youtube:Yg9OT1RaYoQ'
+    slides:
+      - 'http://benedekg-render.surge.sh/#/'
+  -
+    title: 'DevTools and Headless Chrome - The Automation Power-Couple'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-23 00:00'
+    speakers:
+      -
+        name: 'Yonatan Mevorach'
+        twitter: cowchimp
+        github: cowchimp
+    videos:
+      - 'youtube:MZ5IzmXZ2S0'
+    slides:
+      - 'http://speakerdeck.com/cowchimp/devtools-and-headless-chrome-render-conf-2018'
+  -
+    title: 'Delivering fast and beautiful images and video'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-23 00:00'
+    speakers:
+      -
+        name: 'Doug Sillars'
+        twitter: dougsillars
+        github: dougsillars
+    videos:
+      - 'youtube:a5orCnxIwIA'
+    slides:
+      - 'https://www.slideshare.net/dougsillars/fast-and-beautiful-images-and-video'

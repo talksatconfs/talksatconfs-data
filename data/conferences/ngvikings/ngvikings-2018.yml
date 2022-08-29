@@ -1,0 +1,624 @@
+name: 'ngVikings 2018'
+description: 'The main Angular event in the Nordics. And the only travelling Angular conference in the world.'
+location: ''
+venue: ''
+city: Espoo
+country: Finland
+link: 'https://2018.ngvikings.org/'
+playlist: 'youtube:PLVI0Ut22uwY4UC1v5fUvi2RIU4R4jPkba'
+from_date: '2018-03-01'
+to_date: '2018-03-02'
+tags: ''
+talks:
+  -
+    title: 'Keynote: Five years of Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Matias Niemelä'
+        twitter: yearofmoo/
+        github: null
+    videos:
+      - 'youtube:WahpV6zn8lQ'
+    slides: null
+  -
+    title: 'Build progressive web apps with Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Simona Cotin'
+        twitter: simona_cotin
+        github: simonaco
+    videos:
+      - 'youtube:LKqPvANj8O8'
+    slides: null
+  -
+    title: '6 APPS ONE CODE WITH Ionic'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Sani Yusuf'
+        twitter: haibridco
+        github: null
+    videos:
+      - 'youtube:4bGMXuPM_FI'
+    slides: null
+  -
+    title: 'Angular + CMS = ❤️'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Filip Bech-Larsen'
+        twitter: Filipbech
+        github: null
+    videos:
+      - 'youtube:PEVeEGigd8Q'
+    slides: null
+  -
+    title: 'Scalable Angular Architecture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Bartosz Pietrucha'
+        twitter: pietrucha
+        github: null
+    videos:
+      - 'youtube:j5NQ19DGBxM'
+    slides: null
+  -
+    title: 'Multiplayer game with Angular and Firebase'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Michael Haberman'
+        twitter: hab_mic
+        github: null
+    videos:
+      - 'youtube:YtHkclzU3lw'
+    slides: null
+  -
+    title: 'ng install'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Stepan Suvorov'
+        twitter: stevermeister
+        github: null
+    videos:
+      - 'youtube:eXUuBMWZyLE'
+    slides: null
+  -
+    title: 'A Token Walks Into a SPA...'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Ado Kukic'
+        twitter: kukicado
+        github: kukicado
+    videos:
+      - 'youtube:EoEOjQhSHNo'
+    slides: null
+  -
+    title: 'Use React tools for better Angular apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Martin Hochel'
+        twitter: martin_hotell
+        github: null
+    videos:
+      - 'youtube:LWXFX7qsIbA'
+    slides: null
+  -
+    title: 'Custom Schematics: An Angular Application by the push of a Button...'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos:
+      - 'youtube:JAt1FSwhnWk'
+    slides: null
+  -
+    title: 'Make Web Components Great Again with StencilJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Julien Renaux'
+        twitter: julienrenaux
+        github: null
+    videos:
+      - 'youtube:hQ9vHusMscw'
+    slides: null
+  -
+    title: 'Understanding the realtime web with websockets'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Srushtika Neelakantam'
+        twitter: Srushtika
+        github: null
+    videos:
+      - 'youtube:PJZ06MLXGwA'
+    slides: null
+  -
+    title: "Angular, What's Coming Next"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Wassim Chegham'
+        twitter: manekinekko
+        github: manekinekko
+    videos:
+      - 'youtube:ukDGkunqiCk'
+    slides: null
+  -
+    title: 'Angular Elements'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Pascal Precht'
+        twitter: pascalprecht
+        github: null
+    videos:
+      - 'youtube:9zyq7FcIuvM'
+    slides: null
+  -
+    title: 'Deploy Angular and Node to the Cloud'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'John Papa'
+        twitter: john_papa
+        github: johnpapa
+    videos:
+      - 'youtube:XmpEZN5TCjw'
+    slides: null
+  -
+    title: 'How to hack an Angular app?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Asim Hussain'
+        twitter: jawache
+        github: jawache
+    videos:
+      - 'youtube:-HZW7FH1L3g'
+    slides: null
+  -
+    title: 'An Angular Front For Your API'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Tara Z. Manicsic'
+        twitter: tzmanics
+        github: tzmanics
+    videos:
+      - 'youtube:79j_IUs0zhk'
+    slides: null
+  -
+    title: 'Be lazy, but with strategy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Martin Sonnenholzer'
+        twitter: chaos_monster
+        github: null
+    videos:
+      - 'youtube:cMs5rvc7KqM'
+    slides: null
+  -
+    title: 'Angular performance pitfalls and how to avoid them'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Kristiyan Kostadinov'
+        twitter: _crisbeto
+        github: null
+    videos:
+      - 'youtube:HT6nYzHCPbM'
+    slides: null
+  -
+    title: 'Advanced DI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Ward Bell'
+        twitter: wardbell
+        github: null
+    videos:
+      - 'youtube:PRRgo6F0cjs'
+    slides: null
+  -
+    title: 'Fast, Cross-Platform Desktop Apps with Electron'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Felix Rieseberg'
+        twitter: felixrieseberg
+        github: felixrieseberg
+    videos:
+      - 'youtube:M-DPfjuv5UI'
+    slides: null
+  -
+    title: 'Hey Google, is there any presentation about ChatBots at ngVikings?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Wassim Chegham'
+        twitter: manekinekko
+        github: manekinekko
+    videos:
+      - 'youtube:-M2F2GPGU1M'
+    slides: null
+  -
+    title: 'Q&A with all speakers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:C6Wbul8gN8Y'
+    slides: null
+  -
+    title: 'Getting started with WebVR'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Martin Splitt'
+        twitter: g33konaut
+        github: g33konaut
+    videos:
+      - 'youtube:ZuHFqE6ljVk'
+    slides: null
+  -
+    title: 'Enhanching performance by leveraging the power of Observables'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Sander Elias'
+        twitter: esosanderelias
+        github: null
+    videos:
+      - 'youtube:u8B96WsIuB8'
+    slides: null
+  -
+    title: 'dummy to app'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'David Muellerchen'
+        twitter: webdave_de
+        github: web-dave
+    videos:
+      - 'youtube:69XDRK4p5Rk'
+    slides: null
+  -
+    title: 'Web Maps - Putting the M in Angular web apps!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Katerina Skroumpelou'
+        twitter: psybercity
+        github: null
+    videos:
+      - 'youtube:PqfJbbWdUWQ'
+    slides: null
+  -
+    title: 'Changing the world of travel with Angular and measuring...'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Oskari Okko Ojala'
+        twitter: okko
+        github: null
+      -
+        name: 'Olli Leskinen'
+        twitter: olliles
+        github: null
+    videos:
+      - 'youtube:1iXTJ36XzOU'
+    slides: null
+  -
+    title: "Let's plant our Angular Tree"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Juan Herrera'
+        twitter: jdjuan
+        github: null
+    videos:
+      - 'youtube:HuoAWFKD12s'
+    slides: null
+  -
+    title: 'Designing Component API'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Vitalii Bobrov'
+        twitter: bobrov1989
+        github: null
+    videos:
+      - 'youtube:hpDQeTIbrRE'
+    slides: null
+  -
+    title: 'Create & Publish Angular Libs like a PRO'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Juri Strumpflohner'
+        twitter: juristr
+        github: null
+    videos:
+      - 'youtube:Tw8TCgeqotg'
+    slides: null
+  -
+    title: 'Visualising Enterprise Data with Angular & d3'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Sean Landsman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EMmkp9_5jlU'
+    slides: null
+  -
+    title: 'Testing Angular apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Carl Vuorinen'
+        twitter: cvuorinen
+        github: cvuorinen
+    videos:
+      - 'youtube:rjXJtIEQ3rw'
+    slides: null
+  -
+    title: 'Innovating is not about technology, but psychology'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Alyssa Nicoll'
+        twitter: AlyssaNicoll
+        github: null
+    videos:
+      - 'youtube:lclwj_uSINU'
+    slides: null
+  -
+    title: 'Progressive Web Apps with Angular and Firebase'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Erik Haddad'
+        twitter: erikhaddad
+        github: erikhaddad
+    videos:
+      - 'youtube:U-tXceRtwTk'
+    slides: null
+  -
+    title: 'Offline Angular app in action'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Majid Hajian'
+        twitter: mhadaily
+        github: null
+    videos:
+      - 'youtube:k5qeXE73zgA'
+    slides: null
+  -
+    title: "Can't Touch This! What not to do to the DOM"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Max NgWizard'
+        twitter: maxim_koretskyi
+        github: null
+    videos:
+      - 'youtube:qWmqiYDrnDc'
+    slides: null
+  -
+    title: 'Rendering Performance from the Ground Up'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Martin Splitt'
+        twitter: g33konaut
+        github: g33konaut
+    videos:
+      - 'youtube:lEH6FTNx8KY'
+    slides: null
+  -
+    title: 'Real-Time stream processing with Reactive-Extensions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Michael Hladky'
+        twitter: Michael_Hladky
+        github: null
+    videos:
+      - 'youtube:iNlGvy7l24w'
+    slides: null
+  -
+    title: 'Abstractions in Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Akseli Virtanen'
+        twitter: null
+        github: _akseliv
+    videos:
+      - 'youtube:DVa7Gg9NUHk'
+    slides: null
+  -
+    title: 'Reactive Brain Waves'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Uri Shaked'
+        twitter: UriShaked
+        github: urish
+    videos:
+      - 'youtube:KlkvSTSXfho'
+    slides: null
+  -
+    title: 'How WebAssembly is changing the Web and what it means for Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'Boyan Mihaylov'
+        twitter: boyanio
+        github: null
+    videos:
+      - 'youtube:CJ8_3Jc4L0M'
+    slides: null
+  -
+    title: 'Supercharging the Angular CLI with Nx'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers:
+      -
+        name: 'James Henry'
+        twitter: MrJamesHenry
+        github: null
+    videos:
+      - 'youtube:bMkKz8AedHc'
+    slides: null
+  -
+    title: 'ngVikings 2018 - Highlights'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:-wVodWS-9OU'
+    slides: null

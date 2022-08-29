@@ -1,0 +1,412 @@
+name: 'Windcity DevFest 2019'
+description: 'A community-run conference offering sessions, hack-a-thons, and codelabs across many different technologies'
+location: ''
+venue: ''
+city: Chicago
+country: 'United States'
+link: 'https://windycity.devfest.io/'
+playlist: 'youtube.com:PLb1tSwQ0ReIGxaucVRV8UdAtM4aNrwc1o'
+from_date: '2019-02-01'
+to_date: '2019-02-01'
+tags: ''
+talks:
+  -
+    title: 'Fusing AI with AR: Custom Markers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Stephen Wylie'
+        twitter: SWebCEO
+        github: null
+    videos:
+      - 'youtube:_f0YnBbNW54'
+    slides: null
+  -
+    title: 'Firebase and Android Jetpack: fit like a glove'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Doug Stevenson'
+        twitter: CodingDoug
+        github: null
+    videos:
+      - 'youtube:WXc4adLMDqk'
+    slides: null
+  -
+    title: "Drag-and-Drop Isn't a Drag with Angular Material CDK"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Andrew Weins'
+        twitter: adwiens
+        github: adwiens
+    videos:
+      - 'youtube:JIqtgkKx7PE'
+    slides: null
+  -
+    title: 'Empowering Early-Career Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Mercedes Bernard'
+        twitter: mercedescodes
+        github: null
+    videos:
+      - 'youtube:Qspf0SX_oPs'
+    slides: null
+  -
+    title: 'Library Developer Confidential'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Elliott Chenger'
+        twitter: Echenger
+        github: erchenger
+    videos:
+      - 'youtube:lfmdjX4nlxY'
+    slides: null
+  -
+    title: 'Get Your Poker Face On: How to Use Planning Poker to Slay Project Estimations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Laura B. Janusek'
+        twitter: LBJanusek
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to Multiplatform Kotlin'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Ryan Perkins'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Machine Learning Crash Course'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Samuel Taylor'
+        twitter: SamuelDataT
+        github: null
+    videos:
+      - 'youtube:7pOy5bSdXX8'
+    slides: null
+  -
+    title: 'Why U2F Security Keys Are Awesome'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Jen Tong'
+        twitter: MimmingCodes
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'What are Progressive Web Apps and How do they Work?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Kyle Paul'
+        twitter: _KylePaul
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Finding Your Way Through the Navigation Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Jerrell Mardis'
+        twitter: jerrellmardis
+        github: null
+    videos:
+      - 'youtube:uKNNGzFOIvQ'
+    slides: null
+  -
+    title: 'Papers Please! A Non-Dystopian Look at Modern Authentication'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Ado Kukic'
+        twitter: kukicado
+        github: kukicado
+    videos: null
+    slides: null
+  -
+    title: 'Outrun the 🐻! Performance Optimizations for Progressive Web Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Chris Lorenzo'
+        twitter: chiefcll
+        github: null
+    videos:
+      - 'youtube:flLQRFskoQk'
+    slides: null
+  -
+    title: "Firebase for Pros: What's New in 2019?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Abe Haskins'
+        twitter: abeisgreat
+        github: null
+    videos:
+      - 'youtube:6v3JE7t3swI'
+    slides: null
+  -
+    title: 'Machine Learning + Human'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Mike Wolfson'
+        twitter: mikewolfson
+        github: null
+    videos:
+      - 'youtube:LyXLV8Ewfzs'
+    slides: null
+  -
+    title: 'Focus on Your Code, Not Infrastructure, with Google Cloud Functions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Martin Omander'
+        twitter: martinomander
+        github: null
+    videos:
+      - 'youtube:3ijjxU34ApA'
+    slides: null
+  -
+    title: 'Kotlin: The Next Frontier in Metaprogramming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Amanda Hinchman-Dominguez'
+        twitter: hinchman_amanda
+        github: null
+    videos:
+      - 'youtube:NxSHkgFRTI0'
+    slides: null
+  -
+    title: 'FED Achievement Unlocked: Modals, Boss Level'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Santina Croniser'
+        twitter: santinacroniser
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Digital Discrimination: Cognitive Bias in Machine Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Maureen McElaney'
+        twitter: Mo_Mack
+        github: mmcelaney
+    videos:
+      - 'youtube:duyBw6XHUh0'
+    slides: null
+  -
+    title: 'A DevOps State of Mind: Managing Microservices + Databases with Kubernetes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Chris Van Tuin'
+        twitter: chrisvantuin
+        github: null
+    videos:
+      - 'youtube:TxDc4ewAlD0'
+    slides: null
+  -
+    title: 'Where to Run Your Code in the Cloud: Serverless, Containers, or VMs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Bret McGowen'
+        twitter: BretMcG
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Flutter: 60 Frames of AOT Badassery'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Scott Stoll'
+        twitter: scottstoll2017
+        github: null
+    videos:
+      - 'youtube:brhJWc3gcxg'
+    slides: null
+  -
+    title: 'Using Ethereum, React Native, and the Tasit SDK to Build 3rd-party Mobile Clients For dapps (decentralized apps)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Paul Cowgill'
+        twitter: paulcowgill
+        github: pcowgill
+    videos:
+      - 'youtube:NX7r7pdzbEQ'
+    slides: null
+  -
+    title: 'Taming Styles of Python Programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Jigyasa Grover'
+        twitter: jigyasa_grover
+        github: null
+    videos:
+      - 'youtube:pYb_CwYZ0vM'
+    slides:
+      - 'https://docs.google.com/presentation/d/1GqK4hSI7Eq3EiFhsyMZjxPogMw8KrUn1sQigdMaJT30/edit?usp=sharing'
+  -
+    title: 'Learnt Lessons from Mockito 2.x Migration'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Hazem Saleh'
+        twitter: hazems
+        github: null
+    videos:
+      - 'youtube:RxD3XVcxWYM'
+    slides: null
+  -
+    title: 'Become a NegotiatHer: Learn the Secrets to Make More $ in Your Tech Career'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Lauren Hasson'
+        twitter: laurenrhasson
+        github: null
+    videos:
+      - 'youtube:UhvFKOcJHi0'
+    slides: null
+  -
+    title: 'How To Translate Your UX Skills To An Interfaceless World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Keval Baxi'
+        twitter: kevalbaxi
+        github: kevalbaxi
+    videos:
+      - 'youtube:aw4CT4xpTng'
+    slides: null
+  -
+    title: 'Reactive for the Impatient'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Mary Grygleski'
+        twitter: mgrygles
+        github: null
+    videos:
+      - 'youtube:g32onN-KGXk'
+    slides: null
+  -
+    title: 'Docker: From Development to Production'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-01 00:00'
+    speakers:
+      -
+        name: 'Kelly J. Andrews'
+        twitter: kellyjandrews
+        github: kellyjandrews
+    videos:
+      - 'youtube:M7jMRYizaGE'
+    slides: null

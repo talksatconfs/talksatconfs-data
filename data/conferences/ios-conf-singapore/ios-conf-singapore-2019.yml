@@ -1,0 +1,244 @@
+name: 'iOS Conf Singapore 2019'
+description: '18th and 19th January - 2 full days - single-track - conference featuring 20+ pure iOS and Swift programming talks.'
+location: ''
+venue: ''
+city: Singapore
+country: Singapore
+link: 'https://2019.iosconf.sg/'
+playlist: 'youtube.com:PLED4k3CZkY9Qjo61LcuG56gwvEW-Bpbzs'
+from_date: '2019-01-18'
+to_date: '2019-01-19'
+tags: ''
+talks:
+  -
+    title: 'Journey of iOS Conf SG'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-18 00:00'
+    speakers:
+      -
+        name: Subh
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZnhISc_sKqM'
+    slides: null
+  -
+    title: 'The Art of Designing Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-18 00:00'
+    speakers:
+      -
+        name: 'Mischa Hildebrand'
+        twitter: DerHildebrand
+        github: null
+    videos:
+      - 'youtube:_qKlb7MbeKA'
+    slides: null
+  -
+    title: 'Mastering Multi-screen iOS Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-18 00:00'
+    speakers:
+      -
+        name: 'Paul Hudson'
+        twitter: twostraws
+        github: twostraws
+    videos:
+      - 'youtube:7P1KucwZ0A0'
+    slides: null
+  -
+    title: 'Building iOS Apps without Xcode'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-18 00:00'
+    speakers:
+      -
+        name: 'Steven Hepting'
+        twitter: stevenhepting
+        github: shepting
+    videos:
+      - 'youtube:JRsWi8KC2Sw'
+    slides: null
+  -
+    title: 'Behind the Scenes with Auto Layout - How to Solve Constraints with the Cassowary Algorithm'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-18 00:00'
+    speakers:
+      -
+        name: 'Agnes Vasarhelyi'
+        twitter: vasarhelyia
+        github: vasarhelyia
+    videos:
+      - 'youtube:gxfyb3ipUFg'
+    slides: null
+  -
+    title: 'Make UITest great again, using localhost'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-18 00:00'
+    speakers:
+      -
+        name: 'Kenneth Poon'
+        twitter: null
+        github: depoon
+    videos:
+      - 'youtube:9JMVszZfFwk'
+    slides: null
+  -
+    title: 'Lightning: How fast can you rotate an image?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-18 00:00'
+    speakers:
+      -
+        name: 'Vincent Pradeilles'
+        twitter: v_pradeilles
+        github: vincent-pradeilles
+      -
+        name: 'Sasmito Adibowo'
+        twitter: SasmitoAdibowo
+        github: 'Sasmito Adibowo'
+      -
+        name: 'Omer Iqbal'
+        twitter: olenhad
+        github: omer-iqbal
+    videos:
+      - 'youtube:EPyoT_p0gQs'
+    slides: null
+  -
+    title: 'Live Coding: Augmented Reality Game with ARKit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-18 00:00'
+    speakers:
+      -
+        name: 'Christian Grail'
+        twitter: cgrail
+        github: cgrail
+    videos:
+      - 'youtube:Q91z42kTJFM'
+    slides: null
+  -
+    title: 'From Problem To Solution'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-18 00:00'
+    speakers:
+      -
+        name: 'Soroush Khanlou'
+        twitter: khanlou
+        github: khanlou
+    videos:
+      - 'youtube:7tsUU1pOrms'
+    slides: null
+  -
+    title: 'Pedal to the Metal'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Esteban Torres'
+        twitter: esttorhe
+        github: esttorhe
+    videos:
+      - 'youtube:fP5EGObW-NY'
+    slides: null
+  -
+    title: 'Swift 5’s brand new Result Type'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Daniel Steinberg'
+        twitter: dimsumthinking
+        github: null
+    videos:
+      - 'youtube:ICnZq3MfrMA'
+    slides: null
+  -
+    title: 'Make your own code formatter in Swift'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Yasuhiro Inami'
+        twitter: inamiy
+        github: inamiy
+    videos:
+      - 'youtube:_F9KcXSLc_s'
+    slides: null
+  -
+    title: 'Fear not, for the filesystem is with you'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Jeffrey Bergier'
+        twitter: jeffburg
+        github: jeffreybergier
+    videos:
+      - 'youtube:X9wyuht5BLs'
+    slides: null
+  -
+    title: 'Lessons From Becoming an SDK Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Oscar Swanros'
+        twitter: Swanros
+        github: OscarSwanros
+    videos:
+      - 'youtube:_g1mqG5tA0s'
+    slides: null
+  -
+    title: 'The underestimated power of KeyPaths'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Vincent Pradeilles'
+        twitter: v_pradeilles
+        github: vincent-pradeilles
+    videos:
+      - 'youtube:20k3000Pn4s'
+    slides: null
+  -
+    title: 'Algebraic Data Types in Swift'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Heng Hong Lee'
+        twitter: null
+        github: manxhong
+    videos:
+      - 'youtube:2d6_vOfwnDk'
+    slides: null

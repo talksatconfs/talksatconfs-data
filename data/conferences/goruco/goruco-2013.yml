@@ -1,0 +1,208 @@
+name: 'Goruco 2013'
+description: ''
+location: 'New York'
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2013-06-08'
+to_date: '2013-06-08'
+tags: ''
+talks:
+  -
+    title: 'Microtalk: Hacking the Academic Experience'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 00:00'
+    speakers:
+      -
+        name: 'Emily Stolfo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wFlOhIWflRo'
+    slides: null
+  -
+    title: 'Microtalk: A House of Cards - The Perils of Maintaining a 7-Year-Old Codebase'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 00:00'
+    speakers:
+      -
+        name: 'Julie Gill'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:A56vxCYLpk4'
+    slides: null
+  -
+    title: 'Microtalk: Building a Theme Engine w/ Ruby Mustache'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 00:00'
+    speakers:
+      -
+        name: 'Kevin Sheurs'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Sh3hrETMPj8'
+    slides: null
+  -
+    title: 'Putting off Persistence'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 00:00'
+    speakers:
+      -
+        name: 'Lauren Voswinkel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Bjh_p-fBb9A'
+    slides: null
+  -
+    title: 'Deathmatch Bundler vs Rubygems.org'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 00:00'
+    speakers:
+      -
+        name: 'André Arko'
+        twitter: indirect
+        github: indirect
+    videos:
+      - 'youtube:4_TqAMWbzfw'
+    slides: null
+  -
+    title: 'Krypt. Semper Pi.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 00:00'
+    speakers:
+      -
+        name: 'Martin Boßlet'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:p7ap-GvnXYs'
+    slides: null
+  -
+    title: 'Asynchronous Service Oriented Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 00:00'
+    speakers:
+      -
+        name: 'John Pignata'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:n8QUki5jhAM'
+    slides: null
+  -
+    title: "Take a picture, it'll last longer."
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 00:00'
+    speakers:
+      -
+        name: 'JD Harrington'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:K66r3yZd2_I'
+    slides: null
+  -
+    title: 'To Know A Garbage Collector'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 00:00'
+    speakers:
+      -
+        name: 'Michael Bernstein'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:t8dj56h2gbg'
+    slides: null
+  -
+    title: 'Microtalk: Usability Primer in 10 Minutes Flat'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 00:00'
+    speakers:
+      -
+        name: 'Steve Berry'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7ml8t6uw8ho'
+    slides: null
+  -
+    title: 'Functional Programming and Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-09 00:00'
+    speakers:
+      -
+        name: 'Pat Shaughnessy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5ZjwEPupybw'
+    slides: null
+  -
+    title: 'Microtalk: Motion in the Middle - RubyMotion as a Gateway to iOS development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 00:00'
+    speakers:
+      -
+        name: 'Matt Salerno'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MliQDCrTsNU'
+    slides: null
+  -
+    title: 'Microtalk: Nokogiri - History and Future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 00:00'
+    speakers:
+      -
+        name: 'Mike Dalessio'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qkvEjZ-mGQA'
+    slides: null
+  -
+    title: 'Microtalk: Working with Rubyists'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 00:00'
+    speakers:
+      -
+        name: 'Aaron Quint'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GPGm5PNzNIA'
+    slides: null

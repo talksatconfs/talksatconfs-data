@@ -1,0 +1,474 @@
+name: 'Nordic.js 2018'
+description: 'Nordic.js is a single track conference with talks by internationally renowned speakers and rising stars in the JavaScript community. You’ll hear about fun experiments, learn about the latest in JavaScript, and connect with other passionate developers. Previous speakers includes Karolina Szczur, Guillermo Rauch, Rachel Andrew, Mariko Kosaka, and Jeremy Keith.'
+location: Stockholm
+venue: ''
+city: Stockholm
+country: Sweden
+link: 'https://nordicjs.com/2018/'
+playlist: 'youtube.com:PLGP3VO5jDf8ylpVlq5f0o-uCBABzrvAoc'
+from_date: '2018-10-06'
+to_date: '2018-10-07'
+tags: ''
+talks:
+  -
+    title: 'Headers for Hackers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-07 15:30'
+    speakers:
+      -
+        name: 'Andrew Betts'
+        twitter: triblondon
+        github: null
+    videos:
+      - 'youtube:II9m9_esNZc'
+    slides: null
+  -
+    title: 'Lightning talk - Lucas Reis'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-06 12:10'
+    speakers:
+      -
+        name: 'Lucas Reis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QpwzUMEOWnY'
+    slides: null
+  -
+    title: 'Lightning talk - Krzysztof Żuraw'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-07 11:55'
+    speakers:
+      -
+        name: 'Krzysztof Żuraw'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nFIoHcNQo84'
+    slides: null
+  -
+    title: 'Lightning talk - Pierre Reimertz'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-06 12:15'
+    speakers:
+      -
+        name: 'Pierre Reimertz'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QDvo-6yb4MQ'
+    slides: null
+  -
+    title: 'Building a Design System in Reac'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-06 15:15'
+    speakers:
+      -
+        name: 'Dominic McPhee'
+        twitter: dfmcphee
+        github: null
+    videos:
+      - 'youtube:XWetuOvNSk0'
+    slides: null
+  -
+    title: 'Look mum, no hands!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-06 16:30'
+    speakers:
+      -
+        name: 'Charlie Gerard'
+        twitter: devdevcharlie
+        github: charliegerard
+    videos:
+      - 'youtube:X-tpqxC7-co'
+    slides: null
+  -
+    title: 'The Matrix is Everywhere: A Primer on Projections in Web Graphics'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-07 10:10'
+    speakers:
+      -
+        name: 'Lauren Budorick'
+        twitter: lbudorick
+        github: null
+    videos:
+      - 'youtube:YFGY2BeyfzA'
+    slides: null
+  -
+    title: 'Lightning talk - Alexander Karlsson'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-06 15:50'
+    speakers:
+      -
+        name: 'Alexander Karlsson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Owq7Fm4qqYw'
+    slides: null
+  -
+    title: 'Lightning talk - Vilberg Eliasson'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-07 12:00'
+    speakers:
+      -
+        name: 'Vilberg Eliasson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iZHjNvXLqMU'
+    slides: null
+  -
+    title: 'WebAssembly as cross-platform architecture?!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-06 11:10'
+    speakers:
+      -
+        name: 'Benedek Gagyi'
+        twitter: BenedekGagyi
+        github: benedekgagyi
+    videos:
+      - 'youtube:l2DHjRmgAF8'
+    slides: null
+  -
+    title: 'Building Foundations of the Node.js Community'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-06 09:40'
+    speakers:
+      -
+        name: 'Tierney Cyren'
+        twitter: bitandbang
+        github: null
+    videos:
+      - 'youtube:kgyb0PV5d_A'
+    slides: null
+  -
+    title: 'Connecting JavaScript to the Blockchain'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-07 16:00'
+    speakers:
+      -
+        name: 'Meng Shang'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HjrJ7L7g20g'
+    slides: null
+  -
+    title: 'Corrections and Constructive Criticism'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-06 15:00'
+    speakers:
+      -
+        name: 'Tessa Kelly'
+        twitter: t_kelly9
+        github: null
+    videos:
+      - 'youtube:7eJRDCSwZ80'
+    slides: null
+  -
+    title: 'Using TypeScript with Redux Architectur'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-07 15:30'
+    speakers:
+      -
+        name: 'Sandi Barr'
+        twitter: sandikbarr
+        github: null
+    videos:
+      - 'youtube:6FSpQv_QiTc'
+    slides: null
+  -
+    title: 'Empathy Driven Development: Boosting performance by implementing for unfavorable conditions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-07 15:00'
+    speakers:
+      -
+        name: 'Isabella Silveira de Souza'
+        twitter: silveira_bells
+        github: null
+    videos:
+      - 'youtube:LjGQiEcBn1Y'
+    slides: null
+  -
+    title: 'Lightning talk - John Leidegren'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-07 16:00'
+    speakers:
+      -
+        name: 'John Leidegren'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FPNAbVEBQec'
+    slides: null
+  -
+    title: 'Magic Tricks with Houdin'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-06 11:40'
+    speakers:
+      -
+        name: 'Sam Richard'
+        twitter: snugug
+        github: null
+    videos:
+      - 'youtube:gg0NiBBd2Ak'
+    slides: null
+  -
+    title: 'Fast but not furious: debugging user interaction performance issues'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-06 10:10'
+    speakers:
+      -
+        name: 'Anna Migas'
+        twitter: szynszyliszys
+        github: szynszyliszys
+    videos:
+      - 'youtube:LFYs7XT5jXI'
+    slides: null
+  -
+    title: "Manage your styles as it's 2018"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-06 14:15'
+    speakers:
+      -
+        name: 'Katarzyna Jastrzębska-Łachacz'
+        twitter: kejt_bw
+        github: null
+    videos:
+      - 'youtube:riv8yOaURgk'
+    slides: null
+  -
+    title: 'Node.js: The Road to Workers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-07 09:40'
+    speakers:
+      -
+        name: 'Anna Henningsen'
+        twitter: addaleax
+        github: addaleax
+    videos:
+      - 'youtube:pO5a10YPQG4'
+    slides: null
+  -
+    title: 'Achieving Secure Software through Redesign'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-07 13:20'
+    speakers:
+      -
+        name: 'Mike Samuel'
+        twitter: mvsamuel
+        github: mikesamuel
+    videos:
+      - 'youtube:5reXUs4lAf4'
+    slides: null
+  -
+    title: 'Why we built another framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-07 11:25'
+    speakers:
+      -
+        name: 'Tomas Della Vedova'
+        twitter: delvedor
+        github: null
+    videos:
+      - 'youtube:ucatti2b7E4'
+    slides: null
+  -
+    title: 'Powerful Automation with the Chrome DevTools Protoco'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-06 17:00'
+    speakers:
+      -
+        name: 'Trent Willis'
+        twitter: trentmwillis
+        github: trentmwillis
+    videos:
+      - 'youtube:piip-JSc4hc'
+    slides: null
+  -
+    title: 'Accessible by law! Generating colors with JS and CSS Custom Properties'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-07 11:10'
+    speakers:
+      -
+        name: 'Ingvild Indrebø'
+        twitter: ingvildindrebo
+        github: null
+    videos:
+      - 'youtube:2fO8B15uM1s'
+    slides: null
+  -
+    title: 'Can you tell me if your Node app is healthy?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-06 13:45'
+    speakers:
+      -
+        name: 'Alejandro Oviedo García'
+        twitter: a0viedo
+        github: null
+    videos:
+      - 'youtube:7HoxAeQIck4'
+    slides: null
+  -
+    title: 'The Life of a JavaScript Feature in V8 ft. TypedArrays'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-07 17:10'
+    speakers:
+      -
+        name: 'Peter Marshall'
+        twitter: hooraybuffer
+        github: null
+    videos:
+      - 'youtube:8W8lcfelhuU'
+    slides: null
+  -
+    title: 'Lightning talk - Ian Savchenko'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-06 15:45'
+    speakers:
+      -
+        name: 'Ian Savchenko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:q5pi_VM_54k'
+    slides: null
+  -
+    title: 'Lightning talk - Erik Hellman'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-07 16:05'
+    speakers:
+      -
+        name: 'Erik Hellman'
+        twitter: ErikHellman
+        github: ErikHellman
+    videos:
+      - 'youtube:ciXqET5eF-I'
+    slides: null
+  -
+    title: 'Magic Tricks with Houdini'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-06 11:40'
+    speakers:
+      -
+        name: 'Sam Richard'
+        twitter: snugug
+        github: null
+    videos:
+      - 'youtube:gg0NiBBd2Ak'
+    slides: null
+  -
+    title: 'Lightning talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-07 14:25'
+    speakers:
+      -
+        name: 'Pierre Reimertz'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QDvo-6yb4MQ'
+    slides: null
+  -
+    title: 'Building a Design System in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-06 15:15'
+    speakers:
+      -
+        name: 'Dominic McPhee'
+        twitter: dfmcphee
+        github: null
+    videos:
+      - 'youtube:XWetuOvNSk0'
+    slides: null
+  -
+    title: 'Powerful Automation with the Chrome DevTools Protocol'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-06 17:00'
+    speakers:
+      -
+        name: 'Trent Willis'
+        twitter: trentmwillis
+        github: trentmwillis
+    videos:
+      - 'youtube:piip-JSc4hc'
+    slides: null
+  -
+    title: 'Using TypeScript with Redux Architecture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-07 13:50'
+    speakers:
+      -
+        name: 'Sandi Barr'
+        twitter: sandikbarr
+        github: null
+    videos:
+      - 'youtube:6FSpQv_QiTc'
+    slides: null

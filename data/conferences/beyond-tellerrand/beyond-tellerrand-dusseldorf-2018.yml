@@ -1,0 +1,250 @@
+name: 'Beyond Tellerrand Düsseldorf 2018'
+description: 'beyond tellerrand is an affordable event about web design, development, creativity, design and much more.'
+location: ''
+venue: ''
+city: Düsseldorf
+country: Germany
+link: 'https://beyondtellerrand.com/events/duesseldorf-2018/'
+playlist: 'youtube.com:PL8ZzmQWppBBtBnpKMrqEzae4EigiXuP3v'
+from_date: '2018-05-07'
+to_date: '2018-05-09'
+tags: ''
+talks:
+  -
+    title: 'A Tinker Story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-08 00:00'
+    speakers:
+      -
+        name: 'dina Amin'
+        twitter: dinaaamin
+        github: null
+    videos:
+      - 'youtube:dYlT4lU5pb4'
+    slides: null
+  -
+    title: 'Web Annotation: The Web’s Conversation Layer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-08 00:00'
+    speakers:
+      -
+        name: 'Lyza Danger Gardner'
+        twitter: lyzadanger
+        github: null
+    videos:
+      - 'youtube:VnAs1_aNSWI'
+    slides: null
+  -
+    title: 'From World War 1 to Fast & Furious Live'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-08 00:00'
+    speakers:
+      -
+        name: 'Kate Dawkins'
+        twitter: StudioDawkins
+        github: null
+    videos:
+      - 'youtube:wvkKUesvbPc'
+    slides: null
+  -
+    title: 'In the Brink of Consciousness'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-08 00:00'
+    speakers:
+      -
+        name: 'Jan De Coster'
+        twitter: JanDeCoster
+        github: null
+    videos:
+      - 'youtube:e8dSHjNPhsk'
+    slides: null
+  -
+    title: 'Broad Band – What History’s Female Internet Pioneers can Teach us about Tomorrow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-08 00:00'
+    speakers:
+      -
+        name: 'Claire L. Evans'
+        twitter: theuniverse
+        github: null
+    videos:
+      - 'youtube:27WFbdfTgGQ'
+    slides: null
+  -
+    title: 'Hidden in plain view: Bleeding edge accessibility so good you never noticed'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-08 00:00'
+    speakers:
+      -
+        name: 'Karl Groves'
+        twitter: karlgroves
+        github: null
+    videos:
+      - 'youtube:sLxXvsb97o8'
+    slides: null
+  -
+    title: 'The Importance of Failing Successfully'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-08 00:00'
+    speakers:
+      -
+        name: 'Wesley Grubbs'
+        twitter: wesleygrubbs
+        github: null
+    videos:
+      - 'youtube:48-hVDLwZYA'
+    slides: null
+  -
+    title: 'No Effing Failure'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-08 00:00'
+    speakers:
+      -
+        name: 'Vic Lee'
+        twitter: vicleeprints
+        github: null
+    videos:
+      - 'youtube:IQqMRfeykVo'
+    slides: null
+  -
+    title: 'The Dangers of Being a Web Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-08 00:00'
+    speakers:
+      -
+        name: 'Jens Oliver Meiert'
+        twitter: j9t
+        github: null
+    videos:
+      - 'youtube:4JIFp7hcJcU'
+    slides: null
+  -
+    title: 'How to Build an Atomic Bomb'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-08 00:00'
+    speakers:
+      -
+        name: 'Mike Monteiro'
+        twitter: monteiro
+        github: null
+    videos:
+      - 'youtube:ZGsYHws-hbc'
+    slides: null
+  -
+    title: 'Design for Non-Designers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-08 00:00'
+    speakers:
+      -
+        name: 'Tracy Osborn'
+        twitter: limedaring
+        github: null
+    videos:
+      - 'youtube:MwbZiGd0gco'
+    slides: null
+  -
+    title: "Don't Use My Grid System (or any others)"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-08 00:00'
+    speakers:
+      -
+        name: 'Miriam Suzanne'
+        twitter: mirisuzanne
+        github: mirisuzanne
+    videos:
+      - 'youtube:iODambgMZhk'
+    slides: null
+  -
+    title: 'Generative Spaces'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-08 00:00'
+    speakers:
+      -
+        name: 'Jared Tarbell'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:b_-9UWkgDf8'
+    slides: null
+  -
+    title: 'Warm-Up Talk: ARIA Serious?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-08 00:00'
+    speakers:
+      -
+        name: 'Eric Eggert'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RnVGterkmxU'
+    slides: null
+  -
+    title: 'Warm-Up Talk: Reanimating the Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-08 00:00'
+    speakers:
+      -
+        name: 'Rob Bateman'
+        twitter: robnet
+        github: rob-bateman
+    videos:
+      - 'youtube:9Ob5fAuMQ7c'
+    slides: null
+  -
+    title: 'Warm-Up Talk: Perceptions of Pair Programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-08 00:00'
+    speakers:
+      -
+        name: 'Amber Wilson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:G5AIoYPRfZQ'
+    slides: null
+  -
+    title: 'Warm-Up Talk: Browser APIs – the unknown Super Heroes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-08 00:00'
+    speakers:
+      -
+        name: 'Rowdy Rabouw'
+        twitter: RowdyRabouw
+        github: rowdyrabouw
+    videos:
+      - 'youtube:mQt3DAMYHvo'
+    slides: null

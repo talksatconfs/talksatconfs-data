@@ -1,0 +1,248 @@
+name: 'RustConf 2018'
+description: "RustConf is a gathering of both Rust's established community and its newcomers. We're excited to all get to spend time together, deep-diving into all things Rust."
+location: 'Portland, OR, United States'
+venue: ''
+city: 'Portland, OR'
+country: 'United States'
+link: 'http://2018.rustconf.com/'
+playlist: 'youtube.com:PL85XCvVPmGQi3tivxDDF1hrT9qr5hdMBZ'
+from_date: '2018-08-17'
+to_date: '2018-08-17'
+tags: ''
+talks:
+  -
+    title: 'Opening Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Niko Matsakis'
+        twitter: nikomatsakis
+        github: null
+      -
+        name: 'Ashley Williams'
+        twitter: ag_dubs
+        github: ashleygwilliams
+      -
+        name: 'Aaron Turon'
+        twitter: aaron_turon
+        github: null
+    videos:
+      - 'youtube:J9OFQm8Qf1I'
+    slides: null
+  -
+    title: 'Embedding Rust in C/C++'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: Katharina
+        twitter: spacekookie
+        github: null
+    videos:
+      - 'youtube:x9acx2zgx4Q'
+    slides: null
+  -
+    title: 'Getting Something for Nothing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'James Munns'
+        twitter: bitshiftmask
+        github: null
+    videos:
+      - 'youtube:t99L3JHhLc0'
+    slides: null
+  -
+    title: 'Space, The Rusty Frontier'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Ryan Plauche'
+        twitter: plauplauplau
+        github: null
+    videos:
+      - 'youtube:y5Yd3FC-kh8'
+    slides: null
+  -
+    title: 'Project Mentat: a store for evolving data in Rust'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Emily Toop'
+        twitter: fluffyemily
+        github: null
+    videos:
+      - 'youtube:bqG5OfGXI_E'
+    slides: null
+  -
+    title: 'The Dark Secrets Lurking Inside cargo doc'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Quiet Misdreavus'
+        twitter: QuietMisdreavus
+        github: null
+    videos:
+      - 'youtube:3wcXj67N6eE'
+    slides: null
+  -
+    title: 'How to (not) introduce Rust at your workplace - a tale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Douglas Campos'
+        twitter: qmx
+        github: null
+    videos:
+      - 'youtube:0IMe7C5y3PU'
+    slides: null
+  -
+    title: 'Closing Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Catherine West'
+        twitter: kyrenite
+        github: null
+    videos:
+      - 'youtube:aKLntZcp27M'
+    slides: null
+  -
+    title: 'The Opposite of Spaghetti Code: Building for Understanding'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Brandon W Maister'
+        twitter: quodlibetor
+        github: null
+    videos:
+      - 'youtube:2uBbjq-Trnk'
+    slides: null
+  -
+    title: 'My Little Procedural Macro'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Chris Wong'
+        twitter: LambdaFairy
+        github: null
+    videos:
+      - 'youtube:11Bme1xw0ag'
+    slides: null
+  -
+    title: 'Integrating Rust into Tor: Successes and Challenges'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Chelsea Komlo'
+        twitter: chelseakomlo
+        github: null
+      -
+        name: 'Isis Lovecruft'
+        twitter: isislovecruft
+        github: null
+    videos:
+      - 'youtube:WI4ApeHH9QE'
+    slides: null
+  -
+    title: 'Using Raft in Rust'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Siddon Tang'
+        twitter: null
+        github: siddontang
+    videos:
+      - 'youtube:ueA44Tz1NF8'
+    slides: null
+  -
+    title: 'Rust and the Web Platform: A Rookie’s Guide'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Sarah Meyer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EDoNNFWIRrw'
+    slides: null
+  -
+    title: 'Writing Crates for Complete Beginners - A Tour of Turtle'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Sunjay Varma'
+        twitter: Sunjay03
+        github: sunjay
+    videos:
+      - 'youtube:ZtER1Wllbeo'
+    slides: null
+  -
+    title: 'C2Rust: Migrating Legacy Code to Rust'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Per Larsen'
+        twitter: null
+        github: thedataking
+    videos:
+      - 'youtube:WEsR0Vv7jhg'
+    slides: null
+  -
+    title: 'Benchmarking and Optimization of Rust Libraries'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Paul Mason'
+        twitter: paupino_masano
+        github: null
+    videos:
+      - 'youtube:d2ZQ9-4ZJmQ'
+    slides: null

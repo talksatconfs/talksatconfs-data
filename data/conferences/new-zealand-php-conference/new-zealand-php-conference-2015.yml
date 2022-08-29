@@ -1,0 +1,310 @@
+name: 'New Zealand PHP Conference 2015'
+description: ''
+location: ''
+venue: 'Victoria University'
+city: Wellington
+country: 'New Zealand'
+link: 'https://www.php.org.nz/2015/'
+playlist: ''
+from_date: '2015-09-02'
+to_date: '2015-09-04'
+tags: ''
+talks:
+  -
+    title: 'Code Review for Security – Workshop'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/code-review-for-security--workshop'
+    talk_date: '2015-09-02 09:00'
+    speakers:
+      -
+        name: 'Anthony Ferrara'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Migration Guide to Symfony 3.0 – Workshop'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/migration-guide-to-symfony-30--workshop'
+    talk_date: '2015-09-02 13:00'
+    speakers:
+      -
+        name: 'Hugo Hamon'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Sprinkle in Some Go for Fun and Profit – Workshop'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/sprinkle-in-some-go-for-fun-and-profit--workshop'
+    talk_date: '2015-09-02 13:00'
+    speakers:
+      -
+        name: 'Phil Sturgeon'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Ansible, live on stage'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/ansible-live-on-stage'
+    talk_date: '2015-09-03 00:00'
+    speakers:
+      -
+        name: 'Stephen Rees-Carter'
+        twitter: valorin
+        github: null
+    videos:
+      - 'youtube:10bPviU1dj8'
+    slides: null
+  -
+    title: 'API to API to API, but who owns the data?'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/api-to-api-to-api-but-who-owns-the-data'
+    talk_date: '2015-09-03 00:00'
+    speakers:
+      -
+        name: 'Drew Broadley'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zpuewqI5fAg'
+    slides: null
+  -
+    title: 'IoT Commerce'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/iot-commerce'
+    talk_date: '2015-09-03 00:00'
+    speakers:
+      -
+        name: 'Steven Cooper'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Vrr2LF_E6rc'
+    slides: null
+  -
+    title: 'Filesystem Abstraction with Flysystem'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/filesystem-abstraction-with-flysystem'
+    talk_date: '2015-09-03 00:00'
+    speakers:
+      -
+        name: 'Frank de Jonge'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SmnLZy6lsIk'
+    slides: null
+  -
+    title: 'Data (De)Serialization 101'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/data-deserialization-101'
+    talk_date: '2015-09-03 00:00'
+    speakers:
+      -
+        name: 'Hugo Hamon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vJzQoo1tWMY'
+    slides: null
+  -
+    title: 'Optimising the full stack'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/optimising-the-full-stack'
+    talk_date: '2015-09-03 00:00'
+    speakers:
+      -
+        name: 'Julian Seidenberg'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZYb2j2MnAJc'
+    slides: null
+  -
+    title: 'Disability and User Experience'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/disability-and-user-experience'
+    talk_date: '2015-09-03 00:00'
+    speakers:
+      -
+        name: 'Tom Smith'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Money is not a dirty word (or: how to give away all your code and still turn a profit)'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/money-is-not-a-dirty-word-or-how-to-give-away-all-your-code-and-still-turn-a-profit'
+    talk_date: '2015-09-03 00:00'
+    speakers:
+      -
+        name: 'Hamish Friedlander'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vzy8nYjpXak'
+    slides: null
+  -
+    title: 'Modern Frontend Engineering'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/modern-frontend-engineering'
+    talk_date: '2015-09-03 00:00'
+    speakers:
+      -
+        name: 'Dustin Whittle'
+        twitter: dustinwhittle
+        github: dustinwhittle
+    videos: null
+    slides: null
+  -
+    title: 'Building cross platform native applications with JavaScript and Electron'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/building-cross-platform-native-applications-with-javascript-and-electron'
+    talk_date: '2015-09-03 00:00'
+    speakers:
+      -
+        name: 'Amy Palamountain'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Going Viral for Fun, not Profit'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/going-viral-for-fun-not-profit'
+    talk_date: '2015-09-03 00:00'
+    speakers:
+      -
+        name: 'Ben Dechrai'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Cooperative Multitasking With Generators'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/cooperative-multitasking-with-generators'
+    talk_date: '2015-09-03 00:00'
+    speakers:
+      -
+        name: 'Christopher Pitt'
+        twitter: assertchris
+        github: assertchris
+    videos:
+      - 'youtube:xsB_frjRLuQ'
+    slides: null
+  -
+    title: 'eCommerce and Open Source: Pot, PHP, and Unlimited Potential'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/ecommerce-and-open-source-pot-php-and-unlimited-potential'
+    talk_date: '2015-09-03 00:00'
+    speakers:
+      -
+        name: 'Benjamin Marks'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qzK0hiz8B9k'
+    slides: null
+  -
+    title: 'Facebook Infrastructure'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/facebook-infrastructure'
+    talk_date: '2015-09-03 00:00'
+    speakers:
+      -
+        name: 'Alejandro Marcu'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Keynote Speaker: Scaleable nginx configuration.'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/keynote-speaker'
+    talk_date: '2015-09-04 00:00'
+    speakers:
+      -
+        name: 'Igor Sysoev'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:j9VSQ8UaBnY'
+    slides: null
+  -
+    title: 'Keynote Speaker'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/keynote-speaker-2'
+    talk_date: '2015-09-04 01:00'
+    speakers:
+      -
+        name: 'Michael Widenius'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building Extraordinary Packages'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/building-extraordinary-packages'
+    talk_date: '2015-09-04 03:00'
+    speakers:
+      -
+        name: 'Phil Sturgeon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:esH-dVKleSg'
+    slides: null
+  -
+    title: 'Talmudic Maxims to Maximize Your Growth as a Developer'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/talmudic-maxims-to-maximize-your-growth-as-a-developer'
+    talk_date: '2015-09-04 03:00'
+    speakers:
+      -
+        name: 'Yitzchok Willroth'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:N_RNOMnVsS4'
+    slides: null
+  -
+    title: 'Beyond Design Patterns'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference/beyond-design-patterns'
+    talk_date: '2015-09-04 03:00'
+    speakers:
+      -
+        name: 'Anthony Ferrara'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

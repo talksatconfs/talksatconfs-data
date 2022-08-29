@@ -1,0 +1,236 @@
+name: 'React Day Berlin 2017'
+description: 'React Day Berlin is a brand new event in the city, the first of its kind - a full day conference for engineers working with the React technology stack. Careful balance of practical and visionary talks from renowned speakers make React Day a unique place to meet and learn from the most forward-thinking international community members, influencers and open source maintainers.'
+location: ''
+venue: ''
+city: Berlin
+country: Germany
+link: 'https://reactday.berlin/2017/'
+playlist: 'youtube:PL-3BrJ5CiIx5GoXci54-VsrO6GwLhSHEK'
+from_date: '2017-12-02'
+to_date: '2017-12-02'
+tags: ''
+talks:
+  -
+    title: 'THE POWER OF INTERPOLATION'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-02 00:00'
+    speakers:
+      -
+        name: 'Mike Grabowski'
+        twitter: grabbou
+        github: grabbou
+    videos:
+      - 'youtube:UHaQpZjGnwk'
+    slides: null
+  -
+    title: 'KEEP YOUR SANITY WITH REDUX SAGAS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-02 00:00'
+    speakers:
+      -
+        name: 'Tyler Clark'
+        twitter: iamtylerwclark
+        github: twclark0
+    videos:
+      - 'youtube:UnNLJvHKfSY'
+    slides: null
+  -
+    title: 'WE NEED TO TALK ABOUT PREACT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-02 00:00'
+    speakers:
+      -
+        name: 'Sara Vieira'
+        twitter: NikkitaFTW
+        github: alexnm
+    videos:
+      - 'youtube:jqXRSvXWYf8'
+    slides: null
+  -
+    title: 'DESIGNING WITH REACT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-02 00:00'
+    speakers:
+      -
+        name: 'Kristin Baumann'
+        twitter: kristin_baumann
+        github: kristinbaumann
+    videos:
+      - 'youtube:ixIuMs3aDCI'
+    slides: null
+  -
+    title: 'BUILDING STORYBOOK'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-02 00:00'
+    speakers:
+      -
+        name: 'Norbert de Langen'
+        twitter: NorbertdeLangen
+        github: ndelangen
+    videos:
+      - 'youtube:KROaHWgU9JY'
+    slides: null
+  -
+    title: 'HUMANIZING YOUR DOCUMENTATION'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-02 00:00'
+    speakers:
+      -
+        name: 'Carolyn Stransky'
+        twitter: carolstran
+        github: carolstran
+    videos:
+      - 'youtube:jY2xglypPkQ'
+    slides: null
+  -
+    title: 'DATA DRIVEN STYLING'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-02 00:00'
+    speakers:
+      -
+        name: 'Oleg Slobodskoi'
+        twitter: oleg008
+        github: kof
+    videos:
+      - 'youtube:Q_gpDqivgdw'
+    slides: null
+  -
+    title: 'ADD POWERFUL COMPONENTS TO YOUR REACT APPS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-02 00:00'
+    speakers:
+      -
+        name: 'Olga Petrova'
+        twitter: tyoushe
+        github: olga-petrova
+    videos:
+      - 'youtube:OVHKTrCCPoM'
+    slides: null
+  -
+    title: 'JEST & ENZYME COMPLEMENT EACH OTHER.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-02 00:00'
+    speakers:
+      -
+        name: 'Manjula Dube'
+        twitter: manjula_dube
+        github: manjula91
+    videos:
+      - 'youtube:X77LnVnfbJk'
+    slides: null
+  -
+    title: 'HOW WE REACT AT MICROSOFT TO-DO'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-02 00:00'
+    speakers:
+      -
+        name: 'Alex Migutsky'
+        twitter: mr_mig_by
+        github: mr-mig
+    videos:
+      - 'youtube:CWxc3AYja1I'
+    slides: null
+  -
+    title: 'UNIVERSAL REACT ON LAMBDA'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-02 00:00'
+    speakers:
+      -
+        name: 'Pedro Visintin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_Q0syl02MVY'
+    slides: null
+  -
+    title: 'AUGMENTED REALITY WITH REACT NATIVE — A MEDIUM WORTH TO BRIDGE?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-02 00:00'
+    speakers:
+      -
+        name: 'Dino Scheidt'
+        twitter: null
+        github: D1no
+    videos:
+      - 'youtube:DOJdiYKslM0'
+    slides: null
+  -
+    title: 'GRAPHQL - THE WHAT, HOW AND WHY'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-02 00:00'
+    speakers:
+      -
+        name: 'Nikolas Burk'
+        twitter: nikolasburk
+        github: nikolasburk
+    videos:
+      - 'youtube:mTSG_hek7Ik'
+    slides: null
+  -
+    title: 'REACT STATE MANAGEMENT IN A GRAPHQL ERA'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-02 00:00'
+    speakers:
+      -
+        name: 'Kristijan Ristovski'
+        twitter: thekitze
+        github: kitze
+    videos:
+      - 'youtube:BCXne2Hb8wQ'
+    slides: null
+  -
+    title: 'BEYOND JAVASCRIPT: THE HIDDEN BENEFIT OF REACT NATIVE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-02 00:00'
+    speakers:
+      -
+        name: 'Wojciech Ogrodowczyk'
+        twitter: sharnik
+        github: sharnik
+    videos:
+      - 'youtube:z8gda3Gc3Oo'
+    slides: null
+  -
+    title: "A PRAGMATIST'S GUIDE TO REASONML"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-02 00:00'
+    speakers:
+      -
+        name: 'Marcel Cutts'
+        twitter: marcelcutts
+        github: MarcelCutts
+    videos:
+      - 'youtube:ZKi87Bx4YNQ'
+    slides: null

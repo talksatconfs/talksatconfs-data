@@ -1,0 +1,254 @@
+name: 'EmberConf 2015'
+description: ''
+location: 'Portland OR, United States'
+venue: ''
+city: ''
+country: ''
+link: 'https://2015.emberconf.com/'
+playlist: ''
+from_date: '2015-03-03'
+to_date: '2015-03-04'
+tags: ''
+talks:
+  -
+    title: 'Building Custom Apps with Ember CLI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Brittany Storoz'
+        twitter: brittanystoroz
+        github: brittanystoroz
+    videos:
+      - 'youtube:J6vPwvFdUiE'
+    slides: null
+  -
+    title: 'Hijacking Hacker News with Ember.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Godfrey Chan'
+        twitter: chancancode
+        github: null
+    videos:
+      - 'youtube:PXB93Z8azZE'
+    slides: null
+  -
+    title: 'Designing for Ember Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Steve Trevathan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ijiNbF2Wu0E'
+    slides: null
+  -
+    title: MiniTalks
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Leah Silber'
+        twitter: wifelette
+        github: null
+    videos:
+      - 'youtube:K4fyHxg3Ldk'
+    slides: null
+  -
+    title: 'Aligning Ember with Web Standards'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Matthew Beale'
+        twitter: mixonic
+        github: null
+    videos:
+      - 'youtube:knYeLk1EuHw'
+    slides: null
+  -
+    title: 'Ember.js Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Stef Penner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iTZxo6bSx44'
+    slides: null
+  -
+    title: 'Building Real-Time Applications with Ember'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Steve Kinney'
+        twitter: stevekinney
+        github: stevekinney
+    videos:
+      - 'youtube:nfGORL8ebn8'
+    slides: null
+  -
+    title: 'The Art of Ember Deployment'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Luke Melia'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4EDetv_Rw5U'
+    slides: null
+  -
+    title: 'Closing Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Chris Eppstein'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qWcNZ3j3y6g'
+    slides: null
+  -
+    title: 'Interaction Design with Ember 2.0 and Polymer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Bryan Langslet'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Z8NDAiOZ8SE'
+    slides: null
+  -
+    title: 'Fault Tolerant UX'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Dan Gebhardt'
+        twitter: dgeb
+        github: dgeb
+    videos:
+      - 'youtube:s2awUFvA-0I'
+    slides: null
+  -
+    title: 'Physical Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Edward Faulkner'
+        twitter: eaf4
+        github: null
+    videos:
+      - 'youtube:p8aF-7-_cE8'
+    slides: null
+  -
+    title: 'Bring Sanity to Frontend Infrastructure with Ember'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Sam Selikoff'
+        twitter: samselikoff
+        github: null
+    videos:
+      - 'youtube:iwPsNTkyCcA'
+    slides: null
+  -
+    title: 'Opening Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Tom Dale'
+        twitter: tomdale
+        github: tomdale
+      -
+        name: 'Yehuda Katz'
+        twitter: wycats
+        github: null
+    videos:
+      - 'youtube:OInJBwS8VDQ'
+    slides: null
+  -
+    title: 'Ambitious UX for Ambitious Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Lauren Tan'
+        twitter: sugarpirate_
+        github: poteto
+    videos:
+      - 'youtube:TlU0m18Pr-Y'
+    slides: null
+  -
+    title: 'Growing Ember One Tomster at a Time'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Jamie White'
+        twitter: jgwhite
+        github: null
+    videos:
+      - 'youtube:xsG0gDkvDPw'
+    slides: null
+  -
+    title: 'Dynamic Graphic Composition in Ember'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Chris Henn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:J-LpgGqyxcI'
+    slides: null

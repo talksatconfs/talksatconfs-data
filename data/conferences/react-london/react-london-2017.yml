@@ -1,0 +1,188 @@
+name: 'React London 2017'
+description: 'React London 2017 is the 1st React conference in London.It will be a day packed with talks from the most talented people from our passionate community. They will explore the possibilities that the newest advances in React bring to the industry.React London 2017 is a single track full day conference including 6 talks from industry experts, 4 lightning talks and a panel discussion with engineers from the Facebook team.'
+location: 'London, United Kingdom'
+venue: ''
+city: London
+country: 'United Kingdom'
+link: 'https://react.london/'
+playlist: 'youtube:PLW6ORi0XZU0CFjdoYeC0f5QReBG-NeNKJ'
+from_date: '2017-03-28'
+to_date: '2017-03-28'
+tags: ''
+talks:
+  -
+    title: 'Javascript code formatting'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-28 00:00'
+    speakers:
+      -
+        name: 'Christopher Chedeau'
+        twitter: Vjeux
+        github: vjeux
+    videos:
+      - 'youtube:0Q4kUNx85_4'
+    slides:
+      - 'https://www.slideshare.net/ReactLondon2017/javascript-code-formatting-with-prettier-by-christopher-chedeau'
+  -
+    title: 'Logux, a new approach to client-server communication'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-28 00:00'
+    speakers:
+      -
+        name: 'Andrey Sitnik'
+        twitter: andreysitnik
+        github: ai
+    videos:
+      - 'youtube:3LecnX1hjyw'
+    slides:
+      - 'https://www.slideshare.net/ReactLondon2017/logux-a-new-approach-to-clientserver-communication-by-andrey-sitnik'
+  -
+    title: "What's in a language?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-28 00:00'
+    speakers:
+      -
+        name: 'Cheng Lou'
+        twitter: _chenglou
+        github: chenglou
+    videos:
+      - 'youtube:24S5u_4gx7w'
+    slides:
+      - 'https://www.slideshare.net/ReactLondon2017/whats-in-a-language'
+  -
+    title: 'Snapshot testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-28 00:00'
+    speakers:
+      -
+        name: 'Anna Doubková'
+        twitter: lithinn
+        github: lithin
+    videos:
+      - 'youtube:sCbGfi40IWk'
+    slides:
+      - 'https://www.slideshare.net/ReactLondon2017/snapshot-testing-by-anna-doubkova'
+  -
+    title: 'Realtime Webpack - Pushing on-demand bundling to the limits'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-28 00:00'
+    speakers:
+      -
+        name: 'Oliver Woodings'
+        twitter: oliverwoodings
+        github: oliverwoodings
+    videos:
+      - 'youtube:mkUK2SZ8moY'
+    slides:
+      - 'https://www.slideshare.net/ReactLondon2017/realtime-webpack-pushing-ondemand-bundling-to-the-limits-by-oliver-woodings'
+  -
+    title: 'Offline for the greater good'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-28 00:00'
+    speakers:
+      -
+        name: 'Jani Eväkallio'
+        twitter: jevakallio
+        github: jevakallio
+    videos:
+      - 'youtube:FbAPw8RUEmA'
+    slides:
+      - 'https://www.slideshare.net/ReactLondon2017/offline-for-the-greater-good-by-jani-evkallio'
+  -
+    title: 'Next.js in production'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-28 00:00'
+    speakers:
+      -
+        name: 'Jasdeep Lalli'
+        twitter: jazlalli
+        github: jazlalli
+    videos:
+      - 'youtube:h6rETZH6Ym0'
+    slides:
+      - 'https://www.slideshare.net/ReactLondon2017/nextjs-in-production-by-jasdeep-lalli'
+  -
+    title: 'The road to <💅> styled-components" CSS in component-based systems"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-28 00:00'
+    speakers:
+      -
+        name: 'Max Stoiber'
+        twitter: mxstbr
+        github: mxstbr
+    videos:
+      - 'youtube:2j9rSur_mnk'
+    slides:
+      - 'https://www.slideshare.net/ReactLondon2017/the-road-to-lt-styledcomponents-css-in-componentbased-systems-by-max-stoiber'
+  -
+    title: 'A tiny Fiber renderer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-28 00:00'
+    speakers:
+      -
+        name: 'Dustan Kasten'
+        twitter: iamdustan
+        github: iamdustan
+    videos:
+      - 'youtube:U9zFfIww3Go'
+    slides:
+      - 'https://www.slideshare.net/ReactLondon2017/a-tiny-fiber-renderer-by-dustan-kasten'
+  -
+    title: 'Panel Discussion'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-28 00:00'
+    speakers:
+      -
+        name: 'Christopher Chedeau'
+        twitter: Vjeux
+        github: vjeux
+      -
+        name: 'Dan Abramov'
+        twitter: dan_abramov
+        github: gaearon
+      -
+        name: 'Lee Byron'
+        twitter: leeb
+        github: leebyron
+      -
+        name: 'Ben Alpert'
+        twitter: soprano
+        github: spicyj
+    videos:
+      - 'youtube:TMun9g5o7OA'
+    slides: null
+  -
+    title: 'Weapons grade React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-28 00:00'
+    speakers:
+      -
+        name: 'Ken Wheeler'
+        twitter: ken_wheeler
+        github: kenwheeler
+    videos:
+      - 'youtube:O4k80BRLsvg'
+    slides:
+      - 'https://www.slideshare.net/ReactLondon2017/weapons-grade-react-by-ken-wheeler'

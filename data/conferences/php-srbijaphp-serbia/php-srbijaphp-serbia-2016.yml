@@ -1,0 +1,169 @@
+name: 'PHP Srbija/PHP Serbia 2016'
+description: ''
+location: 'Opera & Theatre Madlenianum, Belgrade, Serbia'
+venue: ''
+city: ''
+country: ''
+link: 'https://conf2016.phpsrbija.rs/'
+playlist: ''
+from_date: '2016-05-28'
+to_date: '2016-05-29'
+tags: ''
+talks:
+  -
+    title: 'Composer: The Right Way'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-29 05:30'
+    speakers:
+      -
+        name: 'Rafael Dohms'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zt2eL4pbVXQ'
+    slides: null
+  -
+    title: 'PHP 7: 28 Weeks Later'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-28 06:30'
+    speakers:
+      -
+        name: 'Sebastian Bergmann  '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Zc9e4hbwpHc'
+    slides: null
+  -
+    title: 'Doctrine ORM Good Practices and Tricks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-29 06:30'
+    speakers:
+      -
+        name: 'Marco Pivetta'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WDEy_9mlQ8c'
+    slides: null
+  -
+    title: 'What They Should Tell You About API Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-28 12:30'
+    speakers:
+      -
+        name: 'Phil Sturgeon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yS8s5vdnV9Y'
+    slides: null
+  -
+    title: 'Grown-up MongoDB: Schema Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-28 11:30'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos: null
+    slides: null
+  -
+    title: 'Finding the right testing tool for the job?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-29 10:30'
+    speakers:
+      -
+        name: 'Sebastian Bergmann  '
+        twitter: null
+        github: null
+      -
+        name: 'Ciaran McNulty'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lR9IG77d9Eo'
+    slides: null
+  -
+    title: 'Driving Quality with PhpSpec'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-28 10:30'
+    speakers:
+      -
+        name: 'Ciaran McNulty'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:55sNGg3h1ZQ'
+    slides: null
+  -
+    title: 'The continuous PHP Pipeline'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-29 09:00'
+    speakers:
+      -
+        name: 'Michelangelo van Dam'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Oxbm8ddOAr8'
+    slides: null
+  -
+    title: '“Writing code that lasts”… or writing code you won’t hate tomorrow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-28 09:00'
+    speakers:
+      -
+        name: 'Rafael Dohms'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xrL-gCVaXkA'
+    slides: null
+  -
+    title: 'The future of test automation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-29 11:30'
+    speakers:
+      -
+        name: 'Gojko Adzic'
+        twitter: gojkoadzic
+        github: null
+    videos:
+      - 'youtube:SKFB47nV7f0'
+    slides: null
+  -
+    title: 'An Oral History Of How I Became Grumpy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-28 05:45'
+    speakers:
+      -
+        name: 'Chris Hartjes'
+        twitter: grmpyprogrammer
+        github: chartjes
+    videos:
+      - 'youtube:2FkjxXX_4Ps'
+    slides: null

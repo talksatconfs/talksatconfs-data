@@ -1,0 +1,316 @@
+name: 'Pycon PH 2017'
+description: 'PyCon Philippines is a volunteer-run, not-for-profit conference centered around the Python Programming language. The goal of the conference is to provide a venue where the Python programming language and surrounding technologies can be explored, discussed and exercised.'
+location: 'Cagayan de Oro, Philippines'
+venue: ''
+city: 'Cagayan de Oro'
+country: Philippines
+link: 'https://pycon-2017.python.ph/'
+playlist: 'youtube:PLCBCxsuKTqkB2u-P7KMNNkHYXzKBXEyZc'
+from_date: '2017-02-25'
+to_date: '2017-02-26'
+tags: ''
+talks:
+  -
+    title: 'Writing Idiomatic Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-25 00:00'
+    speakers:
+      -
+        name: 'Jeff Knupp'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EYwnxAkk-GY'
+    slides: null
+  -
+    title: 'Python as a Universal Backend'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-25 00:00'
+    speakers:
+      -
+        name: 'Kix Panganiban'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:j_jTC2LA79U'
+    slides: null
+  -
+    title: 'Big Data Processing and Data Science Environment in Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-25 00:00'
+    speakers:
+      -
+        name: 'Rick Bahague'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JyXYwyS9Mc0'
+    slides: null
+  -
+    title: 'Python in Smart Farm'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-25 00:00'
+    speakers:
+      -
+        name: 'Lex Bryan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mhoppxTor5g'
+    slides: null
+  -
+    title: 'Estimating Solar Energy of an Area in Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-25 00:00'
+    speakers:
+      -
+        name: 'Justine Santos'
+        twitter: null
+        github: null
+      -
+        name: Patrick
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zT0w20ZSUdo'
+    slides: null
+  -
+    title: 'Gentle Introduction to Ansible'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-25 00:00'
+    speakers:
+      -
+        name: 'Romar Mayer Micabalo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:e91CwIawExc'
+    slides: null
+  -
+    title: 'Python Platforms for Cyber Security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-25 00:00'
+    speakers:
+      -
+        name: 'Nikolay Akatyev'
+        twitter: null
+        github: null
+      -
+        name: 'Brandon Schmittling'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1LNSARrwPqw'
+    slides: null
+  -
+    title: 'Practical Deployment Strategies for Production Python Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-25 00:00'
+    speakers:
+      -
+        name: 'Joshua Arvin Lat'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zjS3XloogFY'
+    slides: null
+  -
+    title: 'IoT Mobile Robot Using Micropython'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-25 00:00'
+    speakers:
+      -
+        name: 'Diogenes Pascua'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:krYbO42IwfA'
+    slides: null
+  -
+    title: 'Building communities: One Byte at a Time'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-26 00:00'
+    speakers:
+      -
+        name: 'Manoj Pandey'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Sam-xvweIE4'
+    slides: null
+  -
+    title: 'Going Serverless With Chalice - A Python Serverless Microframework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-26 00:00'
+    speakers:
+      -
+        name: Roselle
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TUXRjehnnhc'
+    slides: null
+  -
+    title: 'Python on the Philippine Microsatellite Program'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-26 00:00'
+    speakers:
+      -
+        name: 'Benjie Jiao'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7q-KQ7lSrgY'
+    slides: null
+  -
+    title: 'Intro to Satellite Data Processing Using Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-26 00:00'
+    speakers:
+      -
+        name: 'Kim Ramos'
+        twitter: null
+        github: null
+      -
+        name: 'Romer Kristi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AniSKBbCr1w'
+    slides: null
+  -
+    title: 'Messenger BOT using Flask API'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-26 00:00'
+    speakers:
+      -
+        name: 'Jethro Guce'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:w7dIQ0h2njk'
+    slides: null
+  -
+    title: 'Writing RESTful APIs with Flask'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-26 00:00'
+    speakers:
+      -
+        name: 'Allan Barredo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LPy_hJ8dPhE'
+    slides: null
+  -
+    title: 'Pytest + Selenium: A Match for Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-26 00:00'
+    speakers:
+      -
+        name: 'Marisa Quiaot'
+        twitter: null
+        github: null
+      -
+        name: 'Lovely Banquil'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rNBN2YVGAcA'
+    slides: null
+  -
+    title: 'Test Driven Development in Python by'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-26 00:00'
+    speakers:
+      -
+        name: 'Elpedio Adoptante Jr.'
+        twitter: null
+        github: null
+      -
+        name: 'Zakatell Kanda'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mIZwB20oSK4'
+    slides: null
+  -
+    title: 'Trip Down Memory Lane: OOM in Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-26 00:00'
+    speakers:
+      -
+        name: 'Prem Vilas Fortran Rara'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_PiTB4g6rqw'
+    slides: null
+  -
+    title: 'An Introduction to Distributed Task Queue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-26 00:00'
+    speakers:
+      -
+        name: 'Ronald Ryan A. Icasiano'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vtXKMVuBguE'
+    slides: null
+  -
+    title: 'Wela School System Using Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-26 00:00'
+    speakers:
+      -
+        name: 'Sean Mark Mira'
+        twitter: null
+        github: null
+      -
+        name: 'John Vincent Fiel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:uQGCxxt67xc'
+    slides: null

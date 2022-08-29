@@ -1,0 +1,259 @@
+name: 'StarCon 2019'
+description: 'Make Computer Science and its related technologies accessible to everyone, taking into consideration race, class, gender, ability, religion or sexual orientation, and intersections thereof.Create a culture that fosters learning and community building through knowledge sharing among people from diverse backgrounds.'
+location: ''
+venue: ''
+city: Waterloo
+country: Canada
+link: 'https://starcon.io/'
+playlist: 'youtube.com:PL66LdfYKVsijLWaiFCxze6-6xT9bVKqIl'
+from_date: '2019-01-19'
+to_date: '2019-01-20'
+tags: ''
+talks:
+  -
+    title: 'Learning How To Learn'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Vaidehi Joshi'
+        twitter: vaidehijoshi
+        github: vaidehijoshi
+    videos: null
+    slides: null
+  -
+    title: 'Search Engines: How They Work and Why You Need Them'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Toria Gibbs'
+        twitter: scarletdrive
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How Can One Make A Unicode?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Patrick Melanson'
+        twitter: null
+        github: pmelanson
+    videos: null
+    slides: null
+  -
+    title: 'Web Accessibility is More than Colour Contrast'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Kayleen Hamelin'
+        twitter: kayleenHamelin
+        github: KHamelin
+    videos: null
+    slides: null
+  -
+    title: "Hype Yourself, You're Worth It!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Aashni Shah'
+        twitter: aashnisshah
+        github: aashnisshah
+    videos: null
+    slides: null
+  -
+    title: 'Unlock your ROM Sniffing Superpower'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Bradley Dettmer'
+        twitter: brradical
+        github: redSlug
+    videos: null
+    slides: null
+  -
+    title: 'Creative Coding: Making Art on a 3D Printer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Doug Moen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'WTF is Big Data?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Holly Oegema'
+        twitter: null
+        github: heoegema
+    videos: null
+    slides: null
+  -
+    title: 'Converting Off-the-Shelf Video Games into Exergames'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Brandon Reid'
+        twitter: null
+        github: brandonreid
+    videos: null
+    slides: null
+  -
+    title: 'Functional Programming on the Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Vibhanshu Bhardwaj'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Navigating an Equitable Digital Future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-20 00:00'
+    speakers:
+      -
+        name: 'Nasma Ahmed'
+        twitter: nasma_ahmed
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Conjure ye File System,transmorgifier!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-20 00:00'
+    speakers:
+      -
+        name: 'Aaron Levin'
+        twitter: aaronmblevin
+        github: aaronlevin
+    videos: null
+    slides: null
+  -
+    title: 'Collecting User Data Responsibly and at Scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-20 00:00'
+    speakers:
+      -
+        name: 'Chris H-C'
+        twitter: null
+        github: chutten
+    videos: null
+    slides: null
+  -
+    title: 'Thomas the Tank Engine and You: The Future of Rail Technologies'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-20 00:00'
+    speakers:
+      -
+        name: 'Melissa Tedesco'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Ghostin the Compiler: Backdooring Rust'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-20 00:00'
+    speakers:
+      -
+        name: 'Manish Goregaokar'
+        twitter: ManishEarth
+        github: Manishearth
+    videos: null
+    slides: null
+  -
+    title: 'Tarjan’s Algorithm: Now You’re Cooking with DAGs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-20 00:00'
+    speakers:
+      -
+        name: 'Vaibhav Sagar'
+        twitter: vbhvsgr
+        github: vaibhavsagar
+    videos: null
+    slides: null
+  -
+    title: 'Ping atthe speed of light'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-20 00:00'
+    speakers:
+      -
+        name: 'Wesley Aptekar-Cassels'
+        twitter: WAptekar
+        github: WesleyAC
+    videos: null
+    slides: null
+  -
+    title: 'How Not To Build A Virtual Escape Room'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-20 00:00'
+    speakers:
+      -
+        name: 'Falah Shazib'
+        twitter: FalahShazib
+        github: FalahShazib
+    videos: null
+    slides: null
+  -
+    title: 'AWK-nowledge the power! Conquering text in a single line of code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-20 00:00'
+    speakers:
+      -
+        name: 'Vincent Castaneda'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

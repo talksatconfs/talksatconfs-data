@@ -1,0 +1,332 @@
+name: 'PHP Srbija/PHP Serbia 2017'
+description: ''
+location: 'Opera & Theatre Madlenianum, Belgrade, Serbia'
+venue: ''
+city: ''
+country: ''
+link: 'http://www.conf2017.phpsrbija.rs/'
+playlist: ''
+from_date: '2017-05-27'
+to_date: '2017-05-28'
+tags: ''
+talks:
+  -
+    title: 'NoOps: k8s & serverless'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-27 09:00'
+    speakers:
+      -
+        name: 'Dragan Stefanov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ivKhVp3XDOU'
+    slides: null
+  -
+    title: 'Solving Cross-Cutting Concerns in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-27 09:00'
+    speakers:
+      -
+        name: 'Alexander Lisachenko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CIXfYbnom6s'
+    slides: null
+  -
+    title: 'PHP and IoT: Creating a Deployment Device'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-28 09:00'
+    speakers:
+      -
+        name: 'Petar Slović'
+        twitter: null
+        github: null
+      -
+        name: 'Ivan Ćirić'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:N3OIFKP2LW0'
+    slides: null
+  -
+    title: 'Databases — the choice is yours'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-28 04:45'
+    speakers:
+      -
+        name: 'Philipp Krenn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cW6MRLCS1jI'
+    slides: null
+  -
+    title: 'Domain-driven Design Deconstructed'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-28 05:30'
+    speakers:
+      -
+        name: 'Andrew Cassell'
+        twitter: null
+        github: cassell
+    videos:
+      - 'youtube:bgJafJI8mp8'
+    slides: null
+  -
+    title: 'Your butler just received an upgrade'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-28 05:30'
+    speakers:
+      -
+        name: 'Michael Heap'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ztRJzWj5ulg'
+    slides: null
+  -
+    title: 'Websockets and Torrents - A match made in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-27 11:30'
+    speakers:
+      -
+        name: 'James Mallison'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Lo5WK4Hz1BE'
+    slides: null
+  -
+    title: 'Year with event sourcing and CQRS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-27 10:30'
+    speakers:
+      -
+        name: 'Miro Svrtan'
+        twitter: msvrtan
+        github: msvrtan
+    videos:
+      - 'youtube:DwuU1WOpP6M'
+    slides: null
+  -
+    title: 'Managing dependencies is more than running composer update'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-27 06:30'
+    speakers:
+      -
+        name: 'Nils Adermann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QL6w8H2eHQE'
+    slides: null
+  -
+    title: 'Handling deployment process from concept to production'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-27 06:30'
+    speakers:
+      -
+        name: 'Aleksandar Ilić'
+        twitter: null
+        github: null
+      -
+        name: 'Aleksandar Baloš'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LGQbAJ97eQE'
+    slides: null
+  -
+    title: 'Does Your Code Measure Up?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-28 11:30'
+    speakers:
+      -
+        name: 'Adam Culp'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ALUCZTaAYXY'
+    slides: null
+  -
+    title: 'Processing multi-queue messages using daemonized process in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-28 06:30'
+    speakers:
+      -
+        name: 'Nikola Nikolić'
+        twitter: null
+        github: null
+      -
+        name: 'Simo Simeunović'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2HAS8t06mmI'
+    slides: null
+  -
+    title: 'The Things Your Application Does While You’re Not Looking'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-28 10:30'
+    speakers:
+      -
+        name: 'Josh Butts'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vM3Sy-BFEeY'
+    slides: null
+  -
+    title: 'PHP without Frameworks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-28 09:00'
+    speakers:
+      -
+        name: 'Patrick Allaert'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AFXsmUL46BA'
+    slides: null
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-27 04:45'
+    speakers:
+      -
+        name: 'Rasmus Lerdorf'
+        twitter: rasmus
+        github: null
+    videos:
+      - 'youtube:UGWG85CmIXU'
+    slides: null
+  -
+    title: 'Kicking off with Zend Expressive and Doctrine ORM'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-28 04:45'
+    speakers:
+      -
+        name: 'James Titcumb'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TmSvE_9hm4s'
+    slides: null
+  -
+    title: 'Building APIs with Slim Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-27 05:30'
+    speakers:
+      -
+        name: 'Rob Allen'
+        twitter: akrabat
+        github: akrabat
+    videos:
+      - 'youtube:qNqDL22VKwM'
+    slides: null
+  -
+    title: 'Microservices vs The Distributed Monolith'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-27 05:30'
+    speakers:
+      -
+        name: 'Christopher Riley'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GSMxmCOSWqA'
+    slides: null
+  -
+    title: 'Speed Up Your Database 300 Times'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-28 10:30'
+    speakers:
+      -
+        name: 'Anna Filina'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GDqtEyhjpqU'
+    slides: null
+  -
+    title: 'Debugging ElePHPants'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-27 10:30'
+    speakers:
+      -
+        name: 'Adam Culp'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SG7DlU81cA4'
+    slides: null
+  -
+    title: 'Beyond Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-28 06:30'
+    speakers:
+      -
+        name: 'Michael Bodnarchuk'
+        twitter: null
+        github: DavertMik
+    videos:
+      - 'youtube:9vjykb1h3k0'
+    slides: null
+  -
+    title: 'Time is an illusion (lunchtime doubly so)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-27 11:30'
+    speakers:
+      -
+        name: 'Andreas Heigl'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8mbF7n3wzV4'
+    slides: null

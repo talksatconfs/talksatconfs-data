@@ -1,0 +1,357 @@
+name: 'React Finland 2018'
+description: 'Our goal is to connect our valued speakers with our local community in the most fruitful way we can and provide Finnish hospitality to our conference visitors.We hope to create something unique by combining our northern traditions with speakers and visitors from all around the world.'
+location: ''
+venue: ''
+city: Helsinki
+country: Finland
+link: 'https://react-finland.fi'
+playlist: 'youtube.com:PL-a9lBflNu2rXmXqorswbrjNkCKypXOrE'
+from_date: '2018-04-24'
+to_date: '2018-04-26'
+tags: ''
+talks:
+  -
+    title: 'Make linting great again!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-25 16:45'
+    speakers:
+      -
+        name: 'Andrey Ockonetchnikov'
+        twitter: ockonetchnikov
+        github: okonet
+    videos:
+      - 'youtube:Vdl1W3XGcGw'
+    slides: null
+  -
+    title: 'Why I YAML'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-25 17:15'
+    speakers:
+      -
+        name: 'Eemeli Aro'
+        twitter: Eemeli_Aro
+        github: eemeli
+    videos: null
+    slides: null
+  -
+    title: ReactVR
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-26 13:30'
+    speakers:
+      -
+        name: 'Shay Keinan'
+        twitter: Shay_Keinan
+        github: crazypixel
+    videos:
+      - 'youtube:MoJvcTVX20c'
+    slides: null
+  -
+    title: 'Immer: Immutability made easy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-25 11:00'
+    speakers:
+      -
+        name: 'Michel Weststrate'
+        twitter: mweststrate
+        github: mweststrate
+    videos: null
+    slides: null
+  -
+    title: 'Detox: A year in. Building it, Testing with it'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-25 15:45'
+    speakers:
+      -
+        name: 'Rotem Mizrachi-Meidan'
+        twitter: rotemmiz
+        github: rotemmiz
+    videos: null
+    slides: null
+  -
+    title: 'Static Websites - The Final Frontier'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-26 09:45'
+    speakers:
+      -
+        name: 'Juho Vepsäläinen'
+        twitter: bebraw
+        github: bebraw
+    videos:
+      - 'youtube:wVHm4p_3XZI'
+    slides: null
+  -
+    title: "There's always a better way to handle localization"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-25 11:20'
+    speakers:
+      -
+        name: 'Eemeli Aro'
+        twitter: Eemeli_Aro
+        github: eemeli
+    videos:
+      - 'youtube:cSq1HNnr5Y4'
+    slides: null
+  -
+    title: 'Reactive State Machines and Statecharts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-26 12:30'
+    speakers:
+      -
+        name: 'David Khourshid'
+        twitter: davidkpiano
+        github: davidkpiano
+    videos:
+      - 'youtube:frB07tHgPH4'
+    slides: null
+  -
+    title: 'Get started with Reason'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-26 10:15'
+    speakers:
+      -
+        name: 'Nik Graf'
+        twitter: nikgraf
+        github: nikgraf
+    videos:
+      - 'youtube:LHf8P32nVvw'
+    slides: null
+  -
+    title: 'State Management in React Apps with Apollo Client'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-25 14:45'
+    speakers:
+      -
+        name: 'Sara Vieira'
+        twitter: NikkitaFTW
+        github: alexnm
+    videos:
+      - 'youtube:54cbkImmunY'
+    slides: null
+  -
+    title: 'How to use React, webpack and other buzzwords if there is no need'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-26 16:45'
+    speakers:
+      -
+        name: 'Varya Stepanova'
+        twitter: varya_en
+        github: varya
+    videos:
+      - 'youtube:bEV4AgHxX6k'
+    slides: null
+  -
+    title: 'Making Unreasonable States Impossible'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-26 11:00'
+    speakers:
+      -
+        name: 'Patrick Stapfer'
+        twitter: ryyppy
+        github: ryyppy
+    videos:
+      - 'youtube:joeiLRBYj0U'
+    slides: null
+  -
+    title: 'The New Best Practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-25 09:15'
+    speakers:
+      -
+        name: 'Jani Eväkallio'
+        twitter: jevakallio
+        github: jevakallio
+    videos:
+      - 'youtube:zSAA4SqZFr0'
+    slides: null
+  -
+    title: 'World Class experience with React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-26 14:45'
+    speakers:
+      -
+        name: 'Michał Chudziak'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OnkKKcAxJ0Y'
+    slides: null
+  -
+    title: 'Declarative state and side effects'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-25 10:00'
+    speakers:
+      -
+        name: 'Christian Alfoni'
+        twitter: christianalfoni
+        github: christianalfoni
+    videos:
+      - 'youtube:mhyNyEweoOo'
+    slides: null
+  -
+    title: 'Understanding the differences is accepting'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-25 17:00'
+    speakers:
+      -
+        name: 'Sven Sauleau'
+        twitter: svensauleau
+        github: xtuc
+    videos:
+      - 'youtube:OGABsubI6PA'
+    slides: null
+  -
+    title: 'Universal React Apps Using Next.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-25 13:30'
+    speakers:
+      -
+        name: 'Sia Karamalegos'
+        twitter: thegreengreek
+        github: siakaramalegos
+    videos:
+      - 'youtube:iIBLo-yq_2I'
+    slides: null
+  -
+    title: 'Get Rich Quick With React Context'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-25 11:10'
+    speakers:
+      -
+        name: 'Patrick Hund'
+        twitter: wiekatz
+        github: pahund
+    videos:
+      - 'youtube:lBPcqhKl04w'
+    slides: null
+  -
+    title: 'React Native Ignite'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-26 15:45'
+    speakers:
+      -
+        name: 'Gant Laborde'
+        twitter: GantLaborde
+        github: gantman
+    videos:
+      - 'youtube:BpTtm5Qa-EM'
+    slides: null
+  -
+    title: 'React Finland App - Lessons learned'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-26 15:15'
+    speakers:
+      -
+        name: 'Toni Ristola'
+        twitter: toniristola
+        github: tristola
+    videos:
+      - 'youtube:ZKWBe9M4V8w'
+    slides: null
+  -
+    title: 'Styled Components, SSR, and Theming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-25 12:30'
+    speakers:
+      -
+        name: 'Kasia Jastrzębska'
+        twitter: kejt_bw
+        github: kajas90
+    videos:
+      - 'youtube:7zxCnlcVg3s'
+    slides: null
+  -
+    title: 'How React changed everything'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-26 09:15'
+    speakers:
+      -
+        name: 'Ken Wheeler'
+        twitter: ken_wheeler
+        github: kenwheeler
+    videos:
+      - 'youtube:BSCgDc7bVNg'
+    slides: null
+  -
+    title: 'Design Systems for React Developers type'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-24 00:00'
+    speakers:
+      -
+        name: 'Artem Sapegin'
+        twitter: iamsapegin
+        github: sapegin
+    videos: null
+    slides: null
+  -
+    title: 'Immer Immutability made easy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-25 00:00'
+    speakers:
+      -
+        name: 'Michel Weststrate'
+        twitter: mweststrate
+        github: mweststrate
+    videos: null
+    slides: null
+  -
+    title: 'Detox A year in. Building it, Testing with it'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-25 15:45'
+    speakers:
+      -
+        name: 'Rotem Mizrachi-Meidan'
+        twitter: rotemmiz
+        github: rotemmiz
+    videos:
+      - 'youtube:iCmqaMrrZMA'
+    slides: null

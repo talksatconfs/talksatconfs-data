@@ -1,0 +1,147 @@
+name: 'LA Ruby Conf 2015'
+description: ''
+location: ''
+venue: ''
+city: 'Burbank, California'
+country: 'United States'
+link: 'https://web.archive.org/web/20150928124800/https://larubyconf.com/schedules'
+playlist: ''
+from_date: '2015-10-10'
+to_date: '2015-10-10'
+tags: ''
+talks:
+  -
+    title: 'Welcome and Introduction'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-10 08:45'
+    speakers: {  }
+    videos: null
+    slides: null
+  -
+    title: 'Build to Last: How to design rails apps to avoid a rewrite in 5 years'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-10 09:00'
+    speakers:
+      -
+        name: 'Mike Moore'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8YUed3l2BZY'
+    slides: null
+  -
+    title: 'Practical Unix for Ruby & Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-10 10:00'
+    speakers:
+      -
+        name: 'Ylan Segal'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yptv5R5koeI'
+    slides: null
+  -
+    title: 'Learn Enough Tutorial Writing to Be Dangerous'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-10 10:50'
+    speakers:
+      -
+        name: 'Michael Hartl'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TpmoxsYeap0'
+    slides: null
+  -
+    title: 'What If Shakespeare Wrote Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-10 11:40'
+    speakers:
+      -
+        name: 'Adam Cuppy'
+        twitter: adamcuppy
+        github: null
+    videos:
+      - 'youtube:nyx6YF4XSpE'
+    slides: null
+  -
+    title: 'Data Migrations with MagLev'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-10 13:30'
+    speakers:
+      -
+        name: JohnnyT
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:32gjrn3LPFQ'
+    slides: null
+  -
+    title: 'Stupid Ideas For Many Computers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-10 14:20'
+    speakers:
+      -
+        name: Aja
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wqkWKrNW68A'
+    slides: null
+  -
+    title: 'Hacking Development Culture: Treating Developers As People'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-10 15:10'
+    speakers:
+      -
+        name: 'Austin Fonacier'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:z5zll50fRJA'
+    slides: null
+  -
+    title: 'Botany with Bytes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-10 16:00'
+    speakers:
+      -
+        name: 'Lito Nicolai'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OzkZJTp9jNI'
+    slides: null
+  -
+    title: 'Mind of a Hacker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-10 16:50'
+    speakers:
+      -
+        name: 'Ryan Davis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vcsKFsxAIOE'
+    slides: null

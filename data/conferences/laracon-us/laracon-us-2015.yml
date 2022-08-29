@@ -1,0 +1,207 @@
+name: 'Laracon US 2015'
+description: ''
+location: 'Louisville, Kentucky'
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2015-08-11'
+to_date: '2015-08-12'
+tags: ''
+talks:
+  -
+    title: 'Service Oriented Laravel & Lumen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-12 00:00'
+    speakers:
+      -
+        name: 'Samantha Geitz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Leveraging Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-12 00:00'
+    speakers:
+      -
+        name: 'Matt Stauffer'
+        twitter: stauffermatt
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Artisan Jeopardy: Round 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-12 00:00'
+    speakers:
+      -
+        name: 'Jeremy Mikola'
+        twitter: jmikola
+        github: jmikola
+    videos: null
+    slides: null
+  -
+    title: 'Talmudic Maxims To Maximize Your Growth As A Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-12 00:00'
+    speakers:
+      -
+        name: 'Yitzchok Willroth'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Welcome
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-12 00:00'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos: null
+    slides: null
+  -
+    title: 'Chasing "Perfect"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-12 00:00'
+    speakers:
+      -
+        name: 'Adam Wathan'
+        twitter: adamwathan
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Same Thing Happens Every Time'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-12 00:00'
+    speakers:
+      -
+        name: 'Paul M. Jones'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Artisan Jeopardy: Round 1'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-12 00:00'
+    speakers:
+      -
+        name: 'Jeremy Mikola'
+        twitter: jmikola
+        github: jmikola
+    videos: null
+    slides: null
+  -
+    title: 'Navigate Your Git Repository'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-12 00:00'
+    speakers:
+      -
+        name: 'Gemma Lynn'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-12 00:00'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos: null
+    slides: null
+  -
+    title: 'When It All Hits The Fan'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-12 00:00'
+    speakers:
+      -
+        name: "Eryn O'Neil"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Things Laravel Made Me Believe'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-12 00:00'
+    speakers:
+      -
+        name: 'Jeffrey Way'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Open Sourcing Mental Illness'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-12 00:00'
+    speakers:
+      -
+        name: 'Ed Finkler'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Open Source & Company Culture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-12 00:00'
+    speakers:
+      -
+        name: 'Brian Webb'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Hacking The Human Interface'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-12 00:00'
+    speakers:
+      -
+        name: 'Samantha Quiñones'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

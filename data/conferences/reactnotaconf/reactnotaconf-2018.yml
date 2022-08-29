@@ -1,0 +1,144 @@
+name: '<React.NotAConf /> 2018'
+description: '<React.NotAConf /> is an initiative brought to live by <React.Sofia /> meetup - a community of 700+ React enthusiasts. ⚛️ In 2018, we successfully shipped the first edition of the conference. 🚀In 2019 we are planning something even better. 🤩 Stay tuned!'
+location: ''
+venue: ''
+city: Sofia
+country: Bulgaria
+link: 'http://react-not-a-conf.com/archive/2018'
+playlist: 'youtube.com:PLOEJ0eNOcZeqYZCTipkAra8g-ZHYjAijK'
+from_date: '2018-04-28'
+to_date: '2018-04-28'
+tags: ''
+talks:
+  -
+    title: Opening
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Janet Todorova'
+        twitter: janettodorova
+        github: janettt
+    videos:
+      - 'youtube:3eEDTIRVaYI'
+    slides: null
+  -
+    title: 'Integrating React Into Legacy Projects'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Martin Chaov'
+        twitter: null
+        github: mchaov
+    videos:
+      - 'youtube:O1OhnLV76Tk'
+    slides:
+      - 'https://onedrive.live.com/view.aspx?resid=AB06D56F74E407A5!368120&ithint=file%2cpptx&app=PowerPoint&authkey=!AFyK9PRwJwgw_Dc'
+  -
+    title: 'Reactive Blockchain'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Vladimir Tasev'
+        twitter: DeVladinci
+        github: devladinci
+    videos:
+      - 'youtube:I3A7fdHID7A'
+    slides: null
+  -
+    title: 'Humanizing Your Documentation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Carolyn Stransky'
+        twitter: carolstran
+        github: carolstran
+    videos:
+      - 'youtube:8PGrsRnfxc0'
+    slides:
+      - 'https://speakerdeck.com/carolstran/humanizing-your-documentation-full-talk'
+  -
+    title: 'Structuring Your App’s Story With Sagas and Selectors'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Rebecca Hill'
+        twitter: rebekaka
+        github: beerecca
+    videos:
+      - 'youtube:3XV8MQZHsQ8'
+    slides:
+      - 'https://s3.eu-central-1.amazonaws.com/conference-box/slides/Structure+your+story-sofia.pdf'
+  -
+    title: NADCast
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Krasimir Tsonev'
+        twitter: KrasimirTsonev
+        github: krasimir
+    videos:
+      - 'youtube:Qz9IeCHIc_Q'
+    slides: null
+  -
+    title: 'Garbage Collection in Modern Web Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'JAN MONSCHKE'
+        twitter: thedeftone
+        github: janmonschke
+    videos:
+      - 'youtube:XtcGHhhGoZw'
+    slides:
+      - 'https://docs.google.com/presentation/d/16BdKLmW7obr3cuqBBO4w-FNZ6y3FsktlLuWWxxunLOc/edit#slide=id.p'
+  -
+    title: 'Designing with React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Kristin Baumann'
+        twitter: kristin_baumann
+        github: kristinbaumann
+    videos:
+      - 'youtube:cdU6sLjV564'
+    slides:
+      - 'https://speakerdeck.com/devladinci/from-native-to-react-native'
+  -
+    title: 'Rebuilding Product Hunt Mobile with React.Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Vladimir Vladimirov'
+        twitter: DeVladinci
+        github: devladinci
+    videos:
+      - 'youtube:LUG_REf4lrk'
+    slides:
+      - 'https://speakerdeck.com/devladinci/from-native-to-react-native'

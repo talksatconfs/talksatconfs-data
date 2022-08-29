@@ -1,0 +1,166 @@
+name: 'DevOne 2019'
+description: 'The only constant in the world is change. Our mission at DevOne is to embrace change. To grow, to scale, to let in new technology as it transforms us as people. In our third year, we want to take small steps to the big leaps of humanity. By inviting engineers from all over the world who found solutions to problems beyond our imagination.'
+location: ''
+venue: ''
+city: Linz
+country: Austria
+link: 'https://devone.at/'
+playlist: 'youtube.com:PLfi6VUNSzNYniZOM2u4huDwZmx4BZH36B'
+from_date: '2019-04-11'
+to_date: '2019-04-11'
+tags: ''
+talks:
+  -
+    title: 'Scaling Sparta'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Emily Freeman'
+        twitter: editingemily
+        github: null
+    videos:
+      - 'youtube:SgAdrpY4UMA'
+    slides: null
+  -
+    title: 'SPA Revolution with WebAssembly and ASP.NET Blazor'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Rainer Stropek'
+        twitter: rstropek
+        github: rstropek
+    videos:
+      - 'youtube:_gYgkZ1UBQ4'
+    slides: null
+  -
+    title: 'Tinkertoys, Microservices, and Feature Management: How to Build for the Future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Heidi Waterhouse'
+        twitter: wiredferret
+        github: null
+    videos:
+      - 'youtube:VJVctM97bbU'
+    slides: null
+  -
+    title: 'Architectures for huge Angular based Enterprise Applications: npm Packages, Monorepos and Microservices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos:
+      - 'youtube:4ILauSLMpb4'
+    slides: null
+  -
+    title: "It's Dangerous To Go Alone, Take This! Navigating the Overworld of Cloud Native and Open Source"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Carmen Andoh'
+        twitter: carmatrocity
+        github: null
+    videos:
+      - 'youtube:nCE_2Y4piQU'
+    slides: null
+  -
+    title: 'Polyglot Builds with Bazel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Ulf Adams'
+        twitter: ulfjack
+        github: null
+    videos:
+      - 'youtube:2JQrpvYzNfY'
+    slides: null
+  -
+    title: 'Composing the Cloud, 2.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Matheus Fernandes'
+        twitter: matheusfrndes
+        github: null
+    videos:
+      - 'youtube:JvbXyh9Htxw'
+    slides: null
+  -
+    title: 'The culture of Site Reliability Engineering'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Wolfgang Hennerbichler'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cxkAEdn094Y'
+    slides: null
+  -
+    title: 'Resiliency and Availability Design Patterns for the Cloud'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Adrian Hornsby'
+        twitter: adhorn
+        github: null
+    videos:
+      - 'youtube:mLg13UmEXlw'
+    slides: null
+  -
+    title: 'Performance tuning Twitter services with Graal and Machine Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Chris Thalinger'
+        twitter: christhalinger
+        github: null
+    videos:
+      - 'youtube:6W0Z2gjL9QY'
+    slides: null
+  -
+    title: "We don't make mistakes"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Mathieu Henri'
+        twitter: p01
+        github: null
+    videos:
+      - 'youtube:jLhLyUJVoOY'
+    slides: null

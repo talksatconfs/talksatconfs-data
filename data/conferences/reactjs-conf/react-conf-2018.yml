@@ -1,0 +1,412 @@
+name: 'React Conf 2018'
+description: "React Conf 2018 is the official Facebook React event. This year's event will be held in Henderson, Nevada."
+location: ''
+venue: ''
+city: 'Henderson, NV'
+country: 'United States'
+link: 'https://conf.reactjs.org/'
+playlist: 'youtube.com:PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ'
+from_date: '2018-10-24'
+to_date: '2018-10-26'
+tags: ''
+talks:
+  -
+    title: 'React Today and Tomorrow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-25 00:00'
+    speakers:
+      -
+        name: 'Sophie Alpert'
+        twitter: sophiebits
+        github: sophiebits
+      -
+        name: 'Dan Abramov'
+        twitter: dan_abramov
+        github: gaearon
+    videos:
+      - 'youtube:V-QO-KO90iQ'
+    slides: null
+  -
+    title: '90% Cleaner React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-25 00:00'
+    speakers:
+      -
+        name: 'Ryan Florence'
+        twitter: ryanflorence
+        github: ryanflorence
+    videos:
+      - 'youtube:wXLf18DsV-I'
+    slides: null
+  -
+    title: 'Building Todo The Game In A Cloud-Only Dev Environment'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-25 00:00'
+    speakers:
+      -
+        name: 'Christina Holland'
+        twitter: americanwombat
+        github: hsubox76
+    videos:
+      - 'youtube:kVSTKD13gos'
+    slides: null
+  -
+    title: 'The Path To A Declaratively Animated Future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-25 00:00'
+    speakers:
+      -
+        name: 'Matt Perry'
+        twitter: popmotionjs
+        github: popmotion
+    videos:
+      - 'youtube:1e07uPWpvzI'
+    slides: null
+  -
+    title: "What's New in Create React App"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-25 00:00'
+    speakers:
+      -
+        name: 'Joe Haddad'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:He-m9gd6WyM'
+    slides: null
+  -
+    title: 'Components as Units of Work'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-25 00:00'
+    speakers:
+      -
+        name: 'Bryce Kalow'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tlSbgrPe420'
+    slides: null
+  -
+    title: '5 Animations You Should Know and Use'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-25 00:00'
+    speakers:
+      -
+        name: 'Marcos Martins'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:w9suOaHITtk'
+    slides: null
+  -
+    title: 'Render Props, PureComponent and Reactivity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-25 00:00'
+    speakers:
+      -
+        name: 'Karl Dray'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xmQjQmJXQK8'
+    slides: null
+  -
+    title: 'Better Living through Git Hooks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-25 00:00'
+    speakers:
+      -
+        name: 'Leta Keane'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:m-uy_2xmIP4'
+    slides: null
+  -
+    title: 'GraphQL without GraphQL - Backend Agnostic GraphQL inspired Queries For Colocating Data Requests With Components '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-25 00:00'
+    speakers:
+      -
+        name: 'Conor Hastings'
+        twitter: stillconor
+        github: conorhastings
+    videos:
+      - 'youtube:YSEUAi1dAdk'
+    slides: null
+  -
+    title: 'Playing With Polyhedra: Creating Beauty from Obsession'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-25 00:00'
+    speakers:
+      -
+        name: 'Nat Alison'
+        twitter: tesseralis
+        github: tesseralis
+    videos:
+      - 'youtube:Ew-UzGC8RqQ'
+    slides: null
+  -
+    title: 'Developing Immersive cross-platform AR and VR Apps using React-Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-25 00:00'
+    speakers:
+      -
+        name: 'Pulkit Kakkar'
+        twitter: pulkitkkr0
+        github: pulkitkkr
+    videos:
+      - 'youtube:jd6FBBK1paA'
+    slides: null
+  -
+    title: 'Beyond Web-Apps: React, JavaScript and WebAssembly To Port Legacy Native Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-25 00:00'
+    speakers:
+      -
+        name: 'Florian Rival'
+        twitter: Florianrival
+        github: 4ian
+    videos:
+      - 'youtube:6La7jSCnYyk'
+    slides: null
+  -
+    title: 'React For Social Change'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-25 00:00'
+    speakers:
+      -
+        name: 'Rodrigo Quezada'
+        twitter: rodikana
+        github: ikana
+    videos:
+      - 'youtube:tE-0xb2f44g'
+    slides: null
+  -
+    title: 'Concurrent Rendering in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Andrew Clark'
+        twitter: acdlite
+        github: acdlite
+      -
+        name: 'Brian Vaughn'
+        twitter: brian_d_vaughn
+        github: bvaughn
+    videos:
+      - 'youtube:ByBPyMBTzM0'
+    slides: null
+  -
+    title: 'Moving To Suspense'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Jared Palmer'
+        twitter: jaredpalmer
+        github: jaredpalmer
+    videos:
+      - 'youtube:SCQgE4mTnjU'
+    slides: null
+  -
+    title: 'SVG illustrations as React Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Elizabet Oliveira'
+        twitter: miuki_miu
+        github: miukimiu
+    videos:
+      - 'youtube:1gG8rtm-rq4'
+    slides: null
+  -
+    title: 'The Missing Abstraction of Charting'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Chris Trevino'
+        twitter: darthtrevino
+        github: darthtrevino
+    videos:
+      - 'youtube:qqffsEHKMcM'
+    slides: null
+  -
+    title: 'Elsa: AI Conversational Agent Aimed At Improving Mental Health For Women'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Damini Satya Kammakomati'
+        twitter: Daminisatya
+        github: daminisatya
+    videos:
+      - 'youtube:eSwm1WZk7uA'
+    slides: null
+  -
+    title: 'Context in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Sophia Shoemaker'
+        twitter: wisecobbler
+        github: mrscobbler
+    videos:
+      - 'youtube:PaE-TfTY8TY'
+    slides: null
+  -
+    title: 'Building a better Country through Tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Manuela Castrillon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VKvKvWQI1i0'
+    slides: null
+  -
+    title: 'An Effective Code Review'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Donavon West'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jtXgNTnVJUU'
+    slides: null
+  -
+    title: 'Syncing Component State Across Tabs with Service Workers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Tyler Clark'
+        twitter: iamtylerwclark
+        github: twclark0
+    videos:
+      - 'youtube:tq4vXRT7TU0'
+    slides: null
+  -
+    title: 'Block the Main Thread'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'James Long'
+        twitter: jlongster
+        github: jlongster
+    videos:
+      - 'youtube:ZXqyaslyXUw'
+    slides: null
+  -
+    title: "React Native's New Architecture"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Parashuram N'
+        twitter: nparashuram
+        github: axemclion
+    videos:
+      - 'youtube:UcqRXTriUVI'
+    slides: null
+  -
+    title: 'Let React speak your language'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Tomáš Ehrlich'
+        twitter: tomas_ehrlich
+        github: tricoder42
+    videos:
+      - 'youtube:soAEB7ltQPk'
+    slides: null
+  -
+    title: 'React for Designers with FramerX'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Thomas Aylott'
+        twitter: subtlegradient
+        github: subtlegradient
+    videos:
+      - 'youtube:xYI9N0memLc'
+    slides: null
+  -
+    title: 'Building A Diverse And Inclusive Community.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Eyitayo Alimi'
+        twitter: alimieyitayo
+        github: alimieyitay
+    videos:
+      - 'youtube:6DDdtt5zXPk'
+    slides: null

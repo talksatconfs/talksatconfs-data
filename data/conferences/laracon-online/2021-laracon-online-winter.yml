@@ -1,0 +1,124 @@
+name: '2021 - Laracon Online (Winter)'
+description: "The largest Laravel event of the year, streamed directly to you.\r\nWe’ve put together a full day of talks featuring some of Laravel's brightest minds, and streaming them directly to your home or office.\r\n\r\nThese talks are brand new and never before presented at any Laracon, including brand new feature announcements from Taylor Otwell, creator of Laravel. All talks are presented live during the event."
+location: ''
+venue: ''
+city: ''
+country: ''
+link: 'https://web.archive.org/web/20210301061727/https://laracon.net/'
+playlist: 'youtube:PLyfOROdV5_9NM4LCAkRG1XNtkSudGjkt_'
+from_date: '2021-03-17'
+to_date: '2021-03-17'
+tags: ''
+talks:
+  -
+    title: 'Diving the Queue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-03-17 04:30'
+    speakers:
+      -
+        name: 'Mohamed Said'
+        twitter: themsaid
+        github: null
+    videos:
+      - 'youtube:of7zOVXtTec'
+    slides: null
+  -
+    title: 'The final Laravel Service Container talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-03-17 05:30'
+    speakers:
+      -
+        name: 'Christoph Rumpel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rdQfLbmYB5U'
+    slides: null
+  -
+    title: 'Routing Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-03-17 06:50'
+    speakers:
+      -
+        name: 'Bobby Bouwmann'
+        twitter: bobbybouwmann
+        github: bobbybouwmann
+    videos:
+      - 'youtube:PojCIJaBwBE'
+    slides: null
+  -
+    title: 'Laravel Update'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-03-17 07:50'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:J6KolALrlgo'
+    slides: null
+  -
+    title: 'Understanding Laravel broadcasting'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-03-17 09:10'
+    speakers:
+      -
+        name: 'Marcel Pociot'
+        twitter: marcelpociot
+        github: mpociot
+    videos:
+      - 'youtube:Toi6ddDxCug'
+    slides: null
+  -
+    title: 'Understanding Foundation: What ties everything together'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-03-17 10:10'
+    speakers:
+      -
+        name: 'Miguel Piedrafita'
+        twitter: m1guelpf
+        github: null
+    videos:
+      - 'youtube:QCveo4y4uSU'
+    slides: null
+  -
+    title: 'Doing small things with Livewire & Alpine'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-03-17 11:30'
+    speakers:
+      -
+        name: 'Caleb Porzio'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iT5OteOrkdw'
+    slides: null
+  -
+    title: "Laravel's Artisan Console component"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-03-17 12:30'
+    speakers:
+      -
+        name: 'Nuno Maduro'
+        twitter: enunomaduro
+        github: nunomaduro
+    videos:
+      - 'youtube:zSMNL8of-Y4'
+    slides: null

@@ -1,0 +1,504 @@
+name: 'Angular Connect 2018'
+description: 'Our brilliant sponsors make AngularConnect possible. Check out their websites and come and say hello on the day. Ever thought about joining them up there in lights?'
+location: ''
+venue: ''
+city: London
+country: 'United Kingdom'
+link: 'https://past.angularconnect.com/2018/'
+playlist: 'youtube.com:PLAw7NFdKKYpGr_je48akFwcw8tYUk4nzl'
+from_date: '2018-11-07'
+to_date: '2018-11-09'
+tags: ''
+talks:
+  -
+    title: 'Keynote address'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'John Doe'
+        twitter: IgorMinar
+        github: null
+    videos:
+      - 'youtube:rbFLorQWlOQ'
+    slides: null
+  -
+    title: 'VS Code Can Do That'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'John Papa'
+        twitter: john_papa
+        github: johnpapa
+    videos:
+      - 'youtube:0QehKy1hyOQ'
+    slides:
+      - 'https://slides.com/johnpapa/vs-code-can-do-that#/'
+  -
+    title: 'Automating UI development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Stefan Baumgartner'
+        twitter: ddprrt
+        github: null
+      -
+        name: 'Katrin Freihofner'
+        twitter: Ka_TriN_F
+        github: null
+    videos:
+      - 'youtube:3_XvaSD_0xo'
+    slides:
+      - 'https://www.slideshare.net/ddprrt/automating-ui-development'
+  -
+    title: 'How to save time & money by planning your ngUpgrade'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Sam Julien'
+        twitter: samjulien
+        github: null
+    videos:
+      - 'youtube:495KHr966e0'
+    slides: null
+  -
+    title: 'RxJS schedulers in depth'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Michael Hladky'
+        twitter: Michael_Hladky
+        github: null
+    videos:
+      - 'youtube:S1eDh7MonbI'
+    slides:
+      - 'https://docs.google.com/presentation/d/1MFP-mpOCWX_dWmds4T8xhB0HB0_VJbcl4_RWWOZMWGw/edit#slide=id.g47d0d46418_3_0'
+  -
+    title: 'How to AI in JS?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Asim Hussain'
+        twitter: jawache
+        github: jawache
+    videos:
+      - 'youtube:_H2NNofisA0'
+    slides: null
+  -
+    title: 'The good, the bad and the ugly - Component architecture at scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: ' Ana Cidre'
+        twitter: anacidre_
+        github: anacidre
+      -
+        name: 'Sherry List'
+        twitter: sherrrylst
+        github: null
+    videos:
+      - 'youtube:fLNERt19FTs'
+    slides:
+      - 'https://docs.google.com/presentation/d/1wi6eGXeCUWlIv4AkyPAxHEEb0hVyGvDAZn2MmgnAWSg/edit'
+  -
+    title: 'You Might Not Need NgRx'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Michael Ryan'
+        twitter: MikeRyanDev
+        github: null
+    videos:
+      - 'youtube:omnwu_etHTY'
+    slides: null
+  -
+    title: 'Universally speaking'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Craig Spence'
+        twitter: phenomnominal
+        github: null
+    videos:
+      - 'youtube:EiiZAGkiUXE'
+    slides:
+      - 'https://slides.com/craigspence/universally-speaking#/'
+  -
+    title: 'Upgrading to Angular without ngUpgrade'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Erin Coughlan'
+        twitter: ErinCoughlan16
+        github: null
+    videos:
+      - 'youtube:aXOYa4S96OM'
+    slides:
+      - 'https://docs.google.com/presentation/d/1Tx2AHqq08UyXeozeM-h3xXWaJAES_l3GNX9CbhMPfIw/'
+  -
+    title: 'Optimize and debug change detection like a pro'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Max Koretskyi'
+        twitter: maxim_koretskyi
+        github: null
+    videos:
+      - 'youtube:DsBy9O0c6eo'
+    slides: null
+  -
+    title: 'Why you need a build system, and why it should be Bazel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Martin Probst'
+        twitter: martin_probst
+        github: null
+    videos:
+      - 'youtube:Qb3tykleV_g'
+    slides: null
+  -
+    title: 'Nest the backend for your Angular application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Bo Vandersteene'
+        twitter: reibo_bo
+        github: null
+    videos:
+      - 'youtube:JSFG1bat1zk'
+    slides:
+      - 'https://speakerdeck.com/bovandersteene/nest-the-backend-for-your-angular-application-at-angularconnect'
+  -
+    title: 'Testing Angular with Cypress.io'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Joe Eames'
+        twitter: josepheames
+        github: null
+    videos:
+      - 'youtube:eZyD-8qglWY'
+    slides: null
+  -
+    title: 'The differences between ElementRef, TemplateRef, ViewContainerRef'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Ashnita Bali'
+        twitter: ashnita01
+        github: null
+      -
+        name: 'Marcin Ryzycki'
+        twitter: ryzmen
+        github: null
+    videos:
+      - 'youtube:uQqp1z7FpJY'
+    slides:
+      - 'https://docs.google.com/presentation/d/1inX3SsUhK8qGidfMxZmirCfR30Iu0mJfQP1NrPhZ0Ic/edit#slide=id.p'
+  -
+    title: 'Building an Angular PWA Angular Service Worker or Workbox?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Maxim Salnikov'
+        twitter: webmaxru
+        github: webmaxru
+    videos:
+      - 'youtube:jTptVNvr0y8'
+    slides:
+      - 'https://slides.com/webmax/ngsw-workbox-ac/#/'
+  -
+    title: 'Location based immersive experiences with Angular and WebXR'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Aysegul Yonet'
+        twitter: AysSomething
+        github: null
+    videos:
+      - 'youtube:buA4FAGHB98'
+    slides: null
+  -
+    title: 'Angular Testing In TDD - Writing a Feature Guided By a Responsible Maniac'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Shai Reznik'
+        twitter: shai_reznik
+        github: null
+    videos:
+      - 'youtube:k9LWSh2xxjM'
+    slides: null
+  -
+    title: 'Lightening Talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Ashnita Bali'
+        twitter: ashnita01
+        github: null
+      -
+        name: 'Darryl Brown'
+        twitter: ConsultDarryl
+        github: null
+      -
+        name: 'Brown,Michael'
+        twitter: MikeRyanDev
+        github: null
+      -
+        name: 'Stanimira Vlaeva'
+        twitter: StanimiraVlaeva
+        github: sis0k0
+    videos:
+      - 'youtube:k9LWSh2xxjM'
+    slides: null
+  -
+    title: 'The theory of Angular Ivy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Alex Rickabaugh'
+        twitter: synalx
+        github: null
+    videos:
+      - 'youtube:isb5Ef6yI48'
+    slides: null
+  -
+    title: 'Angular Ivy by example'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Jason Aden'
+        twitter: jasonaden1
+        github: null
+    videos:
+      - 'youtube:MMPl9wHzmS4'
+    slides: null
+  -
+    title: 'Automate G Suite with Apps Script and Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Grant Timmerman'
+        twitter: granttimmerman
+        github: granttimmerman
+    videos:
+      - 'youtube:f8172H32vxo'
+    slides: null
+  -
+    title: 'Migrating from AngularJS to Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Elana Olson'
+        twitter: elanathellama
+        github: null
+    videos:
+      - 'youtube:fFLKEtIqZeY'
+    slides: null
+  -
+    title: 'Dynamic reactive forms with GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Juan Stoppa'
+        twitter: juanstoppa
+        github: null
+    videos:
+      - 'youtube:URM1a8faJl0'
+    slides:
+      - 'https://slides.com/juanstoppa/deck-2#/'
+  -
+    title: 'Climbing up injector trees'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Uri Shaked'
+        twitter: UriShaked
+        github: urish
+      -
+        name: 'Kapunahele Wong'
+        twitter: kapunahele
+        github: null
+    videos:
+      - 'youtube:F6rF16TmB0E'
+    slides:
+      - 'https://docs.google.com/presentation/d/166DO5BELbk3qC44-VLuScCPbGdOFGEUnGBGHKoSEc1U/edit#slide=id.p'
+  -
+    title: 'The life of an Angular pull request'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Manu Murthy'
+        twitter: manu_murthy
+        github: null
+    videos:
+      - 'youtube:yQ9wOiQ6GKM'
+    slides:
+      - 'https://docs.google.com/presentation/d/1jTAqyOXKs5ZcshLvuD0-nzB-tvyHLCuLKf0mkTKmKLs/edit#slide=id.g26d86d3325_0_0'
+  -
+    title: 'Architectures for huge Angular based enterprise applications npm Packages, Monorepos and Micro Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos:
+      - 'youtube:YU-fMRs-ZYU'
+    slides: null
+  -
+    title: 'White-labeling & A/B testing with interchangeable components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Younes Jaaidi'
+        twitter: yjaaidi
+        github: null
+    videos:
+      - 'youtube:nX_HhiqmFAI'
+    slides:
+      - 'https://drive.google.com/file/d/1_cbBqlPAOTqbMDfOTZQ2kfBZUBkvfOrD/view'
+  -
+    title: 'The CLI Roadmap'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Filipe Silva'
+        twitter: filipematossilv
+        github: null
+    videos:
+      - 'youtube:tUCd6QSzEy4'
+    slides:
+      - 'https://docs.google.com/presentation/d/1PMHmmJXoHrjfUUCkyb3RsSfuPEAiXl2QPUW87GsIr0U/edit#slide=id.g4429dd6dc2_0_0'
+  -
+    title: 'It’s alive! Dino-mic components in Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Shmuela Jacobs'
+        twitter: ShmuelaJ
+        github: shmool
+    videos:
+      - 'youtube:q2Exs-82tkw'
+    slides: null
+  -
+    title: 'Runtime i18n with Ivy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Olivier Combe'
+        twitter: OCombe
+        github: null
+    videos:
+      - 'youtube:miG-ghJhFPc'
+    slides:
+      - 'https://docs.google.com/presentation/d/1vdJ46S8SRYp6Bux7nkw3-hpE-XN_L3RK5ZodKyyfmBE/edit'
+  -
+    title: 'Crossing Across Platforms'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Sani Yusuf'
+        twitter: haibridco
+        github: null
+    videos:
+      - 'youtube:G39uEEa2hxo'
+    slides:
+      - 'https://slides.com/saniyusuf/crossing-across-platforms#/'

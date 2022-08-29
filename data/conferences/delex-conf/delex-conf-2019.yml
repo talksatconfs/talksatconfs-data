@@ -1,0 +1,455 @@
+name: 'DelEx Conf 2019'
+description: 'Delex stands for Delivery Excellence. Proper use of Test Automation and DevOps can shift delivery to a new heights.We introduce two-day event filled up with progressive ideas from changemakers and the most inspiring thinkers.Talks on conference will cover different level of Automated Testing, DevOps activities and tools.It is a good platform for professional networking that leaves plenty of space for collaboration!'
+location: ''
+venue: ''
+city: Minsk
+country: Belarus
+link: 'https://delex-conf.com/'
+playlist: 'youtube.com:PLYinOsby80Nma5875lCDEaxRmbxy0T9-b'
+from_date: '2019-02-08'
+to_date: '2019-02-09'
+tags: ''
+talks:
+  -
+    title: 'New in Selenium 4.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Alexey Barantsev'
+        twitter: barancev
+        github: barancev
+    videos:
+      - 'youtube:7_Q8x37fPLw'
+    slides:
+      - 'https://delex-conf.com/2019/new-in-selenium-4-0/'
+  -
+    title: 'How we deliver a Robot'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Nikolay Lagutko'
+        twitter: gerzog613
+        github: nikolaylagutko
+    videos:
+      - 'youtube:wKkmpI_re2o'
+    slides: null
+  -
+    title: 'Test Driven Infrastructure with Serverspec & Kitchen CI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Adedayo Akinpelu'
+        twitter: Haroldsphinx
+        github: haroldsphinx
+    videos:
+      - 'youtube:MJW2jq0ht8E'
+    slides:
+      - 'https://delex-conf.com/2019/test-driven-infrastructure-with-serverspec-kitchen-ci/'
+  -
+    title: 'Oreo, Nougat, Marshmallow and Lollipop effective Android testing in 2019'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Ivan Krutov'
+        twitter: vania-pooh
+        github: vania-pooh
+    videos:
+      - 'youtube:nk--NaE_a0M'
+    slides:
+      - 'https://delex-conf.com/2019/oreo-nougat-marshmallow-and-lollipop-effective-android-testing-in-2019/'
+  -
+    title: 'Monads for Testers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Igor Khrol'
+        twitter: null
+        github: Khrol
+    videos:
+      - 'youtube:F1SokW2DvXI'
+    slides:
+      - 'https://delex-conf.com/2019/monads-for-testers/'
+  -
+    title: 'Securing a search engine while maintaining usability'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Alexander Reelsen'
+        twitter: spinscale
+        github: spinscale
+    videos:
+      - 'youtube:OXJpE_FrLVA'
+    slides:
+      - 'https://delex-conf.com/2019/securing-a-search-engine-while-maintaining-usability/'
+  -
+    title: 'Cypress – charm and easy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Yaroslav Pernerovsky'
+        twitter: null
+        github: ysparrow
+    videos:
+      - 'youtube:87ikrlIIT8Y'
+    slides: null
+  -
+    title: 'Device server for android farm or running more than 30k tests every day'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Roman Ivanitsky'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UvUKuZtzK8c'
+    slides: null
+  -
+    title: 'Stability in Unstability. Self-healing test automation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Anna Chernyshova'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qKdD1WjVrcc'
+    slides:
+      - 'https://delex-conf.com/2019/testcases-as-a-code/'
+  -
+    title: 'Real use-cases of using AWS Lambda for infrastructure tasks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Artem Nikitin'
+        twitter: artemnikitin
+        github: artemnikitin
+    videos:
+      - 'youtube:IljpCgmBx7Q'
+    slides:
+      - 'https://delex-conf.com/2019/real-use-cases-of-using-aws-lambda-for-infrastructure-tasks/'
+  -
+    title: 'Building self-managing Test Data marketplace'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Dzmitry Humianiuk'
+        twitter: DzmitryHumianiuk
+        github: DzmitryHumianiuk
+    videos:
+      - 'youtube:IgyHqtVIQl4'
+    slides:
+      - 'https://delex-conf.com/2019/building-self-managing-test-data-marketplace/'
+  -
+    title: 'Wargaming ElasticSearch Cloud architecture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Denis Zheleztsov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ouloiciOlqc'
+    slides: null
+  -
+    title: 'Automation of Security scanning easy or cheese'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Karen Florykian'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cLZrPFh1-OE'
+    slides:
+      - 'https://delex-conf.com/2019/automation-of-security-scanning-easy-or-cheese/'
+  -
+    title: 'Building loose-coupled continuous testing platform'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Artem Rozumenko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yGsdumyOERk'
+    slides:
+      - 'https://delex-conf.com/2019/building-loose-coupled-continuous-testing-platform/'
+  -
+    title: 'Test Automation. Worst Practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Elena Kulgavaya'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iKM7e812F20'
+    slides: null
+  -
+    title: 'The introduction of DevOps in large scale organizations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Ivan Evtuhovich'
+        twitter: evtuhovich
+        github: evtuhovich
+    videos:
+      - 'youtube:OzQD5L3Ij6o'
+    slides:
+      - 'https://delex-conf.com/2019/the-introduction-of-devops-in-large-scale-organizations/'
+  -
+    title: 'DevOps checklist or how to understand where is your team in DevOps landscape'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'Mikalai Alimenkou'
+        twitter: xpinjection
+        github: xpinjection
+    videos:
+      - 'youtube:2HmQVB12nPQ'
+    slides:
+      - 'https://delex-conf.com/2019/devops-checklist-or-how-to-understand-where-is-your-team-in-devops-landscape/'
+  -
+    title: 'Inside the Elastic: Testing a Well Known Open Source Stack'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'Alexander Reelsen'
+        twitter: spinscale
+        github: spinscale
+    videos:
+      - 'youtube:1CCaM4JV8QQ'
+    slides:
+      - 'https://delex-conf.com/2019/inside-the-elastic-stack-testing-and-releasing-a-well-known-open-source-stack/'
+  -
+    title: 'infinite space for your tests'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'Alexei Khursevich'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:37xNUtSYl7o'
+    slides:
+      - 'https://delex-conf.com/2019/kubernetes-infinite-space-for-your-tests/'
+  -
+    title: 'PowerShell, graphs, topology and real use-cases'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'Andrey Vernigora'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:A7KXry22WkQ'
+    slides:
+      - 'https://delex-conf.com/2019/powershell-graphs-topology-and-real-use-cases/'
+  -
+    title: 'Test Impact Analysis. Smarten up your pipeline and reduce t'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'Bart Szulc'
+        twitter: BartSzulc
+        github: null
+    videos:
+      - 'youtube:hWi819DCMrE'
+    slides:
+      - 'https://delex-conf.com/2019/test-impact-analysis-smarten-up-your-pipeline-and-reduce-test-time/'
+  -
+    title: 'Migration to the cloud, DevOps prospective'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'Nikalai Stakanov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YUX0mkMx-tE'
+    slides: null
+  -
+    title: 'Design Decisions for Perfect JS Testing Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'Michael Bodnarchuk'
+        twitter: null
+        github: DavertMik
+    videos:
+      - 'youtube:u0XbBnsFpgc'
+    slides:
+      - 'https://delex-conf.com/2019/design-decisions-for-perfect-js-testing-framework/'
+  -
+    title: 'Flaky tests 2.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'Andrey Solntsev'
+        twitter: asolntsev
+        github: asolntsev
+    videos:
+      - 'youtube:ibx8nVvt-Js'
+    slides:
+      - 'https://delex-conf.com/2019/flaky-tests-2-0/'
+  -
+    title: 'A Research Study into DevOps bottlenecks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'Baruch Sadogursky'
+        twitter: jbaruch
+        github: jbaruch
+    videos:
+      - 'youtube:rfa0uGGhkqU'
+    slides: null
+  -
+    title: 'Test Automation for Bluetooth Connected IoT Devices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'Lasse Häll'
+        twitter: null
+        github: LasseHall
+    videos:
+      - 'youtube:iEnPn08wMik'
+    slides:
+      - 'https://delex-conf.com/2019/test-automation-for-bluetooth-connected-iot-devices/'
+  -
+    title: 'How IntelliJ IDEA plugin can help you in QA Automation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'Artem Eroshenko'
+        twitter: eroshenkoam
+        github: eroshenkoam
+    videos:
+      - 'youtube:KEZM7Ni7yY8'
+    slides:
+      - 'https://delex-conf.com/2019/how-intellij-idea-plugin-can-help-you-in-qa-automation/'
+  -
+    title: 'Back-end tests not evident but simple way to improve your testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'Alexander Chumakin'
+        twitter: alexandrchumakin
+        github: alex_chumakin
+    videos:
+      - 'youtube:kb-mrnWwkD8'
+    slides:
+      - 'https://delex-conf.com/2019/kubernetes-infinite-space-for-your-tests/'
+  -
+    title: 'Howdy Microsoft Azure High Availability web application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'Artem Romanchik'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cPzf_bR4e9Q'
+    slides:
+      - 'https://delex-conf.com/2019/howdy-microsoft-azure-high-availability-web-application/'
+  -
+    title: 'We’ve got DevOps Let’s fire all testers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'Baruch Sadogursky'
+        twitter: jbaruch
+        github: jbaruch
+    videos:
+      - 'youtube:WHR_2uZTtXk'
+    slides:
+      - 'https://delex-conf.com/2019/we-ve-got-devops-let-s-fire-all-testers/'

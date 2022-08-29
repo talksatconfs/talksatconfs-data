@@ -1,0 +1,122 @@
+name: 'AlterConf Detroit, MI - 2015'
+description: ''
+location: 'Detroit, MI'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2015/detroit-mi'
+playlist: ''
+from_date: '2015-10-17'
+to_date: '2015-10-17'
+tags: ''
+talks:
+  -
+    title: 'Building Healthy, Anti-Oppressive Workplaces'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-17 00:00'
+    speakers:
+      -
+        name: 'Elizabeth Mitchell'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sHC4bPkAUOE'
+    slides: null
+  -
+    title: 'Toxic masculinities, sexual violence, and tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-17 00:00'
+    speakers:
+      -
+        name: 'nikhil trivedi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7QHvJbToORM'
+    slides: null
+  -
+    title: 'Breaking Stereotypes & Giving Diversity Many Faces: The #ILookLikeAnEngineer Movement'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-17 00:00'
+    speakers:
+      -
+        name: 'Laura Jane Watkins'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wU5Ze_TsLh4'
+    slides: null
+  -
+    title: 'Utility Data for Social Good at the Detroit Water Project'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-17 00:00'
+    speakers:
+      -
+        name: 'Tiffani Ashley Bell'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZHyr9sGHay0'
+    slides: null
+  -
+    title: 'Invisibility Blues: On Advocacy and Activism in the Age of Kickstarter'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-17 00:00'
+    speakers:
+      -
+        name: 'Alisha Karabinus'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1KzL_0lZg1M'
+    slides: null
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Ashe Dryden'
+        twitter: ashedryden
+        github: ashedryden
+    videos: null
+    slides: null
+  -
+    title: 'Screening of Gaming in Color'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-11-21 00:00'
+    speakers:
+      -
+        name: 'Philip Jones & Ryan Paul'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Unlocking economic participation for millions of women'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-17 00:00'
+    speakers:
+      -
+        name: 'Eva Gantz'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UpSKCRKb--E'
+    slides: null

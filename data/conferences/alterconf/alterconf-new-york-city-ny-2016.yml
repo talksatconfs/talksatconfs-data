@@ -1,0 +1,206 @@
+name: 'AlterConf New York City, NY - 2016'
+description: ''
+location: 'New York City, NY'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2016/new-york-city-ny'
+playlist: ''
+from_date: '2016-12-10'
+to_date: '2016-12-10'
+tags: ''
+talks:
+  -
+    title: 'How a Personal Chatbot Can Make Your Life Better'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-10 00:00'
+    speakers:
+      -
+        name: 'Lauren Golembiewski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wCPHM3qyrvA'
+    slides: null
+  -
+    title: 'Incredible Witness: Findings from the Public Laboratory'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-10 00:00'
+    speakers:
+      -
+        name: 'Allison Parrish'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MgsIHSwZuK4'
+    slides: null
+  -
+    title: 'Opening the Internet: Looking Beyond English Dominance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-10 00:00'
+    speakers:
+      -
+        name: 'Christina González'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lZQeY0uiHc4'
+    slides: null
+  -
+    title: "It's not lit: strategies for exposing and eliminating cultural appropriation in marketing"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-10 00:00'
+    speakers:
+      -
+        name: 'Candace Williams'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AIE8zx3wQr4'
+    slides: null
+  -
+    title: 'Dismantling the binary, one microaggression at a time'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-10 00:00'
+    speakers:
+      -
+        name: 'Jameson Hampton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:R3msmToA-oM'
+    slides: null
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-10 00:00'
+    speakers:
+      -
+        name: 'Danielle James'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Cult(ure) of Strength'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-10 00:00'
+    speakers:
+      -
+        name: 'Emily Gorcenski'
+        twitter: EmilyGorcenski
+        github: Gorcenski
+    videos: null
+    slides: null
+  -
+    title: '“You make everything about race” - an appeal for empathy in discussions of racism in America'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-10 00:00'
+    speakers:
+      -
+        name: 'Kareem Francis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:A7LRdGcDVIY'
+    slides: null
+  -
+    title: 'Crossing the Language Divide: Making Programming Accessible to English and Non-English Speakers Alike'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-10 00:00'
+    speakers:
+      -
+        name: 'Aditya Mukerjee'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iThEqOJMmwE'
+    slides: null
+  -
+    title: 'Battling Unconscious Bias'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-10 00:00'
+    speakers:
+      -
+        name: 'Neem Serra'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pl6vRLRf1fE'
+    slides: null
+  -
+    title: "How To Be BOSS When You're Not THE Boss: Effective Leadership Strategies for Everyone!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-10 00:00'
+    speakers:
+      -
+        name: 'Natali Wachtman Perilo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oMda-qsUoUg'
+    slides: null
+  -
+    title: 'Diversity and Inclusion in Tech through a Hamilton lens'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-10 00:00'
+    speakers:
+      -
+        name: 'Lizzie Siegle'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1QV1GCk_X-4'
+    slides: null
+  -
+    title: 'Dealing with intellectual trolling'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-10 00:00'
+    speakers:
+      -
+        name: 'Alexandra Bowen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qAjfqT4iwgU'
+    slides: null
+  -
+    title: 'Building world class teams from developing nations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-10 00:00'
+    speakers:
+      -
+        name: 'Juan Pablo Buriticá'
+        twitter: buritica
+        github: buritica
+    videos:
+      - 'youtube:mEPt3CYMuok'
+    slides: null

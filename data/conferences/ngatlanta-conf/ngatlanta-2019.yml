@@ -1,0 +1,278 @@
+name: 'ngAtlanta 2019'
+description: 'Inspirational talks about Angular, Rxjs, NodeJS, AB Testing, Mobile, Tensorflow, and other modern cutting-edge technologies.'
+location: ''
+venue: ''
+city: 'Atlanta, GA'
+country: 'United States'
+link: 'http://ng-atl.org/'
+playlist: 'youtube.com:PLFMi8sXIcHF-GAqDCSI9qYN7HhR0RUCuC'
+from_date: '2019-01-09'
+to_date: '2019-01-12'
+tags: ''
+talks:
+  -
+    title: 'From web to mobile with NativeScript and Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-10 09:00'
+    speakers:
+      -
+        name: 'Stanimira Vlaeva'
+        twitter: StanimiraVlaeva
+        github: sis0k0
+    videos:
+      - 'youtube:sJf-LTJYmuQ'
+    slides: null
+  -
+    title: 'NGXS - State Management Made Simple'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-10 09:30'
+    speakers:
+      -
+        name: 'Jecelyn Yeen'
+        twitter: tylermcginnis
+        github: tylermcginnis
+    videos:
+      - 'youtube:0bhfUGjn0KA'
+    slides: null
+  -
+    title: 'Wrapping It Up with Decorators'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-10 10:00'
+    speakers:
+      -
+        name: 'Nicole Oliver'
+        twitter: nixallover
+        github: null
+    videos:
+      - 'youtube:nVoDxho-Ahk'
+    slides: null
+  -
+    title: 'Debug Your Node.js Apps in VS Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-10 11:00'
+    speakers:
+      -
+        name: 'John Papa'
+        twitter: john_papa
+        github: johnpapa
+    videos:
+      - 'youtube:18hHHXqzoGA'
+    slides: null
+  -
+    title: 'ng g talk-on-angular-console'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-10 11:30'
+    speakers:
+      -
+        name: 'Natasha Carlyon'
+        twitter: nscarlyon
+        github: nscarlyon
+    videos:
+      - 'youtube:QsAA7heCMkg'
+    slides: null
+  -
+    title: 'Web components with Angular: The what, the why and the how.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-10 12:00'
+    speakers:
+      -
+        name: ' Ana Cidre'
+        twitter: anacidre_
+        github: anacidre
+    videos:
+      - 'youtube:XhyoQjGMMnU'
+    slides: null
+  -
+    title: 'Awesome Progressive Web Apps with Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-10 14:00'
+    speakers:
+      -
+        name: 'Mike Hartington'
+        twitter: mhartington
+        github: mhartington
+    videos:
+      - 'youtube:_Es55c0qkjI'
+    slides: null
+  -
+    title: 'Angular in 2019 and Beyond'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-10 15:00'
+    speakers:
+      -
+        name: 'Brad Green'
+        twitter: bradlygreen
+        github: null
+    videos:
+      - 'youtube:N0eyJ_7wol0'
+    slides: null
+  -
+    title: 'The Beauty of Service Workers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-10 16:00'
+    speakers:
+      -
+        name: 'Troy Taylor'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5RceJDLkELg'
+    slides: null
+  -
+    title: 'Recursion, Iteration & JavaScript: A love story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-10 16:30'
+    speakers:
+      -
+        name: 'Anjana Vakil'
+        twitter: AnjanaVakil
+        github: vakila
+    videos:
+      - 'youtube:WNzys1VXzo8'
+    slides: null
+  -
+    title: "Don't worry, be happy: The best of Angular in Node"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-10 17:30'
+    speakers:
+      -
+        name: 'Laura Ciro'
+        twitter: ltciro
+        github: null
+    videos:
+      - 'youtube:KXvG2MBGMWE'
+    slides: null
+  -
+    title: 'RxJS, Angular, and WebSockets - The Spy Life'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-11 09:00'
+    speakers:
+      -
+        name: 'Maham Boghani'
+        twitter: mahamboghani
+        github: null
+    videos:
+      - 'youtube:YpIBRSj-CTQ'
+    slides: null
+  -
+    title: 'Profiling Bootstrap Performance of Angular Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-11 09:30'
+    speakers:
+      -
+        name: 'Jeff Cross'
+        twitter: jeffbcross
+        github: jeffbcross
+    videos:
+      - 'youtube:BEo4I21GkEE'
+    slides: null
+  -
+    title: 'Modern Development with Angular CLI & Nrwl Nx'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-11 10:00'
+    speakers:
+      -
+        name: 'Victor Savkin'
+        twitter: victorsavkin
+        github: null
+    videos:
+      - 'youtube:tE8sUAfKI3g'
+    slides: null
+  -
+    title: 'Leveraging Angular-Based Frameworks for AI-Driven Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-11 11:00'
+    speakers:
+      -
+        name: 'Tariq King'
+        twitter: tariq_king
+        github: null
+    videos:
+      - 'youtube:pCZ78WlNrqo'
+    slides: null
+  -
+    title: 'Dependency Injection in Nest and Angular: Intersection & Mismatch'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-11 11:30'
+    speakers:
+      -
+        name: 'Kamil Myśliwiec'
+        twitter: kammysliwiec
+        github: kamilmysliwiec
+    videos:
+      - 'youtube:UtbUCzdJ7b4'
+    slides: null
+  -
+    title: 'GraphQL-Anywhere - How GraphQL can improve your work across all of your stack'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-11 12:00'
+    speakers:
+      -
+        name: 'Uri Goldshtein'
+        twitter: urigoldshtein
+        github: urigo
+    videos:
+      - 'youtube:479WD8OCTfs'
+    slides: null
+  -
+    title: 'Scale or Fail - The Secret to a Successful Career'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-11 13:30'
+    speakers:
+      -
+        name: 'Kayla Booth'
+        twitter: kaylajeanbooth
+        github: null
+    videos:
+      - 'youtube:6mbJDyVwUh8'
+    slides: null
+  -
+    title: 'A/B and see: Improving User Experience with Experimentation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-11 17:00'
+    speakers:
+      -
+        name: 'Priyankaa Vijayakumar'
+        twitter: priyankaavj
+        github: null
+    videos:
+      - 'youtube:Z4NQeBm6itY'
+    slides: null

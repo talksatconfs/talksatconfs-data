@@ -1,0 +1,938 @@
+name: 'RubyConf 2014'
+description: ''
+location: 'San DIego'
+venue: ''
+city: ''
+country: ''
+link: 'https://confreaks.tv/events/rubyconf2014'
+playlist: ''
+from_date: '2014-11-17'
+to_date: '2014-11-19'
+tags: ''
+talks:
+  -
+    title: 'Benchmarking Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-19 00:00'
+    speakers:
+      -
+        name: 'Davy Stevenson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XlEZB3oilME'
+    slides: null
+  -
+    title: 'Affordances in Programming Languages'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Randy Coulman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fjH1DCa56Co'
+    slides: null
+  -
+    title: 'An Introduction to Spies in RSpec'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-17 00:00'
+    speakers:
+      -
+        name: 'Sam Phippen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kiHdUU73D14'
+    slides: null
+  -
+    title: 'Rsense Knows Your Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Eric West'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HMcEEBR0yJY'
+    slides: null
+  -
+    title: 'A Partial-Multiverse Model of Time Travel for Debugging'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Brock Wilcox'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EpYMRd1ZWDM'
+    slides: null
+  -
+    title: 'Madam Sandi Tells Your Future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Sandi Metz'
+        twitter: sendimetz
+        github: skmetz
+    videos:
+      - 'youtube:JOM5_V5jLAs'
+    slides: null
+  -
+    title: 'Eastward Ho! A Clear Path Through Ruby With OO'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-19 00:00'
+    speakers:
+      -
+        name: 'Jim Gay'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kXcrClJcfm8'
+    slides: null
+  -
+    title: 'Scalable Deployments - How we deploy Rails app to 100+ hosts in a minute'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-19 00:00'
+    speakers:
+      -
+        name: 'Shota Fukumori'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Pta7Lr-eskc'
+    slides: null
+  -
+    title: 'Build the Unified Logging Layer with Fluentd and Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-17 00:00'
+    speakers:
+      -
+        name: 'Kiyoto Tamura'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sIVGsQgMHIo'
+    slides: null
+  -
+    title: 'Writing mruby Debugger'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Yurie Yamane'
+        twitter: null
+        github: null
+      -
+        name: 'Masayoshi Takahashi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VXQYSa2jjLw'
+    slides: null
+  -
+    title: 'Chat Robots Next Level Tooling'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Ole Michaelis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_XagO-YkD1Q'
+    slides: null
+  -
+    title: 'Harnessing other languages to make Ruby better'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Brendon McLean'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-wYAcuWQ0YQ'
+    slides: null
+  -
+    title: 'Switch Up: How to Switch Careers to Become a Ruby Engineer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Kinsey Ann Durham'
+        twitter: KinseyAnnDurham
+        github: durhamka
+    videos:
+      - 'youtube:nRm-qlxq3Rw'
+    slides: null
+  -
+    title: 'Norikra: SQL Stream Processing in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-19 00:00'
+    speakers:
+      -
+        name: 'Tagomori Satoshi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5QsIMgGdw8w'
+    slides: null
+  -
+    title: 'Rubyists, have a sip of Elixir!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Benjamin Tan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0Ui-Vy2wYwo'
+    slides: null
+  -
+    title: 'Ruby Changed My Life'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Johnny T'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SQUJ3PiY4h8'
+    slides: null
+  -
+    title: 'Roda: The Routing Tree Web Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-17 00:00'
+    speakers:
+      -
+        name: 'Jeremy Evans'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:W8zglFFFRMM'
+    slides: null
+  -
+    title: 'Programming, Education, and the American Dream'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Liz Abinante'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_5zXjOEeRfE'
+    slides: null
+  -
+    title: '5 Things I Wish Someone Had Told Me About Programming Before I Started'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Kerri Miller'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bZOnbBJW3a8'
+    slides: null
+  -
+    title: 'Template Engines in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-19 00:00'
+    speakers:
+      -
+        name: 'Akira Matsuda'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ldDZggzePkk'
+    slides: null
+  -
+    title: 'Going Evergreen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-17 00:00'
+    speakers:
+      -
+        name: 'Kane Baccigalupi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SziNSMP1xaM'
+    slides: null
+  -
+    title: 'Containerized Ruby Applications with Docker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-19 00:00'
+    speakers:
+      -
+        name: 'Laura Frank'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SGyLjrY3LJo'
+    slides: null
+  -
+    title: 'Stress Testing as a Culture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-19 00:00'
+    speakers:
+      -
+        name: 'João M. D. Moura'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:b7jqwVxdtcY'
+    slides: null
+  -
+    title: 'Sweaters as a Service'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Amy Wibowo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HKZ6nDEMpyc'
+    slides: null
+  -
+    title: 'Ruby After Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Ernie Miller'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EgjJYkuV0Sc'
+    slides: null
+  -
+    title: 'Promises in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Dinshaw Gobhai'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hDd6DCDoOs8'
+    slides: null
+  -
+    title: 'A Lever for the Mind'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-19 00:00'
+    speakers:
+      -
+        name: 'Tom Stuart'
+        twitter: tomstuart
+        github: null
+    videos:
+      - 'youtube:tJkoHFjoMuk'
+    slides: null
+  -
+    title: 'Learning from FP: Simulated Annealing in Haskell and Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Josh Szmajda'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GjyE3tKscSw'
+    slides: null
+  -
+    title: 'Sauron: DIY Home Security with Ruby!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Jonan Scheffler'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IIBM1Zxr66c'
+    slides: null
+  -
+    title: 'Ruby Performance Secrets and How to Uncover Them'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Alexander Dymo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lAI_uYQwh4s'
+    slides: null
+  -
+    title: 'Letting Concurrency Help You Today'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-17 00:00'
+    speakers:
+      -
+        name: 'Richard Bishop'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:F7dC3vTpE6I'
+    slides: null
+  -
+    title: 'My Little C Extension: Lego Robots are Magic'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Brandon Hays'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:uOsKIyD_RCo'
+    slides: null
+  -
+    title: 'A World Without Assignment'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Aja Hammerly'
+        twitter: the_thagomizer
+        github: null
+    videos:
+      - 'youtube:-7RR27bR0_E'
+    slides: null
+  -
+    title: 'The Social Coding Contract'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-19 00:00'
+    speakers:
+      -
+        name: 'Justin Searls'
+        twitter: searls
+        github: searls
+    videos:
+      - 'youtube:e_-qV8waPVM'
+    slides: null
+  -
+    title: 'Opening Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-17 00:00'
+    speakers:
+      -
+        name: "Yukihiro 'Matz' Matsumoto"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:85ct6jOvVPI'
+    slides: null
+  -
+    title: "Ruby Idioms You're Not Using Yet"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-17 00:00'
+    speakers:
+      -
+        name: 'Craig Buchek'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hc_wtllfKtQ'
+    slides: null
+  -
+    title: 'Lightning Talks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Various Presenters'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GnUyjPGu5MQ'
+    slides: null
+  -
+    title: "Ruby-red onions: Peeling Back Ruby's Layers in C Extensions"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Emily Stolfo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8klc4R1TvoY'
+    slides: null
+  -
+    title: '2 + Cats = 4 * Cute: How Math Works in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Chris Hoffman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_GIPsLpYmGE'
+    slides: null
+  -
+    title: 'Rapidly Mapping JSON/XML API Schemas in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-17 00:00'
+    speakers:
+      -
+        name: 'Adam Cuppy'
+        twitter: adamcuppy
+        github: null
+    videos:
+      - 'youtube:1K0Pt0o9F7w'
+    slides: null
+  -
+    title: 'TDD For Your Soul: Virtue and Software Engineering'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-17 00:00'
+    speakers:
+      -
+        name: 'Abraham Sangha'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VxLkhCx2I1Q'
+    slides: null
+  -
+    title: "It's so quiet. Let's make music."
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-17 00:00'
+    speakers:
+      -
+        name: 'Loren Segal'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oRt7rVlnPqk'
+    slides: null
+  -
+    title: 'On The Outside Looking In'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Cindy Backman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:W3TpckhNzuM'
+    slides: null
+  -
+    title: 'Enumerable for Fun & Profit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-17 00:00'
+    speakers:
+      -
+        name: 'Michael Hartl'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:y4V9qVTkj3c'
+    slides: null
+  -
+    title: 'Nobody Knows Nobu'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-19 00:00'
+    speakers:
+      -
+        name: 'Zachary Scott'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yqyIi0pwRO4'
+    slides: null
+  -
+    title: 'Kids, Ruby, Fun!: Introduction of the Smalruby and the Ruby Programming Shounendan'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-19 00:00'
+    speakers:
+      -
+        name: 'Kouji Takao'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:c2P_8QURz1g'
+    slides: null
+  -
+    title: "Testing Isn't Enough: Fighting Bugs with Hacks"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-17 00:00'
+    speakers:
+      -
+        name: 'Paul Gross'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qBt7v5PKHvQ'
+    slides: null
+  -
+    title: "6 Reasons Jubilee Could be a Rubyist's New Best Friend"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-19 00:00'
+    speakers:
+      -
+        name: 'Forrest Chang'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FFR0G89WXI8'
+    slides: null
+  -
+    title: 'Future-Proofing Your 3rd Party Integrations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-17 00:00'
+    speakers:
+      -
+        name: 'Jeffrey Matthias'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LqZU2Q5nFRM'
+    slides: null
+  -
+    title: "Your Bright Metaprogramming Future: Mistakes You'll Make (and How to Fix Them)"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Betsy Haibel'
+        twitter: betsythemuffin
+        github: null
+    videos:
+      - 'youtube:7rN6ehNrtfc'
+    slides: null
+  -
+    title: 'Isomorphic App Development with Ruby and Volt'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-19 00:00'
+    speakers:
+      -
+        name: 'Ryan Stout'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7i6AL7Walc4'
+    slides: null
+  -
+    title: 'Easy rewrites with ruby and science!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-17 00:00'
+    speakers:
+      -
+        name: 'Jesse Toth'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kgDqUHWVw4A'
+    slides: null
+  -
+    title: 'Real World Ruby Performance at Scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-19 00:00'
+    speakers:
+      -
+        name: 'Aaron Quint'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qlS3yr1oncQ'
+    slides: null
+  -
+    title: 'The Quiet Programmer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-19 00:00'
+    speakers:
+      -
+        name: 'Mark McSpadden'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iuZ-iAIw62E'
+    slides: null
+  -
+    title: "'Good Luck With That' : Tag Teaming Civic Data"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Liz Rush'
+        twitter: null
+        github: null
+      -
+        name: 'Hsing-Hui Hsu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:s-yjPnJwwiE'
+    slides: null
+  -
+    title: 'Building Your API for Longevity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-17 00:00'
+    speakers:
+      -
+        name: 'Mike Stowe'
+        twitter: mikestowe
+        github: mikestowe
+    videos:
+      - 'youtube:8U7JoDfj3wM'
+    slides: null
+  -
+    title: 'Going the Distance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-19 00:00'
+    speakers:
+      -
+        name: 'Richard Schneeman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PcINjHjIllk'
+    slides: null
+  -
+    title: 'Polishing Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Olivier Lacan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iCRAalcAxQ0'
+    slides: null
+  -
+    title: 'Overcoming Our Obsession with Stringly-Typed Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-17 00:00'
+    speakers:
+      -
+        name: 'Dave Copeland'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7Obobjq8g_U'
+    slides: null
+  -
+    title: 'Deoptimizing Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Chris Seaton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:z-YVygbDHLE'
+    slides: null
+  -
+    title: 'JRuby 9000'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Thomas Enebo'
+        twitter: null
+        github: null
+      -
+        name: 'Charles Nutter'
+        twitter: headius
+        github: headius
+    videos:
+      - 'youtube:CJGVH1XTtSw'
+    slides: null
+  -
+    title: 'Epic Intro Music: BLE Beacons and Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-17 00:00'
+    speakers:
+      -
+        name: 'Christopher Sexton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:teTpPCwdh7g'
+    slides: null
+  -
+    title: 'Strong Duck Type Driven Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-17 00:00'
+    speakers:
+      -
+        name: 'John Cinnamond'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rMbx5FrqY4U'
+    slides: null
+  -
+    title: 'Incremental GC for Ruby Interpreter'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-18 00:00'
+    speakers:
+      -
+        name: 'Koichi Sasada'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4UO60ocw52w'
+    slides: null
+  -
+    title: 'Questions for Matz'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-19 00:00'
+    speakers:
+      -
+        name: "Yukihiro 'Matz' Matsumoto"
+        twitter: null
+        github: null
+      -
+        name: 'Evan Phoenix'
+        twitter: evanphx
+        github: evanphx
+    videos:
+      - 'youtube:_zoG2i7pMxg'
+    slides: null

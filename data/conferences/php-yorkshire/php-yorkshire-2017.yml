@@ -1,0 +1,191 @@
+name: 'PHP Yorkshire 2017'
+description: ''
+location: 'Physics Exhibition Centre, The University of York, Heslington, York'
+venue: ''
+city: ''
+country: ''
+link: 'https://2017.phpyorkshire.co.uk/'
+playlist: PLizA60F3A-6xtgz0BDhFCQxZPra1FLl6q
+from_date: '2017-04-08'
+to_date: '2017-04-08'
+tags: ''
+talks:
+  -
+    title: 'A Developer’s Survival Handbook'
+    description: ''
+    tags: ''
+    link: 'https://2017.phpyorkshire.co.uk/speakers.html#mcnulty'
+    talk_date: '2017-04-08 09:30'
+    speakers:
+      -
+        name: 'Ciaran McNulty'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:UNLFCCXnnL4'
+    slides: null
+  -
+    title: "Git's Guts"
+    description: ''
+    tags: ''
+    link: 'https://2017.phpyorkshire.co.uk/speakers.html#burns'
+    talk_date: '2017-04-08 10:50'
+    speakers:
+      -
+        name: 'Sam Burns'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:pvChhI2ZaSM'
+    slides: null
+  -
+    title: 'The Why’s and the How’s of Asking Users Who They Are'
+    description: ''
+    tags: ''
+    link: 'https://2017.phpyorkshire.co.uk/speakers.html#gowler'
+    talk_date: '2017-04-08 11:50'
+    speakers:
+      -
+        name: 'Chad Gowler'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:DFjtvIK4ajk'
+    slides: null
+  -
+    title: 'Flipping Out With Feature Flags and Toggles'
+    description: ''
+    tags: ''
+    link: 'https://2017.phpyorkshire.co.uk/speakers.html#cullum'
+    talk_date: '2017-04-08 13:50'
+    speakers:
+      -
+        name: 'Michael Cullum'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:tjqL1_nLFfo'
+    slides: null
+  -
+    title: 'MySQL 8'
+    description: ''
+    tags: ''
+    link: 'https://2017.phpyorkshire.co.uk/speakers.html#stokes'
+    talk_date: '2017-04-08 14:50'
+    speakers:
+      -
+        name: 'David Stokes'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:Sn_OKK5bQOI'
+    slides: null
+  -
+    title: 'Expect the Un-Expected: How to Handle Errors Gracefully'
+    description: ''
+    tags: ''
+    link: 'https://2017.phpyorkshire.co.uk/speakers.html#hoffman'
+    talk_date: '2017-04-08 16:10'
+    speakers:
+      -
+        name: 'Bastian Hoffman'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:CTvYO_BTIrM'
+    slides: null
+  -
+    title: 'Keynote: “Writing Code That Lasts”… or Writing Code You Won’t Hate Tomorrow'
+    description: ''
+    tags: ''
+    link: 'https://2017.phpyorkshire.co.uk/speakers.html#a-dohms'
+    talk_date: '2017-04-08 17:10'
+    speakers:
+      -
+        name: 'Rafael Dohms'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Beyond PSR-7: Design Your Own Middleware Using the Instruction Bus'
+    description: ''
+    tags: ''
+    link: 'https://2017.phpyorkshire.co.uk/speakers.html#herbert'
+    talk_date: '2017-04-08 09:30'
+    speakers:
+      -
+        name: 'Stuart Herbert'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:z-wNWs1C6ac'
+    slides: null
+  -
+    title: 'What’s in a Name?'
+    description: ''
+    tags: ''
+    link: 'https://2017.phpyorkshire.co.uk/speakers.html#aitken'
+    talk_date: '2017-04-08 10:50'
+    speakers:
+      -
+        name: 'Nicola Aitken'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Protect Your API With oAuth2'
+    description: ''
+    tags: ''
+    link: 'https://2017.phpyorkshire.co.uk/speakers.html#allen'
+    talk_date: '2017-04-08 11:50'
+    speakers:
+      -
+        name: 'Rob Allen'
+        twitter: akrabat
+        github: akrabat
+    videos:
+      - 'www.youtube.com:PsqblD2J1Yw'
+    slides: null
+  -
+    title: 'A Drupal 101, but More Than Just the Code...'
+    description: ''
+    tags: ''
+    link: 'https://2017.phpyorkshire.co.uk/speakers.html#lawson'
+    talk_date: '2017-04-08 13:50'
+    speakers:
+      -
+        name: 'Rachel Lawson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'HTML5 APIs You’ve Never Heard Of'
+    description: ''
+    tags: ''
+    link: 'https://2017.phpyorkshire.co.uk/speakers.html#mclellan'
+    talk_date: '2017-04-08 14:50'
+    speakers:
+      -
+        name: 'Drew McLellan'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:FfLl6PoqFdc'
+    slides: null
+  -
+    title: 'How to Effectively Grow a Development Team'
+    description: ''
+    tags: ''
+    link: 'https://2017.phpyorkshire.co.uk/speakers.html#gulik'
+    talk_date: '2017-04-08 16:10'
+    speakers:
+      -
+        name: 'Jeroen V. D. Gulik'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:wLzcn8L6_II'
+    slides: null

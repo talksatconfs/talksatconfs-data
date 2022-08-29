@@ -1,0 +1,271 @@
+name: 'Plone Conference 2016'
+description: ''
+location: Boston
+venue: ''
+city: ''
+country: ''
+link: 'https://2016.ploneconf.org/schedule.html'
+playlist: ''
+from_date: '2016-10-19'
+to_date: '2016-10-21'
+tags: ''
+talks:
+  -
+    title: 'Keynote: Plone Futures'
+    description: ''
+    tags: ''
+    link: 'https://2016.ploneconf.org/talks/plone-futures.html'
+    talk_date: '2016-10-19 03:30'
+    speakers:
+      -
+        name: 'Eric Steele'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SG73fPheBOg'
+    slides:
+      - 'http://www.slideshare.net/tkimnguyen/plone-futures-plone-conference-2016-keynote-by-eric-steele'
+  -
+    title: 'Plone Server'
+    description: ''
+    tags: ''
+    link: 'https://2016.ploneconf.org/talks/plone-server.html'
+    talk_date: '2016-10-19 04:50'
+    speakers:
+      -
+        name: 'Ramon Navarro Bosch'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tiR7aUdtCIw'
+    slides:
+      - 'https://www.slideshare.net/bloodbare/plone-server?qid=acf5bc05-7497-4329-98ee-ed2eb8141466'
+  -
+    title: 'Tao of CSS'
+    description: ''
+    tags: ''
+    link: 'https://2016.ploneconf.org/talks/tao-of-css.html'
+    talk_date: '2016-10-19 04:50'
+    speakers:
+      -
+        name: 'Rob Porter'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ahUZsTbHwFk'
+    slides:
+      - 'http://www.slideshare.net/robzonenet/tao-of-css'
+  -
+    title: 'TTW Theming'
+    description: ''
+    tags: ''
+    link: 'https://2016.ploneconf.org/talks/ttw-theming.html'
+    talk_date: '2016-10-19 04:50'
+    speakers:
+      -
+        name: 'Chrissy Wainwright'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zEFPt178HdQ'
+    slides: null
+  -
+    title: 'TTW Content Types'
+    description: ''
+    tags: ''
+    link: 'https://2016.ploneconf.org/talks/ttw-content-types.html'
+    talk_date: '2016-10-19 05:10'
+    speakers:
+      -
+        name: 'Fulvio Casali'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LwaLSpQB_Vs'
+    slides: null
+  -
+    title: 'REST API'
+    description: ''
+    tags: ''
+    link: 'https://2016.ploneconf.org/talks/rest-api.html'
+    talk_date: '2016-10-19 05:40'
+    speakers:
+      -
+        name: 'Timo Stollenwerk'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bVB1J9QujWU'
+    slides:
+      - 'http://www.slideshare.net/tisto/plonerestapi-a-bridge-to-the-modern-web?qid=86214c65-a419-4f0e-94a2-636188e9f51e'
+  -
+    title: 'Reporting Databases'
+    description: ''
+    tags: ''
+    link: 'https://2016.ploneconf.org/talks/reporting-databases.html'
+    talk_date: '2016-10-19 05:40'
+    speakers:
+      -
+        name: 'Lennart Regebro'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rejAztd54jE'
+    slides:
+      - 'http://slides.colliberty.com/PloneConference-2016/'
+  -
+    title: Accessibility
+    description: ''
+    tags: ''
+    link: 'https://2016.ploneconf.org/talks/accessibility.html'
+    talk_date: '2016-10-19 05:40'
+    speakers:
+      -
+        name: 'Paul Roeland'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ppC2MBHv6mg'
+    slides:
+      - 'https://polyester.github.io/boston-a11y'
+  -
+    title: 'A JavaScript Plone Client'
+    description: ''
+    tags: ''
+    link: 'https://2016.ploneconf.org/talks/javascript-plone-client.html'
+    talk_date: '2016-10-19 06:30'
+    speakers:
+      -
+        name: 'Ramon Navarro Bosch'
+        twitter: null
+        github: null
+      -
+        name: 'Eric Bréhault'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:W1M4tOYEu_o'
+    slides:
+      - 'https://docs.google.com/presentation/d/13scy3R4jd8xKru_3rEoOR-EpBNPMmtWlW73ZMMYTF4w/pub?start=false&loop=false&delayms=3000&slide=id.p'
+  -
+    title: 'Managing Multilingual Content'
+    description: ''
+    tags: ''
+    link: 'https://2016.ploneconf.org/talks/managing-multilingual-content.html'
+    talk_date: '2016-10-19 06:50'
+    speakers:
+      -
+        name: 'Peter Holzer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hVbExMbWxE8'
+    slides: null
+  -
+    title: 'A Pinch of Indirection'
+    description: ''
+    tags: ''
+    link: 'https://2016.ploneconf.org/talks/a-pinch-of-indirection-and-dont-cut-yourself-chopping-onions.html'
+    talk_date: '2016-10-19 06:30'
+    speakers:
+      -
+        name: 'Sean Upton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zmbDCE_xDV8'
+    slides:
+      - 'http://www.slideshare.net/SeanUpton1/a-pinch-of-indirection-and-dont-cut-yourself-chopping-onions?qid=510f98aa-ddbb-46dc-a7be-fa3e31701107&v=&b=&from_search=18'
+  -
+    title: 'TTW Tiled Layouts with Mosaic'
+    description: ''
+    tags: ''
+    link: 'https://2016.ploneconf.org/talks/ttw-tiled-layouts-with-mosaic.html'
+    talk_date: '2016-10-19 06:30'
+    speakers:
+      -
+        name: 'David Bain'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:A9e0D74BjFQ'
+    slides:
+      - 'https://docs.google.com/presentation/d/1QdG6_DOIfoO9wEQsZupkUo2eVmbtt9n61z921ezZz0o/edit?usp=sharing'
+  -
+    title: 'TTW Customization with Rapido'
+    description: ''
+    tags: ''
+    link: 'https://2016.ploneconf.org/talks/ttw-customization-with-rapido.html'
+    talk_date: '2016-10-19 08:50'
+    speakers:
+      -
+        name: 'Eric Bréhault'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RFvfWeVrKpI'
+    slides: null
+  -
+    title: 'PDB Like a Pro'
+    description: ''
+    tags: ''
+    link: 'https://2016.ploneconf.org/talks/using-pdb.html'
+    talk_date: '2016-10-19 08:50'
+    speakers:
+      -
+        name: 'Philip Bauer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NKSW6pDX3Dc'
+    slides:
+      - 'http://www.slideshare.net/derschmock/pdb-like-a-pro'
+  -
+    title: 'Non-Plone Development with Plone'
+    description: ''
+    tags: ''
+    link: 'https://2016.ploneconf.org/talks/non-plone-development-with-plone.html'
+    talk_date: '2016-10-19 08:30'
+    speakers:
+      -
+        name: 'Eric Bréhault'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:17Q-TfXLyqY'
+    slides:
+      - 'https://makinacorpus.github.io/makina-slides/ploneconf2016-non-plone-dev.html'
+  -
+    title: PyCharm
+    description: ''
+    tags: ''
+    link: 'https://2016.ploneconf.org/talks/pycharm.html'
+    talk_date: '2016-10-19 08:30'
+    speakers:
+      -
+        name: 'Paul Everitt'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dsrdLeKeARw'
+    slides:
+      - 'http://www.slideshare.net/tkimnguyen/pycharm-demo'
+  -
+    title: 'Fixing Plone 5, the Framework'
+    description: ''
+    tags: ''
+    link: 'https://2016.ploneconf.org/talks/how-we-fixed-plone-5-the-framework.html'
+    talk_date: '2016-10-19 08:30'
+    speakers:
+      -
+        name: 'Johannes Raggam'
+        twitter: null
+        github: null
+      -
+        name: 'Jens Klein'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3kaImXekihQ'
+    slides:
+      - 'http://programmatic.pro/fixing-plone/index.html'

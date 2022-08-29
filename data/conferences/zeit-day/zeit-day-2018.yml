@@ -1,0 +1,224 @@
+name: 'ZEIT Day 2018'
+description: 'A one-day conference for the ▲ZEIT Community'
+location: ''
+venue: ''
+city: 'San Francisco, CA'
+country: 'United States'
+link: 'https://zeit.co/day'
+playlist: 'youtube.com:PLBnKlKpPeagnvROrqc8zu-iboKUajg0BC'
+from_date: '2018-04-28'
+to_date: '2018-04-28'
+tags: ''
+talks:
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Guillermo Rauch'
+        twitter: rauchg
+        github: rauchg
+      -
+        name: 'Matheus Fernandes'
+        twitter: matheusfrndes
+        github: null
+      -
+        name: 'Leo Lamprecht'
+        twitter: notquiteleo
+        github: null
+      -
+        name: 'Tim Neutkens'
+        twitter: timneutkens
+        github: timneutkens
+    videos:
+      - 'youtube:yqACl3tRHNI'
+    slides: null
+  -
+    title: 'Burnout and Balance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Jessica Rose'
+        twitter: jesslynnrose
+        github: null
+    videos:
+      - 'youtube:WlPgIbikhl8'
+    slides: null
+  -
+    title: 'React Suspense'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Andrew Clark'
+        twitter: acdlite
+        github: acdlite
+    videos:
+      - 'youtube:z-6JC0_cOns'
+    slides: null
+  -
+    title: 'Authentication and Authorization in Next.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Prosper Otemuyiwa'
+        twitter: unicodeveloper
+        github: null
+    videos:
+      - 'youtube:bo4BbGwZsWo'
+    slides: null
+  -
+    title: 'Using JavaScript to Teach Machines Basic Shit Things'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Kylie Stewart'
+        twitter: kyliestew
+        github: null
+    videos:
+      - 'youtube:QaV7a64mUYE'
+    slides: null
+  -
+    title: 'Optimizing Your Code with Babel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Pranay Prakash'
+        twitter: pranaygp
+        github: null
+      -
+        name: 'Thomas Fischer'
+        twitter: tom__fischer
+        github: null
+    videos:
+      - 'youtube:XvTsxa9i13o'
+    slides: null
+  -
+    title: 'Migrating Slope Ninja to ZEIT for Fun & Profit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Julia Qiu'
+        twitter: juliaqiuxy
+        github: null
+    videos:
+      - 'youtube:6sbdlFoTQfw'
+    slides: null
+  -
+    title: 'Datasette and Datasette Publish'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Simon Willison'
+        twitter: simonw
+        github: null
+    videos:
+      - 'youtube:_uwrqB--eM4'
+    slides: null
+  -
+    title: 'Building a High Performance, Dynamic CDN with Next.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Fouad Matin'
+        twitter: fouadmatin
+        github: null
+    videos:
+      - 'youtube:5CzOYDF0Hdk'
+    slides: null
+  -
+    title: 'From React to Ember, A Modern Comparison'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Jackie Luo'
+        twitter: jackiehluo
+        github: null
+    videos:
+      - 'youtube:7yxr4iBrZsw'
+    slides: null
+  -
+    title: 'Fast & Furious Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Scott Tolinski'
+        twitter: stolinski
+        github: null
+    videos:
+      - 'youtube:xK3BhwDRuL8'
+    slides: null
+  -
+    title: 'In Pursuit of Open Source'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Henry Zhu'
+        twitter: left_pad
+        github: hzoo
+    videos:
+      - 'youtube:9sPDcVYX3g8'
+    slides: null
+  -
+    title: 'Rewriting eaze.com with Next.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Jack Hanford'
+        twitter: jackhanford
+        github: null
+    videos:
+      - 'youtube:JjRV-l9jSYE'
+    slides: null
+  -
+    title: 'Tools 4 Tools 4 Tools'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-28 00:00'
+    speakers:
+      -
+        name: 'Jamie Kyle'
+        twitter: jamiebuilds
+        github: null
+    videos:
+      - 'youtube:itI5xGyvtho'
+    slides: null

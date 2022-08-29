@@ -1,0 +1,363 @@
+name: 'React Finland 2019'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2019-04-25'
+to_date: '2019-04-26'
+tags: ''
+talks:
+  -
+    title: 'A practical guide to building your design system infrastructure '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-25 11:15'
+    speakers:
+      -
+        name: 'Andrey Okonetchnikov'
+        twitter: okonetchnikov
+        github: okonet
+    videos: null
+    slides: null
+  -
+    title: 'Abstract component modeling in React '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-25 09:15'
+    speakers:
+      -
+        name: 'Michel Weststrate'
+        twitter: mweststrate
+        github: mweststrate
+    videos: null
+    slides: null
+  -
+    title: 'Scalable (Design) Systems with TypeScript '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-26 13:15'
+    speakers:
+      -
+        name: 'Tejas Kumar'
+        twitter: TejasKumar_
+        github: TejasQ
+    videos: null
+    slides: null
+  -
+    title: 'React Standard Library '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-26 09:15'
+    speakers:
+      -
+        name: 'Jamon Holmgren'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Delightful UI animations by understanding the brain '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-25 16:30'
+    speakers:
+      -
+        name: 'Bruno Lourenço'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'MobX - The Journey '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-25 09:15'
+    speakers:
+      -
+        name: 'Michel Weststrate'
+        twitter: mweststrate
+        github: mweststrate
+    videos: null
+    slides: null
+  -
+    title: 'All aboard the type train '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-25 15:00'
+    speakers:
+      -
+        name: 'Kadi Kraman'
+        twitter: kadikraman
+        github: kadikraman
+    videos: null
+    slides: null
+  -
+    title: 'Mind-Reading with Adaptive and Intelligent UIs in React '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-25 09:15'
+    speakers:
+      -
+        name: 'Michel Weststrate'
+        twitter: mweststrate
+        github: mweststrate
+    videos: null
+    slides: null
+  -
+    title: 'Intersection of Automation and Exploratory Testing '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-25 13:15'
+    speakers:
+      -
+        name: 'Juha Linnanen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Drawing the line between 3rd party and handcrafted components '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-25 15:00'
+    speakers:
+      -
+        name: 'Kadi Kraman'
+        twitter: kadikraman
+        github: kadikraman
+    videos: null
+    slides: null
+  -
+    title: 'Append-only development with React '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-25 09:15'
+    speakers:
+      -
+        name: 'Michel Weststrate'
+        twitter: mweststrate
+        github: mweststrate
+    videos: null
+    slides: null
+  -
+    title: 'CI/CD for React Native '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-25 13:15'
+    speakers:
+      -
+        name: 'Juha Linnanen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Gatsby + Themes: The Future of Gatsby '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-25 15:00'
+    speakers:
+      -
+        name: 'Kadi Kraman'
+        twitter: kadikraman
+        github: kadikraman
+    videos: null
+    slides: null
+  -
+    title: 'Custom CSS is the path to inconsistent UI '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-26 11:15'
+    speakers:
+      -
+        name: 'Artem Sapegin'
+        twitter: iamsapegin
+        github: sapegin
+    videos: null
+    slides: null
+  -
+    title: 'A Common Design Language. Let Designers and Developers talk to each other. '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-25 11:15'
+    speakers:
+      -
+        name: 'Andrey Okonetchnikov'
+        twitter: okonetchnikov
+        github: okonet
+    videos: null
+    slides: null
+  -
+    title: 'The Untouchable Web '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-26 09:15'
+    speakers:
+      -
+        name: 'Jamon Holmgren'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building resilient frontend architecture '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-26 16:30'
+    speakers:
+      -
+        name: 'Monica Lent'
+        twitter: monicalent
+        github: mlent
+    videos: null
+    slides: null
+  -
+    title: '"Intuitive" Tooling '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-26 16:30'
+    speakers:
+      -
+        name: 'Monica Lent'
+        twitter: monicalent
+        github: mlent
+    videos: null
+    slides: null
+  -
+    title: 'Releasing a library written in TypeScript on NPM '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-26 13:15'
+    speakers:
+      -
+        name: 'Tejas Kumar'
+        twitter: TejasKumar_
+        github: TejasQ
+    videos: null
+    slides: null
+  -
+    title: 'Codecrumbs in React '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-26 13:15'
+    speakers:
+      -
+        name: 'Tejas Kumar'
+        twitter: TejasKumar_
+        github: TejasQ
+    videos: null
+    slides: null
+  -
+    title: 'React Union: Write once, plug anywhere '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-26 13:15'
+    speakers:
+      -
+        name: 'Tejas Kumar'
+        twitter: TejasKumar_
+        github: TejasQ
+    videos: null
+    slides: null
+  -
+    title: 'Building a Community Around Ignite '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-26 09:15'
+    speakers:
+      -
+        name: 'Jamon Holmgren'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Creating layouts that last '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-26 11:15'
+    speakers:
+      -
+        name: 'Artem Sapegin'
+        twitter: iamsapegin
+        github: sapegin
+    videos: null
+    slides: null
+  -
+    title: 'WebAssembly - The Next Big Platform '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-26 15:15'
+    speakers:
+      -
+        name: 'Anna Doubková'
+        twitter: lithinn
+        github: lithin
+    videos: null
+    slides: null
+  -
+    title: 'Un(popular) Opinions '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-25 16:30'
+    speakers:
+      -
+        name: 'Bruno Lourenço'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Practical Performance for React (Native) '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-26 15:15'
+    speakers:
+      -
+        name: 'Anna Doubková'
+        twitter: lithinn
+        github: lithin
+    videos: null
+    slides: null
+  -
+    title: '12 Tips For More Accessible React Apps '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-25 13:15'
+    speakers:
+      -
+        name: 'Juha Linnanen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

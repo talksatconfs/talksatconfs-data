@@ -1,0 +1,148 @@
+name: 'RailsConf 2011'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2011-05-16'
+to_date: '2011-05-19'
+tags: ''
+talks:
+  -
+    title: 'Lessons Learned'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-16 00:00'
+    speakers:
+      -
+        name: 'Eric Ries'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IVBVZGfzkVM'
+    slides: null
+  -
+    title: 'The LivingSocial Story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-19 00:00'
+    speakers:
+      -
+        name: 'Aaron Batalion'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:I-WLTQa4pGo'
+    slides: null
+  -
+    title: 'David Heinemeier Hansson'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-16 00:00'
+    speakers:
+      -
+        name: 'David Heinemeier Hansson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cGdCI2HhfAU'
+    slides: null
+  -
+    title: 'Code for America'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-18 00:00'
+    speakers:
+      -
+        name: 'Dan Melton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CrjUts20bsU'
+    slides: null
+  -
+    title: 'Ruby Heroes Awards'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-17 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:EqZFMaN6Vx0'
+    slides: null
+  -
+    title: 'Ruby Through the Ages (or, A Brief History of Ruby)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-17 00:00'
+    speakers:
+      -
+        name: 'Dr. Nic Williams'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OJ8YfstVWKs'
+    slides: null
+  -
+    title: 'Corey Haines'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-18 00:00'
+    speakers:
+      -
+        name: 'Corey Haines'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5OFxsarfSxI'
+    slides: null
+  -
+    title: Etsy
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-19 00:00'
+    speakers:
+      -
+        name: 'Chad Dickerson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:22EECFEk9Xs'
+    slides: null
+  -
+    title: 'Double Dream Hands: So Intense!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-17 00:00'
+    speakers:
+      -
+        name: 'Aaron Patterson'
+        twitter: tenderlove
+        github: tenderlove
+    videos:
+      - 'youtube:kWOAHIpmLAI'
+    slides: null
+  -
+    title: 'Craft, Engineering, and the Essence of Programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-19 00:00'
+    speakers:
+      -
+        name: 'Glenn Vanderburg'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LlTiMUzLMgM'
+    slides: null

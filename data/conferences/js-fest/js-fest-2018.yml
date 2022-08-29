@@ -1,0 +1,430 @@
+name: 'JS Fest 2018'
+description: "JS Fest is professional conference dedicated to JavaScript development. What is happening in JS world? What's new in the JavaScript world? Which trends in Front-end development have appeared recently? Which frameworks are getting more popular and which ones are dying? How to make the development process more efficient? JS Fest is a space where leading professionals in JS field will share their experience helping to find answers to these and many other questions. Only real cases. Only top-notch trends."
+location: ''
+venue: ''
+city: Kiev
+country: Ukraine
+link: 'http://jsfest.com.ua/jsfest2018/indexe.html'
+playlist: 'youtube.com:PLuOBDBq7MW71h_NeH_PigX_ApM1PhB1b8'
+from_date: '2018-03-30'
+to_date: '2018-03-31'
+tags: ''
+talks:
+  -
+    title: 'The Power of the Paradigm'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 10:00'
+    speakers:
+      -
+        name: 'Douglas Crockford'
+        twitter: null
+        github: douglascrockford
+    videos:
+      - 'youtube:X3ExqafLgwk'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-2018-douglas-crockford-the-power-of-the-paradigm'
+  -
+    title: 'WebAssembly vs JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 11:05'
+    speakers:
+      -
+        name: 'Alexandr Skachkov'
+        twitter: alSkachkov
+        github: null
+    videos:
+      - 'youtube:1Ba1l0cieMY'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-2018-webassembly-vs-javascript'
+  -
+    title: 'Features in creating React/Redux Cordova IOS/Android Mobile Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 11:05'
+    speakers:
+      -
+        name: 'Lilia Karpenko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MSowIpYiEGw'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-2018-ios-android-mobile-apps-react-redux-cordova'
+  -
+    title: 'Microservice Architecture with Reusable Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 12:10'
+    speakers:
+      -
+        name: 'Nikita Galkin'
+        twitter: galk_in
+        github: null
+    videos:
+      - 'youtube:2NoDBZogRFI'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-2018'
+  -
+    title: 'Distributed Data: Conflict-free Data Structures in JS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 12:10'
+    speakers:
+      -
+        name: 'Max Klymyshyn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:aIvD5-MU-Ho'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-2018-crdt-js'
+  -
+    title: 'Running JS engine on a microcontroller (UK)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 14:05'
+    speakers:
+      -
+        name: 'Volodymyr Shymanskyy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3GQ2XlYa0NA'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-2018-js'
+  -
+    title: 'Mutation Testing in JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 14:05'
+    speakers:
+      -
+        name: 'Andrey Kucherenko'
+        twitter: a_kucherenko
+        github: kucherenko
+    videos:
+      - 'youtube:tLgWMPn_CR0'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-2018-javascript'
+  -
+    title: 'W.T.F. is GraphQL? (UK)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 14:05'
+    speakers:
+      -
+        name: 'Ivan Goncharov'
+        twitter: E1Goncharov
+        github: IvanGoncharov
+    videos:
+      - 'youtube:0iOe78F-2S0'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-2018-wtf-is-graphql'
+  -
+    title: 'React-Native: Introduction'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 15:10'
+    speakers:
+      -
+        name: 'Ilya Ivanov'
+        twitter: null
+        github: ilyaivanov
+    videos:
+      - 'youtube:2riePh2ohCc'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-2018-reactnative-92639379'
+  -
+    title: 'How to make mobile web app better with Browser APIs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 15:10'
+    speakers:
+      -
+        name: 'Timofey Lavrenyuk'
+        twitter: geek_timofey
+        github: null
+    videos:
+      - 'youtube:ImZMlHb1Oq0'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-2018-api'
+  -
+    title: 'The Better Parts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 16:35'
+    speakers:
+      -
+        name: 'Douglas Crockford'
+        twitter: null
+        github: douglascrockford
+    videos:
+      - 'youtube:XFTOG895C7c'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-2018-douglas-crockford-the-better-parts'
+  -
+    title: 'Pixel shaders based UI components + let`s write your first pixel shader'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 16:35'
+    speakers:
+      -
+        name: 'Denis Radin'
+        twitter: PixelsCommander
+        github: PixelsCommander
+    videos:
+      - 'youtube:HAM6dB22dm4'
+    slides: null
+  -
+    title: 'How Microsoft To-Do Uses React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 17:40'
+    speakers:
+      -
+        name: 'Alexey Migutsky'
+        twitter: mr_mig_by
+        github: null
+    videos:
+      - 'youtube:6WeRZk7hsoE'
+    slides:
+      - 'http://slides.com/mr-mig/todo-react-2018#/'
+  -
+    title: 'FaCSSt: CSS & Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Harry Roberts'
+        twitter: csswizardry
+        github: null
+    videos:
+      - 'youtube:OsYgrfx_MqQ'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-2018-harry-roberts-facsst-css-performance'
+  -
+    title: $ecret
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Alexey Migutsky'
+        twitter: mr_mig_by
+        github: null
+    videos:
+      - 'youtube:H3ARoh7uih4'
+    slides:
+      - 'http://slides.com/mr-mig/jsfest-secret#/'
+  -
+    title: 'Why Fast Matters'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-31 10:00'
+    speakers:
+      -
+        name: 'Harry Roberts'
+        twitter: csswizardry
+        github: null
+    videos:
+      - 'youtube:Oc_2EkIxCpY'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-2018-harry-roberts-why-fast-matters'
+  -
+    title: 'Warm up your engine! or I know what you did last summer to V8 (UK)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-31 11:05'
+    speakers:
+      -
+        name: 'Sergiy Babich'
+        twitter: babichss
+        github: Sergiy-Babich
+    videos:
+      - 'youtube:SikWzFg-Zm0'
+    slides:
+      - 'https://babichss.github.io/v8/index.html#/3/12'
+  -
+    title: 'How to Write a Compass Plugin'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-31 11:05'
+    speakers:
+      -
+        name: 'Anna Herlihy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ViNwvolWaeo'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-2018-anna-herlihy-how-to-write-a-compass-plugin'
+  -
+    title: 'SSE vs WebSockets vs Long Polling'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-31 13:00'
+    speakers:
+      -
+        name: 'Martin Chaov'
+        twitter: null
+        github: mchaov
+    videos:
+      - 'youtube:n9mRjkQg3VE'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-2018-martin-chaov-sse-vs-websockets-vs-long-polling'
+  -
+    title: 'GraphQL - usable API or just another hype?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-31 13:00'
+    speakers:
+      -
+        name: 'Vladimir Zaets'
+        twitter: ZaetsVladimir
+        github: VladimirZaets
+    videos:
+      - 'youtube:4SJRvhom_dc'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-2018-graphql-apis'
+  -
+    title: 'Useful tools and utils for JS development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-31 13:00'
+    speakers:
+      -
+        name: 'Alexey Volkov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Idq7NSDhQEM'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-2018-js-92627937'
+  -
+    title: 'E2E-testing front-end with Hermione'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-31 14:05'
+    speakers:
+      -
+        name: 'Sergei Puzankovs'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ckH0Y7srkdU'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-2018-e2e-c-hermione'
+  -
+    title: 'Just Vue it'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-31 14:05'
+    speakers:
+      -
+        name: 'Oleksii Babakhanov'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://babakhanov.github.io/just-vue-it/#/'
+  -
+    title: 'Building interactive command line applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-31 14:05'
+    speakers:
+      -
+        name: 'Mathias buus madsen'
+        twitter: mafintosh
+        github: mafintosh
+    videos:
+      - 'youtube:p6xdsBmPWGw'
+    slides:
+      - 'https://mafintosh.github.io/jsfest-ua-2018/#0'
+  -
+    title: 'ES X'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-31 15:30'
+    speakers:
+      -
+        name: 'Vitalii Ratyshnyi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TcN-jO7s6As'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-2018-es-x-92755377'
+  -
+    title: 'NodeJS Microservices + CQRS + Event Sourcing - Why do I do this?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-31 15:30'
+    speakers:
+      -
+        name: 'Roman Sachenko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:257lVP7R5XM'
+    slides:
+      - 'https://slides.com/roman_sachenko/nodejs_cqrs_event_sourcing/#/'
+  -
+    title: 'A glimpse into the future of React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-31 16:35'
+    speakers:
+      -
+        name: 'Roman Iakobchuk'
+        twitter: null
+        github: romabelka
+    videos:
+      - 'youtube:gKmfTKQpWSM'
+    slides:
+      - 'https://www.slideshare.net/JSFestUA/js-fest-react'
+  -
+    title: 'Game "Heroes of Might and Magic" in browser: long, difficult and incredibly interesting'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-31 16:35'
+    speakers:
+      -
+        name: 'Alexander Korotaev'
+        twitter: mamu_eval
+        github: null
+    videos:
+      - 'youtube:YIq3QLVvcds'
+    slides:
+      - 'http://lekzd.ru/presentations/jsFest_heroes/'

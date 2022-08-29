@@ -1,0 +1,454 @@
+name: 'LOADays 2014'
+description: ''
+location: 'Antwerp, Belgium'
+venue: ''
+city: ''
+country: ''
+link: 'https://web.archive.org/web/20140407042845/http://loadays.org/pages/schedule-temp.html'
+playlist: ''
+from_date: '2014-04-05'
+to_date: '2014-04-06'
+tags: ''
+talks:
+  -
+    title: 'Zabbix Monitoring Solution an overview of the system'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-06 14:30'
+    speakers:
+      -
+        name: 'Patrik uytterhoeven'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'My first 3 years as a Linux SystemAdmin'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-05 09:15'
+    speakers:
+      -
+        name: 'Dave Simons'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TUTORIAL: Vagran'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-06 14:30'
+    speakers:
+      -
+        name: 'Bert Van Vreckem'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TUTORIAL: Regular Expressions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-05 17:00'
+    speakers:
+      -
+        name: 'Paul Cobbaut'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to MongoDB'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-06 10:30'
+    speakers:
+      -
+        name: 'Wouter Ibens'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Config Management with Ansib'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-05 10:30'
+    speakers:
+      -
+        name: 'JP Mens'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Babel Fish for DevOps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-06 09:30'
+    speakers:
+      -
+        name: 'Peter Czanik'
+        twitter: Pczanik
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'LDAP Benchmarks and their implications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-05 14:30'
+    speakers:
+      -
+        name: 'Jillian Kozyra'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Open Source backup with BAREOS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-05 15:30'
+    speakers:
+      -
+        name: 'Philipp Storz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TUTORIAL: TDD with Pupp'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-06 09:30'
+    speakers:
+      -
+        name: 'Garrett Honeycutt'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Managing and deploying SELinux policies with your cfgmgmt solution'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-06 16:00'
+    speakers:
+      -
+        name: 'Fabian Arrotin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The first few miliseconds of HTTPS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-05 09:30'
+    speakers:
+      -
+        name: 'Joshua Thijssen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Linux Configuration Collector : cfg2htm'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-05 14:30'
+    speakers:
+      -
+        name: "Gratien D'haese"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'DB Performance for Everybody'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-06 09:30'
+    speakers:
+      -
+        name: 'Bert Desmet'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TUTORIAL: Introduction to Pupp'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-05 11:30'
+    speakers:
+      -
+        name: 'Johan De Wit'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TUTORIAL: Introduction to Pupp'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-05 10:30'
+    speakers:
+      -
+        name: 'Johan De Wit'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Apache Cloudstack in a Nutsh'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-06 14:30'
+    speakers:
+      -
+        name: 'Wilder Rodrigues'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TUTORIAL: TDD with Pupp'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-06 10:30'
+    speakers:
+      -
+        name: 'Garrett Honeycutt'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Opennebula Changelog'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-06 13:30'
+    speakers:
+      -
+        name: 'Jaime Melis'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TUTORIAL: Introduction to Pupp'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-05 09:30'
+    speakers:
+      -
+        name: 'Johan De Wit'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Ansible, why and how I use '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-05 11:30'
+    speakers:
+      -
+        name: 'Ton Kersten'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TUTORIAL: Vagran'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-06 13:30'
+    speakers:
+      -
+        name: 'Bert Van Vreckem'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Why MySQL in a Business critical enviromnen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-06 13:30'
+    speakers:
+      -
+        name: 'Carsten Thalheimer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How Systemd will likely make your life easier'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-06 10:30'
+    speakers:
+      -
+        name: 'Michael Scherer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'MQTT for sysadmins'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-05 17:00'
+    speakers:
+      -
+        name: 'JP Mens'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Puppet 3 roles/profiles with foreman/hiera'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-06 11:30'
+    speakers:
+      -
+        name: 'Zdenek Janda'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TUTORIAL: Python for sysadmins'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-05 14:30'
+    speakers:
+      -
+        name: 'Greg Trahair'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Linux HA anno 2014'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-05 15:30'
+    speakers:
+      -
+        name: 'Julien Pivotto'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Configuration Management with Pupp'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-05 09:30'
+    speakers:
+      -
+        name: 'Christophe Vanlancker'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Inside Debian Installer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-05 13:30'
+    speakers:
+      -
+        name: 'Wouter Verhelst'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Desktop Virtualization with RHEV'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-05 10:30'
+    speakers:
+      -
+        name: 'Bart Janssens'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "What's new in OpenLDAP"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-05 13:30'
+    speakers:
+      -
+        name: 'Howard Chu'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TUTORIAL: TDD with Pupp'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-06 11:30'
+    speakers:
+      -
+        name: 'Garrett Honeycutt'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Systemtap
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-04-06 11:30'
+    speakers:
+      -
+        name: 'Marcel Nijenhof'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

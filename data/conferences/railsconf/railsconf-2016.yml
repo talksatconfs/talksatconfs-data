@@ -1,0 +1,1269 @@
+name: 'RailsConf 2016'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2016-05-04'
+to_date: '2016-05-06'
+tags: ''
+talks:
+  -
+    title: 'How Compose uses Rails to Scale Work, Now Open-Sourced'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'JP Phillips'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_3L5k_zozzw'
+    slides: null
+  -
+    title: 'From Zero to API Hero: Consuming APIs like a Pro'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Cecy Correa'
+        twitter: cecycorrea
+        github: null
+    videos:
+      - 'youtube:Af5HDgvGuXk'
+    slides: null
+  -
+    title: 'Finding Translations: Localization and Internationalization'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Valerie Woolard'
+        twitter: valeriecodes
+        github: valeriecodes
+    videos:
+      - 'youtube:uFOwICzjrvU'
+    slides: null
+  -
+    title: 'Make a Rails App with 140 Characters (or less)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Nate Berkopec'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SXV-RRsjsFc'
+    slides: null
+  -
+    title: 'Multi-table Full Text Search with Postgres'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Caleb Thompson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OzHhJPlgZaw'
+    slides: null
+  -
+    title: 'Closing Keynote: Paul Lamere'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Paul Lamere'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:f7XN3RuDzmc'
+    slides: null
+  -
+    title: 'Testing Rails at Scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Emil Stolarsky'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zWR477ypEsc'
+    slides: null
+  -
+    title: 'How to Get and Love Your First Rails Job'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Molly Morgan Black'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-4KKqYuYHno'
+    slides: null
+  -
+    title: 'Building Applications Better the First Time'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Jessica Roper'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MA3f7aWCTL4'
+    slides: null
+  -
+    title: 'I Can’t Believe It’s Not A Queue: Using Kafka with Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Terence Lee'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:s3VQIGD5iGo'
+    slides: null
+  -
+    title: 'Make Them Click'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Roy Tomeij'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vsc4HmLCxY4'
+    slides: null
+  -
+    title: 'Reduce Small-Team Culture Shock with Agile'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Jamie Riedesel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qHTKw6Djhbw'
+    slides: null
+  -
+    title: 'Small Details, Big Impact'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Lee Baillie'
+        twitter: _lbaillie
+        github: null
+      -
+        name: 'Yehuda Katz'
+        twitter: wycats
+        github: null
+    videos:
+      - 'youtube:533rIdxPF10'
+    slides: null
+  -
+    title: 'Step 1) Hack, Step 2) ?, Step 3) Profit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Bradley Herman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rktRuNfmW9I'
+    slides: null
+  -
+    title: 'Bridging the Gap between Designers and Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Ryan R. Hughes'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mweTM1hsn84'
+    slides: null
+  -
+    title: 'Stuck in the Middle: Leverage the power of Rack Middleware'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Amy Unger'
+        twitter: cdwort
+        github: cdwort
+    videos:
+      - 'youtube:WeXpka50tHY'
+    slides: null
+  -
+    title: 'Storytelling with Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Michael Rau'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:B3Bu22XaKGg'
+    slides: null
+  -
+    title: 'Foreign API Simulation with Sinatra'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Konstantin Tennhard'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LAR7foT9kUE'
+    slides: null
+  -
+    title: 'RSpec and Rails 5'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Justin Searls'
+        twitter: searls
+        github: searls
+    videos: null
+    slides: null
+  -
+    title: 'Opening Keynote: Chanelle Henry'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Chanelle Henry'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:f3RcrToGIEQ'
+    slides: null
+  -
+    title: 'The Rails Boot Process'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Xavier Noria'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vSza2FZucV8'
+    slides: null
+  -
+    title: 'Style Documentation for the Resource-Limited'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Betsy Haibel'
+        twitter: betsythemuffin
+        github: null
+    videos:
+      - 'youtube:wR0h5RyeSGQ'
+    slides: null
+  -
+    title: 'Crushing It With Rake Tasks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Barrett Clark'
+        twitter: barrettclark
+        github: tenderlove
+    videos:
+      - 'youtube:8HRJQUr2Y3Q'
+    slides: null
+  -
+    title: 'Inside ActiveJob'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: "Jerry D'Antonio"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:E-1ICY8DMh4'
+    slides: null
+  -
+    title: 'Booting Up: Hiring and Growing Boot Camp Graduates'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Eric Weinstein'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RlnA9IXmDQ0'
+    slides: null
+  -
+    title: 'Quit Frustrating Your New Developers - Tips From a Teacher'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Miki Rezentes'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:L0cYUD0-XNs'
+    slides: null
+  -
+    title: 'Excellence Through Diversity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Andreas Fast'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_mwcreHuqNA'
+    slides: null
+  -
+    title: 'Turbo Rails with Rust'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Godfrey Chan'
+        twitter: chancancode
+        github: null
+    videos:
+      - 'youtube:PbJI8yCsEkA'
+    slides: null
+  -
+    title: 'ActiveRecord vs. Ecto: A Tale of Two ORMs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Brad Urani'
+        twitter: bradurani
+        github: null
+    videos:
+      - 'youtube:_wD25uHx_Sw'
+    slides: null
+  -
+    title: 'Client/Server Architecture: Past, Present, & Future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Mike Groseclose'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-ZqQRUWkomk'
+    slides: null
+  -
+    title: 'Pat Packet Visits Ruby Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Jeremy Fairbank'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5N--xAEtGbo'
+    slides: null
+  -
+    title: 'Introduction to Concurrency in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Thijs Cadier'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5AxtY4dfuwc'
+    slides: null
+  -
+    title: 'Priming You for Your Job Search'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Travis Hillery'
+        twitter: null
+        github: null
+      -
+        name: 'Kim Lambright'
+        twitter: null
+        github: null
+      -
+        name: 'MiMi Moore'
+        twitter: null
+        github: null
+      -
+        name: 'Mark McDonald'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RrN0NA4rRbU'
+    slides: null
+  -
+    title: 'Precompiling Ruby scripts - Myth and Fact'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Koichi Sasada'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:aBhygk4c1PY'
+    slides: null
+  -
+    title: 'Rediscovering ActiveRecord'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Mario Alberto Chavez'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VMKsZn0-Es4'
+    slides: null
+  -
+    title: 'Strong Practices for Rails Applications Continuous Delivery'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Nathan Smith'
+        twitter: null
+        github: null
+      -
+        name: 'Robb Kidd'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zX3Kggw1Y-c'
+    slides: null
+  -
+    title: "Rails 5 Features You Haven't Heard About"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Sean Griffin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:b010Nh-A0vY'
+    slides: null
+  -
+    title: 'Turbolinks 5: I Can’t Believe It’s Not Native!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Sam Stephenson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SWEts0rlezA'
+    slides: null
+  -
+    title: 'Frameworks for Feedback'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Rebecca Miller-Webster'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:q8K_66PA2qw'
+    slides: null
+  -
+    title: 'Continuous Visual Integration for Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Mike Fotinakis'
+        twitter: mikefotinakis
+        github: null
+    videos:
+      - 'youtube:5h-JJ2wqiIw'
+    slides: null
+  -
+    title: 'Site Availability is for Everybody'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Stella Cotton'
+        twitter: practice_cactus
+        github: stellacotton
+    videos:
+      - 'youtube:hgpNRhQWWNw'
+    slides: null
+  -
+    title: 'The Guest: A Guide To Code Hospitality'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Nadia Odunayo'
+        twitter: nodunayo
+        github: null
+    videos:
+      - 'youtube:hHzWG1FltaE'
+    slides: null
+  -
+    title: 'Closing Keynote: Skunk Works'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Nickolas Means'
+        twitter: nmeans
+        github: null
+    videos:
+      - 'youtube:ggPE-JHzfAM'
+    slides: null
+  -
+    title: 'How Sprockets works'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Rafael Mendonça França'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CzFFYelG7WY'
+    slides: null
+  -
+    title: 'Riding the Latest Rails for Charity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Joseph Dean'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CgQ_NEzNJss'
+    slides: null
+  -
+    title: 'Pragmatic Lessons of Rails & Ruby in the Enterprise'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Nathan Beyer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6BI5RFi_A0M'
+    slides: null
+  -
+    title: 'Internships: Good for the Intern, Great for the Team'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Lillie Chilen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:75LK0MOvyjQ'
+    slides: null
+  -
+    title: 'Real World Docker for the Rubyist'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Jason Clark'
+        twitter: riceboyler
+        github: riceboyler
+    videos:
+      - 'youtube:DyBvMrNX1ZY'
+    slides: null
+  -
+    title: 'Ruby Hero Awards 2016'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:JSNogJGaMms'
+    slides: null
+  -
+    title: 'Can Time-Travel Keep You From Blowing Up The Enterprise?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'David Copeland'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:23NhP4x3AAE'
+    slides: null
+  -
+    title: 'Opening Keynote: Jeremy Daer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Jeremy Daer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nUVsZ4vS1Y8'
+    slides: null
+  -
+    title: 'Your Software is Broken — Pay Attention'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'James Smith'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:F6g_Fx8qqCU'
+    slides: null
+  -
+    title: '5 Practical Ways to Advocate for Diversity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Tony Wieczorek'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zi335PDgL7A'
+    slides: null
+  -
+    title: 'Lightning Talks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:DHHHnPwSY5I'
+    slides: null
+  -
+    title: 'From Director to Intern: Changing Careers as a Single Mom'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Teresa Martyny'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hZLz9p58ZqU'
+    slides: null
+  -
+    title: 'The State of Web Security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Mike Milner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UoiCylwUoq4'
+    slides: null
+  -
+    title: 'Rails to Phoenix'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Brian Cardarella'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OxhTQdcieQE'
+    slides: null
+  -
+    title: 'Facepalm to Foolproof: Avoiding Common Production Pitfalls'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Jon McCartie'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yDJV9mr--Yo'
+    slides: null
+  -
+    title: 'Your First Legacy Codebase'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Coraline Ada Ehmke'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:D6I__S3krbA'
+    slides: null
+  -
+    title: 'Secrets of Testing Rails 5 apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Prathamesh Sonpatki'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_qG7A9LxBPw'
+    slides: null
+  -
+    title: 'Saving Sprockets'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Richard Schneeman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:imE397wVWgY'
+    slides: null
+  -
+    title: 'From Excel to Rails: A Path to Enlightened Internal Software'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Nick Reavill'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8vV8SvQARuU'
+    slides: null
+  -
+    title: 'How to Build a Skyscraper'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Ernie Miller'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:x8mSR9iAm74'
+    slides: null
+  -
+    title: 'Build Realtime Apps with Ruby & Pakyow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Bryan Powell'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ttnlh_Y0XJM'
+    slides: null
+  -
+    title: 'Managing Growing Pains: Thinking Big While Being Small'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Jon Arnold'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7H-Cy-80ynM'
+    slides: null
+  -
+    title: 'Zen and the Art of the Controller'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Michael Kelly'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:KVkQ9UEQk0Y'
+    slides: null
+  -
+    title: 'Get a Whiff of This'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Sandi Metz'
+        twitter: sendimetz
+        github: skmetz
+    videos:
+      - 'youtube:PJjHfa5yxlU'
+    slides: null
+  -
+    title: 'Tweaking Ruby GC Parameters for Fun, Speed, and Profit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Helio Cola'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0nUV9MXlcwo'
+    slides: null
+  -
+    title: 'Sponsor: Hired'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Bradley Herman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7-apgRR5O5k'
+    slides: null
+  -
+    title: 'Writing a Test Framework from Scratch'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Ryan Davis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VPr5pmlAq20'
+    slides: null
+  -
+    title: 'Packaging and Shipping Rails Applications in Docker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Allan Espinosa'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lpHgNC5bCbo'
+    slides: null
+  -
+    title: 'Power up Your Development with RubyMine'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Tatiana Vasilyeva'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:issom99iWDs'
+    slides: null
+  -
+    title: 'Sponsor: Indeed'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Chris Colòn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Zt4euou1r1U'
+    slides: null
+  -
+    title: 'Hiring Developers, with Science!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Joe Mastey'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZCGGMxcJMZk'
+    slides: null
+  -
+    title: 'How We Deploy Shopify'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Kat Drobnjakovic'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HNH7El_BEsw'
+    slides: null
+  -
+    title: 'Surviving the Framework Hype Cycle'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Brandon Hays'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:O6TtfK9gGvA'
+    slides: null
+  -
+    title: 'Going Serverless'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Jeremy Green'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:stOpBNo5l-E'
+    slides: null
+  -
+    title: 'Developing and maintaining a platform with Rails and Lotus'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Simone Carletti'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FkWt7ep5XRM'
+    slides: null
+  -
+    title: '3x Rails: Tuning the Framework Internals'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Akira Matsuda'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hVXsxhHV1yY'
+    slides: null
+  -
+    title: 'Will It Inject? A Look at SQL Injection and ActiveRecord'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Jessica Rudder'
+        twitter: jessrudder
+        github: JessRudder
+    videos:
+      - 'youtube:2GHWAYys1is'
+    slides: null
+  -
+    title: 'Opening Keynote: Aaron Patterson'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Aaron Patterson'
+        twitter: tenderlove
+        github: tenderlove
+    videos:
+      - 'youtube:xMFs9DTympQ'
+    slides: null
+  -
+    title: "...But Doesn't Rails Take Care of Security for Me?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Justin Collins'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3P9naxOfUC4'
+    slides: null
+  -
+    title: 'ActionCable for Not-Another-Chat-App-Please'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'Jesse Wolgamott'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IeYGfM32Iqs'
+    slides: null
+  -
+    title: 'Level-up Your ActiveRecord Skills: Learn SQL!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Ryan Dlugosz'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4xjSXp-oBvc'
+    slides: null
+  -
+    title: "Don't Forget the Network: Your App is Slower Than You Think"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'André Arko'
+        twitter: indirect
+        github: indirect
+    videos:
+      - 'youtube:KP1nKRprj0Q'
+    slides: null
+  -
+    title: 'How we scaled GitLab for a 30k-employee company'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Minqi Pan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:byZcOH92CiY'
+    slides: null
+  -
+    title: Succession
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 00:00'
+    speakers:
+      -
+        name: 'Katrina Owen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:59YClXmkCVM'
+    slides: null
+  -
+    title: 'Implementing the LHC on a Whiteboard'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 00:00'
+    speakers:
+      -
+        name: 'James Edward Gray II'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:g5lWfHEeibs'
+    slides: null
+  -
+    title: 'Postcards from GorbyPuff'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 00:00'
+    speakers:
+      -
+        name: 'Aja Hammerly'
+        twitter: the_thagomizer
+        github: null
+    videos:
+      - 'youtube:_lQIwkjXE0Y'
+    slides: null

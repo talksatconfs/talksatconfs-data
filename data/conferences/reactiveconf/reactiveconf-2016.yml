@@ -1,0 +1,460 @@
+name: 'ReactiveConf 2016'
+description: 'World-class mobile and web innovators get together for three days in one town.Join them from October 26th to 28th in Bratislava, Slovakia!'
+location: ''
+venue: ''
+city: Bratislava
+country: Slovakia
+link: 'https://2016.reactiveconf.com/'
+playlist: 'youtube:PLa2ZZ09WYepMCRRGCRPhTYuTCat4TiDlX'
+from_date: '2016-10-27'
+to_date: '2016-10-28'
+tags: ''
+talks:
+  -
+    title: 'How the web ecosystem shaped Angular 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Igor Minar'
+        twitter: IgorMinar
+        github: null
+    videos:
+      - 'youtube:41ffY2whXoU'
+    slides: null
+  -
+    title: 'Testing the way it should be'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Brian Mann'
+        twitter: be_maan
+        github: null
+    videos:
+      - 'youtube:lK_ihqnQQEM'
+    slides: null
+  -
+    title: 'The Age of Reason(ML)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Sean Grove'
+        twitter: sgrove
+        github: sgrove
+    videos:
+      - 'youtube:8LCmLQ1-YqQ'
+    slides: null
+  -
+    title: 'Living in an async world of React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Krzysztof Magiera'
+        twitter: kzzzf
+        github: kmagiera
+    videos:
+      - 'youtube:-Izgons3mec'
+    slides: null
+  -
+    title: "What's Next? Exploring the future of React"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Guillermo Rauch'
+        twitter: rauchg
+        github: rauchg
+    videos:
+      - 'youtube:lYt2_N31bGM'
+    slides: null
+  -
+    title: 'Speed up app development with prefabricated, extensible, open-source backends'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Michael Glukhovsky'
+        twitter: mglukhovsky
+        github: null
+    videos:
+      - 'youtube:uaDYba7-U2c'
+    slides: null
+  -
+    title: 'Paradigms for dealing with asynchrony'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Jared Forsyth'
+        twitter: jaredforsyth
+        github: jaredly
+    videos:
+      - 'youtube:FSJEbFhjPHk'
+    slides: null
+  -
+    title: 'Optimistic updates in a pessimistic world'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Daniel Woelfel'
+        twitter: DanielWoelfel
+        github: null
+    videos:
+      - 'youtube:cgJyI1BKmHQ'
+    slides: null
+  -
+    title: 'Past and future of client-side routing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Thomas Roch'
+        twitter: tcroch
+        github: null
+    videos:
+      - 'youtube:hblXdstrAg0'
+    slides: null
+  -
+    title: 'Elm and React in production'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Richard Feldman'
+        twitter: rtfeldman
+        github: null
+    videos:
+      - 'youtube:3FNKaGm3gk0'
+    slides: null
+  -
+    title: 'Reducing Redux Boilerplate'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Peter Perešíni'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BaBq48tvPB8'
+    slides: null
+  -
+    title: 'An API search engine in Elm for Elm'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Jonas Coch'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OVlEEm_la8g'
+    slides: null
+  -
+    title: 'React is the new Lego - how we deal with a lot of components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Ondřej Bartas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Dqq1p9aIPQQ'
+    slides: null
+  -
+    title: 'Rich text editing with DraftJS Plugins'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Nik Graf'
+        twitter: nikgraf
+        github: nikgraf
+    videos:
+      - 'youtube:YoUlRLnb1Eg'
+    slides: null
+  -
+    title: 'A Life on a Commandline'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Patrick Stapfer'
+        twitter: ryyppy
+        github: ryyppy
+    videos:
+      - 'youtube:zyLpvEyv7l0'
+    slides: null
+  -
+    title: 'Reconceptualize your entire app as a function'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Adam Terlson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5rtbSYl70ak'
+    slides: null
+  -
+    title: 'Thinking metrics on React applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Jean Carlo Emer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9PhQ0ML4t-8'
+    slides: null
+  -
+    title: 'Styling in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Javi Velasco'
+        twitter: javivelasco
+        github: javivelasco
+    videos:
+      - 'youtube:Ibr3bNIcr_M'
+    slides: null
+  -
+    title: 'Markdown + React = 💙'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Kristjian Ristovski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MM0XgD89Tr8'
+    slides: null
+  -
+    title: 'Road from UndefinedLand'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Gregory Shehet'
+        twitter: agambit95
+        github: A-gambit
+    videos:
+      - 'youtube:_fvzOpBhk_I'
+    slides: null
+  -
+    title: 'With good naming convention, CSS works pretty well'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-27 00:00'
+    speakers:
+      -
+        name: 'Aleksey Kulikov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:S3sdJdJhr7o'
+    slides: null
+  -
+    title: 'Styled-components: Styled-components Enforcing best practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-28 00:00'
+    speakers:
+      -
+        name: 'Max Stoiber'
+        twitter: mxstbr
+        github: mxstbr
+    videos:
+      - 'youtube:jaqDA7Btm3c'
+    slides: null
+  -
+    title: 'Building validated forms with great UX in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-28 00:00'
+    speakers:
+      -
+        name: 'Marcela Hrda'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DfRKc3XUFTk'
+    slides: null
+  -
+    title: 'The Universality of Static Sites'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-28 00:00'
+    speakers:
+      -
+        name: 'Mark Dalgleish'
+        twitter: markdalgleish
+        github: markdalgleish
+    videos:
+      - 'youtube:ovIrOMBbWrc'
+    slides: null
+  -
+    title: 'Visualizing the data flow with Cycle.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-28 00:00'
+    speakers:
+      -
+        name: 'Andre Staltz'
+        twitter: andrestaltz
+        github: staltz
+    videos:
+      - 'youtube:3a98OPJWFPY'
+    slides: null
+  -
+    title: 'Writing Sound Asynchronous Code with Coroutines'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-28 00:00'
+    speakers:
+      -
+        name: 'Tomaš Kulich'
+        twitter: tomas_kulich
+        github: null
+    videos:
+      - 'youtube:gZz-1OaMpqg'
+    slides: null
+  -
+    title: 'Immer-mutable state management'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-28 00:00'
+    speakers:
+      -
+        name: 'Michel Weststrate'
+        twitter: mweststrate
+        github: mweststrate
+    videos:
+      - 'youtube:Ql8KUUUOHNc'
+    slides: null
+  -
+    title: 'Building Universal Windows Apps with React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-28 00:00'
+    speakers:
+      -
+        name: 'Ryan J. Salva'
+        twitter: ryanjsalva
+        github: null
+    videos:
+      - 'youtube:OmuOWbsQLmc'
+    slides: null
+  -
+    title: 'Building better mobile apps with GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-28 00:00'
+    speakers:
+      -
+        name: 'Martijn Walraven'
+        twitter: martijnwalraven
+        github: null
+    videos:
+      - 'youtube:SWiegnVtYzM'
+    slides: null
+  -
+    title: 'Bridging the Gap: How to use React Native in existing large native code bases'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-28 00:00'
+    speakers:
+      -
+        name: 'Leland Richardson'
+        twitter: intelligibabble
+        github: lelandrichardson
+    videos:
+      - 'youtube:npwa3ZmG9VQ'
+    slides: null
+  -
+    title: 'No Xcode, Android Studio, Java, Swift, Objective C - how far can JavaScript get you?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-28 00:00'
+    speakers:
+      -
+        name: 'Brent Vatne'
+        twitter: notbrent
+        github: brentvatne
+    videos:
+      - 'youtube:kpeoddFXWfc'
+    slides: null
+  -
+    title: 'Through the Looking Glass'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-28 00:00'
+    speakers:
+      -
+        name: 'David Nolen'
+        twitter: swannodette
+        github: null
+    videos:
+      - 'youtube:lkh4hjyHdWA'
+    slides: null

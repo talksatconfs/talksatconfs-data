@@ -1,0 +1,249 @@
+name: "PHP fwdays'18"
+description: ''
+location: Kyiv
+venue: ''
+city: ''
+country: ''
+link: 'https://fwdays.com/en/event/php-fwdays-2018'
+playlist: ''
+from_date: '2018-06-10'
+to_date: '2018-06-10'
+tags: ''
+talks:
+  -
+    title: 'Evolution of Ecommerce Application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-10 00:00'
+    speakers:
+      -
+        name: 'Alexandr Vronskiy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fcOKKO0iXYU'
+    slides: null
+  -
+    title: 'First steps with Docker: Session 2/2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-10 00:00'
+    speakers:
+      -
+        name: 'Dmytro Naumenko'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Yii 2.1, PHP and frameworks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-10 00:00'
+    speakers:
+      -
+        name: 'Alexander Makarov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WzLXWI2rD3Y'
+    slides: null
+  -
+    title: 'How Unhandled exception works'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-10 00:00'
+    speakers:
+      -
+        name: 'Artem Khvastunov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:eB60GvLRkKU'
+    slides: null
+  -
+    title: "Alexa, let's build a voice-powered app"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-10 00:00'
+    speakers:
+      -
+        name: 'Marcel Pociot'
+        twitter: marcelpociot
+        github: mpociot
+    videos:
+      - 'youtube:qIRKzYPwOTE'
+    slides: null
+  -
+    title: 'Deep dive into Symfony 4 internals'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-10 00:00'
+    speakers:
+      -
+        name: 'Tobias Nyholm'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pz6VdH4_BSg'
+    slides: null
+  -
+    title: 'Scalable social network API on AWS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-10 00:00'
+    speakers:
+      -
+        name: 'Nazariy Hazdun'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1S_Aq-IsmJg'
+    slides: null
+  -
+    title: 'Events in our applications Event bus and distributed systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-10 00:00'
+    speakers:
+      -
+        name: 'Andrii Dembitskyi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yBh_0icVFes'
+    slides: null
+  -
+    title: 'Getting the Most out of MongoDB'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-10 00:00'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos:
+      - 'youtube:q_aUyK0UAWQ'
+    slides: null
+  -
+    title: 'RAD with Symfony'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-10 00:00'
+    speakers:
+      -
+        name: 'Renato Mefi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AQ8su8qIbV8'
+    slides: null
+  -
+    title: "The beauty of Laravel's notification system and how it helped me to create my first Laravel package"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-10 00:00'
+    speakers:
+      -
+        name: 'Christoph Rumpel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IDoQ5fLLURg'
+    slides: null
+  -
+    title: 'Debugging and Profiling distributed applications using Opentracing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-10 00:00'
+    speakers:
+      -
+        name: 'Taras Girnyk'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oGeQRk5w2OI'
+    slides: null
+  -
+    title: 'Статический анализ или майним информацию из кода'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-10 00:00'
+    speakers:
+      -
+        name: 'Sergey Protko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sf39f2q15cU'
+    slides: null
+  -
+    title: 'From Helpers to Middleware'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-10 00:00'
+    speakers:
+      -
+        name: 'Marco Pivetta'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:v1I57-_Rsv0'
+    slides: null
+  -
+    title: 'Рефакторинг - пути улучшения кода'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-10 00:00'
+    speakers:
+      -
+        name: 'Roman Sevastyanov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4-KkQmlAfSs'
+    slides: null
+  -
+    title: "What's New in Xdebug"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-10 00:00'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos:
+      - 'youtube:Hi4e832-qkE'
+    slides: null
+  -
+    title: 'First steps with Docker: Session 1/2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-10 00:00'
+    speakers:
+      -
+        name: 'Dmytro Naumenko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EaxY9mbQYVY'
+    slides: null

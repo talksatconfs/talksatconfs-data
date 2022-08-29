@@ -1,0 +1,688 @@
+name: 'SunshinePHP 2016'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2016-02-04'
+to_date: '2016-02-06'
+tags: ''
+talks:
+  -
+    title: 'The WordPress REST API'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 16:00'
+    speakers:
+      -
+        name: 'David Bisset'
+        twitter: dimensionmedia
+        github: cookieguru
+    videos: null
+    slides: null
+  -
+    title: 'Magento at 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 17:15'
+    speakers:
+      -
+        name: 'Ben Marks'
+        twitter: benmarks
+        github: benmarks
+    videos: null
+    slides: null
+  -
+    title: 'What They Should Tell You About API Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 11:30'
+    speakers:
+      -
+        name: 'Phil Sturgeon'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Manage Your Content with Elasticsearch'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-04 13:00'
+    speakers:
+      -
+        name: 'Samantha Quiñones'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Step Into Debugging'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 16:00'
+    speakers:
+      -
+        name: 'Gary Hockin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Test, Create, Secure, Repeat'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-04 09:00'
+    speakers:
+      -
+        name: 'Michelangelo van Dam'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Navigating Your Git Repository'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 11:30'
+    speakers:
+      -
+        name: 'Gemma Anible'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Applying the 4 Rules of Simple Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 17:15'
+    speakers:
+      -
+        name: 'Adam Wathan'
+        twitter: adamwathan
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'MySQL Server Performance Tuning 101'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 10:15'
+    speakers:
+      -
+        name: 'Ligaya Turmelle'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Asynchronous PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 10:15'
+    speakers:
+      -
+        name: 'Christopher Pitt'
+        twitter: assertchris
+        github: assertchris
+    videos: null
+    slides: null
+  -
+    title: 'Growing your filesystem'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 14:45'
+    speakers:
+      -
+        name: 'Frank de Jonge'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '30 Skills to Master to Become a Senior Software Engineer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 10:15'
+    speakers:
+      -
+        name: 'Sean Coates'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The continuous PHP Pipeline'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 17:15'
+    speakers:
+      -
+        name: 'Michelangelo van Dam'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Give Me a REST!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 14:45'
+    speakers:
+      -
+        name: 'Amanda Folson'
+        twitter: AmbassadorAwsum
+        github: afolson
+    videos: null
+    slides: null
+  -
+    title: 'From Idea to Prototype in 50 Minutes with Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 17:15'
+    speakers:
+      -
+        name: 'Matt Stauffer'
+        twitter: stauffermatt
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Adventures in Symfony2 - Building an MMO-RPG'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 16:00'
+    speakers:
+      -
+        name: 'Margaret Staples'
+        twitter: dead_lugosi
+        github: mstaples
+    videos: null
+    slides: null
+  -
+    title: TBA
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 13:30'
+    speakers:
+      -
+        name: 'Sharon Steed'
+        twitter: sharonsteed
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Containers and Docker for the PHP developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 17:15'
+    speakers:
+      -
+        name: 'Robert McFrazier'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Taking the Web Offline'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 14:45'
+    speakers:
+      -
+        name: 'Steve Grunwell'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Adventures in Laravel 5'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-04 09:00'
+    speakers:
+      -
+        name: 'Joe Ferguson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Demystifying Object-Oriented Programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-04 13:00'
+    speakers:
+      -
+        name: 'Alena Holligan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PCI Compliance for PHP in the Hipster Age'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 11:30'
+    speakers:
+      -
+        name: 'Phillip Jackson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Microservices: Packs small, plays BIG!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 16:00'
+    speakers:
+      -
+        name: 'Stephan Hochdorfer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Together We Do More'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 09:00'
+    speakers:
+      -
+        name: 'Jessica Dunbar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Exploiting the Brain for Fun & Profit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 14:45'
+    speakers:
+      -
+        name: 'Alena Holligan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'HTTP/2 The (not so) new Language of the Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 11:30'
+    speakers:
+      -
+        name: 'Adrian Cardenas'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Magento 2 Modules are Easy!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-04 13:00'
+    speakers:
+      -
+        name: 'Ben Marks'
+        twitter: benmarks
+        github: benmarks
+    videos: null
+    slides: null
+  -
+    title: 'Behat: Beyond the Basics'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 17:15'
+    speakers:
+      -
+        name: 'Jessica Mauerhan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Feature Flags are Flawed: Let's Make Them Better"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 10:15'
+    speakers:
+      -
+        name: 'Stephen Young'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Acceptance & Functional Testing with Codeception'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 10:15'
+    speakers:
+      -
+        name: 'Joe Ferguson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building Real-Time Data Pipelines'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 11:30'
+    speakers:
+      -
+        name: 'Samantha Quiñones'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Web Security and You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 10:15'
+    speakers:
+      -
+        name: 'Eli White'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Pattern to Design Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 11:30'
+    speakers:
+      -
+        name: 'Chris Russell'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '/Regex makes me want to (weep|give up|(╯°□°)╯︵ ┻━┻)\.?/i'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 16:00'
+    speakers:
+      -
+        name: brettflorio
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "You Can UX Too: Avoiding the Programmer's User Interface"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 10:15'
+    speakers:
+      -
+        name: "Eryn O'Neil"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'APIs to your brain'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 16:00'
+    speakers:
+      -
+        name: 'Ibis Fonte'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Docker for Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-04 09:00'
+    speakers:
+      -
+        name: 'Chris Tankersley'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Don't be the last to know! Strategies & Tactics for Monitoring Your System and Services"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 14:45'
+    speakers:
+      -
+        name: 'ELISA TOWBIS'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Be a Bold Coder'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 14:45'
+    speakers:
+      -
+        name: 'Beth Tucker Long'
+        twitter: e3betht
+        github: e3betht
+    videos: null
+    slides: null
+  -
+    title: 'ZF2 Service Manager: From Zero to Epic'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 11:30'
+    speakers:
+      -
+        name: 'Gary Hockin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Groupies, Roadies, Rockstars'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 18:15'
+    speakers:
+      -
+        name: 'Cal Evans'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Performance Testing for Modern Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 14:45'
+    speakers:
+      -
+        name: 'Dustin Whittle'
+        twitter: dustinwhittle
+        github: dustinwhittle
+    videos: null
+    slides: null
+  -
+    title: 'Symfony Guard Authentication: Fun with API Token, Social Login, JWT and more'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 10:15'
+    speakers:
+      -
+        name: 'Ryan Weaver'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Smiling From the Wrists Down: Customer Service for Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 17:15'
+    speakers:
+      -
+        name: 'Heather L White'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP Identity and Data Security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 16:00'
+    speakers:
+      -
+        name: 'Jonathan LeBlanc'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Functional ES6 JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 17:15'
+    speakers:
+      -
+        name: Luis
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to Graph Databases with Neo4j'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 14:45'
+    speakers:
+      -
+        name: 'Michael Moussa'
+        twitter: michaelmoussa
+        github: michaelmoussa
+    videos: null
+    slides: null
+  -
+    title: "MySQL's JSON Data Type"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 11:30'
+    speakers:
+      -
+        name: 'Dave Stokes'
+        twitter: iansltx
+        github: mysqlmentor
+    videos: null
+    slides: null
+  -
+    title: 'Extreme Team Building: Surviving an Ocean Crossing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-06 13:30'
+    speakers:
+      -
+        name: 'Stephanie Evans'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'ZF2 Done Properly'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-04 13:00'
+    speakers:
+      -
+        name: 'Gary Hockin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Become an Open Source Contributor'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-04 09:00'
+    speakers:
+      -
+        name: 'Beth Tucker Long'
+        twitter: e3betht
+        github: e3betht
+    videos: null
+    slides: null
+  -
+    title: 'Become a RUM runner!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 16:00'
+    speakers:
+      -
+        name: 'Vesna Vuynovich Kovach'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

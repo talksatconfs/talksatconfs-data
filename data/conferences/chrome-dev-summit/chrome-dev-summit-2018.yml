@@ -1,0 +1,408 @@
+name: 'Chrome Dev Summit 2018'
+description: 'Connect with Chrome engineers and other leading developers for an exploration of building beautiful and performant experiences.'
+location: ''
+venue: ''
+city: 'San Francisco, CA'
+country: 'United States'
+link: 'https://developer.chrome.com/devsummit/'
+playlist: 'youtube.com:PLNYkxOF6rcIDjlCx1PcphPpmf43aKOAdF'
+from_date: '2018-11-12'
+to_date: '2018-11-13'
+tags: ''
+talks:
+  -
+    title: 'Day 1 Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-12 00:00'
+    speakers:
+      -
+        name: 'Ben Galbraith'
+        twitter: bgalbs
+        github: null
+      -
+        name: 'Dion Almaer'
+        twitter: dalmaer
+        github: null
+    videos:
+      - 'youtube:zPHyxvPT0gg'
+    slides: null
+  -
+    title: 'Get Down to Business: Why the Web Matters'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-12 00:00'
+    speakers:
+      -
+        name: 'Aanchal Bahadur'
+        twitter: aanchalbahadur
+        github: null
+      -
+        name: 'Zack Argyle'
+        twitter: zackargyle
+        github: zackargyle
+      -
+        name: 'David Brunelle'
+        twitter: davidbrunelle
+        github: null
+      -
+        name: 'Matt Rizzo'
+        twitter: mrizzo10
+        github: null
+    videos:
+      - 'youtube:Xryhxi45Q5M'
+    slides: null
+  -
+    title: 'State of the Union for Speed Tooling'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-12 00:00'
+    speakers:
+      -
+        name: 'Paul Irish'
+        twitter: paul_irish
+        github: null
+      -
+        name: 'Elizabeth Sweeny'
+        twitter: egsweeny
+        github: null
+    videos:
+      - 'youtube:ymxs8OSXiUA'
+    slides: null
+  -
+    title: 'Speed Essentials: Key Techniques for Fast Websites'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-12 00:00'
+    speakers:
+      -
+        name: 'Houssein Djirdeh'
+        twitter: hdjirdeh
+        github: housseindjirdeh
+      -
+        name: 'Katie Hempenius'
+        twitter: katiehempenius
+        github: null
+    videos:
+      - 'youtube:reztLS3vomE'
+    slides: null
+  -
+    title: 'Building Faster, More Resilient Apps with Service Worker: A Caching Strategy Deep Dive'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-12 00:00'
+    speakers:
+      -
+        name: 'Ewa Gasperowicz'
+        twitter: devnook
+        github: null
+      -
+        name: 'Phil Walton'
+        twitter: philwalton
+        github: null
+    videos:
+      - 'youtube:25aCD5XL1Jk'
+    slides: null
+  -
+    title: 'Smooth Moves: Rendering at the Speed of Right ®'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-12 00:00'
+    speakers:
+      -
+        name: 'Jason Miller'
+        twitter: _developit
+        github: developit
+      -
+        name: 'Adam Argyle'
+        twitter: argyleink
+        github: null
+    videos:
+      - 'youtube:AB9qSUhlxh8'
+    slides: null
+  -
+    title: 'Complex JS-heavy Web Apps, Avoiding the Slow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-12 00:00'
+    speakers:
+      -
+        name: 'Jake Archibald'
+        twitter: jaffathecake
+        github: null
+      -
+        name: 'Mariko Kosaka'
+        twitter: kosamari
+        github: kosamari
+    videos:
+      - 'youtube:ipNW6lJHVEs'
+    slides: null
+  -
+    title: 'Building Modern Web Media Experiences: Picture-in-Picture and AV1'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-12 00:00'
+    speakers:
+      -
+        name: 'François Beaufort'
+        twitter: null
+        github: null
+      -
+        name: 'Angie Bird'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iTC3mfe0DwE'
+    slides: null
+  -
+    title: 'Modern Websites for E-commerce in the Real World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-12 00:00'
+    speakers:
+      -
+        name: 'Cheney Tsai'
+        twitter: cheneytsai
+        github: null
+      -
+        name: 'Ramya Raghavan'
+        twitter: ramyaaraghavan
+        github: null
+    videos:
+      - 'youtube:SJiKWwBtQaU'
+    slides: null
+  -
+    title: 'Progressive Content Management Systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-12 00:00'
+    speakers:
+      -
+        name: 'Alberto Medina'
+        twitter: ialbmedina
+        github: null
+      -
+        name: 'Weston Ruter'
+        twitter: westonruter
+        github: null
+    videos:
+      - 'youtube:s1WrBaAyzAI'
+    slides: null
+  -
+    title: 'Making Modern Web Content Discoverable for Search'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-12 00:00'
+    speakers:
+      -
+        name: 'Martin Splitt'
+        twitter: g33konaut
+        github: g33konaut
+      -
+        name: 'Tom Greenaway'
+        twitter: tcmg
+        github: null
+    videos:
+      - 'youtube:YP2tMBhyU0I'
+    slides: null
+  -
+    title: 'Day 2 Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Malte Ubl'
+        twitter: cramforce
+        github: cramforce
+      -
+        name: 'Nicole Sullivan'
+        twitter: stubbornella
+        github: null
+    videos:
+      - 'youtube:SbUAkQ_s7Os'
+    slides: null
+  -
+    title: 'Feature Policy & the Well-Lit Path for Web Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Jason Chase'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:igHvSUrLqXc'
+    slides: null
+  -
+    title: 'virtual-scroller: Let there be less (DOM)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Gray Norton'
+        twitter: graynorton
+        github: null
+    videos:
+      - 'youtube:UtD41bn6kJ0'
+    slides: null
+  -
+    title: 'A Quest to Guarantee Responsiveness: Scheduling On and Off the Main Thread'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Shubhie Panicker'
+        twitter: shubhie
+        github: null
+      -
+        name: 'Jason Miller'
+        twitter: _developit
+        github: developit
+    videos:
+      - 'youtube:mDdgfyRB5kg'
+    slides: null
+  -
+    title: 'Architecting Web Apps - Lights, Camera, Action!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Paul Lewis'
+        twitter: aerotwist
+        github: null
+      -
+        name: Surma
+        twitter: DasSurma
+        github: null
+    videos:
+      - 'youtube:Vg60lf92EkM'
+    slides: null
+  -
+    title: 'From Low Friction to Zero Friction with Web Packaging and Portals'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Kinuko Yasuda'
+        twitter: null
+        github: null
+      -
+        name: 'Rudy Galfi'
+        twitter: null
+        github: null
+      -
+        name: 'Sumantro Das'
+        twitter: null
+        github: null
+      -
+        name: 'Rustam Lalkaka'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Ai4aZ9Jbsys'
+    slides: null
+  -
+    title: 'State of Houdini'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: Surma
+        twitter: DasSurma
+        github: null
+    videos:
+      - 'youtube:lK3OiJvwgSc'
+    slides: null
+  -
+    title: 'Building Engaging Immersive Experiences'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Chris Wilson'
+        twitter: cwilso
+        github: null
+      -
+        name: 'John Pallett'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ylz2EbWueKw'
+    slides: null
+  -
+    title: 'Using WebAssembly and Threads'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Alex Danilo'
+        twitter: alexanderdanilo
+        github: null
+      -
+        name: 'Thomas Nattestad'
+        twitter: ThomasTheDane
+        github: null
+    videos:
+      - 'youtube:zgOGZgAPUjQ'
+    slides: null
+  -
+    title: 'The Virtue of Laziness: Leveraging Incrementality for Faster Web UI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Justin Fagnani'
+        twitter: justinfagnani
+        github: null
+    videos:
+      - 'youtube:ypPRdtjGooc'
+    slides: null
+  -
+    title: 'Chrome OS: Ready for Web Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Dan Dascalescu'
+        twitter: dandv
+        github: null
+      -
+        name: 'Stephen Barber'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QTmAtXoPkgw'
+    slides: null

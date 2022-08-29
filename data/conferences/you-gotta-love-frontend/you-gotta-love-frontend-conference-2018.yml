@@ -1,0 +1,361 @@
+name: 'You Gotta Love Frontend Conference 2018'
+description: 'YGLF is a community event built by developers for developers'
+location: ''
+venue: ''
+city: Kiev
+country: Ukraine
+link: 'http://yglf.com.ua/'
+playlist: 'youtube.com:PLII-CO3Ff0qaXCf7RgN7bulEmwZB_ngZG'
+from_date: '2018-05-24'
+to_date: '2018-05-25'
+tags: ''
+talks:
+  -
+    title: 'KEYNOTE. EVEN MORE CSS SECRETS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-24 11:30'
+    speakers:
+      -
+        name: 'Lea Verou'
+        twitter: LeaVerou
+        github: LeaVerou
+    videos:
+      - 'youtube:YsX4uFgyvpk'
+    slides: null
+  -
+    title: 'JOURNEY THROUGH VR AND AR WITH REACT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-24 12:30'
+    speakers:
+      -
+        name: 'Tomasz Lakomy'
+        twitter: tlakomy
+        github: tlakomy
+    videos:
+      - 'youtube:3htVprUe4xE'
+    slides: null
+  -
+    title: 'GRAPHQL CLIENTS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-24 13:40'
+    speakers:
+      -
+        name: 'Mikhail Novikov'
+        twitter: freiksenet
+        github: freiksenet
+    videos:
+      - 'youtube:QvYEal9C8tI'
+    slides: null
+  -
+    title: 'EAST MEETS WEST: WEB TYPOGRAPHY AND MODERN LAYOUTS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-24 14:20'
+    speakers:
+      -
+        name: 'Chen Hui Jing'
+        twitter: hj_chen
+        github: huijing
+    videos:
+      - 'youtube:hAL5MjhIqbs'
+    slides: null
+  -
+    title: 'JAVASCRIPT: THE FAIRLY ODD PARTS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-24 16:30'
+    speakers:
+      -
+        name: 'Benedikt Meurer'
+        twitter: bmeurer
+        github: bmeurer
+    videos:
+      - 'youtube:jQPc6Usd44w'
+    slides: null
+  -
+    title: 'CSS TRICKS YOU GOTTA LOVE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-24 16:40'
+    speakers:
+      -
+        name: 'Oleksandr Pavlyshch'
+        twitter: lokdawn80
+        github: OleksandrPavlyshch
+    videos:
+      - 'youtube:yOZlQA2fPH4'
+    slides: null
+  -
+    title: '100% KOTLIN FRONTEND'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-24 16:50'
+    speakers:
+      -
+        name: 'Leonid Khachaturov'
+        twitter: leonya
+        github: leonya
+    videos:
+      - 'youtube:d8pcowNg3pM'
+    slides: null
+  -
+    title: 'REACT NATIVE: NEW AGE HACK OR STONE AGE TOOL?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-24 17:00'
+    speakers:
+      -
+        name: 'Gregory Shehet'
+        twitter: agambit95
+        github: A-gambit
+    videos:
+      - 'youtube:H9t17Ug8Q_4'
+    slides: null
+  -
+    title: 'USING NEW WEB APIS FOR YOUR OWN PLEASURE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-24 17:10'
+    speakers:
+      -
+        name: 'Michaela Lehr'
+        twitter: fischaelameer
+        github: Fischaela
+    videos:
+      - 'youtube:vlv1-aXM97Y'
+    slides: null
+  -
+    title: 'WEBASSEMBLY AS CROSS-PLATFORM ARCHITECTURE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-24 17:20'
+    speakers:
+      -
+        name: 'Benedek Gagyi'
+        twitter: BenedekGagyi
+        github: benedekgagyi
+    videos:
+      - 'youtube:B9NinVtHTCM'
+    slides: null
+  -
+    title: 'MINING CRYPTO IN BROWSER: GPU, WEBASSEMBLY, JAVASCRIPT AND ALL THE GOOD THINGS TO TRY'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-24 18:30'
+    speakers:
+      -
+        name: 'Denis Radin'
+        twitter: PixelsCommander
+        github: PixelsCommander
+    videos:
+      - 'youtube:gy2Jng0IzpE'
+    slides: null
+  -
+    title: 'CASE STUDY - REACT FINLAND'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-24 19:10'
+    speakers:
+      -
+        name: 'Juho Vepsäläinen'
+        twitter: bebraw
+        github: bebraw
+    videos:
+      - 'youtube:baWhuoE0MSE'
+    slides: null
+  -
+    title: 'THE BUMPY ROAD TO UNIVERSAL JAVASCRIPT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-25 11:20'
+    speakers:
+      -
+        name: 'Johannes Ewald'
+        twitter: jhnnns
+        github: jhnns
+    videos:
+      - 'youtube:mUdbfkOcKIA'
+    slides: null
+  -
+    title: 'WRITING VIRTUAL AND AUGMENTED REALITY APPS WITH WEB TECHNOLOGY'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-25 12:00'
+    speakers:
+      -
+        name: 'Michaela Lehr'
+        twitter: fischaelameer
+        github: Fischaela
+    videos:
+      - 'youtube:g8D4X-M3ZwM'
+    slides: null
+  -
+    title: 'INTERVIEW SESSION WITH LEA VEROU'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-25 12:40'
+    speakers:
+      -
+        name: 'Bruce Lawson'
+        twitter: brucel
+        github: null
+    videos:
+      - 'youtube:mTTHC456c40'
+    slides: null
+  -
+    title: 'BUILD YOUR OWN WEBPACK (LIVE CODING AN ULTRA-SIMPLIFIED EXAMPLE OF A MODERN MODULE BUNDLER IN JAVASCRIPT)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-25 13:20'
+    speakers:
+      -
+        name: 'Ronen Amiel'
+        twitter: ronenamiel
+        github: ronami
+    videos:
+      - 'youtube:Gc9-7PBqOC8'
+    slides: null
+  -
+    title: 'BRAVE NEW WORLD: MOVING ON TO ES201X'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-25 14:00'
+    speakers:
+      -
+        name: 'Benedikt Meurer'
+        twitter: bmeurer
+        github: bmeurer
+    videos:
+      - 'youtube:BuWSbTEkzSU'
+    slides: null
+  -
+    title: 'INTERVIEW SESSION WITH VITALY FRIEDMAN'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-25 14:40'
+    speakers:
+      -
+        name: 'Bruce Lawson'
+        twitter: brucel
+        github: null
+    videos:
+      - 'youtube:EtRZjtDd4cQ'
+    slides: null
+  -
+    title: 'WRITING BOTS FOR GITHUB'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-25 16:20'
+    speakers:
+      -
+        name: 'Denys Dovhan'
+        twitter: denysdovhan
+        github: denysdovhan
+    videos:
+      - 'youtube:AGY0tgyL9Yo'
+    slides: null
+  -
+    title: 'PARCEL — BUNDLER: NEW KID ON THE BLOCK (ZERO CONFIG COMPARISON WITH WEBPACK 4)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-25 16:30'
+    speakers:
+      -
+        name: 'Abhishek Gupta'
+        twitter: ag251994
+        github: webtaculars
+    videos:
+      - 'youtube:4JJ54CB4tho'
+    slides: null
+  -
+    title: 'DEVTOOLS TIPS AND TRICKS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-25 16:40'
+    speakers:
+      -
+        name: 'Sergei Puzankov'
+        twitter: puzankovcom
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'YOU GOTTA LOVE RX'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-25 16:50'
+    speakers:
+      -
+        name: 'Helen Zhukova'
+        twitter: zhukova_h
+        github: zhukovka
+    videos:
+      - 'youtube:s9OjCti8XZw'
+    slides: null
+  -
+    title: 'A COMMON DESIGN LANGUAGE: LET DESIGNERS & DEVELOPERS TALK TO EACH OTHER'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-25 17:00'
+    speakers:
+      -
+        name: 'Andrey Okonetchnikov'
+        twitter: okonetchnikov
+        github: okonet
+    videos:
+      - 'youtube:sV4chQq-H7o'
+    slides: null
+  -
+    title: 'INTERVIEW SESSION WITH HUI JING'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-25 17:40'
+    speakers:
+      -
+        name: 'Bruce Lawson'
+        twitter: brucel
+        github: null
+    videos:
+      - 'youtube:cGFQkb1q7Gw'
+    slides: null
+  -
+    title: 'KEYNOTE. NEW ADVENTURES IN FRONT-END, SEASON 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-25 18:20'
+    speakers:
+      -
+        name: 'Vitaly Friedman'
+        twitter: smashingmag
+        github: vitalyfriedman
+    videos:
+      - 'youtube:VUfouKBwGoY'
+    slides: null

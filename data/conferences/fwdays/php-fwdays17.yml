@@ -1,0 +1,194 @@
+name: "PHP fwdays'17"
+description: ''
+location: Kyiv
+venue: ''
+city: ''
+country: ''
+link: 'https://fwdays.com/en/event/php-fwdays-17'
+playlist: ''
+from_date: '2017-06-11'
+to_date: '2017-06-11'
+tags: ''
+talks:
+  -
+    title: 'ERP on Websockets'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-11 00:00'
+    speakers:
+      -
+        name: 'Кирилл Латыш'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TQ0_UZ1tg-k'
+    slides: null
+  -
+    title: 'Просто о сложном - Domain Driven Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-11 00:00'
+    speakers:
+      -
+        name: 'Дмитрий Науменко'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7HXIrEsmlzM'
+    slides: null
+  -
+    title: 'Архитектура Upwork'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-11 00:00'
+    speakers:
+      -
+        name: 'Дмитрий Семенов'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LJ6O2cBvSzg'
+    slides: null
+  -
+    title: 'Messengers revolution, bots and laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-11 00:00'
+    speakers:
+      -
+        name: 'Андрей Ткаченко'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:j0F0UUAy8yk'
+    slides: null
+  -
+    title: 'CQRS & Event Sourcing at OLX after year on production'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-11 00:00'
+    speakers:
+      -
+        name: 'Łukasz Szymański'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5wrwMb19-oU'
+    slides: null
+  -
+    title: 'Миграция нагруженного проекта на микросервисы'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-11 00:00'
+    speakers:
+      -
+        name: 'Дмитрий Немеш'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fDjIm0XKeqk'
+    slides: null
+  -
+    title: 'Бессерверная архитектура'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-11 00:00'
+    speakers:
+      -
+        name: 'Андрей Завадский'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LJ6O2cBvSzg'
+    slides: null
+  -
+    title: 'Machine Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-11 00:00'
+    speakers:
+      -
+        name: 'Mariusz Gil'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2Jem2FSWBFE'
+    slides: null
+  -
+    title: 'Что нам стоит AAA построить?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-11 00:00'
+    speakers:
+      -
+        name: 'Алексей Петров'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:W8mTA0bSe7I'
+    slides: null
+  -
+    title: 'Event Sourcing: the good, the bad and the complicated'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-11 00:00'
+    speakers:
+      -
+        name: 'Marco Pivetta'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ev_5ABHorC8'
+    slides: null
+  -
+    title: 'Солидный код'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-11 00:00'
+    speakers:
+      -
+        name: 'Сергей Протько'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pu0EXQvoaCc'
+    slides: null
+  -
+    title: 'Functional Programming basics for PHP developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-11 00:00'
+    speakers:
+      -
+        name: 'Николай Паламарчук'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9jUF9xQPZC8'
+    slides: null
+  -
+    title: 'The PHP 7 Story, and beyond'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-11 00:00'
+    speakers:
+      -
+        name: 'Zeev Suraski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TZr0uBDlZJI'
+    slides: null

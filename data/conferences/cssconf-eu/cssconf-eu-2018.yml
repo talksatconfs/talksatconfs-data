@@ -1,0 +1,170 @@
+name: 'CSSconf EU 2018'
+description: 'Dedicated to everyone who loves and writes CSS: On June 1st 2018, CSSconf EU will gather the international CSS community in Berlin, Germany. This is your chance to meet top-notch engineers & web designers, world-class speakers, and CSS-loving people at this one-day, one-track conference.'
+location: ''
+venue: ''
+city: Berlin
+country: Germany
+link: 'https://2018.cssconf.eu/'
+playlist: 'youtube.com:PL37ZVnwpeshHJSJf46Rk4B8amvm7Ecu58'
+from_date: '2018-06-01'
+to_date: '2018-06-01'
+tags: ''
+talks:
+  -
+    title: "It's Dangerous To Go Alone! Take This Team"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 10:00'
+    speakers:
+      -
+        name: 'Trent Willis'
+        twitter: trentmwillis
+        github: trentmwillis
+    videos:
+      - 'youtube:2aPjsb-kIks'
+    slides: null
+  -
+    title: 'Preprocessors, Components, and CSS in JS or: How I Learned to Stop Worrying and Love the Website'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 10:35'
+    speakers:
+      -
+        name: 'Jackie Balzer'
+        twitter: jackiebackwards
+        github: null
+    videos:
+      - 'youtube:vLBBq6oizEI'
+    slides: null
+  -
+    title: 'The Web Is Not Just Left-to-Right'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 11:25'
+    speakers:
+      -
+        name: 'Chen Hui Jing'
+        twitter: hj_chen
+        github: huijing
+    videos:
+      - 'youtube:YpqKrVcth34'
+    slides: null
+  -
+    title: 'Refactoring with CSS Grid'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 12:00'
+    speakers:
+      -
+        name: 'Oliver Williams'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tmQuGgtq5SI'
+    slides: null
+  -
+    title: 'We have DevTools. What about DesignTools?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 12:35'
+    speakers:
+      -
+        name: 'Razvan Caliman'
+        twitter: razvancaliman
+        github: null
+    videos:
+      - 'youtube:oGobLmA_WVQ'
+    slides: null
+  -
+    title: 'Augmenting Empathy: Simulating Low-Vision Conditions with CSS, SVG and WebRTC'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 14:20'
+    speakers:
+      -
+        name: 'Shwetank Dixit'
+        twitter: shwetank
+        github: shwetank
+    videos:
+      - 'youtube:aWoeK2SFSpI'
+    slides: null
+  -
+    title: 'Strategy Guide for CSS Custom Properties'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 14:55'
+    speakers:
+      -
+        name: 'Mike Riethmuller'
+        twitter: MikeRiethmuller
+        github: null
+    videos:
+      - 'youtube:pF0pSwbZV9Y'
+    slides: null
+  -
+    title: 'Accessible by Law! Generating Colors with JS and CSS Custom Properties'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 15:30'
+    speakers:
+      -
+        name: 'Dag-Inge Aas'
+        twitter: daginge
+        github: null
+      -
+        name: 'Ida Aalen'
+        twitter: idaaa
+        github: null
+    videos:
+      - 'youtube:zi6L0ZqrKfA'
+    slides: null
+  -
+    title: 'The Algorithms of CSS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 16:30'
+    speakers:
+      -
+        name: 'Lara Schenck'
+        twitter: laras126
+        github: null
+    videos:
+      - 'youtube:cCeqH6m_K20'
+    slides: null
+  -
+    title: 'Container Queries: The Past, Future, and How You Can Actually Even Use Them Today'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 17:05'
+    speakers:
+      -
+        name: 'Philip Walton'
+        twitter: philwalton
+        github: null
+    videos:
+      - 'youtube:0wA4CMo9_EU'
+    slides: null
+  -
+    title: 'Design Systems as Facilitators.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 17:40'
+    speakers:
+      -
+        name: 'Claudina Sarahe'
+        twitter: itsmisscs
+        github: null
+    videos:
+      - 'youtube:RCdGIrgSaBQ'
+    slides: null

@@ -1,0 +1,217 @@
+name: 'ReactFest 2018'
+description: "We're excited to have such amazing speakers and  great talks that wanted to keep it a surprise for you! You will find out the speakers line up during ReactFest and here is the agenda structure + some talks (not presented in sequential order) to think about."
+location: ''
+venue: ''
+city: London
+country: 'United Kingdom'
+link: 'https://reactfest.com/'
+playlist: 'youtube:PLRgweB8YtNRt-Sf-A0y446wTJNUaAAmle'
+from_date: '2018-03-08'
+to_date: '2018-03-09'
+tags: ''
+talks:
+  -
+    title: 'Zero Config GraphQL State Management'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-09 00:00'
+    speakers:
+      -
+        name: 'Peggy Rayzis'
+        twitter: peggyrayzis
+        github: peggyrayzis
+    videos:
+      - 'youtube:jFULzAMS-jI'
+    slides:
+      - 'http://reactfest-apollo.surge.sh/'
+  -
+    title: Suspense
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-09 00:00'
+    speakers:
+      -
+        name: 'Dan Abramov'
+        twitter: dan_abramov
+        github: gaearon
+    videos:
+      - 'youtube:6g3g0Q_XVb4'
+    slides: null
+  -
+    title: 'The Dark and Lonely Road to Styling in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-09 00:00'
+    speakers:
+      -
+        name: 'Sara Vieira'
+        twitter: NikkitaFTW
+        github: alexnm
+    videos:
+      - 'youtube:Q249u4W_IZQ'
+    slides:
+      - 'https://react-fest-talk.now.sh/'
+  -
+    title: 'State Management in a GraphQL Era'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-09 00:00'
+    speakers:
+      -
+        name: Kitze
+        twitter: thekitze
+        github: kitze
+    videos:
+      - 'youtube:s-3k7O5rSFY'
+    slides:
+      - 'https://www.slideshare.net/kristijanmkd/state-management-in-a-graphql-era'
+  -
+    title: 'Productive React Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-09 00:00'
+    speakers:
+      -
+        name: 'Stephanie Siaw'
+        twitter: Siaw_Stephanie
+        github: stephanie
+    videos:
+      - 'youtube:avKBrgIQXzk'
+    slides: null
+  -
+    title: 'How to Draw an Owl'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-09 00:00'
+    speakers:
+      -
+        name: 'Marcel Cutts'
+        twitter: marcelcutts
+        github: MarcelCutts
+    videos:
+      - 'youtube:53rifn77_bk'
+    slides:
+      - 'https://marcelcutts.github.io/how-to-draw-an-owl/#/'
+  -
+    title: 'You Have No Excuse!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-09 00:00'
+    speakers:
+      -
+        name: 'Eli Schutze'
+        twitter: elibelly
+        github: elischutze
+    videos:
+      - 'youtube:6NwgHUcom_8'
+    slides: null
+  -
+    title: 'Wait, What Happens When My React Native Application Starts?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-09 00:00'
+    speakers:
+      -
+        name: 'Nicolas Couvrat'
+        twitter: nicol4s_c
+        github: nicolascouvrat
+    videos:
+      - 'youtube:rReCzR6DMEM'
+    slides: null
+  -
+    title: 'An Introduction to Redux Saga'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-09 00:00'
+    speakers:
+      -
+        name: 'Sophie Koonin'
+        twitter: type_error
+        github: sophiekoonin
+    videos:
+      - 'youtube:il9rXYOLWjA'
+    slides:
+      - 'https://docs.google.com/presentation/d/1gEnNXk7EQ7pp2c88eJGYOCMJZCK02jeorwMFcaiPy1A/edit'
+  -
+    title: 'We Need To Talk About Our Frontend Workflow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-09 00:00'
+    speakers:
+      -
+        name: 'Siddharth Kshetrapal'
+        twitter: siddharthkp
+        github: siddharthkp
+    videos:
+      - 'youtube:bLgZwFRYTJ4'
+    slides: null
+  -
+    title: 'Journey Through VR and AR with React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-09 00:00'
+    speakers:
+      -
+        name: 'Tomasz Lakomy'
+        twitter: tlakomy
+        github: tlakomy
+    videos:
+      - 'youtube:PJyZdxGztaY'
+    slides:
+      - 'https://tlakomy.github.io/react-fest/'
+  -
+    title: 'GraphQL Servers in the Browser'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-09 00:00'
+    speakers:
+      -
+        name: 'David Gomes'
+        twitter: davidrfgomes
+        github: davidgomes
+    videos:
+      - 'youtube:YOCrJ5vRCnw'
+    slides:
+      - 'https://speakerdeck.com/davidgomes/graphql-servers-in-the-client'
+  -
+    title: 'Taming the Beast How to Tame React and GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-09 00:00'
+    speakers:
+      -
+        name: 'Susanna Wong'
+        twitter: studioswong
+        github: studioswong
+    videos:
+      - 'youtube:5kCv8_A9yi8'
+    slides:
+      - 'https://www.slideshare.net/SusannaWong5/taming-the-beast-how-to-tame-react-graphql-one-error-at-a-time'
+  -
+    title: 'Garbage Collection in Modern Web Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-09 00:00'
+    speakers:
+      -
+        name: 'JAN MONSCHKE'
+        twitter: thedeftone
+        github: janmonschke
+    videos:
+      - 'youtube:aaGacO-Yybs'
+    slides:
+      - 'https://docs.google.com/presentation/d/1dr1lbWO-jWcQ41TJAUwP55Bi1bVjVob4ZMiNnwgiwio/present?slide=id.p'

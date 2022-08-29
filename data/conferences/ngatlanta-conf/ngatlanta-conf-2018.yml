@@ -1,0 +1,514 @@
+name: 'ngAtlanta Conf 2018'
+description: '1st annual Angular conference in Atlanta, GA focused on diversity in technology.'
+location: ''
+venue: ''
+city: 'Atlanta, GA'
+country: 'United States'
+link: 'https://2018.ng-atl.org/'
+playlist: 'youtube:PLFMi8sXIcHF_6p2zwttrXmDBU6ZDhPA0F'
+from_date: '2018-01-30'
+to_date: '2018-02-02'
+tags: ''
+talks:
+  -
+    title: 'Opening Remarks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 00:00'
+    speakers:
+      -
+        name: 'Zack Chapple'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:416yQMb5SCc'
+    slides: null
+  -
+    title: 'Angular as strategy for collaboration and scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 00:00'
+    speakers:
+      -
+        name: 'Brad Green'
+        twitter: bradlygreen
+        github: null
+    videos:
+      - 'youtube:tzUVBoZ2qgw'
+    slides: null
+  -
+    title: 'Modern Testing Strategies for Reactive Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 00:00'
+    speakers:
+      -
+        name: 'Brandon Roberts'
+        twitter: brandontroberts
+        github: null
+    videos:
+      - 'youtube:qEKVzz9kifE'
+    slides: null
+  -
+    title: 'Contributing to the Angular Docs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 00:00'
+    speakers:
+      -
+        name: 'Kapunahele Wong'
+        twitter: kapunahele
+        github: null
+    videos:
+      - 'youtube:OBDmJlnEWis'
+    slides: null
+  -
+    title: 'Emotional Intelligence for Engineers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 00:00'
+    speakers:
+      -
+        name: 'April Wensel'
+        twitter: aprilwensel
+        github: null
+    videos:
+      - 'youtube:SJnVhkEx8Cs'
+    slides: null
+  -
+    title: 'Reactive Brain Waves'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 00:00'
+    speakers:
+      -
+        name: 'Uri Shaked'
+        twitter: UriShaked
+        github: urish
+    videos:
+      - 'youtube:hTvWDkr7yrw'
+    slides: null
+  -
+    title: 'NativeScript and CodeSharing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 00:00'
+    speakers:
+      -
+        name: 'Nathan Walker'
+        twitter: wwwalkerrun
+        github: null
+    videos:
+      - 'youtube:dv9Pegbxuac'
+    slides: null
+  -
+    title: 'Breaking Down Reactive Forms'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 00:00'
+    speakers:
+      -
+        name: 'Bonnie Brennan'
+        twitter: bonnster75
+        github: null
+      -
+        name: 'Sam Rhodes'
+        twitter: SamLee_509
+        github: null
+    videos:
+      - 'youtube:o1X5ZzFj4JE'
+    slides: null
+  -
+    title: 'JavaScript is the new metal the cloud vs the browser'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 00:00'
+    speakers:
+      -
+        name: 'Scott Hanselman'
+        twitter: shanselman
+        github: null
+    videos:
+      - 'youtube:sUsCNk0P-C8'
+    slides: null
+  -
+    title: 'NBA + Angular = Game Detail'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 00:00'
+    speakers:
+      -
+        name: 'Wylesha Rachell'
+        twitter: WyleshaRachell
+        github: null
+    videos:
+      - 'youtube:dvumzEL-Kc0'
+    slides: null
+  -
+    title: 'Logging, and Errors, and Metrics Oh My!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 00:00'
+    speakers:
+      -
+        name: 'Chloe Condon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NwenURrP9No'
+    slides: null
+  -
+    title: 'Dissecting the architectural process for creating reusable Angular components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 00:00'
+    speakers:
+      -
+        name: 'Rachita Joshi'
+        twitter: way2rach
+        github: null
+    videos:
+      - 'youtube:vkguzxzPtO0'
+    slides: null
+  -
+    title: 'Webpack: Your New BFF'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 00:00'
+    speakers:
+      -
+        name: 'Jennifer Bland'
+        twitter: ratracegrad
+        github: null
+    videos:
+      - 'youtube:pyNqlPPW3_Y'
+    slides: null
+  -
+    title: 'Faster Angular Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 00:00'
+    speakers:
+      -
+        name: 'Minko Gechev'
+        twitter: mgechev
+        github: null
+    videos:
+      - 'youtube:HKoXyDfyAXE'
+    slides: null
+  -
+    title: 'Beyond the Angular CLI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 00:00'
+    speakers:
+      -
+        name: 'Mike Brocchi'
+        twitter: Brocco
+        github: null
+    videos:
+      - 'youtube:qakF-L4nMCw'
+    slides: null
+  -
+    title: "Angular's User Authentication Tool Belt"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 00:00'
+    speakers:
+      -
+        name: 'Kim Maida'
+        twitter: null
+        github: null
+      -
+        name: 'Ryan Chenkie'
+        twitter: ryanchenkie
+        github: null
+    videos:
+      - 'youtube:jFy-sqcODkg'
+    slides: null
+  -
+    title: 'PWA All The Things!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 00:00'
+    speakers:
+      -
+        name: 'Tara Manicsic'
+        twitter: Tzmanics
+        github: null
+    videos:
+      - 'youtube:dgqp-zE5n1M'
+    slides: null
+  -
+    title: 'The parable of the blender'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 00:00'
+    speakers:
+      -
+        name: 'Randall Koutnik'
+        twitter: rkoutnik
+        github: null
+    videos:
+      - 'youtube:ATqmMuq0gNk'
+    slides: null
+  -
+    title: 'Deploying angular to the cloud'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'John Papa'
+        twitter: john_papa
+        github: johnpapa
+    videos:
+      - 'youtube:078qfVw_Dzk'
+    slides: null
+  -
+    title: 'Recursive Forms, CVAs & Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Susan Goldblatt'
+        twitter: thatgoldblatt
+        github: null
+    videos:
+      - 'youtube:JKxU53CxA-s'
+    slides: null
+  -
+    title: 'Universal Power Women'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Danielle Sheehan'
+        twitter: null
+        github: null
+      -
+        name: 'Jason Jean'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:KS410rhAhlY'
+    slides: null
+  -
+    title: 'Try not to lose your marbles with RXJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Chaela Womack'
+        twitter: chawomack
+        github: null
+    videos:
+      - 'youtube:v8G33B3mBY4'
+    slides: null
+  -
+    title: 'Smart Angular Elements An Experiment'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Carmen Popoviciu'
+        twitter: CarmenPopoviciu
+        github: null
+    videos:
+      - 'youtube:ydGcSiNOB9U'
+    slides: null
+  -
+    title: 'Building VR Interfaces with Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Erica Stanley'
+        twitter: ericastanley
+        github: null
+    videos:
+      - 'youtube:1eTg6fyc4zA'
+    slides: null
+  -
+    title: '3x3 Fresh Code Delivered, Three Times a Day'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Kamini Dandapani'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MbrYrRDfna4'
+    slides: null
+  -
+    title: 'Service Workers & Cows — a love story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Alyssa Nicoll'
+        twitter: AlyssaNicoll
+        github: null
+    videos:
+      - 'youtube:Oc2OVpnsB9E'
+    slides: null
+  -
+    title: 'The dark side of tuning Angular performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Dmitriy Shekhovtsov'
+        twitter: valorkin
+        github: null
+    videos:
+      - 'youtube:KW8khE-AOxQ'
+    slides: null
+  -
+    title: 'Machine Learning & Angular Testing w Dozn'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Paulina Gallo'
+        twitter: null
+        github: null
+      -
+        name: 'Jedi Weller'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WerzRx8_0eI'
+    slides: null
+  -
+    title: 'Live App Updates Without The App Store'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Sani Yusuf'
+        twitter: haibridco
+        github: null
+    videos:
+      - 'youtube:s10wrXA-a7Y'
+    slides: null
+  -
+    title: "It's Not Dark Magic, Pulling Back the Curtains From Your Stylesheets"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Aimee Knight'
+        twitter: Aimee_Knight
+        github: null
+    videos:
+      - 'youtube:DbXPbT8kqIE'
+    slides: null
+  -
+    title: 'Reactive Programming Future Proof Your Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Tracy Lee'
+        twitter: ladyleet
+        github: ladyleet
+    videos:
+      - 'youtube:CuTXwRxs09U'
+    slides: null
+  -
+    title: 'I Don’t Do Non Technical Talks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Kim Crayton'
+        twitter: KimCrayton1
+        github: kmcrayton7
+    videos:
+      - 'youtube:HtvbPIYwwWI'
+    slides: null
+  -
+    title: 'State management with ngrx'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Simona Cotin'
+        twitter: simona_cotin
+        github: simonaco
+    videos:
+      - 'youtube:pVUWEAZ7DO0'
+    slides: null
+  -
+    title: 'End the Test Engineer role: how cross functionality leads to a better engineering'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Meredith Bayne'
+        twitter: meredithjordyn
+        github: null
+    videos:
+      - 'youtube:M04XQgodRFI'
+    slides: null
+  -
+    title: 'Speakers Panel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:wVzJ1M0wMCU'
+    slides: null

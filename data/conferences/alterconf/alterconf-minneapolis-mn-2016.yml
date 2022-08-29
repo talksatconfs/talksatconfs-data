@@ -1,0 +1,151 @@
+name: 'AlterConf Minneapolis, MN - 2016'
+description: ''
+location: 'Minneapolis, MN'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2016/minneapolis-mn'
+playlist: ''
+from_date: '2016-04-09'
+to_date: '2016-04-09'
+tags: ''
+talks:
+  -
+    title: 'Graveti: Building a stronger tech startup ecosystem by focusing on minorities.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-09 00:00'
+    speakers:
+      -
+        name: 'Alexander Rodriguez'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:h3rGbhT1TGY'
+    slides: null
+  -
+    title: 'Surviving and Thriving in the Panopticon: Maintaining Privacy in the Workplace as a Chronically Ill Activist'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-09 00:00'
+    speakers:
+      -
+        name: 'Cassie Traun'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:unwl1D0Qydw'
+    slides: null
+  -
+    title: 'Hacking your Employers Health Insurance Plan to Make It Trans Inclusive'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-09 00:00'
+    speakers:
+      -
+        name: 'Marie Fromm'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3uqsX1a8G-8'
+    slides: null
+  -
+    title: 'It shouldn’t come with the job: Addressing the culture of alcohol use and abuse in design and tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-09 00:00'
+    speakers:
+      -
+        name: 'Victor Yocco'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3upIHmGw74g'
+    slides: null
+  -
+    title: 'Decoupling from (Bad) Shibboleths in the Software Developer Community'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-09 00:00'
+    speakers:
+      -
+        name: 'Walé Ogundipé'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AOcj_NrGi3w'
+    slides: null
+  -
+    title: 'Culture Is Not A Game, But Created Like One!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-09 00:00'
+    speakers:
+      -
+        name: 'Christopher Williams'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6kguthKJ9Fk'
+    slides: null
+  -
+    title: 'Liar Liar Pants on Fire: Being a Kid in the Tech World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-09 00:00'
+    speakers:
+      -
+        name: 'Sebastian W'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WCUhAxKQX6Q'
+    slides: null
+  -
+    title: 'Maternity and Motherhood in Tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-09 00:00'
+    speakers:
+      -
+        name: 'Sarah Olson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:R9ImmkvJ2Ek'
+    slides: null
+  -
+    title: 'Aging and Accessibility in Tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-09 00:00'
+    speakers:
+      -
+        name: 'Catherine Lundoff'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AS3In3ddGls'
+    slides: null
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Ashe Dryden'
+        twitter: ashedryden
+        github: ashedryden
+    videos: null
+    slides: null

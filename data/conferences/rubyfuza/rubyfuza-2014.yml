@@ -1,0 +1,279 @@
+name: 'Rubyfuza 2014'
+description: ''
+location: ''
+venue: ''
+city: 'Cape Town'
+country: 'South Africa'
+link: ''
+playlist: 'youtube:PLI113oIao_x5wAKhWHVjwuZMx8aschNUg'
+from_date: '2014-02-06'
+to_date: '2014-02-08'
+tags: ''
+talks:
+  -
+    title: 'Software Development in Africa'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 09:40'
+    speakers:
+      -
+        name: 'Charlene Tshitoka'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Y3L3OgIqIkA'
+    slides: null
+  -
+    title: 'Ping Ping or: How I learned to stop worrying and love remote paring'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 10:30'
+    speakers:
+      -
+        name: 'Ben Janecke'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HE1lCpp63pU'
+    slides: null
+  -
+    title: 'TDD: When the thrill has gone'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 11:30'
+    speakers:
+      -
+        name: 'Rory McKinley'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qQXPRY1M0Xk'
+    slides: null
+  -
+    title: 'The Ultimate Refactoring Cheat Sheet'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 12:00'
+    speakers:
+      -
+        name: 'Murtuza Kutub'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'What is an object, really?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 14:00'
+    speakers:
+      -
+        name: 'John Anderson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:uWI-UFm2qAE'
+    slides: null
+  -
+    title: 'Google APIs for Ruby on Ruby on Rails on Google Compute Engine - Daniel Acton'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 14:30'
+    speakers: {  }
+    videos:
+      - 'youtube:jvRjtfqg7q0'
+    slides: null
+  -
+    title: 'Designing in a Rails Company'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 15:00'
+    speakers:
+      -
+        name: 'Marié Whittington'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Immutable Data...base?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 16:00'
+    speakers:
+      -
+        name: 'Robert Stuttaford'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Persistent data structures - good for UI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 16:30'
+    speakers:
+      -
+        name: 'Danie Roux'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZZ3JoRQXABc'
+    slides: null
+  -
+    title: 'Curly — Refactoring the view layer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 17:00'
+    speakers:
+      -
+        name: 'Daniel Schierbeck'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Ruby on Microsoft Azure'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 10:00'
+    speakers:
+      -
+        name: 'Tania van Wyk de Vries'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Analytics for the Busy Ruby Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 10:30'
+    speakers:
+      -
+        name: 'Lance Gleason'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Art of Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 11:30'
+    speakers:
+      -
+        name: 'Matthew Mongeau'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:R0NQKtjJGzE'
+    slides: null
+  -
+    title: 'Clean Code: Applying Object Oriented Principles'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 12:00'
+    speakers:
+      -
+        name: 'Kevin McKelvin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RkZkmgTibI0'
+    slides: null
+  -
+    title: 'Extreme Makeover: Rubygems Edition'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 14:00'
+    speakers:
+      -
+        name: 'André Arko'
+        twitter: indirect
+        github: indirect
+    videos:
+      - 'youtube:awLBvYoeUSI'
+    slides: null
+  -
+    title: 'The Birds & The Bees'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 14:30'
+    speakers:
+      -
+        name: 'Simon van Dyk'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Email Delivery for Rails Folks (or 'How to send lots of email and not look like spam')"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 15:00'
+    speakers:
+      -
+        name: 'Sally Lehman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XtGUd174n5A'
+    slides: null
+  -
+    title: "Rubymotion - iOS and OSX development from a Ruby developer's perspective"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 16:00'
+    speakers:
+      -
+        name: 'Nelson Pascoal'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cVK4-OBOv8U'
+    slides: null
+  -
+    title: 'Debugging in Ruby on Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 16:30'
+    speakers:
+      -
+        name: 'Richard Cochrane'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Contributing to Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 17:00'
+    speakers:
+      -
+        name: 'Zachary Scott'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

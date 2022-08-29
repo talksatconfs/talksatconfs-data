@@ -1,0 +1,194 @@
+name: 'JSPoland Conf 2017'
+description: 'JS Poland is a friendly conference where everyone should feel welcome, safe and comfortable to share ideas and engage in open discussion without threat of intimidation or public embarrassment.'
+location: 'Warsaw, Poland'
+venue: ''
+city: Warsaw
+country: Poland
+link: 'https://js-poland.pl/2017/'
+playlist: ''
+from_date: '2017-06-18'
+to_date: '2017-06-18'
+tags: ''
+talks:
+  -
+    title: 'Keynote, Progressive Web Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-19 00:00'
+    speakers:
+      -
+        name: 'Christian Heilmann'
+        twitter: codepo8
+        github: codepo8
+    videos:
+      - 'youtube:QOKWDAQSS_w'
+    slides: null
+  -
+    title: 'Async Functions Awaiting You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-19 00:00'
+    speakers:
+      -
+        name: 'Tomasz Ducin'
+        twitter: tomasz_ducin
+        github: ducin
+    videos:
+      - 'youtube:IYikhsDVvic'
+    slides: null
+  -
+    title: 'Functional Reactive Programming with Cycle.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-19 00:00'
+    speakers:
+      -
+        name: 'Luca Mezzalira'
+        twitter: lucamezzalira
+        github: Apress/front-end-reactive-architectures
+    videos:
+      - 'youtube:LRetT6Y-gVk'
+    slides: null
+  -
+    title: 'Demystified Angular Directives'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-19 00:00'
+    speakers:
+      -
+        name: 'Nir Kaufman'
+        twitter: nirkaufman
+        github: nirkaufman
+    videos:
+      - 'youtube:bVyw2njDoZw'
+    slides: null
+  -
+    title: 'Let the dinosaurs finally die out with a little help of a Service Work'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-19 00:00'
+    speakers:
+      -
+        name: 'Kacper Sokołowski'
+        twitter: kaapa_s
+        github: kacper-sokolowski
+    videos:
+      - 'youtube:TWE09RIn0rU'
+    slides: null
+  -
+    title: 'Progressive Web Apps with Angular and Firebase'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-19 00:00'
+    speakers:
+      -
+        name: 'Erik Haddad'
+        twitter: erikhaddad
+        github: erikhaddad
+    videos:
+      - 'youtube:TA0lEA3qB0M'
+    slides: null
+  -
+    title: 'React Native - Success case study'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-19 00:00'
+    speakers:
+      -
+        name: 'Gabor Wnuk'
+        twitter: gaborwnuk
+        github: GaborWnuk
+    videos:
+      - 'youtube:UopwYgGtvlA'
+    slides: null
+  -
+    title: 'Keep your skills sharp! Developer career in rapidly changing technology world.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-19 00:00'
+    speakers:
+      -
+        name: 'Michał Nowak'
+        twitter: wicherrr
+        github: null
+    videos:
+      - 'youtube:9sEZzEiS5j8'
+    slides: null
+  -
+    title: 'The Mobile Web Second Edition" First-Class Citizen on Your Device Now"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-19 00:00'
+    speakers:
+      -
+        name: 'Maxim Salnikov'
+        twitter: webmaxru
+        github: webmaxru
+    videos:
+      - 'youtube:jf_VswTr9l4'
+    slides: null
+  -
+    title: 'RxJS all things!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-19 00:00'
+    speakers:
+      -
+        name: 'Simona Cotin'
+        twitter: simona_cotin
+        github: simonaco
+    videos:
+      - 'youtube:B9IfUjniyNs'
+    slides: null
+  -
+    title: 'DevTools Deep Dive'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-19 00:00'
+    speakers:
+      -
+        name: 'Alex Lakatos'
+        twitter: lakatos88
+        github: AlexLakatos
+    videos:
+      - 'youtube:gE3nmpdx_9Q'
+    slides: null
+  -
+    title: 'Angular is on Fire(base)!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-19 00:00'
+    speakers:
+      -
+        name: 'Shmuela Jacobs'
+        twitter: ShmuelaJ
+        github: shmool
+    videos:
+      - 'youtube:pMNalMkrFZ4'
+    slides: null
+  -
+    title: 'JWT, WTF?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-19 00:00'
+    speakers:
+      -
+        name: 'Phil Nash'
+        twitter: philnash
+        github: philnash
+    videos:
+      - 'youtube:drocJqQlnhM'
+    slides: null

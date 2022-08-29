@@ -1,0 +1,184 @@
+name: 'Laracon AU 2018'
+description: 'Two amazing days of learning, growing, and mingling with the Laravel community.'
+location: ''
+venue: ''
+city: Sydney
+country: Australia
+link: 'https://laracon.com.au/'
+playlist: 'youtube.com:PLEkJYA4gJb7_FKspNTgrve7FUb3A1dT3y'
+from_date: '2018-10-18'
+to_date: '2018-10-19'
+tags: ''
+talks:
+  -
+    title: 'Resisting complexity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-18 00:00'
+    speakers:
+      -
+        name: 'Adam Wathan'
+        twitter: adamwathan
+        github: null
+    videos:
+      - 'youtube:UyaejTqR3Tc'
+    slides: null
+  -
+    title: "A real-life journey into the opinionated world of 'utility-first' CSS"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-18 00:00'
+    speakers:
+      -
+        name: 'Simon Vrachliotis'
+        twitter: simonswiss
+        github: null
+    videos:
+      - 'youtube:2-q4asoHUqU'
+    slides: null
+  -
+    title: 'Turning stories into software'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-18 00:00'
+    speakers:
+      -
+        name: 'Donna Benjamin'
+        twitter: kattekrab
+        github: null
+    videos:
+      - 'youtube:cZhhhfu930M'
+    slides: null
+  -
+    title: 'Goodbye, Silicon Valley: The Rise of the Indie Way'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-18 00:00'
+    speakers:
+      -
+        name: 'Kate Kendall'
+        twitter: katekendall
+        github: null
+    videos:
+      - 'youtube:qLFwonjpwiE'
+    slides: null
+  -
+    title: 'Building a complex product while scaling a team and a business on Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-18 00:00'
+    speakers:
+      -
+        name: 'Alex Lüneburg'
+        twitter: loonytoons
+        github: null
+      -
+        name: 'Richard Wyke'
+        twitter: richardwyke
+        github: null
+    videos:
+      - 'youtube:eef3Pnxc5A0'
+    slides: null
+  -
+    title: 'Understanding git - even the scary parts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-18 00:00'
+    speakers:
+      -
+        name: 'Anwesha Chatterjee'
+        twitter: AnweshaChatte12
+        github: null
+    videos:
+      - 'youtube:ofVcPhK2oYU'
+    slides: null
+  -
+    title: 'Introducing Telescope'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-18 00:00'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:0O6dLJX_k3w'
+    slides: null
+  -
+    title: 'Abusing Laravel for Fun and Profit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-18 00:00'
+    speakers:
+      -
+        name: 'David Hemphill'
+        twitter: davidhemphill
+        github: null
+    videos:
+      - 'youtube:dd-iHhmSi2k'
+    slides: null
+  -
+    title: 'Level up with a Microservices architecture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-18 00:00'
+    speakers:
+      -
+        name: 'Douglas Reith'
+        twitter: douglas_reith
+        github: null
+    videos:
+      - 'youtube:iAKfq4uJrBY'
+    slides: null
+  -
+    title: 'Modelling business requirements with Eloquent'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-18 00:00'
+    speakers:
+      -
+        name: 'Kirk Bushell'
+        twitter: kirkbushell
+        github: null
+    videos:
+      - 'youtube:7k90hulVOGA'
+    slides: null
+  -
+    title: 'Migrating to Laravel: Managing the ick'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-18 00:00'
+    speakers:
+      -
+        name: 'Mark Babič'
+        twitter: bearcodi
+        github: null
+    videos:
+      - 'youtube:R_0Q5rXGHXg'
+    slides: null
+  -
+    title: 'Patterns that pay off'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-18 00:00'
+    speakers:
+      -
+        name: 'Matt Stauffer'
+        twitter: stauffermatt
+        github: null
+    videos:
+      - 'youtube:FNyUX2jVMeE'
+    slides: null

@@ -1,0 +1,164 @@
+name: 'Smashing Conference Freiburg 2018'
+description: 'Home, sweet home! The 7th SmashingConf Freiburg — in our lovely hometown in Germany — will be taking place in the Historic Merchants’ Hall on September 10-11.'
+location: ''
+venue: ''
+city: Freiburg
+country: Germany
+link: 'https://smashingconf.com/freiburg-2018/'
+playlist: 'vimeo.com:5520103'
+from_date: '2018-09-10'
+to_date: '2018-09-11'
+tags: ''
+talks:
+  -
+    title: 'Books, Walking, and the Ethics of Scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-10 00:00'
+    speakers:
+      -
+        name: 'Craig Mod'
+        twitter: craigmod
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/301197052'
+    slides: null
+  -
+    title: 'The Small Things That Add Up: How to Find What Design Factors Influence Conversion Rates'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-10 00:00'
+    speakers:
+      -
+        name: 'Tammy Everts'
+        twitter: tameverts
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/297828304'
+    slides: null
+  -
+    title: 'Building Resilient Frontend Systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-10 00:00'
+    speakers:
+      -
+        name: 'Ian Feather'
+        twitter: ianfeather
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/297829767'
+    slides: null
+  -
+    title: 'Designing for Global Audiences'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-10 00:00'
+    speakers:
+      -
+        name: 'Chui Chui Tan'
+        twitter: chuisquared
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/297829238'
+    slides: null
+  -
+    title: 'I Thought we Were Building World Peace - Using Tech Ethics to Build Better Futures'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-10 00:00'
+    speakers:
+      -
+        name: 'Morten R.-Hendriksen'
+        twitter: morlo
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/297827456'
+    slides: null
+  -
+    title: 'Hack to the Future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-10 00:00'
+    speakers:
+      -
+        name: 'Seb Lee-Delisle'
+        twitter: seb_ly
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/297827821'
+    slides: null
+  -
+    title: 'The Future of Travel: How Mixed Method Research Helped Shape Airbnb Experiences'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-11 00:00'
+    speakers:
+      -
+        name: 'Hannah Pileggi'
+        twitter: achpea
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Designing for Kids is not a Game'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-11 00:00'
+    speakers:
+      -
+        name: 'Trine Falbe'
+        twitter: trinefalbe
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/297828567'
+    slides: null
+  -
+    title: 'Taking Back Control Over Third-party Content'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-11 00:00'
+    speakers:
+      -
+        name: 'Yoav Weiss'
+        twitter: yoavweiss
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/297828895'
+    slides: null
+  -
+    title: 'A Word to the Wise: Writing Product Copy to Transform Your User Experience'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-11 00:00'
+    speakers:
+      -
+        name: 'Andrea Drugay'
+        twitter: andreadrugay
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/297829604'
+    slides: null
+  -
+    title: 'Design in the Era of the Algorithm'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-11 00:00'
+    speakers:
+      -
+        name: 'Josh Clark'
+        twitter: bigmediumjosh
+        github: null
+    videos: null
+    slides: null

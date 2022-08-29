@@ -1,0 +1,77 @@
+name: 'PHP UK Conference 2007'
+description: ''
+location: London
+venue: ''
+city: ''
+country: ''
+link: 'http://web.archive.org/web/20070227105027/http://www.phpconference.co.uk/'
+playlist: ''
+from_date: '2007-02-23'
+to_date: '2007-02-23'
+tags: ''
+talks:
+  -
+    title: 'Objects of Desire'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-02-23 00:00'
+    speakers:
+      -
+        name: 'Kevlin Henney'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Fast and Rich Web Applications with PHP 5'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-02-23 00:00'
+    speakers:
+      -
+        name: 'Rasmus Lerdorf'
+        twitter: rasmus
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Designing for the Curious Home'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-02-23 00:00'
+    speakers:
+      -
+        name: 'Bill Gaver'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'My First Mashup'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-02-23 00:00'
+    speakers:
+      -
+        name: 'Cal Evans'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Web services - drop it into Apache and away you go!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-02-23 00:00'
+    speakers:
+      -
+        name: 'Simon Laws'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

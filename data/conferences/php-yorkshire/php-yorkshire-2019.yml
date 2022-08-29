@@ -1,0 +1,179 @@
+name: 'PHP Yorkshire 2019'
+description: ''
+location: ''
+venue: 'Ron Cooke Hub, University of York'
+city: ''
+country: ''
+link: 'https://2019.phpyorkshire.co.uk/'
+playlist: PLizA60F3A-6xi1CEmSMrR_d2vTZ4UspiO
+from_date: '2019-04-11'
+to_date: '2019-04-13'
+tags: ''
+talks:
+  -
+    title: 'A Meritocracy of Pull Requests'
+    description: ''
+    tags: ''
+    link: 'https://2019.phpyorkshire.co.uk/people/lorna-mitchell'
+    talk_date: '2019-04-13 09:30'
+    speakers:
+      -
+        name: 'Lorna Mitchell'
+        twitter: lornajane
+        github: lornajane
+    videos:
+      - 'youtube:1Jt9am70UEY'
+    slides: null
+  -
+    title: 'An introduction to Graph Databases in PHP, using Neo4j'
+    description: ''
+    tags: ''
+    link: 'https://2019.phpyorkshire.co.uk/people/michelle-sanver'
+    talk_date: '2019-04-13 09:30'
+    speakers:
+      -
+        name: 'Michelle Sanver'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:vPeBiXdhdvs'
+    slides: null
+  -
+    title: 'Top 10 PHP Classic Traps'
+    description: ''
+    tags: ''
+    link: 'https://2019.phpyorkshire.co.uk/people/damien-seguy'
+    talk_date: '2019-04-13 10:40'
+    speakers:
+      -
+        name: 'Damien Seguy'
+        twitter: faguo
+        github: dseguy
+    videos:
+      - 'www.youtube.com:m3YqPbPAG90'
+    slides: null
+  -
+    title: 'Build your own Neural Network, with PHP!'
+    description: ''
+    tags: ''
+    link: 'https://2019.phpyorkshire.co.uk/people/vitor-brandao'
+    talk_date: '2019-04-13 10:40'
+    speakers:
+      -
+        name: 'Vitor Brandao'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:yrveJp8Rtgs'
+    slides: null
+  -
+    title: 'Testing Legacy Code & Safe Refactoring'
+    description: ''
+    tags: ''
+    link: 'https://2019.phpyorkshire.co.uk/people/katy-ereira'
+    talk_date: '2019-04-13 11:40'
+    speakers:
+      -
+        name: 'Katy Ereira'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:QzxNpXaxfo0'
+    slides: null
+  -
+    title: 'Building a cloud-friendly application'
+    description: ''
+    tags: ''
+    link: 'https://2019.phpyorkshire.co.uk/people/larry-garfield'
+    talk_date: '2019-04-13 11:40'
+    speakers:
+      -
+        name: 'Larry Garfield'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1OIjInDHqmI'
+    slides: null
+  -
+    title: 'The Big "Why Equal doesn''t Equal" Quiz'
+    description: ''
+    tags: ''
+    link: 'https://2019.phpyorkshire.co.uk/people/juliette-reinders-folmer'
+    talk_date: '2019-04-13 13:50'
+    speakers:
+      -
+        name: 'Juliette Reinders Folmer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building Modular Architectures'
+    description: ''
+    tags: ''
+    link: 'https://2019.phpyorkshire.co.uk/people/asmir-mustafic'
+    talk_date: '2019-04-13 14:50'
+    speakers:
+      -
+        name: 'Asmir Mustafic'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:GJ_xA8MDajA'
+    slides: null
+  -
+    title: 'API Standards 2.0'
+    description: ''
+    tags: ''
+    link: 'https://2019.phpyorkshire.co.uk/people/michael-heap'
+    talk_date: '2019-04-13 14:50'
+    speakers:
+      -
+        name: 'Michael Heap'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:zrEKjAEXwkk'
+    slides: null
+  -
+    title: 'Thinker, Tester, Lawyer, Spy'
+    description: ''
+    tags: ''
+    link: 'https://2019.phpyorkshire.co.uk/people/daniel-shaw'
+    talk_date: '2019-04-13 16:00'
+    speakers:
+      -
+        name: 'Daniel Shaw'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:V1x6YIb2FOg'
+    slides: null
+  -
+    title: 'SOCcing: Responding to a cyber incident'
+    description: ''
+    tags: ''
+    link: 'https://2019.phpyorkshire.co.uk/people/clinton-ingrams'
+    talk_date: '2019-04-13 16:00'
+    speakers:
+      -
+        name: 'Clinton Ingrams'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:rQSh7vR5BzY'
+    slides: null
+  -
+    title: "Free Software: It's not about the license"
+    description: ''
+    tags: ''
+    link: 'https://2019.phpyorkshire.co.uk/people/larry-garfield'
+    talk_date: '2019-04-13 17:00'
+    speakers:
+      -
+        name: 'Larry Garfield'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:sJpXhVD18-c'
+    slides: null

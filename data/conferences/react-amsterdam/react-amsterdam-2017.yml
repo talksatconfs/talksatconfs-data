@@ -1,0 +1,391 @@
+name: 'React Amsterdam 2017'
+description: ''
+location: 'Amsterdam, Netherlands'
+venue: ''
+city: ''
+country: ''
+link: 'https://react.amsterdam/2017/'
+playlist: ''
+from_date: '2017-04-21'
+to_date: '2017-04-21'
+tags: ''
+talks:
+  -
+    title: 'Asynchronous & Offline Magic Tricks on React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Woody Rousseau'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PBNAz-yAxrY'
+    slides: null
+  -
+    title: 'Generating your client validation rules'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Ronald van der Kooy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:craV534x6Kw'
+    slides: null
+  -
+    title: 'Styling React/ReactNative Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Max Stoiber'
+        twitter: mxstbr
+        github: mxstbr
+    videos:
+      - 'youtube:bIK2NwoK9xk'
+    slides: null
+  -
+    title: 'Universal React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Mike Grabowski'
+        twitter: grabbou
+        github: grabbou
+    videos:
+      - 'youtube:JEKmuf7PGXw'
+    slides: null
+  -
+    title: 'Building Applications for the Studio in the Cloud at Netflix'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Feather Knee'
+        twitter: featherart
+        github: null
+    videos:
+      - 'youtube:Ff5kBpx7pe8'
+    slides: null
+  -
+    title: 'Complexity"Divide and Conquer!"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Michel Weststrate'
+        twitter: mweststrate
+        github: mweststrate
+    videos:
+      - 'youtube:3J9EJrvqOiM'
+    slides: null
+  -
+    title: 'Introduction to ReactVR'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Nik Graf'
+        twitter: nikgraf
+        github: nikgraf
+    videos:
+      - 'youtube:eYTlTzrNVjw'
+    slides: null
+  -
+    title: 'Sequencing Audio Using React and the Web Audio API'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Vincent Riemer'
+        twitter: vincentriemer
+        github: vincentriemer
+      -
+        name: 'Bruce Lane'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LkzNk0qgW50'
+    slides: null
+  -
+    title: 'Demystifying GraphQL Clients'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Chris Biscardi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sxciVldf-ak'
+    slides: null
+  -
+    title: 'Coding Mobile with the Pros'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Gant Laborde'
+        twitter: GantLaborde
+        github: gantman
+    videos:
+      - 'youtube:ePfHYBzYLCk'
+    slides: null
+  -
+    title: 'Make Linting Great Again'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Andrey Okonetchnikov'
+        twitter: okonetchnikov
+        github: okonet
+    videos:
+      - 'youtube:GLdH9SMG97o'
+    slides: null
+  -
+    title: 'Fun With Fiber Custom Renderers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Ken Wheeler'
+        twitter: ken_wheeler
+        github: kenwheeler
+    videos:
+      - 'youtube:oPofnLZZTwQ'
+    slides: null
+  -
+    title: 'Flow Typing a React Codebase'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Forbes Lindesay'
+        twitter: ForbesLindesay
+        github: ForbesLindesay
+    videos:
+      - 'youtube:lk8o7ym29WM'
+    slides: null
+  -
+    title: 'Practical Performance Tips Building Progressive Web Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Narendra Shetty'
+        twitter: narendra_shetty
+        github: null
+    videos:
+      - 'youtube:Dw3B1Ppi--c'
+    slides: null
+  -
+    title: 'Large scale in-store promotions with React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Tim Koopman'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Advanced SSR Caching with React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Robert Haritonov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4TOi9l6x-jo'
+    slides: null
+  -
+    title: 'Testing & React Native"Lessons from the Battlefield"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Aaron Greenwald'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cUSUJXAvt6k'
+    slides: null
+  -
+    title: 'Navigating React Native Navigation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Kurtis Kemple'
+        twitter: kurtiskemple
+        github: kkemple
+    videos:
+      - 'youtube:42ogpJVwtw0'
+    slides: null
+  -
+    title: 'React and Redux Love Web APIs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Ricardo Torres'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'React Native Touch & Gesture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Krzysztof Magiera'
+        twitter: kzzzf
+        github: kmagiera
+    videos:
+      - 'youtube:V8maYc4R2G0'
+    slides: null
+  -
+    title: 'A Real-World GraphQL Application in Production'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Stefano Masini'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6bRFElKG0a8'
+    slides: null
+  -
+    title: 'Performance Limitations of React Native and How to Overcome Them'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Tal Kol'
+        twitter: koltal
+        github: talkol
+    videos:
+      - 'youtube:OmiXlJ4ZzAo'
+    slides: null
+  -
+    title: 'Web Like Release Agility for React Native Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Parashuram N'
+        twitter: nparashuram
+        github: axemclion
+    videos:
+      - 'youtube:itDrJ5VWZ3k'
+    slides: null
+  -
+    title: "Test Like It's 2017"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Michele Bertoli'
+        twitter: MicheleBertoli
+        github: MicheleBertoli
+    videos:
+      - 'youtube:tRNL-WAPb98'
+    slides: null
+  -
+    title: 'How Pinterest switched their template rendering engine to React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Jessica Chan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JyD0AUFHQTQ'
+    slides: null
+  -
+    title: 'Pushing Bugs to Prod Responsibly with React and Redux'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'Alex Castillo'
+        twitter: castillo__io
+        github: null
+    videos:
+      - 'youtube:Y-ZoZoOtvp8'
+    slides: null
+  -
+    title: 'Creating a Pixel-Art Editor Using React and Redux'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-21 00:00'
+    speakers:
+      -
+        name: 'John van de Water'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

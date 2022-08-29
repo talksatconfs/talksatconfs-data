@@ -1,0 +1,198 @@
+name: 'Serverless Architecture Conference 2019'
+description: 'Join Serverless Architecture Conference in Berlin and gain key knowledge and skills for this new era of computing'
+location: ''
+venue: ''
+city: Berlin
+country: Germany
+link: 'https://serverless-architecture.io/'
+playlist: ''
+from_date: '2019-10-14'
+to_date: '2019-10-16'
+tags: ''
+talks:
+  -
+    title: 'The Serverless First Mindset'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-15 00:00'
+    speakers:
+      -
+        name: 'Jared Short'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Practical Auth in a Serverless World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-15 00:00'
+    speakers:
+      -
+        name: 'Andreas Grimm'
+        twitter: _andreasgrimm
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How mature serverless organisations troubleshoot and debug their environment'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-15 00:00'
+    speakers:
+      -
+        name: 'Erez Berkner'
+        twitter: erezberkner
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Architectural Patterns in the Serverless Journey of shop.LEGO.com'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-15 00:00'
+    speakers:
+      -
+        name: 'Sheen Brisals'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Real Cost of Pay-Per-Use in Serverless'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-15 00:00'
+    speakers:
+      -
+        name: 'Nitzan Shapira'
+        twitter: nitzanshapira
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Modern event-driven workloads with Knative'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-15 00:00'
+    speakers:
+      -
+        name: 'Matthias Wessendorf'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Applying chaos engineering to build resilient serverless applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-15 00:00'
+    speakers:
+      -
+        name: 'Emrah Samdan'
+        twitter: emrahsamdan
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How to use probabilistic inference programming for application orchestration in serverless architectures'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-16 00:00'
+    speakers:
+      -
+        name: 'Veselin Pizurica'
+        twitter: pizuricv
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Bottlenecks in Serverless Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-16 00:00'
+    speakers:
+      -
+        name: 'Nitzan Shapira'
+        twitter: nitzanshapira
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A start-up like way of integrating serverless-framework, API Gateway and message queue to handle webhooks for 3rd party services'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-16 00:00'
+    speakers:
+      -
+        name: 'Jonas Schweizer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Playing with Fire : Build a Web Application with Firebase'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-16 00:00'
+    speakers:
+      -
+        name: 'Michael Dowden'
+        twitter: mrdowden
+        github: null
+      -
+        name: 'Michael McGinnis'
+        twitter: mybrokenwalls
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Pragmatic Serverless Microservices – with Azure Functions & Co.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-16 00:00'
+    speakers:
+      -
+        name: 'Christian Weyer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Monitoring serverless applications on AWS: the monitoring monster becomes your friend.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-16 00:00'
+    speakers:
+      -
+        name: 'Nick Van Hoof'
+        twitter: TheNickVanHoof
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Build a powerful recommendation engine using AWS Rekognition and Serverless in 72 hours'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-16 00:00'
+    speakers:
+      -
+        name: 'Samuel James'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

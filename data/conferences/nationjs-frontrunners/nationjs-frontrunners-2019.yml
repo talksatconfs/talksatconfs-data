@@ -1,0 +1,152 @@
+name: 'NationJS Frontrunners 2019'
+description: "The Mid-Atlantic's JavaScript and full web stack conference series!"
+location: ''
+venue: ''
+city: 'Washington DC'
+country: 'United States'
+link: 'http://nationjs.com/'
+playlist: 'youtube.com:PLeGxIOPLk9EIcn3_m4Qb8NHctlOp8obUe'
+from_date: '2019-05-10'
+to_date: '2019-05-10'
+tags: ''
+talks:
+  -
+    title: 'Futurist Code Bases: Integrating JS of the FutureToday'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-10 00:00'
+    speakers:
+      -
+        name: 'Brian Holt'
+        twitter: holtbt
+        github: btholt
+    videos:
+      - 'youtube:T2NcrEvFsL0'
+    slides: null
+  -
+    title: 'The Hybrid Experiment: Merging Node.js, WordPress, and React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-10 00:00'
+    speakers:
+      -
+        name: Chiedo
+        twitter: chiedo
+        github: null
+    videos:
+      - 'youtube:QKe0GWDtUsI'
+    slides: null
+  -
+    title: "I Don't Hate JavaScript Anymore"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-10 00:00'
+    speakers:
+      -
+        name: 'Michael Szul'
+        twitter: szul
+        github: szul
+    videos:
+      - 'youtube:1lnk2qsra4M'
+    slides: null
+  -
+    title: 'JavaScript, JavaScript…. Rocks You!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-10 00:00'
+    speakers:
+      -
+        name: 'Vitalii Bobrov'
+        twitter: bobrov1989
+        github: null
+    videos:
+      - 'youtube:Hn8CvYKEm3E'
+    slides: null
+  -
+    title: 'Authentication for the REST of us'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-10 00:00'
+    speakers:
+      -
+        name: 'Divya Sasidharan'
+        twitter: shortdiv
+        github: null
+    videos:
+      - 'youtube:7BDbrfh5pqo'
+    slides: null
+  -
+    title: 'Controlling a swarm of drones with JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-10 00:00'
+    speakers:
+      -
+        name: 'Jasper Schulte'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gFavIbhC7QQ'
+    slides: null
+  -
+    title: 'Building Bridges, Not Walls: An Approach to Accessibility'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-10 00:00'
+    speakers:
+      -
+        name: 'Ashley Jean'
+        twitter: AshhJean
+        github: null
+    videos:
+      - 'youtube:wslxTb7x75M'
+    slides: null
+  -
+    title: 'How I Learned to Stop Worrying and Love TypeScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-10 00:00'
+    speakers:
+      -
+        name: "Tommy O'Keefe"
+        twitter: tommyokeefe
+        github: null
+    videos:
+      - 'youtube:-sm8h1wHkwE'
+    slides: null
+  -
+    title: 'Be a Jedi developer. Become one with the Source, and the Source will guide you.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-10 00:00'
+    speakers:
+      -
+        name: 'Nir Kaufman'
+        twitter: nirkaufman
+        github: nirkaufman
+    videos:
+      - 'youtube:4K1l7RcD938'
+    slides: null
+  -
+    title: 'Take on me, web browsers!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-10 00:00'
+    speakers:
+      -
+        name: 'Eva Ferreira'
+        twitter: evaferreira92
+        github: null
+    videos:
+      - 'youtube:11DHJISR3b8'
+    slides: null

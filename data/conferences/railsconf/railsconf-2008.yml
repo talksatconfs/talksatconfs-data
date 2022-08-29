@@ -1,0 +1,82 @@
+name: 'RailsConf 2008'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2008-05-29'
+to_date: '2008-06-01'
+tags: ''
+talks:
+  -
+    title: 'Performance on Rails, Jeremy Kemper (37signals)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-05-30 00:00'
+    speakers:
+      -
+        name: 'Jeremy Kemper'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ylI3M60BIOg'
+    slides: null
+  -
+    title: 'Panel Discussion with, David Heinemeier Hansson and Rails Core Members'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-05-31 00:00'
+    speakers:
+      -
+        name: 'David Heinemeier Hansson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:n63b-HHVMEY'
+    slides: null
+  -
+    title: 'Ruby and Rails Symposium: Versions, Implementations, and the Future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-05-29 00:00'
+    speakers:
+      -
+        name: 'David A. Black'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RKnWPuU3EbQ'
+    slides: null
+  -
+    title: "Meet the Sun You Don't Know, Nick Sieger (Sun Microsystems, Inc.)"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-05-29 00:00'
+    speakers:
+      -
+        name: 'Nick Sieger'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UOhR02BSVYI'
+    slides: null
+  -
+    title: 'Living with Legacy Software, David Heinemeier Hansson (37signals)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-06-01 00:00'
+    speakers:
+      -
+        name: 'David Heinemeier Hansson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CJkiCpPeYuI'
+    slides: null

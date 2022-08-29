@@ -1,0 +1,280 @@
+name: 'React Boston 2018'
+description: 'React Boston believes that diversity is an important part of creating a welcoming, inclusive, and innovative tech community.'
+location: ''
+venue: ''
+city: Boston
+country: 'United States'
+link: 'http://www.reactboston.com/'
+playlist: 'youtube.com:PLhBlV3WSUrT26VEZXlNdEIMQ3h3zKOtaj'
+from_date: '2018-09-29'
+to_date: '2018-09-30'
+tags: ''
+talks:
+  -
+    title: 'ReasonML (Opening Keynote)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-29 00:00'
+    speakers:
+      -
+        name: 'Ken Wheeler'
+        twitter: ken_wheeler
+        github: kenwheeler
+    videos:
+      - 'youtube:jvEFw0YpGgg'
+    slides: null
+  -
+    title: 'React & GraphQL - Bringing Simplicity and Correctness to Client Side Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-29 00:00'
+    speakers:
+      -
+        name: 'Chris Toomey'
+        twitter: christoomey
+        github: christoomey
+    videos:
+      - 'youtube:Qsoj4s_Ml6s'
+    slides: null
+  -
+    title: 'Horror Stories From Hacking the DOM Into a Native Platform'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-29 00:00'
+    speakers:
+      -
+        name: 'Vincent Riemer'
+        twitter: vincentriemer
+        github: vincentriemer
+    videos:
+      - 'youtube:dlIVDbn6eiQ'
+    slides: null
+  -
+    title: 'From Sketch to Code Designing a Component Kit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-29 00:00'
+    speakers:
+      -
+        name: 'Samantha Bretous'
+        twitter: samanthabretous
+        github: samanthabretous
+    videos:
+      - 'youtube:DTrWeUaZRJk'
+    slides: null
+  -
+    title: 'State of Redux'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-29 00:00'
+    speakers:
+      -
+        name: 'Mark Erikson'
+        twitter: acemarke
+        github: markerikson
+    videos:
+      - 'youtube:zWsXFn5-xDU'
+    slides: null
+  -
+    title: 'Lightning talks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-30 00:00'
+    speakers:
+      -
+        name: 'Josh Pollock'
+        twitter: josh412
+        github: Shelob9
+      -
+        name: 'Andrew Kaiser'
+        twitter: null
+        github: andykais
+      -
+        name: 'Cole Turner'
+        twitter: coleturner
+        github: coleturner
+      -
+        name: 'Jason Clark'
+        twitter: riceboyler
+        github: riceboyler
+    videos:
+      - 'youtube:TbLRvnyo53g'
+    slides: null
+  -
+    title: 'The Art of Humanizing Pull Requests'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-29 00:00'
+    speakers:
+      -
+        name: 'Ankita Kulkarni'
+        twitter: kulkarniankita9
+        github: kulkarniankita
+    videos:
+      - 'youtube:L6Mh2h5Tunw'
+    slides: null
+  -
+    title: 'Custom CSS is the Path to Inconsistent UI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-29 00:00'
+    speakers:
+      -
+        name: 'Artem Sapegin'
+        twitter: iamsapegin
+        github: sapegin
+    videos:
+      - 'youtube:t5VTLwAias8'
+    slides: null
+  -
+    title: 'Streaming React for Faster UIs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-29 00:00'
+    speakers:
+      -
+        name: 'Tejas Kumar'
+        twitter: TejasKumar_
+        github: TejasQ
+    videos:
+      - 'youtube:lKG3nYpPgtM'
+    slides: null
+  -
+    title: 'Building AR Apps with React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-29 00:00'
+    speakers:
+      -
+        name: 'Vladimir Novick'
+        twitter: VladimirNovick
+        github: vnovick
+    videos:
+      - 'youtube:lN1DnHhludY'
+    slides: null
+  -
+    title: 'The Case for Whimsy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-30 00:00'
+    speakers:
+      -
+        name: 'Joshua Comeau'
+        twitter: joshWComeau
+        github: joshwcomeau
+    videos:
+      - 'youtube:-XU75AEBykk'
+    slides: null
+  -
+    title: 'Beyond Web-Apps React, Javascript and WebAssembly to Port Legacy Native Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-30 00:00'
+    speakers:
+      -
+        name: 'Florian Rival'
+        twitter: Florianrival
+        github: 4ian
+    videos:
+      - 'youtube:EdTLGUU4r-k'
+    slides: null
+  -
+    title: 'Forbidden Planet" Cured My Imposter Syndrome'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-30 00:00'
+    speakers:
+      -
+        name: 'Jen Luker'
+        twitter: knitcodemonkey
+        github: knitcodemonkey
+    videos:
+      - 'youtube:Yk53eWIu7Nw'
+    slides: null
+  -
+    title: 'Progressive React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-30 00:00'
+    speakers:
+      -
+        name: 'Houssein Djirdeh'
+        twitter: hdjirdeh
+        github: housseindjirdeh
+    videos:
+      - 'youtube:zSECXuCB8wg'
+    slides: null
+  -
+    title: 'Introducing Undux Dead Simple, Typesafe State Management for React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-30 00:00'
+    speakers:
+      -
+        name: 'Boris Cherny'
+        twitter: bcherny
+        github: bcherny
+    videos:
+      - 'youtube:CpOE-JrtAdc'
+    slides: null
+  -
+    title: 'Deterministic Mocking with GraphQL and Apollo Lunar Launch'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-30 00:00'
+    speakers:
+      -
+        name: 'Mark Faga'
+        twitter: markjfaga
+        github: mjfaga
+      -
+        name: 'Hillary Bauer'
+        twitter: null
+        github: bauer-hillary-c
+    videos:
+      - 'youtube:K445DtQ5oHY'
+    slides: null
+  -
+    title: 'Large Scale Migrations Using Recast and jscodeshift to Scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-30 00:00'
+    speakers:
+      -
+        name: 'Francois Ward'
+        twitter: null
+        github: Phoenixmatrix
+    videos:
+      - 'youtube:zO07nFlibH0'
+    slides: null
+  -
+    title: 'React A Romance of Many Dimensions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-30 00:00'
+    speakers:
+      -
+        name: 'Matt Hamil'
+        twitter: _matthamil
+        github: matthamil
+    videos:
+      - 'youtube:Vx9BeQSCAnc'
+    slides: null

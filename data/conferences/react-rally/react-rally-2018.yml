@@ -1,0 +1,264 @@
+name: 'React Rally 2018'
+description: "React Rally is a two day single track conference for developers of all backgrounds using Facebook's React.js, React Native, and related tools. Speakers will cover topics such as React Native, Flux, ES6, isomorphic universal JavaScript, and so much more. Whether you're a seasoned developer who has been using React since before it was cool, or a newcomer to the scene, React Rally has something for everyone!"
+location: ''
+venue: ''
+city: 'Salt Lake City, UT'
+country: 'United States'
+link: 'http://www.reactrally.com/'
+playlist: 'youtube.com:PL2mV_hLb0CNAJSQLmKAWRou9fDiAVbsUo'
+from_date: '2018-08-16'
+to_date: '2018-08-17'
+tags: ''
+talks:
+  -
+    title: 'Why React is not Reactive'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-16 00:00'
+    speakers:
+      -
+        name: 'Shawn Swyx Wang'
+        twitter: swyx
+        github: sw-yx
+    videos:
+      - 'youtube:nyFHR0dDZo0'
+    slides: null
+  -
+    title: 'Reacting in a Crisis'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-16 00:00'
+    speakers:
+      -
+        name: 'Carrie Maxwell'
+        twitter: Carofine247
+        github: cdikibo
+    videos:
+      - 'youtube:S1E6C8O7fk0'
+    slides: null
+  -
+    title: 'Algebraic effects, Fibers, Coroutines...Oh my!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-16 00:00'
+    speakers:
+      -
+        name: 'Brandon Dail'
+        twitter: aweary
+        github: aweary
+    videos:
+      - 'youtube:7GcrT0SBSnI'
+    slides: null
+  -
+    title: 'The Life Cycle Methods and The Wolf A Musicological Romp'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-16 00:00'
+    speakers:
+      -
+        name: 'Ryan Moore'
+        twitter: panicwhenever
+        github: paniclater
+    videos:
+      - 'youtube:o4XxQl-1JJU'
+    slides: null
+  -
+    title: 'Chaos Monkeys in Your Browser What Chaos Engineering Means for the Front End'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-16 00:00'
+    speakers:
+      -
+        name: 'Brian Holt'
+        twitter: holtbt
+        github: btholt
+    videos:
+      - 'youtube:A4_rRj-4Mv0'
+    slides: null
+  -
+    title: 'Explorable Explanations with React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-16 00:00'
+    speakers:
+      -
+        name: 'Joshua Comeau'
+        twitter: joshWComeau
+        github: joshwcomeau
+    videos:
+      - 'youtube:XjFR9Jc-ras'
+    slides: null
+  -
+    title: 'AI For Everybody'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-16 00:00'
+    speakers:
+      -
+        name: Feather
+        twitter: featherart
+        github: featherart
+    videos:
+      - 'youtube:Vbu7a2P_dQ4'
+    slides: null
+  -
+    title: 'One Hundred Years of JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-16 00:00'
+    speakers:
+      -
+        name: 'Justin Falcone'
+        twitter: modernserf
+        github: modernserf
+    videos:
+      - 'youtube:J7Cotg0DRsg'
+    slides: null
+  -
+    title: 'ReasonML is Serious Business'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Ken Wheeler'
+        twitter: ken_wheeler
+        github: kenwheeler
+    videos:
+      - 'youtube:lzEweA7RPi0'
+    slides: null
+  -
+    title: 'Swipe Left, Uncaught TypeError Learning to Love Type Systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Lauren Tan'
+        twitter: sugarpirate_
+        github: poteto
+    videos:
+      - 'youtube:y3uXazpAdwo'
+    slides: null
+  -
+    title: "Help me WebAssembly, you're my only hope!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Jay Phelps'
+        twitter: _jayphelps
+        github: jayphelps
+    videos:
+      - 'youtube:6KeDFvdxRZk'
+    slides: null
+  -
+    title: 'Hot Garbage Clean Code is Dead'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Michael Chan'
+        twitter: chantastic
+        github: chantastic
+    videos:
+      - 'youtube:-NP_upexPFg'
+    slides: null
+  -
+    title: 'React Off the Grid'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Sophia Shoemaker'
+        twitter: wisecobbler
+        github: mrscobbler
+    videos:
+      - 'youtube:UHNfv6k_1OQ'
+    slides: null
+  -
+    title: 'Through the (Open Source) Looking Glass'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Henry Zhu'
+        twitter: left_pad
+        github: hzoo
+    videos:
+      - 'youtube:h0sfFX7WH1c'
+    slides: null
+  -
+    title: 'Translating React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Jennifer Wong'
+        twitter: mybluewristband
+        github: jennz0r
+    videos:
+      - 'youtube:r33EWrP5EL4'
+    slides: null
+  -
+    title: 'Simply React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Kent C. Dodds'
+        twitter: kentcdodds
+        github: kentcdodds
+    videos:
+      - 'youtube:AiJ8tRRH0f8'
+    slides: null
+  -
+    title: 'Everything You Need to Know About GraphQL in 3 Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Eve Porcello'
+        twitter: eveporcello
+        github: eveporcello
+    videos:
+      - 'youtube:F_M8v6MK0Sc'
+    slides: null
+  -
+    title: 'Route Recalculating'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-17 00:00'
+    speakers:
+      -
+        name: 'Ryan Florence'
+        twitter: ryanflorence
+        github: ryanflorence
+    videos:
+      - 'youtube:X-kA8B2QzjY'
+    slides: null

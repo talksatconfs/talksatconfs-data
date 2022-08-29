@@ -1,0 +1,221 @@
+name: 'Laracon US 2018'
+description: ''
+location: 'Chicago, Illinois'
+venue: ''
+city: ''
+country: ''
+link: 'https://web.archive.org/web/20180802085033/http://laracon.us/'
+playlist: ''
+from_date: '2018-07-25'
+to_date: '2018-07-26'
+tags: ''
+talks:
+  -
+    title: 'APIs With Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-26 00:00'
+    speakers:
+      -
+        name: 'TJ Miller'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:K0xid2vS7Oo'
+    slides: null
+  -
+    title: 'Resisting Complexity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-25 00:00'
+    speakers:
+      -
+        name: 'Adam Wathan'
+        twitter: adamwathan
+        github: null
+    videos:
+      - 'youtube:UyaejTqR3Tc'
+    slides: null
+  -
+    title: 'Vue CLI Overview'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-25 00:00'
+    speakers:
+      -
+        name: 'Evan You'
+        twitter: youyuxi
+        github: yyx990803
+    videos:
+      - 'youtube:fHLFYu752Qc'
+    slides: null
+  -
+    title: 'The Clean Coder'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-26 00:00'
+    speakers:
+      -
+        name: 'Bob Martin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NeXQEJNWO5w'
+    slides: null
+  -
+    title: 'Perennial Seller'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-26 00:00'
+    speakers:
+      -
+        name: 'Ryan Holiday'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kKGkURY-QsA'
+    slides: null
+  -
+    title: 'Q&A'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-25 00:00'
+    speakers:
+      -
+        name: 'Jason Fried'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Pie8o03qT6w'
+    slides: null
+  -
+    title: 'Design Patterns with Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-26 00:00'
+    speakers:
+      -
+        name: 'Colin DeCarlo'
+        twitter: colindecarlo
+        github: null
+    videos:
+      - 'youtube:e4ugSgGaCQ0'
+    slides: null
+  -
+    title: 'Tour of Laravel MediaLibrary v7'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-25 00:00'
+    speakers:
+      -
+        name: 'Freek van der Herten'
+        twitter: freekmurze
+        github: freekmurze
+    videos:
+      - 'youtube:3eyftAR5ilo'
+    slides: null
+  -
+    title: 'Hurry Slowly'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-26 00:00'
+    speakers:
+      -
+        name: 'Jocelyn Glei'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Patterns That Pay Off'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-26 00:00'
+    speakers:
+      -
+        name: 'Matt Stauffer'
+        twitter: stauffermatt
+        github: null
+    videos:
+      - 'youtube:enTb2E4vEos'
+    slides: null
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-25 00:00'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:pLcM3mpZSV0'
+    slides: null
+  -
+    title: 'Laravel By The Numbers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-25 00:00'
+    speakers:
+      -
+        name: 'Jason McCreary'
+        twitter: jasonmccreary
+        github: jasonmccreary
+    videos:
+      - 'youtube:dccDqpmKVFM'
+    slides: null
+  -
+    title: 'Embrace The Backend'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-26 00:00'
+    speakers:
+      -
+        name: 'Caleb Porzio'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:uQO4Xh1gMpY'
+    slides: null
+  -
+    title: 'Learn CSS Grid'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-26 00:00'
+    speakers:
+      -
+        name: 'Wes Bos'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9jYpvqMbr_E'
+    slides: null
+  -
+    title: 'Full-Stack Testing Strategies'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-25 00:00'
+    speakers:
+      -
+        name: 'Samantha Geitz'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AxlqFgY0BGY'
+    slides: null

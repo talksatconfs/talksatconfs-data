@@ -1,0 +1,251 @@
+name: 'ReactNext 2018'
+description: 'We are thrilled to present the 2018 edition of ReactNext – a one-day community-driven event packed with advanced lectures by internationally renowned speakers, and networking opportunities with over 600 attendees from all around the world, that share a passion for React, held in the center of the vibrant city of Tel Aviv. ReactNext targets both beginner and experienced devs in two parallel tracks with sessions about React, React Native, Redux, MobX, and everything about the ecosystem'
+location: ''
+venue: ''
+city: 'Tel Aviv'
+country: Israel
+link: 'https://2018.react-next.com/'
+playlist: 'youtube.com:PLMYVq3z1QxSr3ABOx2gwuD7jBDbWIUdw1'
+from_date: '2018-11-04'
+to_date: '2018-11-04'
+tags: ''
+talks:
+  -
+    title: 'State of the React Ecosystem'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-04 00:00'
+    speakers:
+      -
+        name: 'Ben Ilegbodu'
+        twitter: benmvp
+        github: benmvp
+    videos:
+      - 'youtube:yOWzQOZIANU'
+    slides: null
+  -
+    title: 'Advanced Patterns - Moving Beyond Presentation and Container Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-04 00:00'
+    speakers:
+      -
+        name: 'Robert Herbst'
+        twitter: robertfall
+        github: robertfall
+    videos:
+      - 'youtube:GjkIxno8bik'
+    slides: null
+  -
+    title: 'MonoRepos for the Masses'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-04 00:00'
+    speakers:
+      -
+        name: 'Marcel Cutts'
+        twitter: marcelcutts
+        github: MarcelCutts
+    videos:
+      - 'youtube:rdeBtjBNcDI'
+    slides: null
+  -
+    title: 'Building a Maintainable UI with Storybook'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-04 00:00'
+    speakers:
+      -
+        name: 'Norbert de Langen'
+        twitter: NorbertdeLangen
+        github: ndelangen
+    videos:
+      - 'youtube:9lQMmbITt0c'
+    slides: null
+  -
+    title: 'Motion in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-04 00:00'
+    speakers:
+      -
+        name: 'Kaylie Kwon'
+        twitter: Kaylie_alexa
+        github: kaylieEB
+    videos:
+      - 'youtube:Jz7gpHR5Bf4'
+    slides: null
+  -
+    title: 'Building React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-04 00:00'
+    speakers:
+      -
+        name: 'Parashuram N'
+        twitter: nparashuram
+        github: axemclion
+    videos:
+      - 'youtube:FX_WBhuioGo'
+    slides: null
+  -
+    title: 'Beautiful Abstractions "What I Learned Reading the Source-Code of 18 React Libraries"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-04 00:00'
+    speakers:
+      -
+        name: 'Yonatan Mevorach'
+        twitter: cowchimp
+        github: cowchimp
+    videos:
+      - 'youtube:9z_4gd5xH9M'
+    slides:
+      - 'https://noti.st/cowchimp/begO8Y/beautiful'
+  -
+    title: 'Immer, Immutability and the Wonderful World of Proxies'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-04 00:00'
+    speakers:
+      -
+        name: 'Michel Weststrate'
+        twitter: mweststrate
+        github: mweststrate
+    videos:
+      - 'youtube:FKRVDfpQ9cw'
+    slides:
+      - 'http://immer-react-next-2018.surge.sh/#1'
+  -
+    title: 'Breaking Down Your Web App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-04 00:00'
+    speakers:
+      -
+        name: 'Patrick Hund'
+        twitter: wiekatz
+        github: pahund
+    videos:
+      - 'youtube:hN_UmUdEmuU'
+    slides: null
+  -
+    title: 'Applying Microservices Design Patterns to Scale React App Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-04 00:00'
+    speakers:
+      -
+        name: 'Itay Maoz'
+        twitter: TheRealMohaz
+        github: itaym2
+    videos:
+      - 'youtube:k3ZJVN9Drmw'
+    slides: null
+  -
+    title: 'React Responsively, Render Responsibly'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-04 00:00'
+    speakers:
+      -
+        name: 'Yoav Niran'
+        twitter: poeticGeek
+        github: yoavniran
+    videos:
+      - 'youtube:O6pLZK3R2II'
+    slides: null
+  -
+    title: 'Wiring TypeScript into React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-04 00:00'
+    speakers:
+      -
+        name: 'Gil Fink'
+        twitter: gilfink
+        github: gilf
+    videos:
+      - 'youtube:nI6eD6pFGdA'
+    slides: null
+  -
+    title: 'How to Write Bad Code in Redux'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-04 00:00'
+    speakers:
+      -
+        name: 'Adam Klein'
+        twitter: _500Tech
+        github: 500Tech
+    videos:
+      - 'youtube:5JALXEkft2E'
+    slides: null
+  -
+    title: 'Beyond Web Apps "React, JavaScript and WebAssembly to Port Legacy Native Apps"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-04 00:00'
+    speakers:
+      -
+        name: 'Florian Rival'
+        twitter: Florianrival
+        github: 4ian
+    videos: null
+    slides: null
+  -
+    title: 'Functional Programming Fundamentals'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-04 00:00'
+    speakers:
+      -
+        name: 'Matthew Gerstman'
+        twitter: MatthewGerstman
+        github: null
+    videos:
+      - 'youtube:Pjc1AnBLG8c'
+    slides: null
+  -
+    title: 'Migrating from Angular to React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-04 00:00'
+    speakers:
+      -
+        name: 'Maayan Glikser'
+        twitter: MaayanGlikser
+        github: morsdyce
+    videos:
+      - 'youtube:NbJy1ZPrVYE'
+    slides: null
+  -
+    title: "(Don't) Blame it on React Native"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-04 00:00'
+    speakers:
+      -
+        name: 'Ofir Dagan'
+        twitter: ofirdagan2
+        github: ofirdagan
+    videos:
+      - 'youtube:U3uI7jHV458'
+    slides: null

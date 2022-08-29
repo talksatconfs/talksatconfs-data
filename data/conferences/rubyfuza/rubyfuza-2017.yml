@@ -1,0 +1,281 @@
+name: 'Rubyfuza 2017'
+description: ''
+location: ''
+venue: ''
+city: 'Cape Town'
+country: 'South Africa'
+link: ''
+playlist: 'youtube:PLI113oIao_x5PHCdz0VLSKW4'
+from_date: '2017-02-02'
+to_date: '2017-02-04'
+tags: ''
+talks:
+  -
+    title: 'Metaphors Are Similes. Similes Are Like Metaphors'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-02 09:40'
+    speakers:
+      -
+        name: 'Coraline Ada Ehmke'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:czvgHSYKkNU'
+    slides: null
+  -
+    title: 'What the Duck?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-02 10:30'
+    speakers:
+      -
+        name: 'Eliza de Jager'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NvSaKv1cXvQ'
+    slides: null
+  -
+    title: 'Monorails: deal with it'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-02 11:30'
+    speakers:
+      -
+        name: 'Kir Shatrov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iwFom6BV65E'
+    slides: null
+  -
+    title: 'ActionGame with Rails 5'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-02 12:00'
+    speakers:
+      -
+        name: 'Daniel Smith'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lezFgpFis0o'
+    slides: null
+  -
+    title: 'From grammar to byte-code in 20 minutes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-02 14:00'
+    speakers:
+      -
+        name: 'Aslam Khan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:l-udPlKYzKc'
+    slides: null
+  -
+    title: 'Feedback for the developer who codes solo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-02 14:30'
+    speakers:
+      -
+        name: 'Grant Petersen-Speelman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mX1KJpOSphA'
+    slides: null
+  -
+    title: 'What I learned from applying for 107 jobs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-02 15:00'
+    speakers:
+      -
+        name: 'De Wet Blomerus'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_ujoWJ9Pnfs'
+    slides: null
+  -
+    title: 'The 360˚ Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-02 16:00'
+    speakers:
+      -
+        name: 'Dane Balia'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ae7kd_ufNhM'
+    slides: null
+  -
+    title: 'AI in Perspective'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-02 16:30'
+    speakers:
+      -
+        name: 'Rishal Hurbans'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LXTKruqMgBw'
+    slides: null
+  -
+    title: 'From the the ground up!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-03 09:40'
+    speakers:
+      -
+        name: 'Theo Bohnen '
+        twitter: null
+        github: null
+      -
+        name: ' Mandla Magagula'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Ruby and Finance Don't Mix. Right?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-03 10:30'
+    speakers:
+      -
+        name: 'Quintis Venter'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Yo1ETYJOyqY'
+    slides: null
+  -
+    title: 'Rails Security: above and beyond the defaults'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-03 11:30'
+    speakers:
+      -
+        name: 'Matias Korhonen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:h6uEfAQOb2o'
+    slides: null
+  -
+    title: 'Hacking with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-03 12:00'
+    speakers:
+      -
+        name: 'Brad Kingon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Qp8XQ6EkSkc'
+    slides: null
+  -
+    title: 'Level up in Ruby while keeping all your hearts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-03 12:30'
+    speakers:
+      -
+        name: 'André-Marthin Helberg'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4YEFjdcu0wQ'
+    slides: null
+  -
+    title: 'Using Apache Kafka from Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-03 14:00'
+    speakers:
+      -
+        name: 'Daniel Schierbeck'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zWpqnT5bkDk'
+    slides: null
+  -
+    title: 'Date night with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-03 14:30'
+    speakers:
+      -
+        name: 'Ruberto Paulo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NrQXu-xd1GM'
+    slides: null
+  -
+    title: "What's new in Ruby 2.4"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-03 15:00'
+    speakers:
+      -
+        name: 'Kevin McKelvin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:aUnBQQf8oxA'
+    slides: null
+  -
+    title: 'The Imposter Within'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-03 16:00'
+    speakers:
+      -
+        name: 'Clarice Bouwer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fkgAc0DY4s8'
+    slides: null
+  -
+    title: 'Building a learning culture.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-03 16:30'
+    speakers:
+      -
+        name: 'Patrick Vine'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ibeWsrLfiyk'
+    slides: null

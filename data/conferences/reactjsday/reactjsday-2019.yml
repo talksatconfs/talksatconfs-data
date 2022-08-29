@@ -1,0 +1,129 @@
+name: 'reactjsday 2019'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2019-10-04'
+to_date: '2019-10-04'
+tags: ''
+talks:
+  -
+    title: 'How Typescript Can Power Design Systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-04 12:40'
+    speakers:
+      -
+        name: 'Isha Kasliwal'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Kickstarting libraries of shared React components for multiple teams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-04 10:30'
+    speakers:
+      -
+        name: 'Surya Ambrose'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Accessibility-flavored React components make your design system delicious!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-04 16:45'
+    speakers:
+      -
+        name: 'Kathleen McMahon'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Turning an Application UI into an API'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-04 10:00'
+    speakers:
+      -
+        name: 'Narendra Shetty'
+        twitter: narendra_shetty
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Coding with Web Standards'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-04 17:30'
+    speakers:
+      -
+        name: 'Maurizio Mangione'
+        twitter: granze
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Why React the Web AR'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-04 15:50'
+    speakers:
+      -
+        name: 'Anastasiia Miroshnichenko'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Parallel computing in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-04 11:50'
+    speakers:
+      -
+        name: 'Majid Hajian'
+        twitter: mhadaily
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Reusing Stateful Logic in React: HOC vs Render Props vs Hooks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-04 15:00'
+    speakers:
+      -
+        name: 'Matteo Frana'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Tackle React component complexity using Reactive Statecharts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-10-04 14:30'
+    speakers:
+      -
+        name: 'Farzad YousefZadeh'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

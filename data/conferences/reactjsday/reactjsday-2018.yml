@@ -1,0 +1,116 @@
+name: 'reactjsday 2018'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2018-10-04'
+to_date: '2018-10-05'
+tags: ''
+talks:
+  -
+    title: 'How modern browser technologies can improve your website'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-05 15:00'
+    speakers:
+      -
+        name: 'Ives van Hoorne'
+        twitter: CompuIves
+        github: CompuIves
+    videos: null
+    slides: null
+  -
+    title: "Let's manage our local state with GraphQL."
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-05 12:15'
+    speakers:
+      -
+        name: 'Sara Vieira'
+        twitter: NikkitaFTW
+        github: alexnm
+    videos: null
+    slides: null
+  -
+    title: 'Making games and physics work with Reason & Reprocessing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-05 17:10'
+    speakers:
+      -
+        name: 'Phil Plückthun'
+        twitter: _philpl
+        github: kitten
+    videos: null
+    slides: null
+  -
+    title: 'Updates on React Router'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-05 09:55'
+    speakers:
+      -
+        name: 'Micheal Jackson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A Reappreciation of Redux: Why my team at PayPal removed Apollo Client and went back to Redux'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-05 14:30'
+    speakers:
+      -
+        name: 'Max Millington'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'React Advanced Patterns & Techniques'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-04 10:00'
+    speakers:
+      -
+        name: "Kristijan 'Kitze' Ristovski"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Behavioral Programming with React: request, wait and block'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-05 15:30'
+    speakers:
+      -
+        name: 'Luca Matteis'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Advanced patterns in building React Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-05 16:20'
+    speakers:
+      -
+        name: 'Manjula Dube'
+        twitter: manjula_dube
+        github: manjula91
+    videos: null
+    slides: null

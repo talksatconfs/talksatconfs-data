@@ -1,0 +1,152 @@
+name: 'Laracon EU 2013'
+description: ''
+location: Amsterdam
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2013-08-30'
+to_date: '2013-08-31'
+tags: ''
+talks:
+  -
+    title: 'Bridging the Gap'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-08-31 00:00'
+    speakers:
+      -
+        name: 'Ben Corlett'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jV4iPSHbonk'
+    slides: null
+  -
+    title: 'Standardization, the Symfony Way'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-08-30 00:00'
+    speakers:
+      -
+        name: 'Fabien Potencier'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0erGiEm07b8'
+    slides: null
+  -
+    title: 'The Knowledge of Others'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-08-31 00:00'
+    speakers:
+      -
+        name: 'Frank de Jonge'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RdFGGdL5kH8'
+    slides: null
+  -
+    title: 'Building Artisan Commands'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-08-31 00:00'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:fGwnCWfzLRI'
+    slides: null
+  -
+    title: 'Software Design Patterns in Laravel 4'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-08-30 00:00'
+    speakers:
+      -
+        name: 'Phill Sparks'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qkIsTtIcTBE'
+    slides: null
+  -
+    title: 'In-depth Composer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-08-30 00:00'
+    speakers:
+      -
+        name: 'Jordi Boggiano'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:q3UfxubW_PU'
+    slides: null
+  -
+    title: 'Laravel Testing Tips, Techniques and Pitfalls'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-08-30 00:00'
+    speakers:
+      -
+        name: 'Jeffrey Way'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vmeh8XgrC2U'
+    slides: null
+  -
+    title: 'Engineering Complex Applications with Laravel 4'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-08-31 00:00'
+    speakers:
+      -
+        name: 'Kapil Verma'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DEj1Q0N9o0w'
+    slides: null
+  -
+    title: 'Objects, Testing and Responsibility'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-08-31 00:00'
+    speakers:
+      -
+        name: 'Matthew Machuga'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EcBIzAHIYAw'
+    slides: null
+  -
+    title: 'HTTP and Your Angry Dog'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-08-31 00:00'
+    speakers:
+      -
+        name: 'Ross Tuck'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2qBaMsYXtJ4'
+    slides: null

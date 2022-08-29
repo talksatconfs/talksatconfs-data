@@ -1,0 +1,261 @@
+name: 'RubyConf AU 2018'
+description: 'RubyConf AU is known for its fabulous social events, and this year is no exception!'
+location: ''
+venue: ''
+city: Sydney
+country: Australia
+link: 'https://rubyconf.org.au/2018/'
+playlist: 'youtube:PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my'
+from_date: '2018-03-08'
+to_date: '2018-03-09'
+tags: ''
+talks:
+  -
+    title: "Keynote 'You Are Insufficiently Persuasive'"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-08 00:00'
+    speakers:
+      -
+        name: 'Sandi Metz'
+        twitter: sendimetz
+        github: skmetz
+    videos:
+      - 'youtube:Y3k7tHll3RY'
+    slides: null
+  -
+    title: 'Machine Learning explained to humans'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-08 00:00'
+    speakers:
+      -
+        name: 'Paolo Perrotta'
+        twitter: nusco
+        github: nusco
+    videos:
+      - 'youtube:zbxtlQaJZ7M'
+    slides: null
+  -
+    title: 'JavaScript is Awe-ful'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Katie McLaughlin'
+        twitter: glasnt
+        github: glasnt
+    videos: null
+    slides: null
+  -
+    title: 'Consider Crystal'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-08 00:00'
+    speakers:
+      -
+        name: 'Andy Nicholson'
+        twitter: andrewdotnich
+        github: anicholson
+    videos:
+      - 'youtube:XakoiU2mw3c'
+    slides: null
+  -
+    title: 'High performance Mario Kart on Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-08 00:00'
+    speakers:
+      -
+        name: 'Michael Morris'
+        twitter: mtcmorris
+        github: null
+    videos:
+      - 'youtube:LVRcHzOgsRY'
+    slides: null
+  -
+    title: 'Here,s to history: programming through archaeology'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-08 00:00'
+    speakers:
+      -
+        name: 'Eleanor Kiefel Haggerty'
+        twitter: eleanorkh
+        github: eleanorakh
+    videos:
+      - 'youtube:MEG3HyVDgjU'
+    slides: null
+  -
+    title: 'A Human Approach to Functional Programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-08 00:00'
+    speakers:
+      -
+        name: 'Ken Scambler'
+        twitter: KenScambler
+        github: kenbot
+    videos: null
+    slides: null
+  -
+    title: 'Hiring Juniors'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-08 00:00'
+    speakers:
+      -
+        name: 'Ryan Bigg'
+        twitter: ryanbigg
+        github: radar
+    videos:
+      - 'youtube:aD6dci9rLXM'
+    slides: null
+  -
+    title: "Building the World's Largest Studio at Netflix"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-08 00:00'
+    speakers:
+      -
+        name: 'Lauren Tan'
+        twitter: sugarpirate_
+        github: poteto
+    videos:
+      - 'youtube:5_Xj7okmauc'
+    slides: null
+  -
+    title: 'Knobs, Levers and Buttons: tools for operating your application at scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-08 00:00'
+    speakers:
+      -
+        name: 'Amy Unger'
+        twitter: cdwort
+        github: cdwort
+    videos:
+      - 'youtube:Bdck0TpHdGc'
+    slides: null
+  -
+    title: 'Outside the Web Box: Using Ruby for Other Protocols'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-08 00:00'
+    speakers:
+      -
+        name: 'Danielle Adams'
+        twitter: adamzdanielle
+        github: danielleadams
+    videos:
+      - 'youtube:ZvyaC3SK-nA'
+    slides: null
+  -
+    title: 'Dyslexia and Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-08 00:00'
+    speakers:
+      -
+        name: 'Tom Gamon'
+        twitter: thrgamon
+        github: thrgamon
+    videos:
+      - 'youtube:JZ03E0FUj1M'
+    slides: null
+  -
+    title: 'Building with Blockchains in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-08 00:00'
+    speakers:
+      -
+        name: 'John Feminella'
+        twitter: jxxf
+        github: fj
+    videos: null
+    slides: null
+  -
+    title: 'UTC is Enough for Everybody, Right?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-08 00:00'
+    speakers:
+      -
+        name: 'Zach Holman'
+        twitter: holman
+        github: holman
+    videos:
+      - 'youtube:ibJE_T4w3Bo'
+    slides: null
+  -
+    title: 'Tackling Technical Writing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-08 00:00'
+    speakers:
+      -
+        name: 'Alaina Kafkes'
+        twitter: alainakafkes
+        github: alainakafkes
+    videos:
+      - 'youtube:brewx-lO3ak'
+    slides: null
+  -
+    title: 'The Good Bad Bug: Fail Your Way to Better Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-08 00:00'
+    speakers:
+      -
+        name: 'Jessica Rudder'
+        twitter: jessrudder
+        github: JessRudder
+    videos:
+      - 'youtube:4JEZU8-IHs8'
+    slides: null
+  -
+    title: 'Debugging Your Services with Distributed Tracing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-08 00:00'
+    speakers:
+      -
+        name: 'Stella Cotton'
+        twitter: practice_cactus
+        github: stellacotton
+    videos:
+      - 'youtube:MYej9nMux-E'
+    slides: null
+  -
+    title: 'Politics? In My Technology?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-08 00:00'
+    speakers:
+      -
+        name: 'Merrin Macleod'
+        twitter: commerxplat
+        github: spinscale
+    videos:
+      - 'youtube:7NxkCRd4Z1M'
+    slides: null

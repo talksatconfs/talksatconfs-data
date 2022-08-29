@@ -1,0 +1,278 @@
+name: 'Laracon VII 2019'
+description: ''
+location: 'Times Square, NYC'
+venue: ''
+city: ''
+country: ''
+link: 'https://laracon.us/'
+playlist: ''
+from_date: '2019-07-24'
+to_date: '2019-07-25'
+tags: ''
+talks:
+  -
+    title: 'What Makes Laravel So Special'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-07-23 00:00'
+    speakers:
+      -
+        name: 'Matt Stauffer'
+        twitter: stauffermatt
+        github: null
+    videos:
+      - 'youtube:X_kZGphF3OY'
+    slides: null
+  -
+    title: 'The Hardest Part About Growing Old In Tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-07-24 00:00'
+    speakers:
+      -
+        name: 'Justin Jackson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AfEBby1KRyU'
+    slides: null
+  -
+    title: 'Simplification Tips and Tricks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-07-24 00:00'
+    speakers:
+      -
+        name: 'Freek van der Herten'
+        twitter: freekmurze
+        github: freekmurze
+    videos:
+      - 'youtube:FxACh4X-Xc0'
+    slides: null
+  -
+    title: 'The Laravel Core - Demystify The Beast'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-07-23 00:00'
+    speakers:
+      -
+        name: 'Christoph Rumpel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4FKldmJiz1Y'
+    slides: null
+  -
+    title: 'Laravel Design Patterns 2.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-07-24 00:00'
+    speakers:
+      -
+        name: 'Bobby Bouwmann'
+        twitter: bobbybouwmann
+        github: bobbybouwmann
+    videos:
+      - 'youtube:r-HVk-6htQY'
+    slides: null
+  -
+    title: 'Statamic Overview'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-07-23 00:00'
+    speakers:
+      -
+        name: 'Jack McDade'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wNbAMqrMFT8'
+    slides: null
+  -
+    title: 'Introducing: Livewire'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-07-23 00:00'
+    speakers:
+      -
+        name: 'Caleb Porzio'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fX1aOWWt2nQ'
+    slides: null
+  -
+    title: 'Some Shifty Bits'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-07-23 00:00'
+    speakers:
+      -
+        name: 'Jason McCreary'
+        twitter: jasonmccreary
+        github: jasonmccreary
+    videos:
+      - 'youtube:bvR9rWSM2bM'
+    slides: null
+  -
+    title: 'Whats coming in Vue 3.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-07-23 00:00'
+    speakers:
+      -
+        name: 'Evan You'
+        twitter: youyuxi
+        github: yyx990803
+    videos:
+      - 'youtube:E43SqPADf3k'
+    slides: null
+  -
+    title: 'Connecting the Dots'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-07-24 00:00'
+    speakers:
+      -
+        name: 'Keith Damiani'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:eVkTIg2D7NY'
+    slides: null
+  -
+    title: 'Event Sourcing in Laravel with EventSauce'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-07-23 00:00'
+    speakers:
+      -
+        name: 'Dries Vints'
+        twitter: driesvints
+        github: driesvints
+    videos:
+      - 'youtube:2yos8WUG5z4'
+    slides: null
+  -
+    title: 'Package Development 101'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-07-23 00:00'
+    speakers:
+      -
+        name: 'Marcel Pociot'
+        twitter: marcelpociot
+        github: mpociot
+    videos:
+      - 'youtube:6H99m5KgG88'
+    slides: null
+  -
+    title: 'Launch Your Side Project'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-07-24 00:00'
+    speakers:
+      -
+        name: 'Kaya Thomas'
+        twitter: kthomas901
+        github: kmt901
+    videos:
+      - 'youtube:Phrt30c2Jks'
+    slides: null
+  -
+    title: 'Everything I Ever Needed To Know About Web Dev, I Learned From My Twitter Timeline'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-07-25 00:00'
+    speakers:
+      -
+        name: 'Colin DeCarlo'
+        twitter: colindecarlo
+        github: null
+    videos:
+      - 'youtube:fr5Lae8WUOE'
+    slides: null
+  -
+    title: 'Eloquent Performance Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-07-24 00:00'
+    speakers:
+      -
+        name: 'Jonathan Reinink'
+        twitter: reinink
+        github: null
+    videos:
+      - 'youtube:IBUXXErAtuk'
+    slides: null
+  -
+    title: 'Tailwind CSS Best Practice Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-07-24 00:00'
+    speakers:
+      -
+        name: 'Adam Wathan'
+        twitter: adamwathan
+        github: null
+    videos:
+      - 'youtube:J_7_mnFSLDg'
+    slides: null
+  -
+    title: 'Intro to Laravel Vapor'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-07-24 00:00'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:XsPeWjKAUt0'
+    slides: null
+  -
+    title: 'Time Driven Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-07-23 00:00'
+    speakers:
+      -
+        name: 'Katerina Trajchevska'
+        twitter: ktrajchevska
+        github: trajchevska
+    videos:
+      - 'youtube:58Ah1Bl648I'
+    slides: null
+  -
+    title: 'How to think like a Visual Designer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-07-23 00:00'
+    speakers:
+      -
+        name: 'Steve Schoger'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hlI6xGfBjkQ'
+    slides: null

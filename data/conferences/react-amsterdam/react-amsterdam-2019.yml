@@ -1,0 +1,207 @@
+name: 'React Amsterdam 2019'
+description: "A full-day, two-track conference on all things React, gathering Front-end and Full-stack developers across the globe in the tech heart of Europe. We're coming back with a new gig on April 10-12, 2019. Mark your calendars for the biggest React community event.We welcome people from all walks of life in our community, and we are a proud partner of initiatives like Unicorns in Tech, the global tech network for LGBT professionals and straight allies. We know that supporting diversity inside and outside IT must not end at mere statements, which is why we have a diversity scholarship program."
+location: 'Amsterdam, Netherlands'
+venue: ''
+city: Amsterdam
+country: Netherlands
+link: 'https://react.amsterdam/'
+playlist: 'youtube.com:PLh7sGRf62wm6hjpAwsikixLlg83PK1Jn9'
+from_date: '2019-04-10'
+to_date: '2019-04-12'
+tags: ''
+talks:
+  -
+    title: 'Lightning fast SSR React apps with top perceived performance and no (client side) JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-12 00:00'
+    speakers:
+      -
+        name: 'Håkon Gullord Krogh'
+        twitter: hakonkrogh
+        github: hakonhk
+    videos:
+      - 'youtube:cSaFLPciWP8'
+    slides: null
+  -
+    title: 'Painting Pixels with WebGL with React Hooks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-12 00:00'
+    speakers:
+      -
+        name: 'Ashi Krishnan'
+        twitter: rakshesha
+        github: queerviolet
+    videos:
+      - 'youtube:1NZvwicGK4U'
+    slides: null
+  -
+    title: 'A Common Design Language. Let Designers and Developers talk to each other'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-12 00:00'
+    speakers:
+      -
+        name: 'Andrey Okonetchnikov'
+        twitter: okonetchnikov
+        github: okonet
+    videos:
+      - 'youtube:3ggoo6AH8Uo'
+    slides: null
+  -
+    title: 'Fetch like a boss with React Async'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-12 00:00'
+    speakers:
+      -
+        name: 'Gert Hengeveld'
+        twitter: ghengeveld
+        github: ghengeveld
+    videos: null
+    slides: null
+  -
+    title: 'Designing with React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-12 00:00'
+    speakers:
+      -
+        name: 'Mark Dalgleish'
+        twitter: markdalgleish
+        github: markdalgleish
+    videos:
+      - 'youtube:orPcyJMJh7Y'
+    slides: null
+  -
+    title: 'Tech Regrets at Spectrum'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-12 00:00'
+    speakers:
+      -
+        name: 'Max Stoiber'
+        twitter: mxstbr
+        github: mxstbr
+    videos:
+      - 'youtube:UC-bUkbuvZs'
+    slides: null
+  -
+    title: 'Speeding up React SSR'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-12 00:00'
+    speakers:
+      -
+        name: 'David Mark Clements'
+        twitter: davidmarkclem
+        github: davidmarkclements
+    videos:
+      - 'youtube:FaJosYCMnRA'
+    slides: null
+  -
+    title: 'An SVG’s Tale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-12 00:00'
+    speakers:
+      -
+        name: 'Elizabet Oliveira'
+        twitter: miuki_miu
+        github: miukimiu
+    videos:
+      - 'youtube:BISiYX5s_Qw'
+    slides: null
+  -
+    title: 'Requisite React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-12 00:00'
+    speakers:
+      -
+        name: 'Kent C. Dodds'
+        twitter: kentcdodds
+        github: kentcdodds
+    videos:
+      - 'youtube:tO8qHlr6Wqg'
+    slides: null
+  -
+    title: 'Demystifying server-rendered React apps: Performance & Security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-12 00:00'
+    speakers:
+      -
+        name: 'Fernando Porazzi'
+        twitter: null
+        github: fernandoporazzi
+    videos:
+      - 'youtube:g0dqt64-OO4'
+    slides: null
+  -
+    title: 'Scaling Applications with Microfrontends'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-12 00:00'
+    speakers:
+      -
+        name: 'Max Gallo'
+        twitter: _maxgallo
+        github: maxgallo
+    videos:
+      - 'youtube:XErB9twlRow'
+    slides: null
+  -
+    title: 'Refactoring React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-12 00:00'
+    speakers:
+      -
+        name: 'Siddharth Kshetrapal'
+        twitter: siddharthkp
+        github: siddharthkp
+    videos:
+      - 'youtube:2Dw8gA60d_k'
+    slides: null
+  -
+    title: 'The GraphQL developer experience'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-12 00:00'
+    speakers:
+      -
+        name: 'Peggy Rayzis'
+        twitter: peggyrayzis
+        github: peggyrayzis
+    videos:
+      - 'youtube:1NZvwicGK4U'
+    slides: null
+  -
+    title: 'Next for Next.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-12 00:00'
+    speakers:
+      -
+        name: 'Tim Neutkens'
+        twitter: timneutkens
+        github: timneutkens
+    videos:
+      - 'youtube:j1JsLmfdrgk'
+    slides: null

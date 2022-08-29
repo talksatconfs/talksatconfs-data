@@ -1,0 +1,494 @@
+name: 'ReactiveConf 2017'
+description: 'ReactiveConf2017 took us to a whole new dimension! Two conference days on two stages and one festival day made ReactiveConf 2017 the most exciting conference in this solar system and beyond. We had 24 main stage talks, 8 free workshops, inspirational talks and many more.'
+location: 'Bratislava, Slovakia'
+venue: ''
+city: Bratislava
+country: Slovakia
+link: 'https://2017.reactiveconf.com/'
+playlist: 'youtube:PLa2ZZ09WYepMB-I7AiDjDYR8TjO8uoNjs'
+from_date: '2017-10-25'
+to_date: '2017-10-27'
+tags: ''
+talks:
+  -
+    title: 'Architecting the Reactive App with Flutter'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-25 00:00'
+    speakers:
+      -
+        name: 'Gavin Doughtie'
+        twitter: gavindoughtie
+        github: null
+    videos:
+      - 'youtube:n_5JULTrstU'
+    slides: null
+  -
+    title: 'CSS in JS: The Good & The Bad Parts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-25 00:00'
+    speakers:
+      -
+        name: 'Robin Frischmann'
+        twitter: rofrischmann
+        github: null
+    videos:
+      - 'youtube:95M-2YzyTno'
+    slides: null
+  -
+    title: 'AMA - David Nolen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-25 00:00'
+    speakers:
+      -
+        name: 'David Nolen'
+        twitter: swannodette
+        github: null
+    videos:
+      - 'youtube:q5D4qWf_1uM'
+    slides: null
+  -
+    title: 'The React Productivity Revolution'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-25 00:00'
+    speakers:
+      -
+        name: 'Tiago Forte'
+        twitter: fortelabs
+        github: null
+    videos:
+      - 'youtube:BOKxSFB2hOE'
+    slides: null
+  -
+    title: 'Client and server need to talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-25 00:00'
+    speakers:
+      -
+        name: 'Nikita Prokopov'
+        twitter: nikitonsky
+        github: null
+    videos:
+      - 'youtube:PQM1hHzcJiY'
+    slides: null
+  -
+    title: 'AMA - Gavin Doughtie'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-25 00:00'
+    speakers:
+      -
+        name: 'Gavin Doughtie'
+        twitter: gavindoughtie
+        github: null
+    videos:
+      - 'youtube:F28ecHrGH3w'
+    slides: null
+  -
+    title: 'Panel Discussion - Styling in CSS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-25 00:00'
+    speakers:
+      -
+        name: 'Javi Velasco'
+        twitter: javivelasco
+        github: javivelasco
+      -
+        name: 'Richard Feldman'
+        twitter: rtfeldman
+        github: null
+      -
+        name: 'Oleg Sloboskoi'
+        twitter: oleg008
+        github: kof
+      -
+        name: 'Sarah Drasner'
+        twitter: sarah_edo
+        github: sdras
+      -
+        name: 'Robin Frischmann'
+        twitter: rofrischmann
+        github: null
+      -
+        name: 'GERARD SANS'
+        twitter: gerardsans
+        github: gsans
+    videos:
+      - 'youtube:NvhWRpf6irQ'
+    slides: null
+  -
+    title: 'GraphQL Subscriptions - Scaling real-time in the real world'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-25 00:00'
+    speakers:
+      -
+        name: 'Uri Goldshtein'
+        twitter: urigoldshtein
+        github: urigo
+    videos:
+      - 'youtube:Wi7P39sF2nw'
+    slides: null
+  -
+    title: 'Creative Hacking'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-25 00:00'
+    speakers:
+      -
+        name: 'John Wargo'
+        twitter: johnwargo
+        github: null
+    videos:
+      - 'youtube:DpahJibuH7M'
+    slides: null
+  -
+    title: 'Relay Modern or Apollo?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-25 00:00'
+    speakers:
+      -
+        name: 'GERARD SANS'
+        twitter: gerardsans
+        github: gsans
+    videos:
+      - 'youtube:HV3Bj9iE75M'
+    slides: null
+  -
+    title: 'Jest as a Platform'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-25 00:00'
+    speakers:
+      -
+        name: 'Rogelio Guzman'
+        twitter: rogeliog
+        github: rogeliog
+    videos:
+      - 'youtube:NtjyeojAOBs'
+    slides: null
+  -
+    title: 'AMA - Tiago Forte'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-25 00:00'
+    speakers:
+      -
+        name: 'Tiago Forte'
+        twitter: fortelabs
+        github: null
+    videos:
+      - 'youtube:t5XBxuJd32w'
+    slides: null
+  -
+    title: 'Unique Value Proposition of CSSinJS and the Future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-25 00:00'
+    speakers:
+      -
+        name: 'Oleg Sloboskoi'
+        twitter: oleg008
+        github: kof
+    videos:
+      - 'youtube:i3TIrcnMIng'
+    slides: null
+  -
+    title: "Let's Tree-shake it..."
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-25 00:00'
+    speakers:
+      -
+        name: 'Igor Minar'
+        twitter: IgorMinar
+        github: null
+    videos:
+      - 'youtube:75ObMlqrhFY'
+    slides: null
+  -
+    title: 'Build-time Optimizations in JavaScript Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-25 00:00'
+    speakers:
+      -
+        name: 'Evan You'
+        twitter: youyuxi
+        github: yyx990803
+    videos:
+      - 'youtube:7iy8XQ7TSnc'
+    slides: null
+  -
+    title: 'RON: Replicated Object Notation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-26 00:00'
+    speakers:
+      -
+        name: 'Victor Grishchenko'
+        twitter: gritzko
+        github: null
+    videos:
+      - 'youtube:0Xx9kkTMi10'
+    slides: null
+  -
+    title: 'Understanding webpack from inside out'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-26 00:00'
+    speakers:
+      -
+        name: 'Sean Larkin , Tobias Koppers'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bm7RlNEcQM0'
+    slides: null
+  -
+    title: 'D3 and React, Together'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-26 00:00'
+    speakers:
+      -
+        name: 'Shirley Xueyang Wu'
+        twitter: sxywu
+        github: null
+    videos:
+      - 'youtube:z9QbchNwfT8'
+    slides: null
+  -
+    title: 'Lessons learned migrating complex software'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-26 00:00'
+    speakers:
+      -
+        name: 'Jack Franklin'
+        twitter: jack_Franklin
+        github: jackfranklin
+    videos:
+      - 'youtube:712LBDux1qs'
+    slides: null
+  -
+    title: 'CSS as Bytecode'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-26 00:00'
+    speakers:
+      -
+        name: 'Richard Feldman'
+        twitter: rtfeldman
+        github: null
+    videos:
+      - 'youtube:bt1TzVngOqY'
+    slides: null
+  -
+    title: 'ReactXP - How we rebuilt (almost) all skype clients'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-26 00:00'
+    speakers:
+      -
+        name: 'Evan You'
+        twitter: youyuxi
+        github: yyx990803
+    videos:
+      - 'youtube:v2qlHXm1YnE'
+    slides: null
+  -
+    title: 'Styling Components for React UI Kits'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-26 00:00'
+    speakers:
+      -
+        name: 'Javi Velasco'
+        twitter: javivelasco
+        github: javivelasco
+    videos:
+      - 'youtube:uFkyn9cFkO8'
+    slides: null
+  -
+    title: 'Property-based Testing for Godly Tests'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-26 00:00'
+    speakers:
+      -
+        name: 'Gabe Scholz'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lfoRs9leE2A'
+    slides: null
+  -
+    title: 'AMA - Igor Minar'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-26 00:00'
+    speakers:
+      -
+        name: 'Igor Minar'
+        twitter: IgorMinar
+        github: null
+    videos:
+      - 'youtube:pYn-zQrRi7k'
+    slides: null
+  -
+    title: 'Reason: JavaScript-flavored OCaml'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-26 00:00'
+    speakers:
+      -
+        name: 'Jared Forsyth'
+        twitter: jaredforsyth
+        github: jaredly
+    videos:
+      - 'youtube:lN78ystnVw4'
+    slides: null
+  -
+    title: 'Using Logux in Production'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-26 00:00'
+    speakers:
+      -
+        name: 'Andrey Sitnik'
+        twitter: andreysitnik
+        github: ai
+    videos:
+      - 'youtube:DvHNOplQ-tY'
+    slides: null
+  -
+    title: 'AMA - Richard Feldman'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-26 00:00'
+    speakers:
+      -
+        name: 'Richard Feldman'
+        twitter: rtfeldman
+        github: null
+    videos:
+      - 'youtube:lTizFUgZ5yU'
+    slides: null
+  -
+    title: 'Secrets of the Glimmer VM'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-26 00:00'
+    speakers:
+      -
+        name: 'Tom Dale'
+        twitter: tomdale
+        github: tomdale
+    videos:
+      - 'youtube:nXCSloXZ-wc'
+    slides: null
+  -
+    title: 'AMA - Jared Forsyth'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-26 00:00'
+    speakers:
+      -
+        name: 'Jared Forsyth'
+        twitter: jaredforsyth
+        github: jaredly
+    videos:
+      - 'youtube:8HuvjUFvWhU'
+    slides: null
+  -
+    title: 'Animating Vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-26 00:00'
+    speakers:
+      -
+        name: 'Sarah Drasner'
+        twitter: sarah_edo
+        github: sdras
+    videos:
+      - 'youtube:y5LAAkwQK6c'
+    slides: null
+  -
+    title: 'Reactive Programming with RxJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-26 00:00'
+    speakers:
+      -
+        name: 'Shmuela Jacobs'
+        twitter: ShmuelaJ
+        github: shmool
+    videos:
+      - 'youtube:Rq_SmVVgwHs'
+    slides: null
+  -
+    title: 'Lightning talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-25 00:00'
+    speakers:
+      -
+        name: 'Jerome Schneider, Sven Sauleau'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DE7psNIqBL4'
+    slides: null
+  -
+    title: 'The new GraphQL Codegen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-25 00:00'
+    speakers:
+      -
+        name: 'Uri Goldshtein'
+        twitter: urigoldshtein
+        github: urigo
+    videos:
+      - 'youtube:CN_bTBP9spM'
+    slides: null

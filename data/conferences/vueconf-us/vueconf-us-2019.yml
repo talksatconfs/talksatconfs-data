@@ -1,0 +1,428 @@
+name: 'VueConf US 2019'
+description: "VueConf.US will take place in beautiful Tampa, Florida. We'll be in the heart of downtown on the river, and within a short drive of Tampa's amazing beaches."
+location: ''
+venue: ''
+city: Tampa
+country: 'United States'
+link: 'http://2019.vueconf.us/'
+playlist: 'youtube.com:PLJNLwTPak6dh4c-v626x9ZU5F9C_t-0T9'
+from_date: '2019-03-25'
+to_date: '2019-03-27'
+tags: ''
+talks:
+  -
+    title: 'State of Vuenation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-26 00:00'
+    speakers:
+      -
+        name: 'Evan You'
+        twitter: youyuxi
+        github: yyx990803
+    videos:
+      - 'youtube:7_ZzayG45Mk'
+    slides: null
+  -
+    title: 'Getting Started with Nuxt.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-26 00:00'
+    speakers:
+      -
+        name: 'Gregg Pollack'
+        twitter: greggpollack
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Vue.js In Practice at Optoro'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-26 00:00'
+    speakers:
+      -
+        name: 'Andrew Krawchyk'
+        twitter: krawchyk
+        github: null
+    videos:
+      - 'youtube:7FBPqzW_Qig'
+    slides: null
+  -
+    title: 'Vuex Explained Visually'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-26 00:00'
+    speakers:
+      -
+        name: 'Adam Jahr'
+        twitter: adamjahr
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Zen and The Art of Vue.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-26 00:00'
+    speakers:
+      -
+        name: 'Jen Loope'
+        twitter: jenlooper
+        github: null
+    videos:
+      - 'youtube:wCU-kDlXY58'
+    slides: null
+  -
+    title: 'Demystifying: The Dark Art of SFC Compilation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-26 00:00'
+    speakers:
+      -
+        name: 'Rahul Kadyan'
+        twitter: znck0
+        github: null
+    videos:
+      - 'youtube:Ceo771OXaCY'
+    slides: null
+  -
+    title: 'Advanced Animations with Vue.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-26 00:00'
+    speakers:
+      -
+        name: krystalcampioni
+        twitter: jenlooper
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building Desktop Applications with Vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-26 00:00'
+    speakers:
+      -
+        name: 'Natalia Tepluhina'
+        twitter: n_tepluhina
+        github: NataliaTepluhina
+    videos: null
+    slides: null
+  -
+    title: 'Dynamic CSS with Vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-26 00:00'
+    speakers:
+      -
+        name: 'Miriam E Suzanne'
+        twitter: mirisuzanne
+        github: null
+    videos:
+      - 'youtube:VsG5l5e44ZY'
+    slides: null
+  -
+    title: 'The Future of Web Animation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-26 00:00'
+    speakers:
+      -
+        name: 'Sarah Drasner'
+        twitter: sarah_edo
+        github: sdras
+    videos:
+      - 'youtube:VsG5l5e44ZY'
+    slides: null
+  -
+    title: 'Vue 3: What I,m Most Excited About'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: 'Chris Fritz'
+        twitter: chrisvfritz
+        github: chrisvfritz
+    videos:
+      - 'youtube:b554XmaTWrw'
+    slides: null
+  -
+    title: '9 Performance Secrets Revealed'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: 'Guillaume Chau'
+        twitter: akryum
+        github: null
+    videos:
+      - 'youtube:5B66qer8cZo'
+    slides: null
+  -
+    title: 'Building Fast and Semantic Input Masks in VueJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: 'Divya Sasidharan'
+        twitter: shortdiv
+        github: null
+    videos:
+      - 'youtube:FDqKAlrUm0k'
+    slides: null
+  -
+    title: 'Back to the Vueture: Stuck in the Event Loop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: tessa
+        twitter: halftes6
+        github: null
+    videos:
+      - 'youtube:f7koqC8875Y'
+    slides: null
+  -
+    title: 'Web Accessibility with VueJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: 'Maria Lamardo'
+        twitter: vueconfus
+        github: null
+    videos:
+      - 'youtube:mHubDB6DIfE'
+    slides: null
+  -
+    title: 'Run Your Vue and Node App Anywhere'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: 'John Papa'
+        twitter: john_papa
+        github: johnpapa
+    videos:
+      - 'youtube:5Fqh_ZM6g_k'
+    slides: null
+  -
+    title: 'Ionic & Vue for Fast Mobile Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: 'Mike Hartington'
+        twitter: mhartington
+        github: mhartington
+    videos:
+      - 'youtube:kr27VKEsMdw'
+    slides: null
+  -
+    title: 'Phenomenal Design Patterns In Vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: 'Jacob Schatz'
+        twitter: jakecodes
+        github: null
+    videos:
+      - 'youtube:RF1bbhRw9sg'
+    slides: null
+  -
+    title: 'Accessibility for Everyone or Accessibility 101'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: 'Chris DeMars'
+        twitter: saltnburnem
+        github: null
+    videos:
+      - 'youtube:LQP-lSiuC0U'
+    slides: null
+  -
+    title: 'Using Subscriptions in Your Vue Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: 'Vladimir Novick'
+        twitter: VladimirNovick
+        github: vnovick
+    videos:
+      - 'youtube:p6_6XA8RRYE'
+    slides: null
+  -
+    title: 'Quickly Delivering Value to Users'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: 'Brad Balfour'
+        twitter: bbdj
+        github: null
+    videos:
+      - 'youtube:9hmG2P3Bo-A'
+    slides: null
+  -
+    title: 'Progressively Enhanced From Validation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: 'Matt Brophy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hJBWqcXVgxA'
+    slides: null
+  -
+    title: 'How to Reduce Your Vue Bundle Size With Webpack'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: 'Jennifer Bland'
+        twitter: ratracegrad
+        github: null
+    videos:
+      - 'youtube:NHUiQvYXxw4'
+    slides: null
+  -
+    title: 'Global vs. Component State in Vuex'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: 'Jaimes Jones'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qbCJmWGXzZU'
+    slides: null
+  -
+    title: 'Building a Better Tomorrow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: 'Jennifer Bland'
+        twitter: ratracegrad
+        github: null
+    videos:
+      - 'youtube:s92R_ANX0M0'
+    slides: null
+  -
+    title: 'The Ramp Up to Vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: 'Charles Villard'
+        twitter: cdvillard
+        github: null
+    videos:
+      - 'youtube:q0UJSePrEg0'
+    slides: null
+  -
+    title: 'Vue + i18n = FUN'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: 'Casie Siekman'
+        twitter: CassandraDanger
+        github: null
+    videos:
+      - 'youtube:B_khmwr6gxw'
+    slides: null
+  -
+    title: "Cloudinary's New Vue SDK"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: 'Doug Steinberg'
+        twitter: 1800AskDoug
+        github: doug7410
+    videos:
+      - 'youtube:EUpEY181Egk'
+    slides: null
+  -
+    title: 'Sub-second Vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: 'Lucas Still'
+        twitter: null
+        github: theneverstill
+    videos:
+      - 'youtube:87gaVAzMxTA'
+    slides: null
+  -
+    title: 'KnowBe4 Human error. Conquered.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-27 00:00'
+    speakers:
+      -
+        name: 'Benji Dalton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EZnXIlfYVgo'
+    slides: null

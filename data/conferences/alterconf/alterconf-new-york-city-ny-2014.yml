@@ -1,0 +1,151 @@
+name: 'AlterConf New York City, NY - 2014'
+description: ''
+location: 'New York City, NY'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2014/new-york-city-ny'
+playlist: ''
+from_date: '2014-10-04'
+to_date: '2014-10-04'
+tags: ''
+talks:
+  -
+    title: 'Is Diversity a Luxury Item in Technology?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-10-04 00:00'
+    speakers:
+      -
+        name: 'Arlene Ducao'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TybOT5B3-wI'
+    slides: null
+  -
+    title: 'Fostering Diversity with Games and Events'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-10-04 00:00'
+    speakers:
+      -
+        name: 'Chris Algoo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gqemAvVyOTk'
+    slides: null
+  -
+    title: 'Deafness in the Tech World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-10-04 00:00'
+    speakers:
+      -
+        name: 'David Peter'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:O6iCEA0j4mc'
+    slides: null
+  -
+    title: 'Skin Deep: How to avoid Native American Stereotypes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-10-04 00:00'
+    speakers:
+      -
+        name: 'Manuel Marcano'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kPMuA9oTgBM'
+    slides: null
+  -
+    title: 'Heals Over Time: The Role of Gaming In Rehabilitation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-10-04 00:00'
+    speakers:
+      -
+        name: 'Aly Ferguson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PRtDjgS_JTs'
+    slides: null
+  -
+    title: 'Through the Looking Glass: When Upward Mobility and Access to Tech are a Train Stop Away'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-10-04 00:00'
+    speakers:
+      -
+        name: 'Stephanie Morillo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Gin2orxZOEk'
+    slides: null
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Ashe Dryden'
+        twitter: ashedryden
+        github: ashedryden
+    videos: null
+    slides: null
+  -
+    title: 'Crowdfunding to Break the Ethnic/Gender Status Quo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-10-04 00:00'
+    speakers:
+      -
+        name: 'Shawn Alexander Allen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:I9CxS7poGyQ'
+    slides: null
+  -
+    title: 'Games, Literacy, and Tech in Nigeria'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-10-04 00:00'
+    speakers:
+      -
+        name: 'Senongo Akpem'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oynsQRqP4y8'
+    slides: null
+  -
+    title: 'Creating a Community of Game Developer Women'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-10-04 00:00'
+    speakers:
+      -
+        name: 'Catt Small'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:drcL-Jcf4gE'
+    slides: null

@@ -1,0 +1,393 @@
+name: 'Frontend United 2018'
+description: 'Frontend United is a yearly European conference that moves from country to country. Its aim is to bring frontend developers, designers and Drupal themers from all kinds of backgrounds closer together and share knowledge, experiences and ideas face-to-face. We look towards frontend development and Drupal from the outside-in and reach out to specialists around the globe to share their passion. Frontend United looks to help grow the local community as well as build bridges across Europe for future collaborations and cross-border networking and working opportunities.'
+location: ''
+venue: ''
+city: Utrecht
+country: Netherlands
+link: 'https://2018.frontendunited.org/'
+playlist: 'youtube.com:PL7xqy2B8uXNI-uKDix02rQRIgy9Y_lM6-'
+from_date: '2018-06-01'
+to_date: '2018-06-02'
+tags: ''
+talks:
+  -
+    title: 'FaCSSt—CSS and Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 09:00'
+    speakers:
+      -
+        name: 'Harry Roberts'
+        twitter: csswizardry
+        github: null
+    videos:
+      - 'youtube:2Rn8an74khk'
+    slides: null
+  -
+    title: 'Vue.js deep dive, looking to the future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 10:00'
+    speakers:
+      -
+        name: 'Blake Newman'
+        twitter: blakenewman
+        github: null
+    videos:
+      - 'youtube:Qr5qTVt7cJI'
+    slides: null
+  -
+    title: 'Beyond the DOM: what’s in the accessibility tree for you?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 10:00'
+    speakers:
+      -
+        name: 'Bram Duvigneau'
+        twitter: bramduvigneau
+        github: null
+    videos:
+      - 'youtube:eZGGHIqCEzc'
+    slides: null
+  -
+    title: 'PWAs, are we there yet?!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 11:20'
+    speakers:
+      -
+        name: 'Simona Cotin'
+        twitter: simona_cotin
+        github: simonaco
+    videos:
+      - 'youtube:v9VlleQPW2A'
+    slides: null
+  -
+    title: 'Designing for product-service ecosystems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 11:20'
+    speakers:
+      -
+        name: 'Thomas Visser'
+        twitter: visserthomas
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Breaking the norm with creative CSS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 12:20'
+    speakers:
+      -
+        name: 'Aga Naplocha'
+        twitter: aganaplocha
+        github: aganaplocha
+    videos:
+      - 'youtube:y16qppUSheE'
+    slides: null
+  -
+    title: 'Debunking the Imposter Syndrome Myth'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 12:20'
+    speakers:
+      -
+        name: 'Necoline Hubner'
+        twitter: necolinesan
+        github: null
+    videos:
+      - 'youtube:do09I3MIyn0'
+    slides: null
+  -
+    title: 'Talk over text: Conversational interface design and usability'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 13:45'
+    speakers:
+      -
+        name: 'Preston So'
+        twitter: prestonso
+        github: null
+    videos:
+      - 'youtube:kAy6AP-MZ4o'
+    slides: null
+  -
+    title: 'We need to talk about Preact'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 13:45'
+    speakers:
+      -
+        name: 'Sara Vieira'
+        twitter: NikkitaFTW
+        github: alexnm
+    videos:
+      - 'youtube:ERy1O2pFkmo'
+    slides: null
+  -
+    title: 'Debugging, Profiling, & Rocking Out with Browser-Based Developer Tools!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 14:45'
+    speakers:
+      -
+        name: 'Mike Herchel'
+        twitter: mikeherchel
+        github: null
+    videos:
+      - 'youtube:pnVZs-Tapq8'
+    slides: null
+  -
+    title: 'Decrease your conversions – common ways to lock people out'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 14:45'
+    speakers:
+      -
+        name: 'Stefan Judis'
+        twitter: stefanjudis
+        github: stefanjudis
+    videos:
+      - 'youtube:eWXOUaAap-c'
+    slides: null
+  -
+    title: 'A practical guide to style guide driven development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 16:05'
+    speakers:
+      -
+        name: 'Tatiana Kolesnikova'
+        twitter: unicorn_job
+        github: null
+      -
+        name: 'Arvid Torset'
+        twitter: arvtor
+        github: null
+    videos:
+      - 'youtube:XlCNHCx-rb0'
+    slides: null
+  -
+    title: 'Exploring the new Drupal front-end with JavaScript 🌈🦄'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Dries Buytaert'
+        twitter: Dries
+        github: null
+    videos:
+      - 'youtube:3kSmI6iLl-A'
+    slides: null
+  -
+    title: 'Privacy, data protection, and open source development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 09:00'
+    speakers:
+      -
+        name: 'Heather Burns'
+        twitter: WebDevLaw
+        github: null
+    videos:
+      - 'youtube:Z2OfVFJ8_W4'
+    slides: null
+  -
+    title: 'Visual Studio Code can do that?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 10:00'
+    speakers:
+      -
+        name: 'Burke Holland'
+        twitter: burkeholland
+        github: null
+    videos:
+      - 'youtube:DE6Pwz7_Zt8'
+    slides: null
+  -
+    title: 'The web is ready for great graphic design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 10:00'
+    speakers:
+      -
+        name: 'Hidde de Vries'
+        twitter: hdv
+        github: null
+    videos:
+      - 'youtube:iiK54doKtB0'
+    slides: null
+  -
+    title: 'I’ve built a SPA, now what?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 11:20'
+    speakers:
+      -
+        name: 'Asim Hussain'
+        twitter: jawache
+        github: jawache
+    videos:
+      - 'youtube:Uh0zOQrvTkI'
+    slides: null
+  -
+    title: 'Atomic design in responsive design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 11:20'
+    speakers:
+      -
+        name: ' Marija Zaric'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YfJcsledyg8'
+    slides: null
+  -
+    title: 'In Defence of CSS and the Cascade'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 12:20'
+    speakers:
+      -
+        name: 'Charlie Owen'
+        twitter: sonniesedge
+        github: null
+    videos:
+      - 'youtube:QNT9E_1NiJ4'
+    slides: null
+  -
+    title: 'What Can We Learn With JavaScript Fatigue?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 12:20'
+    speakers:
+      -
+        name: 'Lucas da Costa'
+        twitter: lfernandescosta
+        github: null
+    videos:
+      - 'youtube:5JjqCDIQWvc'
+    slides: null
+  -
+    title: 'Creating daily art with code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 13:45'
+    speakers:
+      -
+        name: 'Saskia Freeke'
+        twitter: sasj_nl
+        github: null
+    videos:
+      - 'youtube:zM8z1kAvzC0'
+    slides: null
+  -
+    title: 'Ambitious Editorial Experiences with Headless Drupal'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 13:45'
+    speakers:
+      -
+        name: 'Ruben Teijeiro'
+        twitter: rteijeiro
+        github: null
+    videos:
+      - 'youtube:vuInC-OMqkE'
+    slides: null
+  -
+    title: 'Fun with Bluetooth'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 14:45'
+    speakers:
+      -
+        name: 'Niels Leenheer'
+        twitter: html5test
+        github: NielsLeenheer
+    videos:
+      - 'youtube:GBAmVQwSs9s'
+    slides: null
+  -
+    title: 'Responsive Images and Art Direction'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 14:45'
+    speakers:
+      -
+        name: 'Cristina Chumillas'
+        twitter: chumillas
+        github: null
+    videos:
+      - 'youtube:zWlm2B1ymBA'
+    slides: null
+  -
+    title: 'Building a component based library with React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 16:05'
+    speakers:
+      -
+        name: 'Ferry Kobus'
+        twitter: lepiraat
+        github: null
+    videos:
+      - 'youtube:jBZS39Nsgiw'
+    slides: null
+  -
+    title: 'Designing Anticipated User Experiences'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 16:05'
+    speakers:
+      -
+        name: 'Joël van Bodegraven'
+        twitter: jvb_nl
+        github: null
+    videos:
+      - 'youtube:P6pOr_axspo'
+    slides: null
+  -
+    title: 'Get Your Priorities Straight'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 17:05'
+    speakers:
+      -
+        name: 'Heydon Pickering'
+        twitter: heydonworks
+        github: null
+    videos:
+      - 'youtube:ediHVy0869c'
+    slides: null

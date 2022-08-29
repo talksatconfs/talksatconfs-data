@@ -1,0 +1,177 @@
+name: 'AlterConf Berlin, Germany - 2017'
+description: ''
+location: 'Berlin, Germany'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2017/berlin-germany'
+playlist: ''
+from_date: '2017-05-13'
+to_date: '2017-05-13'
+tags: ''
+talks:
+  -
+    title: 'Burning out as an activist'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-13 00:00'
+    speakers:
+      -
+        name: 'Lucie Daeye'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-13 00:00'
+    speakers:
+      -
+        name: 'Ariane Rutz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Compartmentalised empathy - how to support others without losing yourself'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-13 00:00'
+    speakers:
+      -
+        name: 'Roisi Proven'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Eop2XubBHUQ'
+    slides: null
+  -
+    title: 'Diversity and Inclusion Efforts in Hiring for Tech Talents'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-13 00:00'
+    speakers:
+      -
+        name: 'Katy Peichert'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BK3KQSDpM2M'
+    slides: null
+  -
+    title: "Tech and disability from a neurodivergent's perspective"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-13 00:00'
+    speakers:
+      -
+        name: Katharina
+        twitter: spacekookie
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How accessibility in mobile devices has changed lives'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-13 00:00'
+    speakers:
+      -
+        name: 'Mwai Karimi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:enfEmbPa_-E'
+    slides: null
+  -
+    title: 'Beware of the Trolls: Building Applications for Marginalised Communities'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-13 00:00'
+    speakers:
+      -
+        name: 'Lily Hoskin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kYGmVEKnNW8'
+    slides: null
+  -
+    title: 'Your identity will be automatically overwritten!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-13 00:00'
+    speakers:
+      -
+        name: 'Barne Kleinen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WISMDK_7tLc'
+    slides: null
+  -
+    title: 'The Hardest Problems in Computer Science'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-13 00:00'
+    speakers:
+      -
+        name: 'Anjana Vakil'
+        twitter: AnjanaVakil
+        github: vakila
+    videos:
+      - 'youtube:fsh3mUfs6H4'
+    slides: null
+  -
+    title: "I've got an app for that! - How technology is being used in a large variety of fields"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-13 00:00'
+    speakers:
+      -
+        name: 'Kristina Young'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CLPSJDI-d6U'
+    slides: null
+  -
+    title: 'Making your voice heard: Open Source Needs You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-13 00:00'
+    speakers:
+      -
+        name: 'Laura Gaetano'
+        twitter: alicetragedy
+        github: alicetragedy
+    videos:
+      - 'youtube:P9ppoULqDvE'
+    slides: null
+  -
+    title: '#BIKEYGEES - about empowering migrant women by bike trainings'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-13 00:00'
+    speakers:
+      -
+        name: 'Anne Seebach'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_Hh-7tJh9u0'
+    slides: null

@@ -1,0 +1,349 @@
+name: 'try! Swift NYC 2018'
+description: 'try! Swift Conference is an international community gathering about the latest advancements in Swift Development. The event is about bringing together talent from all around the world to collaborate and share advanced knowledge and techniques to improve Swift craftsmanship. Coming again to New York City on September 4th & 5th 2018, with workshops happening on September 3rd!'
+location: ''
+venue: ''
+city: 'New York City'
+country: 'United States'
+link: 'https://www.tryswift.co/events/2018/nyc/'
+playlist: 'youtube.com:PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS'
+from_date: '2018-09-04'
+to_date: '2018-09-05'
+tags: ''
+talks:
+  -
+    title: 'Circumventing Fear of the Unknown'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers:
+      -
+        name: 'Ash Furrow'
+        twitter: ashfurrow
+        github: ashfurrow
+    videos: null
+    slides: null
+  -
+    title: 'Taken For Granted'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers:
+      -
+        name: 'Bas Broek'
+        twitter: BasThomas
+        github: BasThomas
+    videos:
+      - 'youtube:ePuOrCbIW-o'
+    slides: null
+  -
+    title: 'Understanding the Machine Learning Behind Common iOS Use Cases'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers:
+      -
+        name: 'Aileen Nielsen'
+        twitter: tryswiftnyc
+        github: AileenNielsen
+    videos: null
+    slides: null
+  -
+    title: 'Memojis under the hood'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers:
+      -
+        name: 'Berta Devant'
+        twitter: bertadevant
+        github: bertadevant
+    videos:
+      - 'youtube:ERwertwlwrE'
+    slides: null
+  -
+    title: 'Idea to launch - the start of a startup'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers:
+      -
+        name: 'Leah Culver'
+        twitter: leahculver
+        github: leah
+    videos:
+      - 'youtube:b7bVgnbgGyI'
+    slides: null
+  -
+    title: 'Swift on Server: Are We There Yet?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers:
+      -
+        name: 'Gopal Sharma'
+        twitter: gopalkri
+        github: null
+    videos:
+      - 'youtube:qpDiXZRADfE'
+    slides: null
+  -
+    title: 'SwiftNIO and Network.framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers:
+      -
+        name: 'Johannes Weiss'
+        twitter: johannesweiss
+        github: weissi
+    videos:
+      - 'youtube:RW2vKWiGWr4'
+    slides: null
+  -
+    title: 'Making it Generic'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers:
+      -
+        name: 'Jon-Tait Beason'
+        twitter: bugKrusha
+        github: null
+    videos:
+      - 'youtube:xpqVVenP8ok'
+    slides: null
+  -
+    title: 'Let Them Say What They Want: Adding Siri Shortcuts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers:
+      -
+        name: 'Christina Moulton'
+        twitter: ChristinaMltn
+        github: cmoulton
+    videos:
+      - 'youtube:_0PzPj2VUVw'
+    slides: null
+  -
+    title: 'Getting Started with Apple ML'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers:
+      -
+        name: 'Audrey Tam'
+        twitter: mataharimau
+        github: null
+    videos:
+      - 'youtube:ZDWu9DUmD9s'
+    slides: null
+  -
+    title: 'What I learned creating a social media app clone'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers:
+      -
+        name: 'Jen Person'
+        twitter: ThatJenPerson
+        github: jenperson
+    videos:
+      - 'youtube:7pEATK6PgXs'
+    slides: null
+  -
+    title: 'Crafting a delightful tactile user interface'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers:
+      -
+        name: 'Sebastiaan de With'
+        twitter: sdw
+        github: null
+    videos:
+      - 'youtube:U_Rq8UvGYzc'
+    slides: null
+  -
+    title: 'Trusting SDKs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 00:00'
+    speakers:
+      -
+        name: 'Felix Krause'
+        twitter: KrauseFx
+        github: KrauseFx
+    videos:
+      - 'youtube:BXePggcWpuE'
+    slides: null
+  -
+    title: 'Swift NIO, Vapor, and Server Concurrency'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 00:00'
+    speakers:
+      -
+        name: 'Logan Wright'
+        twitter: LogMaestro
+        github: null
+    videos:
+      - 'youtube:RW2vKWiGWr4'
+    slides: null
+  -
+    title: 'Effective Core Data with Swift'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 00:00'
+    speakers:
+      -
+        name: 'Tom Harrington'
+        twitter: atomicbird
+        github: atomicbird
+    videos:
+      - 'youtube:w7tFF7IfKVk'
+    slides: null
+  -
+    title: 'Swift Services are Simple'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 00:00'
+    speakers:
+      -
+        name: 'Chris Bailey'
+        twitter: Chris__Bailey
+        github: seabaylea
+      -
+        name: 'Ian Partridge'
+        twitter: alfa
+        github: ianpartridge
+    videos:
+      - 'youtube:tBogAmEzJCk'
+    slides: null
+  -
+    title: 'Compassionate—Yet Candid—Code Reviews'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 00:00'
+    speakers:
+      -
+        name: 'April Wensel'
+        twitter: aprilwensel
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Hacking Marzipan'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 00:00'
+    speakers:
+      -
+        name: 'Peter Steinberger'
+        twitter: steipete
+        github: steipete
+    videos:
+      - 'youtube:2OuQarA0a7I'
+    slides: null
+  -
+    title: 'Super Resolution with CoreML'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 00:00'
+    speakers:
+      -
+        name: 'Kentaro Matsumae'
+        twitter: kenmaz
+        github: kenmaz
+    videos:
+      - 'youtube:S73T0TdE9SI'
+    slides: null
+  -
+    title: 'Customizing Your Notifications for iOS 12'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 00:00'
+    speakers:
+      -
+        name: 'Kaya Thomas'
+        twitter: kthomas901
+        github: kmt901
+    videos:
+      - 'youtube:cVFMRRQIZG4'
+    slides: null
+  -
+    title: 'Need for Speed: How XO Group Optimized their Image Loading Time on The Knot Mobile App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 00:00'
+    speakers:
+      -
+        name: 'Erica Correa'
+        twitter: CodeWithCooties
+        github: eCorrea831
+    videos:
+      - 'youtube:bhQJKRSStuE'
+    slides: null
+  -
+    title: 'Strings Seven Ways'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 00:00'
+    speakers:
+      -
+        name: Mattt
+        twitter: mattt
+        github: mattt
+    videos:
+      - 'youtube:8pnHolNHD2Y'
+    slides: null
+  -
+    title: 'Make our Swift better'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 00:00'
+    speakers:
+      -
+        name: 'Daiki Matsudate'
+        twitter: d_date
+        github: d_date
+    videos:
+      - 'youtube:4ELsSqgVA_Y'
+    slides: null
+  -
+    title: 'Using your superpowers for good to change the world!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-05 00:00'
+    speakers:
+      -
+        name: 'Alicia V Carr'
+        twitter: Fineblkwoman
+        github: null
+    videos:
+      - 'youtube:_4Wof3sIKqc'
+    slides: null

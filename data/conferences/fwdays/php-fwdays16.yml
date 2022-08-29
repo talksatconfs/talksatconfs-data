@@ -1,0 +1,155 @@
+name: "PHP fwdays'16"
+description: ''
+location: Киев
+venue: ''
+city: ''
+country: ''
+link: 'https://fwdays.com/en/event/php-frameworks-day-2016'
+playlist: ''
+from_date: '2016-09-03'
+to_date: '2016-09-03'
+tags: ''
+talks:
+  -
+    title: 'Beyond the code или как мониторить ваш PHP сайт'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-03 00:00'
+    speakers:
+      -
+        name: 'Александр Махомет'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP at Scale: Knowing enough to be dangerous!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-03 00:00'
+    speakers:
+      -
+        name: 'Алексей Петров'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Phalcon 3.0, Zephir & PHP7'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-03 00:00'
+    speakers:
+      -
+        name: 'Andres Gutierrez'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Zend Framework 3 - evolution or revolution'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-03 00:00'
+    speakers:
+      -
+        name: 'Ростислав Михайлив'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Extremely Defensive PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-03 00:00'
+    speakers:
+      -
+        name: 'Marco Pivetta'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Связать и развязать'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-03 00:00'
+    speakers:
+      -
+        name: 'Сергей Протько'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Профилирование в PHP c XDebug, XHprof, Blackfire'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-03 00:00'
+    speakers:
+      -
+        name: 'Дмитрий Науменко'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Doctrine Best Practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-03 00:00'
+    speakers:
+      -
+        name: 'Marco Pivetta'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '25+ millions members in 22 countries, how to scale with Symfony 2?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-03 00:00'
+    speakers:
+      -
+        name: 'Olivier Dolbeau, Benjamin De Bernardi'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Data, Context, Interaction – парадигма программирования от автора шаблона MVC'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-03 00:00'
+    speakers:
+      -
+        name: 'Igor Karpenko'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Техническая сторона email-маркетинга'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-03 00:00'
+    speakers:
+      -
+        name: 'Сергей Яковлев'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

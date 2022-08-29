@@ -1,0 +1,421 @@
+name: 'PHP UK Conference 2012'
+description: ''
+location: London
+venue: ''
+city: ''
+country: ''
+link: 'http://web.archive.org/web/20120304204518/http://www.phpconference.co.uk/'
+playlist: ''
+from_date: '2012-02-24'
+to_date: '2012-02-25'
+tags: ''
+talks:
+  -
+    title: 'Profiling PHP applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-24 00:00'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos:
+      - 'youtube:nFBQNQ1_5vI'
+    slides: null
+  -
+    title: 'The Misguided Manager'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-25 00:00'
+    speakers:
+      -
+        name: 'Zoe Slattery'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LPbp2UeGGgQ'
+    slides: null
+  -
+    title: 'Monitoring your back-end for speed and profit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-25 00:00'
+    speakers:
+      -
+        name: "Andy 'Bob' Brockhurst"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iTveazbmzF8'
+    slides: null
+  -
+    title: 'Cheat your way with UX'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-25 00:00'
+    speakers:
+      -
+        name: 'Stephanie Troeth'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Masterizing PHP Data Structure 102'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-25 00:00'
+    speakers:
+      -
+        name: 'Patrick Allaert'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:h6LOtN2RgEU'
+    slides: null
+  -
+    title: 'MySQL update'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-25 00:00'
+    speakers:
+      -
+        name: 'Dave Stokes'
+        twitter: iansltx
+        github: mysqlmentor
+    videos: null
+    slides: null
+  -
+    title: 'Try {getting people to come to a talk about exceptions}'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-24 00:00'
+    speakers:
+      -
+        name: 'Ed van Beinum'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Security audits as an integral part of PHP application development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-24 00:00'
+    speakers:
+      -
+        name: 'Sijmen Ruwhof'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:K33AleVS64o'
+    slides: null
+  -
+    title: 'Recognizing smelly code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-25 00:00'
+    speakers:
+      -
+        name: 'Harrie Verveer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP at Scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-24 00:00'
+    speakers:
+      -
+        name: 'Rasmus Lerdorf'
+        twitter: rasmus
+        github: null
+      -
+        name: 'Hugh Williams'
+        twitter: null
+        github: null
+      -
+        name: 'Ian Barber'
+        twitter: null
+        github: null
+      -
+        name: 'Nikolay Bachiyski'
+        twitter: null
+        github: null
+      -
+        name: 'Ian Barber, Hugh Williams, Nikolay Bachiyski & Rasmus Lerdorf'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Challenges at scale: extreme data and platforms at eBay'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-25 00:00'
+    speakers:
+      -
+        name: 'Hugh Williams'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:06-__gzz8tg'
+    slides: null
+  -
+    title: 'SQL vs NoSQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-25 00:00'
+    speakers:
+      -
+        name: 'Johannes Schlüter, Helgi Þorbjörnsson, Dave Stokes & Derick Rethans'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Teaching your machine to find fraudsters'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-24 00:00'
+    speakers:
+      -
+        name: 'Ian Barber'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xvujYOErFqM'
+    slides: null
+  -
+    title: 'Building and deploying applications with Phing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-24 00:00'
+    speakers:
+      -
+        name: 'Michiel Rook'
+        twitter: michieltcs
+        github: null
+    videos:
+      - 'youtube:OOdrMwkQnMo'
+    slides: null
+  -
+    title: 'Introduction: MongoDB with PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-25 00:00'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos: null
+    slides: null
+  -
+    title: 'HTML5 for PHP developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-25 00:00'
+    speakers:
+      -
+        name: 'Andrew Betts'
+        twitter: triblondon
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The journey towards Continuous Integration'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-24 00:00'
+    speakers:
+      -
+        name: 'Sebastian Marek'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:eRfQ9M9TDRs'
+    slides: null
+  -
+    title: 'PHP 5.4: the new bits'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-24 00:00'
+    speakers:
+      -
+        name: 'Davey Shafik'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:I6QtuLBwux4'
+    slides: null
+  -
+    title: 'Scaling communication with Continuous Integration'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-24 00:00'
+    speakers:
+      -
+        name: 'LB Denker'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:d5E0wPkpGUo'
+    slides: null
+  -
+    title: 'Data abstraction in large web applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-24 00:00'
+    speakers:
+      -
+        name: 'Brandon Savage'
+        twitter: brandonsavage
+        github: brandonsavage
+    videos: null
+    slides: null
+  -
+    title: 'PHP under the hood'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-25 00:00'
+    speakers:
+      -
+        name: 'Johannes Schlüter'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bxxIXPc9IR8'
+    slides: null
+  -
+    title: 'To a thousand servers and beyond: scaling a massive PHP application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-24 00:00'
+    speakers:
+      -
+        name: 'Nikolay Bachiyski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FJA-bqHuKNk'
+    slides: null
+  -
+    title: 'Open source search: an analysis'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-25 00:00'
+    speakers:
+      -
+        name: 'Justin Finkelstein'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Powering your website with real-time data'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-24 00:00'
+    speakers:
+      -
+        name: 'Bert Van Hauwaert'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A look at PHP in 2012'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-24 00:00'
+    speakers:
+      -
+        name: 'Rasmus Lerdorf'
+        twitter: rasmus
+        github: null
+    videos:
+      - 'youtube:V1O4H5pz-c8'
+    slides: null
+  -
+    title: 'Distribute the workload'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-24 00:00'
+    speakers:
+      -
+        name: 'Helgi Þorbjörnsson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Creative Coding - why “doing nothing” doesn’t mean you’re not working'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-24 00:00'
+    speakers:
+      -
+        name: 'June Henriksen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YTa2s6ytCOg'
+    slides: null
+  -
+    title: 'Big Data web - Big Data science - Big Data mining'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-24 00:00'
+    speakers:
+      -
+        name: 'James Littlejohn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IOkBcgnrdNg'
+    slides: null
+  -
+    title: 'Develop & deploy using hybrid cloud strategies'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-24 00:00'
+    speakers:
+      -
+        name: 'Thijs Feryn'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

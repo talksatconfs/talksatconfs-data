@@ -1,0 +1,762 @@
+name: 'Android Makers 2017'
+description: ''
+location: 'Paris, France'
+venue: ''
+city: ''
+country: ''
+link: 'https://paug.github.io/android-makers-2017/'
+playlist: ''
+from_date: '2017-04-10'
+to_date: '2017-04-11'
+tags: ''
+talks:
+  -
+    title: 'Keynote: An Android Retrospective'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Romain Guy'
+        twitter: romainguy
+        github: romainguy
+      -
+        name: 'Chet Haase'
+        twitter: chethaase
+        github: null
+    videos:
+      - 'youtube:xOccHEgIvwY'
+    slides: null
+  -
+    title: 'Deep Android Integrations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Ty Smith'
+        twitter: tsmith
+        github: tyvsmith
+    videos:
+      - 'youtube:5C5bgY84WXw'
+    slides:
+      - 'https://speakerdeck.com/tysmith/deep-android-integrations'
+  -
+    title: 'Leboncoin on Android, flashback between pragmatism and requirement'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Pawoubadi Abalo'
+        twitter: leboncoin
+        github: null
+    videos:
+      - 'youtube:mDlp7XjkkOY'
+    slides: null
+  -
+    title: 'Industrialization of mobile developments'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Jean-Sébastien Dupuy'
+        twitter: dupuyjs
+        github: null
+      -
+        name: 'Samuel Metias'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:usB2rCFs1j8'
+    slides: null
+  -
+    title: 'Launch Screens: From a Tap to Your App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Cyril Mottier'
+        twitter: cyrilmottier
+        github: cyrilmottier
+    videos:
+      - 'youtube:oJAS7T-qurk'
+    slides:
+      - 'https://speakerdeck.com/cyrilmottier/launch-screens-from-a-tap-to-your-app'
+  -
+    title: "Let's Get Functional? Seriously!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Cédric Creusot'
+        twitter: null
+        github: null
+      -
+        name: 'Geoffrey TAN'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OE-bV8h3lvc'
+    slides:
+      - 'https://docs.google.com/presentation/d/1WsmcgeCiHrGBv9YE6yQSN2xtYbZVkhQH3eM-xNmO0ME/edit?usp=sharing'
+  -
+    title: 'Scaling Android @PagesJaunes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Thibault Fighiera'
+        twitter: YellowTeamAndro
+        github: null
+      -
+        name: 'Alexandre Badie'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:14sngW9WGFA'
+    slides: null
+  -
+    title: 'RxJava is dead, long live RxJava 2!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'David Wursteisen'
+        twitter: dwursteisen
+        github: dwursteisen
+    videos:
+      - 'youtube:fwbWAfBLcDI'
+    slides:
+      - 'https://speakerdeck.com/dwursteisen/rxjava-est-mort-vive-rxjava-2'
+  -
+    title: "Merge like it's 2099"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Xavier F. Gouchet'
+        twitter: xgouchet
+        github: xgouchet
+    videos:
+      - 'youtube:C9HYMqm3zRM'
+    slides:
+      - 'https://speakerdeck.com/xgouchet/merge-like-its-2099-androidmakers-2017'
+  -
+    title: 'Mobile Print – Disruption, Collaboration and Opportunity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Mark Boyt'
+        twitter: Boytie
+        github: null
+    videos:
+      - 'youtube:039KuUBnYUM'
+    slides: null
+  -
+    title: 'Remote, lonely and productive'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'David González'
+        twitter: dggonzalez
+        github: malmstein
+    videos:
+      - 'youtube:Ai_8RuBWPYo'
+    slides:
+      - 'https://speakerdeck.com/malmstein/remote-and-lonely'
+  -
+    title: 'Developing for Android Wear 2.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Hoi Lam'
+        twitter: hoitab
+        github: null
+    videos:
+      - 'youtube:o3nqRsBzJt0'
+    slides: null
+  -
+    title: 'Android Things for IoT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Wayne Piekarski'
+        twitter: waynepiekarski
+        github: waynepiekarski
+    videos:
+      - 'youtube:SpB6kyxNBr0'
+    slides: null
+  -
+    title: 'Android modules, an effective way to work with legacy code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Gabriel Adgeg'
+        twitter: g_adgeg
+        github: adgeg
+      -
+        name: 'Damien Locque'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IOzZQXZb91E'
+    slides:
+      - 'https://www.slideshare.net/OCTOTechnology/one-year-of-clean-architecture-the-good-the-bad-and-the-bob'
+  -
+    title: 'ExoPlayer, media player for your applications and virtual reality'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Julien Salvi'
+        twitter: JulienSalvi
+        github: Oleur
+    videos:
+      - 'youtube:NvDoNB5bZeA'
+    slides:
+      - 'https://speakerdeck.com/oleur/exoplayer-player-multimedia-pour-les-applications-et-la-realite-virtuelle'
+  -
+    title: 'How to reactively load and cache data without even trying'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Mike Nakhimovich'
+        twitter: friendlyMikhail
+        github: digitalbuddha
+    videos:
+      - 'youtube:G1MebI2k9aA'
+    slides:
+      - 'https://www.slideshare.net/nakhimovich/data-loading-made-easy-with-mike-nakhimovich-droidcon-italy-2017'
+  -
+    title: 'Android and Pepper: a love story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Thalía Cruz Castañares'
+        twitter: null
+        github: null
+      -
+        name: 'Erwan Pinault'
+        twitter: ghostwan
+        github: null
+    videos:
+      - 'youtube:d3VoQmcpu5U'
+    slides:
+      - 'https://we.tl/GVg5Tx2yCJ'
+  -
+    title: 'Kotlin in the real world. What you should be aware of before starting a Kotlin project'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Rémi Pradal'
+        twitter: RemiPradal
+        github: rpradal
+    videos:
+      - 'youtube:h7z01GhMPW4'
+    slides:
+      - 'https://speakerdeck.com/rpradal/kotlin-in-the-real-world'
+  -
+    title: 'Taking care of your UI tests'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Florian Mierzejewski'
+        twitter: florianmski
+        github: florianmski
+    videos:
+      - 'youtube:dcWTq7MyrBQ'
+    slides:
+      - 'https://speakerdeck.com/florianmski/taking-care-of-your-ui-tests'
+  -
+    title: 'Offline mode: Our Android application works at level -5 of a parking'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Romain Potier'
+        twitter: PotierRomain
+        github: romainpotier
+      -
+        name: 'Mathieu Hausherr'
+        twitter: mhausherr
+        github: mhausherr
+    videos:
+      - 'youtube:0WhDgKY9j-s'
+    slides:
+      - 'https://speakerdeck.com/mhausherr/mode-offline-notre-application-android-fonctionne-au-niveau-5-dun-parking'
+  -
+    title: 'Heat the neurons of your Android Smartphone with Deep Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Qian Jin'
+        twitter: bonbonking
+        github: jinqian
+      -
+        name: 'Yoann Benoit'
+        twitter: YoannBENOIT
+        github: ybenoit
+    videos:
+      - 'youtube:znjGEW6pESQ'
+    slides:
+      - 'https://speakerdeck.com/jinqian/heat-the-neurons-of-your-smartphone-with-deep-learning'
+  -
+    title: 'One year of Clean Architecture : the Good, the Bad and the Bob'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Gabriel Adgeg'
+        twitter: g_adgeg
+        github: adgeg
+      -
+        name: 'Dorian Lamande'
+        twitter: dorianlamande
+        github: null
+    videos:
+      - 'youtube:IOzZQXZb91E'
+    slides:
+      - 'https://www.slideshare.net/OCTOTechnology/one-year-of-clean-architecture-the-good-the-bad-and-the-bob'
+  -
+    title: 'The ART of organizing resources'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Jeroen Mols'
+        twitter: molsjeroen
+        github: JeroenMols
+    videos:
+      - 'youtube:AjSgAHZT9a0'
+    slides:
+      - 'https://speakerdeck.com/jeroenmols/the-art-of-organizing-resources'
+  -
+    title: 'Android Auto - live coding'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'David Fournier'
+        twitter: smartnsoft
+        github: smartnsoft
+    videos:
+      - 'youtube:u-799IyJ0TY'
+    slides: null
+  -
+    title: 'The Fabulous Journey to Material Design Award'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Taylor Ling'
+        twitter: taylorling
+        github: null
+    videos:
+      - 'youtube:8o6DnPPxD1I'
+    slides:
+      - 'https://speakerdeck.com/taylorling/designing-fabulous-journey-to-material-design-award'
+  -
+    title: "OpenGL, a noob's guide for Android developers"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-10 00:00'
+    speakers:
+      -
+        name: 'Benjamin Monjoie'
+        twitter: Xzan
+        github: bmonjoie
+    videos:
+      - 'youtube:8n11IUI6n4o'
+    slides:
+      - 'https://docs.google.com/presentation/d/1SBgVb2Dw_h1VUU5Dg0Oe4nRe48zofTrM6L5Y7dlx3b0/edit?usp=sharing'
+  -
+    title: 'Keynote: Android First'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Lisa Wray'
+        twitter: lrwray
+        github: lisawray
+    videos:
+      - 'youtube:QTHLnVNEgNE'
+    slides: null
+  -
+    title: 'Evolution of notifications - Tips & tricks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Jeremie Martinez'
+        twitter: JeremMartinez
+        github: jeremiemartinez
+    videos:
+      - 'youtube:hh0q3lGoPWE'
+    slides:
+      - 'https://speakerdeck.com/jeremiemartinez/the-evolution-of-android-notification'
+  -
+    title: 'Toothpick: a fresh approach to Dependency Injection on Android'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Stéphane Nicolas'
+        twitter: null
+        github: stephanenicolas
+      -
+        name: 'Daniel Molinero Reguera'
+        twitter: D_Lemures
+        github: null
+    videos:
+      - 'youtube:rn4EAzimslw'
+    slides:
+      - 'https://speakerdeck.com/stephanenicolas/toothpick-a-fresh-approach-to-dependency-injection-di-on-android'
+  -
+    title: 'Android Design Tools : New features and tools for rapid UI development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Nicolas Roard'
+        twitter: camaelon
+        github: null
+    videos:
+      - 'youtube:Tol1_GHgrEo'
+    slides:
+      - 'https://speakerdeck.com/camaelon/android-design-tools-new-features-and-tools-for-rapid-ui-development'
+  -
+    title: 'Develop your next application with Kotlin'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Arnaud Giuliani'
+        twitter: arnogiu
+        github: arnaudgiuliani
+    videos:
+      - 'youtube:kcA2oSZWG8k'
+    slides:
+      - 'https://www.slideshare.net/arnaudgiuliani'
+  -
+    title: 'Drunk, he marketed Android apps alone'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Pierre Benayoun'
+        twitter: Pierre_Benayoun
+        github: null
+    videos:
+      - 'youtube:XewIS5DwnZ0'
+    slides:
+      - 'https://docs.google.com/presentation/d/1afPtkSb_BUtD6t61wV2eaVLVzbnYQ9D6quaFCG9D4LI/edit'
+  -
+    title: 'An Introduction to Google Home, Google Assistant and Actions on Google'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Elaine Dias Batista'
+        twitter: elainedbatista
+        github: null
+      -
+        name: 'Wajdi Ben Rabah'
+        twitter: WajdiBenRabah
+        github: wadjo
+    videos:
+      - 'youtube:Yto-5yiLOg8'
+    slides:
+      - 'https://speakerdeck.com/elainedb/intro-to-google-assistant-and-actions-on-google'
+  -
+    title: 'Improve your Android skills by making Android Wear dials'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Gautier Mechling'
+        twitter: Nilhcem
+        github: Nilhcem
+    videos:
+      - 'youtube:hpoOuIXR8JA'
+    slides:
+      - 'https://www.slideshare.net/Nilhcem/android-wear-essentials'
+  -
+    title: 'Testable Android Architecture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Chuck Greb'
+        twitter: ecgreb
+        github: ecgreb
+    videos:
+      - 'youtube:pnU5wKv9l_s'
+    slides:
+      - 'https://speakerdeck.com/ecgreb/testable-android-architecture-android-makers-france'
+  -
+    title: 'App Live Review by GDEs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Cyril Mottier'
+        twitter: cyrilmottier
+        github: cyrilmottier
+      -
+        name: 'Lisa Wray'
+        twitter: lrwray
+        github: lisawray
+      -
+        name: 'Eyal LEZMY'
+        twitter: Eyal_Lezmy
+        github: eyal-lezmy
+      -
+        name: 'Mike Nakhimovich'
+        twitter: friendlyMikhail
+        github: digitalbuddha
+      -
+        name: 'Ty Smith'
+        twitter: tsmith
+        github: tyvsmith
+      -
+        name: 'David González'
+        twitter: dggonzalez
+        github: malmstein
+    videos:
+      - 'youtube:-Llj5SlKQ5g'
+    slides: null
+  -
+    title: 'The root: a stranger at home?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Bruce Bujon'
+        twitter: hardcoding
+        github: PerfectSlayer
+    videos:
+      - 'youtube:d5FKr0cCspo'
+    slides:
+      - 'https://speakerdeck.com/perfectslayer/le-root-un-inconnu-chez-soi'
+  -
+    title: 'Discovering and mastering obfuscation on Android'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Renaud Boulard'
+        twitter: _renaudb
+        github: renaudboulard
+      -
+        name: 'François Lolom'
+        twitter: flolom
+        github: flolom
+    videos:
+      - 'youtube:c0KZh_j_djQ'
+    slides:
+      - 'https://speakerdeck.com/renaudboulard/getting-the-most-of-android-obfuscation-tools'
+  -
+    title: 'Make or brake… using Gradle.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Stanojko Markovik'
+        twitter: smarkovik
+        github: null
+    videos:
+      - 'youtube:vcqA-_KbMr0'
+    slides:
+      - 'https://speakerdeck.com/smarkovik/make-or-break'
+  -
+    title: 'Streamlining Payments on Mobile'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Mathieu Calba'
+        twitter: Mathieu_Calba
+        github: MathieuCalba
+    videos:
+      - 'youtube:kwruiDw31T0'
+    slides:
+      - 'https://speakerdeck.com/mathieu_calba/streamlining-payments-on-mobile'
+  -
+    title: 'Mobile design is not easy!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Quentin Sallat'
+        twitter: Aerilys
+        github: null
+    videos:
+      - 'youtube:nFoZLc00Kwc'
+    slides:
+      - 'https://www.slideshare.net/aerilys/le-design-mobile-cest-pas-facile-74910698'
+  -
+    title: 'Modern Android: How to ditch Activities and Fragments'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Fabien Devos'
+        twitter: Fabien_Devos
+        github: fabiendevos
+    videos:
+      - 'youtube:cfXflRUUC48'
+    slides:
+      - 'https://docs.google.com/presentation/d/1Ehc6B78kWnX23W1SZvUtpP42LMsSJwdEvD0WIkgACmk/mobilepresent?slide=id.p'
+  -
+    title: 'About React Native inside your existing Android App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Damien Cavaillès'
+        twitter: thedamfr
+        github: thedamfr
+    videos:
+      - 'youtube:hNhSLMSF7mU'
+    slides: null
+  -
+    title: 'Android Leaks live episode'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Benjamin Monjoie'
+        twitter: Xzan
+        github: bmonjoie
+      -
+        name: 'Yannick Lemin'
+        twitter: TheYann
+        github: theyann
+    videos:
+      - 'youtube:8n11IUI6n4o'
+    slides:
+      - 'https://docs.google.com/presentation/d/1SBgVb2Dw_h1VUU5Dg0Oe4nRe48zofTrM6L5Y7dlx3b0/edit?usp=sharing'
+  -
+    title: 'Putting the “Pro” in “Proximity”: Interactive Demos of the Nearby API'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Chad Schultz'
+        twitter: thechadschultz
+        github: chadschultz
+    videos:
+      - 'youtube:akOYiMDP6co'
+    slides:
+      - 'https://docs.google.com/presentation/d/1Dblfk4lL2dh79EQFJ5AeT7Ur0nZJPz7dXkOwwrcMIXM/edit?usp=sharing'
+  -
+    title: 'The Business of Technology Business Technology'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-11 00:00'
+    speakers:
+      -
+        name: 'Chet Haase'
+        twitter: chethaase
+        github: null
+    videos:
+      - 'youtube:afL8AvxNURw'
+    slides: null

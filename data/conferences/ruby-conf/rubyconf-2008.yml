@@ -1,0 +1,1189 @@
+name: 'RubyConf 2008'
+description: ''
+location: 'Orlando, Florida'
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2008-11-06'
+to_date: '2008-11-08'
+tags: ''
+talks:
+  -
+    title: 'Tap--[not] a talk about replacing rake'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Simon Chiang'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Seattle.rb Rocks!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: JD
+        twitter: null
+        github: null
+      -
+        name: 'Eric Hodel'
+        twitter: null
+        github: null
+      -
+        name: 'Aaron Patterson'
+        twitter: tenderlove
+        github: tenderlove
+      -
+        name: 'Phil Hagelberg'
+        twitter: null
+        github: null
+      -
+        name: 'Ryan Davis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LbKlEpB2G9I'
+    slides: null
+  -
+    title: 'Using Metrics to Take a Look at Your Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Jake Scruggs'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Fall and Rise of Dynamic Languages'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Rick DeNatale'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Ruby Persistence in MagLev'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Bob Walker'
+        twitter: null
+        github: null
+      -
+        name: 'Allan Ottis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CqnEA14iMwo'
+    slides: null
+  -
+    title: 'The Ruby Code Review, a play in three acts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Jim Weirich '
+        twitter: null
+        github: null
+      -
+        name: 'Chris Nelson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Ruby for Artists / Jotbot'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers:
+      -
+        name: 'David Koontz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Crate: packaging your ruby app'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Jeremy Hinegardner'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Advanced DSLs in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Neal Ford'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introducing Red Sun - Ruby to Flash'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Jonathan Branam'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Components are not a dirty word'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Nick Sutterer'
+        twitter: null
+        github: null
+      -
+        name: 'Mike Pence'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Using Git in Ruby Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-06 00:00'
+    speakers:
+      -
+        name: 'Scott Chacon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YkcKHLerWBs'
+    slides: null
+  -
+    title: "Glimmer's DSL Engine"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers:
+      -
+        name: 'Andy Maleh'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Summer of Code - Rails Thread Saftey'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Joshua Peek'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'What does my Ruby do?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-06 00:00'
+    speakers:
+      -
+        name: 'Brian Ford'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tCrFaqGEdtA'
+    slides: null
+  -
+    title: 'Ruby for Embedded Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-06 00:00'
+    speakers:
+      -
+        name: 'David Goodlad'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pRaHcEB35tk'
+    slides: null
+  -
+    title: 'How Ruby Can Be Fast'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Glenn Vanderburg'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Ruby in the Clouds'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-06 00:00'
+    speakers:
+      -
+        name: 'Jim Menard'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zShT3Yud_nM'
+    slides: null
+  -
+    title: 'RSpec and Cucumber'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers:
+      -
+        name: 'David Chelimsky'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: test-stack
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers:
+      -
+        name: 'Jeremy McAnally'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Ruby Macros'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers:
+      -
+        name: 'Caleb Clausen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'OS X Application Development with Hot Cocoa'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Rich Kilmer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Better Hacking With Training Wheels'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Joe Martinez'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IdnYhqShMMI'
+    slides: null
+  -
+    title: 'Lightweight Web Services'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Blake Mizerany'
+        twitter: null
+        github: null
+      -
+        name: 'Adam Wiggins'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OR9U-6Bun7g'
+    slides: null
+  -
+    title: 'Peer-Aware Desktop Application Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Preston Lee'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:w7QNI2kQM0E'
+    slides: null
+  -
+    title: 'Lightning Talk - testing my leet codez'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers:
+      -
+        name: 'Bryan Liles'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'MacRuby: Ruby for your Mac'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-06 00:00'
+    speakers:
+      -
+        name: 'Laurent Sansonetti'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Nature of Truth'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers:
+      -
+        name: 'Yossef Mendelssohn'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Writing Code that Doesn't Suck"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Yehuda Katz'
+        twitter: wycats
+        github: null
+    videos:
+      - 'youtube:2YIyf6POs2A'
+    slides: null
+  -
+    title: 'Ruby Arduino Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Greg Borenstein'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Fsuu-D5cF9Q'
+    slides: null
+  -
+    title: 'Unfactoring From Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-06 00:00'
+    speakers:
+      -
+        name: 'Rein Henrichs'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UTlMZ0lpOcQ'
+    slides: null
+  -
+    title: "Lightning Talk - Why don't you come to Ruby Kaigi 2009?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers:
+      -
+        name: 'Shintaro Kakutani'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Reasons behind Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-06 00:00'
+    speakers:
+      -
+        name: "Yukihiro 'Matz' Matsumoto"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vDnOBXD167k'
+    slides: null
+  -
+    title: 'Ruby Kata and Sparring'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Micah Martin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Iron Ruby Demonstration'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers:
+      -
+        name: 'John Lam'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Waves: a Resource-Oriented Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Dan Yoder'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2Xn6Vg5Lk8Y'
+    slides: null
+  -
+    title: 'Ramaze: The underrated Web Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Luc Castera'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:g-5b1yE33kw'
+    slides: null
+  -
+    title: 'Hacking with ruby2ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Marc Chung'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'rush, a shell that will yeild to you'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-06 00:00'
+    speakers:
+      -
+        name: 'Nicholas Schlueter'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WA_f-jJh3ZU'
+    slides: null
+  -
+    title: 'Ruby 1.9: What to Expect'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Dave Thomas'
+        twitter: null
+        github: null
+      -
+        name: 'David A. Black'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building Distributed Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-06 00:00'
+    speakers:
+      -
+        name: 'Mark Bates'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vMzg6ED6k3g'
+    slides: null
+  -
+    title: Forth
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers:
+      -
+        name: 'Ben Stiglitz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Patterns in Distributed Processing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Mike Perham'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Future of RubyVM'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-06 00:00'
+    speakers:
+      -
+        name: 'Koichi Sasada'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9cN05h8z-OI'
+    slides: null
+  -
+    title: 'Organizing a Regional Conference'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Graeme Mathieson'
+        twitter: null
+        github: null
+      -
+        name: 'Alan Francis'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Desktop Development with Glimmer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-06 00:00'
+    speakers:
+      -
+        name: 'Andy Maleh'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:viEnKGT3QJA'
+    slides: null
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Dave Thomas'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Making Your Code CRAPpier'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Michael Granger'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Questions and Answers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: "Yukihiro 'Matz' Matsumoto"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Ruby Mendicant Project'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Gregory Brown'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:u66wmChpu2M'
+    slides: null
+  -
+    title: 'Adrenaline-Driven Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers:
+      -
+        name: 'Bruce Williams'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Silver Bullet'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers:
+      -
+        name: 'Adam Keys'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Dramatis: Actors for Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Steven Parkes'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Addressable URI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers: {  }
+    videos: null
+    slides: null
+  -
+    title: 'YELLOWPAGES.COM now AT&T Interactive'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers:
+      -
+        name: ' Coby Randquist'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Tcl for Rubyists'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Sam Stephenson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Summer of Code - DocBox'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Ian Ownbey'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Two Turntables and a Git repo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Yossef Mendelssohn'
+        twitter: null
+        github: null
+      -
+        name: 'Ben Bleything'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Writing My Own Web Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Ben Scofield'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'JRuby: What, Why, How... Try It Now'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-06 00:00'
+    speakers:
+      -
+        name: 'Thomas Enebo'
+        twitter: null
+        github: null
+      -
+        name: 'Charles Nutter'
+        twitter: headius
+        github: headius
+    videos:
+      - 'youtube:U6WuoHdjdoM'
+    slides: null
+  -
+    title: 'A wonderful, aweful idea: ruby in the browser'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Chris Nelson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Aristotle and the art of software development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Jonathan Dahl'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Rubinius
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-06 00:00'
+    speakers:
+      -
+        name: 'Evan Phoenix'
+        twitter: evanphx
+        github: evanphx
+    videos:
+      - 'youtube:M0tFxdKLY3k'
+    slides: null
+  -
+    title: 'Better Ruby through Functional Programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Dean Wampler'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9zfSx46NlKY'
+    slides: null
+  -
+    title: 'Recovering from Enterprise'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-06 00:00'
+    speakers:
+      -
+        name: 'Jamis Buck'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ewIbYQ-QuC0'
+    slides: null
+  -
+    title: stupid.rb
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers:
+      -
+        name: 'Ben Bleything'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Lightning Talk - Duby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers:
+      -
+        name: 'Charles Nutter'
+        twitter: headius
+        github: headius
+    videos: null
+    slides: null
+  -
+    title: Terminal.app
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers:
+      -
+        name: 'Ben Stiglitz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Lightning Talk - Japenese Rubyists you have not met yet'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers:
+      -
+        name: 'Masayoshi Takahashi'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How I Learned to Love Javascript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Aaron Patterson'
+        twitter: tenderlove
+        github: tenderlove
+      -
+        name: 'John Barnette'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1HXC0x23p5Q'
+    slides: null
+  -
+    title: 'Testing Heresies'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Francis Hwang'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qNh6WjdVKh0'
+    slides: null
+  -
+    title: 'Effective and Creative Coding'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Eric Ivancich'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Limelight
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers:
+      -
+        name: 'Micah Martin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Fear of Programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Nathaniel Talbott'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:g_ZyRVPY5Wc'
+    slides: null
+  -
+    title: 'Coding for Failure'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Tammer Saleh'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nIB3qt5BRoI'
+    slides: null
+  -
+    title: Dust
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers: {  }
+    videos: null
+    slides: null
+  -
+    title: 'NeverBlock, trivial non-blocking IO'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'W. Idris Yasser'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:X8jF3oDpoGM'
+    slides: null
+  -
+    title: 'What All Rubyists Should Know About Threads'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Jim Weirich '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fK-N_VxdW7g'
+    slides: null
+  -
+    title: IronRuby
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'John Lam'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JW3PZURqLcI'
+    slides: null
+  -
+    title: 'Ruby Heavy-Lifting'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-07 00:00'
+    speakers:
+      -
+        name: 'Ilya Grigorik'
+        twitter: igrigorik
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Quartz Composer and Cruise Control Status'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers: {  }
+    videos: null
+    slides: null
+  -
+    title: 'A Puppet Story: Systems Building Systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Andrew Clay Shafer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Evil Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-09 00:00'
+    speakers:
+      -
+        name: 'Ryan Davis'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Monkeybars: easy cross platform GUIs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-06 00:00'
+    speakers:
+      -
+        name: 'David Koontz'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hW6cFCeihLs'
+    slides: null
+  -
+    title: 'Genetic Programming meets TDD'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-11-08 00:00'
+    speakers:
+      -
+        name: 'Larry Diehl'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

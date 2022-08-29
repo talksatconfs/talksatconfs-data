@@ -1,0 +1,424 @@
+name: 'HolyJS 2017'
+description: 'HolyJS is a specialized conference for JavaScript developers conducted by the JUG.ru Group. More than 600 JS developers gather under one roof to discuss the news of a rapidly developing ecosystem, fresh tools, frameworks, patterns and hundreds of changes with experts from around the world and hear dozens of reports on the frontend and not only. We are talking about backend, and about the desktop.'
+location: ''
+venue: ''
+city: Moscow
+country: 'Russian Federation'
+link: 'https://2017.holyjs-moscow.ru/en/'
+playlist: 'youtube:PL8sJahqnzh8LOnV0s72DBt0OFBqdv9I9Y'
+from_date: '2017-12-10'
+to_date: '2017-12-11'
+tags: ''
+talks:
+  -
+    title: 'The Post JavaScript Apocalypse'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Douglas Crockford'
+        twitter: null
+        github: douglascrockford
+    videos:
+      - 'youtube:Njn65eyRM0g'
+    slides: null
+  -
+    title: 'Faster Angular applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Minko Gechev'
+        twitter: mgechev
+        github: null
+    videos:
+      - 'youtube:P-OOg9z4OUg'
+    slides:
+      - 'https://downloads.ctfassets.net/nn534z2fqr9f/1oYh7ZdcaQMiq0AumccsaO/a8a49b03f7aabc27a00a5ce45c9e1dfe/minko-gechev-faster-angular-applications.pdf'
+  -
+    title: 'Architectural etudes" how not to ruin the architecture of your project"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Alexey Zolotykh'
+        twitter: zolotyh
+        github: null
+    videos: null
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/328nas1n9SKa8CkekcISmm/3188f125e9ae120307ec5bae560e1a23/Zolotyh.pdf'
+  -
+    title: 'Yarn, npm v5 or pnpm - who is cooler?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Mikhail Bashurov'
+        twitter: SaitoNakamura
+        github: saitonakamura
+    videos:
+      - 'youtube:hq-gIihAs5A'
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/4GcxD9yQnY4sQ6IO8Ge06g/6163c60b2cc5ced1274345f8d6e94fb6/Michael_Bashurov_Yarn_npm_v5_or_pnpm_whats_better.pdf'
+  -
+    title: 'Security" your application''s vulnerabilities"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Alexey Bogachuk'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2gthjl2Lks4'
+    slides:
+      - 'https://downloads.ctfassets.net/nn534z2fqr9f/28uqyOE0Wo4wooiICwS0Go/4c2d2af039ab5b564fe5feb746f336e2/Aliaksei_Bahachuk_-_Vulnerabilities.pdf'
+  -
+    title: 'UI components on pixel shaders, we write your first shader'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Denis Radin'
+        twitter: PixelsCommander
+        github: PixelsCommander
+    videos:
+      - 'youtube:P-OOg9z4OUg'
+    slides:
+      - 'https://downloads.ctfassets.net/nn534z2fqr9f/28uqyOE0Wo4wooiICwS0Go/4c2d2af039ab5b564fe5feb746f336e2/Aliaksei_Bahachuk_-_Vulnerabilities.pdf'
+  -
+    title: 'Real-world applications of hash functions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Emil Bay'
+        twitter: emilbayes
+        github: emilbayes
+    videos:
+      - 'youtube:sTkWBIUH3Eo'
+    slides: null
+  -
+    title: 'Headless browsers" what, how and why"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Vitaly Slobodin'
+        twitter: Vitalliumm
+        github: null
+    videos:
+      - 'youtube:kkP0PFeRJdQ'
+    slides: null
+  -
+    title: 'HyperDB - a scalable key-value store'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Mathias buus madsen'
+        twitter: mafintosh
+        github: mafintosh
+    videos: null
+    slides: null
+  -
+    title: 'How to beat a quantum computer using WebAssembly?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Vladimir Dashukevich'
+        twitter: life__777
+        github: null
+    videos:
+      - 'youtube:4_lVq1-lr8g'
+    slides: null
+  -
+    title: 'Troubleshooting Node.js Applications Under the Hood'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Nikolay Matvienko'
+        twitter: matvi3nko
+        github: matvi3nko
+    videos:
+      - 'youtube:_qzFJ2MPVWQ'
+    slides: null
+  -
+    title: 'Inter Windows Communication, or How to build a full-featured RPC in the browser'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Michael Udalov'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/2xgcdLIDG4WWWy0ai4ySyO/e8ddb12c228eae67c1b6c9ef267a351b/Udalov_HolyJS_v3.pdf'
+  -
+    title: 'Testing serverless applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Slobodan Stojanović'
+        twitter: slobodan_
+        github: stojanovic
+    videos: null
+    slides: null
+  -
+    title: 'New Adventures in Responsive Web Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Vitaly Friedman'
+        twitter: smashingmag
+        github: vitalyfriedman
+    videos:
+      - 'youtube:rgHLV2fe-2I'
+    slides:
+      - 'https://downloads.ctfassets.net/nn534z2fqr9f/1xNCNjP5xm2i4QAUeiOCuE/1ea6008676818ad1afbe8c0e281796ed/vitaly-friedman-new-adventures-in-responsive-design.pdf'
+  -
+    title: "You don't know node"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-11 00:00'
+    speakers:
+      -
+        name: 'Azat Mardan'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://downloads.ctfassets.net/nn534z2fqr9f/eyLFJRfVAcUiYsOQGygo4/cae154ec898cf60ebf09554be4132985/Azat_Mardan__You_Don_t_Know_Node__Version_2.pdf'
+  -
+    title: 'TypeScript, or Why is it so difficult'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-11 00:00'
+    speakers:
+      -
+        name: 'Anton Lobov'
+        twitter: zhuravlik26
+        github: null
+    videos: null
+    slides:
+      - 'https://downloads.ctfassets.net/nn534z2fqr9f/6GXN8QUDq8i0UKqqOOEIug/680e937f96133dc75d41c3a202b63ab9/Anton_Lobov_TypeScript_why_so_complicated_upd.pdf'
+  -
+    title: 'Fatal Node.js flaw'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-11 00:00'
+    speakers:
+      -
+        name: 'Alexey Okhrimenko'
+        twitter: Ai_boy
+        github: null
+    videos:
+      - 'youtube:Lrs6puJ4G2Q'
+    slides: null
+  -
+    title: 'Big Bang Redesign" Smashing Magazine''s 2017 Relaunch, a Case Study"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-11 00:00'
+    speakers:
+      -
+        name: 'Vitaly Friedman'
+        twitter: smashingmag
+        github: vitalyfriedman
+    videos:
+      - 'youtube:rgHLV2fe-2I'
+    slides: null
+  -
+    title: 'Managing Asynchronicity with RQ'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-11 00:00'
+    speakers:
+      -
+        name: 'Douglas Crockford'
+        twitter: null
+        github: douglascrockford
+    videos:
+      - 'youtube:Njn65eyRM0g'
+    slides: null
+  -
+    title: 'The game "Heroes of Might and Magic in the browser long, difficult and unbearably interesting"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-11 00:00'
+    speakers:
+      -
+        name: 'Alexander Korotaev'
+        twitter: mamu_eval
+        github: null
+    videos:
+      - 'youtube:9Ep-1GTQ2hQ'
+    slides:
+      - 'http://lekzd.ru/holyHeroes/'
+  -
+    title: 'How many frontenders do you need to write a mobile app?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-11 00:00'
+    speakers:
+      -
+        name: 'Andrey Melikhov'
+        twitter: amel_true
+        github: null
+    videos:
+      - 'youtube:lYnk7nxEeOk'
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/1WCKJVqYeMakkUEKqwYEgu/0510ae7d09caf1e70e377e44642f8be5/Andrey_Melikhov_How_many_front-end_developers_does_it_take_to_create_a_mobile_app.pdf'
+  -
+    title: 'GraphQL - we conclude a profitable contract between the server and the client'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-11 00:00'
+    speakers:
+      -
+        name: 'Pavel Chertorogov'
+        twitter: nodkz
+        github: null
+    videos:
+      - 'youtube:F4vHSHzpO1g'
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/5zTslHVxlY6e2wAkMQMceS/d4024a20ab5cea77a9198d5d520ef970/Pavel_Chertorogov_GraphQL_the_holy_contract-between_client_and_server_v11.pdf'
+  -
+    title: 'Bending time with Schedulers and RxJS 5'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-11 00:00'
+    speakers:
+      -
+        name: 'GERARD SANS'
+        twitter: gerardsans
+        github: gsans
+    videos:
+      - 'youtube:AL8dG1tuH40'
+    slides: null
+  -
+    title: '(--We steal--) Get data from the Internet'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-11 00:00'
+    speakers:
+      -
+        name: 'Egor Malkevich'
+        twitter: wegorelax
+        github: wegorich
+    videos:
+      - 'youtube:Nn75sRAOlIY'
+    slides:
+      - 'https://downloads.ctfassets.net/nn534z2fqr9f/2HZJwOFN1KcWaKE8MYcm86/5fb66d24428853dc89614bdd2fccd55d/egor-presentation-one.pdf'
+  -
+    title: 'Unit testing with screenshots" breaking the sound barrier"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-11 00:00'
+    speakers:
+      -
+        name: 'Roman Dvornov'
+        twitter: rdvornov
+        github: null
+    videos:
+      - 'youtube:ULwdj_Vr_WA'
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/Eh5ZljJm48kwmU2CAQ86A/d359c0bf649f52dff71d16069f97b022/Roman_Dvornov_-_Blazing_fast_unit-testing_with_screenshots.pdf'
+  -
+    title: 'Round table - JS everywhere silver bullet or curse?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-11 00:00'
+    speakers:
+      -
+        name: 'Andrey Melikhov'
+        twitter: amel_true
+        github: null
+      -
+        name: 'Denis Mishunov'
+        twitter: mishunov
+        github: null
+      -
+        name: 'Nikolay Matvienko'
+        twitter: matvi3nko
+        github: matvi3nko
+      -
+        name: 'Vladimir Dashukevich'
+        twitter: life__777
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Animations in the world of states'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-11 00:00'
+    speakers:
+      -
+        name: 'Alexey Taktarov'
+        twitter: mlfrg
+        github: null
+    videos:
+      - 'youtube:Ug_dwJa07Os'
+    slides:
+      - 'https://molefrog.github.io/stateful-animations/'
+  -
+    title: '/ Reg (exp) {2} lained / Demystifying Regular Expressions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-11 00:00'
+    speakers:
+      -
+        name: 'Lea Verou'
+        twitter: LeaVerou
+        github: LeaVerou
+    videos:
+      - 'youtube:M7vDtxaD7ZU'
+    slides: null

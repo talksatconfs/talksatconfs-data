@@ -1,0 +1,295 @@
+name: 'PHP UK Conference 2020'
+description: ''
+location: ''
+venue: ''
+city: London
+country: 'United Kingdom'
+link: 'https://joind.in/event/php-uk-2020/schedule/list'
+playlist: 'youtube:PL_aPVo2HeGF8UN93i66AmVvCDFQMqHx9U'
+from_date: '2020-02-19'
+to_date: '2020-02-21'
+tags: ''
+talks:
+  -
+    title: 'Object Reorientation'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/php-uk-2020/object-reorientation'
+    talk_date: '2020-02-19 13:30'
+    speakers:
+      -
+        name: 'Christopher Riley'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP, The Last True Open Source Language'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/php-uk-2020/php-the-last-true-open-source-language'
+    talk_date: '2020-02-20 21:00'
+    speakers:
+      -
+        name: 'Chris Tankersley'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:5MYQrmgeIAE'
+    slides:
+      - ''
+  -
+    title: "The La(te)st PHP 7 — What's new in PHP 7.4"
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/php-uk-2020/the-latest-php-7---whats-new-in-php-74'
+    talk_date: '2020-02-20 10:15'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos:
+      - 'www.youtube.com:e8rBPAzxnEM'
+    slides:
+      - ''
+  -
+    title: 'Messy data != Messy code'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/php-uk-2020/messy-data--messy-code'
+    talk_date: '2020-02-20 10:15'
+    speakers:
+      -
+        name: 'Michelle Sanver'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:tMWZGNdPDnM'
+    slides:
+      - ''
+  -
+    title: 'In the world of Password123, be someone’s #@%^)*!'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/php-uk-2020/in-the-world-of-password123-be-someones-'
+    talk_date: '2020-02-20 11:30'
+    speakers:
+      -
+        name: 'Ipsha Bhidonia'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:J-isjPcNPSc'
+    slides:
+      - ''
+  -
+    title: 'Guidelines on Designing for Accessibility in UX Design'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/php-uk-2020/guidelines-on-designing-for-accessibility-in-ux-design'
+    talk_date: '2020-02-20 13:30'
+    speakers:
+      -
+        name: 'Christiana Unaeze'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:zx4yaWydYq8'
+    slides:
+      - ''
+  -
+    title: 'PHP Generics Today (almost)'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/php-uk-2020/php-generics-today-almost'
+    talk_date: '2020-02-20 14:45'
+    speakers:
+      -
+        name: 'Dave Liddament'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:N2PENQpQVjQ'
+    slides:
+      - ''
+  -
+    title: 'Meet Johnny the Deployer'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/php-uk-2020/meet-johnny-the-deployer'
+    talk_date: '2020-02-20 14:45'
+    speakers:
+      -
+        name: 'Georgiana Gligor'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:WoNGUetDnk4'
+    slides:
+      - ''
+  -
+    title: 'Killer Docker Workflows for Development'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/php-uk-2020/killer-docker-workflows-for-development'
+    talk_date: '2020-02-21 10:15'
+    speakers:
+      -
+        name: 'Chris Tankersley'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1d-M0BHC8rI'
+    slides:
+      - ''
+  -
+    title: 'What I Learned my First Year as a Full-time Programmer'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/php-uk-2020/what-i-learned-my-first-year-as-a-full-time-programmer'
+    talk_date: '2020-02-21 10:15'
+    speakers:
+      -
+        name: 'Hilary Stohs-Krause'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:9KLfUF1Kdmw'
+    slides:
+      - ''
+  -
+    title: 'PHP OPCache, Realpath Cache and Preloading'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/php-uk-2020/php-opcache-realpath-cache-and-preloading'
+    talk_date: '2020-02-21 11:30'
+    speakers:
+      -
+        name: 'Jachim Coudenys'
+        twitter: coudenysj
+        github: null
+    videos:
+      - 'www.youtube.com:R5Okt1EX3_4'
+    slides:
+      - ''
+  -
+    title: 'Testing Legacy Code: Safe Refactoring'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/php-uk-2020/testing-legacy-code-safe-refactoring'
+    talk_date: '2020-02-21 11:30'
+    speakers:
+      -
+        name: 'Katy Ereira'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:U5BkMJpv_ZQ'
+    slides:
+      - ''
+  -
+    title: 'Testing Hack with Hammock'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/php-uk-2020/testing-hack-with-hammock'
+    talk_date: '2020-02-21 13:30'
+    speakers:
+      -
+        name: 'Riya Dashoriya'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:pvotANfq410'
+    slides:
+      - 'https://speakerdeck.com/maccath/legacy-code-testing-and-safe-refactoring-d3e0ff3e-4385-4fd6-bb02-550b605d14b5'
+  -
+    title: 'Introduction to Time Series'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/php-uk-2020/introduction-to-time-series'
+    talk_date: '2020-02-21 13:30'
+    speakers:
+      -
+        name: 'David McKay'
+        twitter: rawkode
+        github: rawkode
+    videos:
+      - 'youtube:_Wul7Qg6icM'
+    slides:
+      - ''
+  -
+    title: 'Containerization for Software Developers'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/php-uk-2020/containerization-for-software-developers'
+    talk_date: '2020-02-21 14:45'
+    speakers:
+      -
+        name: 'Joel Lord'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:uTbzxiSZLNU'
+    slides:
+      - ''
+  -
+    title: 'Static Code Analysis: Judging a Forest by Its Trees'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/php-uk-2020/static-code-analysis-judging-a-forest-by-its-trees'
+    talk_date: '2020-02-21 14:45'
+    speakers:
+      -
+        name: 'Christian Rades'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:bYYpCkmjdYo'
+    slides:
+      - ''
+  -
+    title: RTFM
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/php-uk-2020/rtfm'
+    talk_date: '2020-02-20 16:15'
+    speakers:
+      -
+        name: 'Jessica Mauerhan'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:uvFw6Q38oYY'
+    slides:
+      - ''
+  -
+    title: 'Post Burnout Thoughts - Joel Lord - PHP UK 2020'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/php-uk-2020/post-burnout-thoughts'
+    talk_date: '2020-02-21 09:00'
+    speakers:
+      -
+        name: 'Joel Lord'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:s1q7U1vK7r8'
+    slides:
+      - ''
+  -
+    title: 'Apps, Stacks, and Frameworks: Avoiding “Shiny Object” Syndrome - Angel Rivera - PHP UK 2020'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/php-uk-2020/apps-stacks-and-frameworks-avoiding-shiny-object-syndrome'
+    talk_date: '2020-02-21 16:15'
+    speakers:
+      -
+        name: 'Angel Rivera'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:4yHg8UWdsBI'
+    slides:
+      - ''

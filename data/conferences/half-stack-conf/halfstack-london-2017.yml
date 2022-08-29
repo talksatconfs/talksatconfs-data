@@ -1,0 +1,234 @@
+name: 'HalfStack London 2017'
+description: "Started in 2010, London HalfStack has events at least once a month to discuss all things interesting in the desktop and mobile web world. The format includes meetups, panels, and conferences, and always a pub after each event.For seven years, we've had regular JavaScript meetup events. And then we spend time discussing JavaScript at a pub and/or CodeNode. For the fourth time, we're flipping this around and bringing the talks to a pub in the Shoreditch area.Talks will include a variety of modern front-end development topics (2017's conference covered ES6, TypeScript, frameworks, WebGL, web audio/video, WebVR, speech recognition, JS poetry, and much more) from leading speakers based primarily in London. The Call for Papers will be open from March through mid July. We will let all potential speakers know our answer by mid-August."
+location: ''
+venue: ''
+city: London
+country: 'United Kingdom'
+link: 'https://halfstackconf.com/london/2017/'
+playlist: ''
+from_date: '2017-11-17'
+to_date: '2017-11-17'
+tags: ''
+talks:
+  -
+    title: 'Coffee.js? How I hacked my coffee machine using JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-17 00:00'
+    speakers:
+      -
+        name: 'Dominik Kundel'
+        twitter: dkundel
+        github: kundel
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/4'
+    slides: null
+  -
+    title: 'Love poems to JavaScript, Part 1'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-17 00:00'
+    speakers:
+      -
+        name: 'Jani Eväkallio'
+        twitter: jevakallio
+        github: jevakallio
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/5'
+    slides: null
+  -
+    title: 'Introduction to virtual reality and the web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-17 00:00'
+    speakers:
+      -
+        name: 'Ada Rose Cannon'
+        twitter: Lady_Ada_King
+        github: AdaRoseCannon
+    videos: null
+    slides: null
+  -
+    title: 'Empowering Web Applications with Speech Recognition'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-17 00:00'
+    speakers:
+      -
+        name: 'Mihai Cîrlănaru'
+        twitter: MCirlanaru
+        github: mihai
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/14'
+    slides: null
+  -
+    title: "Sacrificing the golden calf of 'coding'"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-17 00:00'
+    speakers:
+      -
+        name: 'Chris Heilmann'
+        twitter: codepo8
+        github: codepo8
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/7'
+    slides: null
+  -
+    title: 'Practical browser automation for fun and profit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-17 00:00'
+    speakers:
+      -
+        name: 'Forbes Lindesay'
+        twitter: ForbesLindesay
+        github: ForbesLindesay
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/9'
+    slides: null
+  -
+    title: 'Make your animations perform well'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-17 00:00'
+    speakers:
+      -
+        name: 'Anna Migas'
+        twitter: szynszyliszys
+        github: szynszyliszys
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/3'
+    slides: null
+  -
+    title: 'Having fun with JavaScript and Bluetooth'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-17 00:00'
+    speakers:
+      -
+        name: 'Niels Leenheer'
+        twitter: html5test
+        github: NielsLeenheer
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/15'
+    slides: null
+  -
+    title: 'Love poems to JavaScript, Part 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-17 00:00'
+    speakers:
+      -
+        name: 'Jani Eväkallio'
+        twitter: jevakallio
+        github: jevakallio
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/12'
+    slides: null
+  -
+    title: 'Converting a JS library from ES5 to ES6, benefits and the pitfalls'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-17 00:00'
+    speakers:
+      -
+        name: 'Jonathan Fielding'
+        twitter: JonthanFielding
+        github: jonathan-fielding
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/8'
+    slides: null
+  -
+    title: 'The Exciting World of 3D'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-17 00:00'
+    speakers:
+      -
+        name: 'Sean McGee'
+        twitter: HertsWestUK
+        github: smcgee2
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/16'
+    slides: null
+  -
+    title: 'Love poems to JavaScript, Part 3'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-17 00:00'
+    speakers:
+      -
+        name: 'Jani Eväkallio'
+        twitter: jevakallio
+        github: jevakallio
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/10'
+    slides: null
+  -
+    title: 'Fear and Loathing in JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-17 00:00'
+    speakers:
+      -
+        name: 'Dylan Schiemann'
+        twitter: dylans
+        github: dylans
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/6'
+    slides: null
+  -
+    title: 'Data Visualisations and GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-17 00:00'
+    speakers:
+      -
+        name: 'Sandeep Singh'
+        twitter: null
+        github: null
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/13'
+    slides: null
+  -
+    title: 'Unidirectional data flows and WebGL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-17 00:00'
+    speakers:
+      -
+        name: 'Alvin Ourrad'
+        twitter: alvinsight
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How to be a Web AV Artist'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-17 00:00'
+    speakers:
+      -
+        name: 'Ruth John'
+        twitter: Rumyra
+        github: Rumyra
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/17'
+    slides: null

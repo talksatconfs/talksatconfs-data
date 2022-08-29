@@ -1,0 +1,107 @@
+name: 'Goruco 2011'
+description: ''
+location: '1 Pace Plaza, Pace University Campus, Lower Manhattan'
+venue: ''
+city: ''
+country: ''
+link: 'http://2011.goruco.com/'
+playlist: ''
+from_date: '2011-06-04'
+to_date: '2011-06-04'
+tags: ''
+talks:
+  -
+    title: 'CoffeeScript for the Well-Rounded Rubyist'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-06-04 00:00'
+    speakers:
+      -
+        name: 'Jeremy Ashkenas'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'HysteriaEngine: Ruby Does Violence in the Name of Science'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-06-04 00:00'
+    speakers:
+      -
+        name: 'Casey Rosenthal'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Build It and They Will Come (Rubinius Edition)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-06-04 00:00'
+    speakers:
+      -
+        name: 'Evan Phoenix'
+        twitter: evanphx
+        github: evanphx
+    videos: null
+    slides: null
+  -
+    title: 'Using Your Database'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-06-04 00:00'
+    speakers:
+      -
+        name: 'John Crepezzi'
+        twitter: null
+        github: null
+      -
+        name: 'Mat Brown'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Indexing Thousands of Writes Per Second With Redis'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-06-04 00:00'
+    speakers:
+      -
+        name: 'Paul Dix'
+        twitter: pauldix
+        github: pauldix
+    videos: null
+    slides: null
+  -
+    title: 'Less - The Path to Better Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-06-04 00:00'
+    speakers:
+      -
+        name: 'Sandi Metz'
+        twitter: sendimetz
+        github: skmetz
+    videos: null
+    slides: null
+  -
+    title: 'Few Constraints More Concurrency'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-06-04 00:00'
+    speakers:
+      -
+        name: 'Ryan Smith'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

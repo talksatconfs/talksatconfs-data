@@ -1,0 +1,488 @@
+name: '!!Con 2016'
+description: ''
+location: 'New York City'
+venue: ''
+city: ''
+country: ''
+link: 'http://bangbangcon.com/2016/index.html'
+playlist: ''
+from_date: '2016-05-07'
+to_date: '2016-05-08'
+tags: ''
+talks:
+  -
+    title: 'Mixing Paint! With Computers!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Diana Liao'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EIecGXs8jqY'
+    slides: null
+  -
+    title: 'My favorite NP-complete problem!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Mark Dominus'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BJBnR5Sn-sc'
+    slides: null
+  -
+    title: 'Ink on fingers! The history of printing (with code!) before computer screens'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Mariko Kosaka'
+        twitter: kosamari
+        github: kosamari
+    videos:
+      - 'youtube:ev8clXnW6PI'
+    slides: null
+  -
+    title: 'Upstream/Downstream: Discovering and Displaying Watershed Topology!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Mark Phillips'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7EwcL_isA-c'
+    slides: null
+  -
+    title: "Finding out what's really going on, with DTrace!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Colin Jones'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1OMX69KOhGg'
+    slides: null
+  -
+    title: '"values of β may give rise to dom!"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Mark Allen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FyLnF9U18rY'
+    slides: null
+  -
+    title: 'Don’t forget to sketch! Running with large datasets'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Adam Marcus'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:79x0vMZ89Vw'
+    slides: null
+  -
+    title: 'Sorting is as easy as 1, 2, 3 --- but not as easy as a, b, c!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jake Levine'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kmLHuKs0M10'
+    slides: null
+  -
+    title: 'Preserving Digital Art and Games for 100 Years!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: Wilkie
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:R9b5TNOlyRo'
+    slides: null
+  -
+    title: "They're functional! They're efficient!! They’re persistent data structures!!!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Anjana Vakil'
+        twitter: AnjanaVakil
+        github: vakila
+    videos:
+      - 'youtube:vo2A_FBleW4'
+    slides: null
+  -
+    title: 'Storing your data in kernel space: an excellent bad idea!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Kamal Marhubi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gg0xNgHrAAc'
+    slides: null
+  -
+    title: 'Debugging debuggers!!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Samy Al Bahra'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OEa0EfJja_Y'
+    slides: null
+  -
+    title: 'Keynote: The Unfortunate Value of Failure'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Ramsey Nasser'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JrwBDKV-6pQ'
+    slides: null
+  -
+    title: 'Surprise Talk: The Origin Story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Erty Seidel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rBn-E4yFFuI'
+    slides: null
+  -
+    title: 'A million things to do with a computer!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: Tef
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vU9myNJI9l4'
+    slides: null
+  -
+    title: 'Convolution and the Fourier Transform: Math! (in pictures!!)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Laura Lindzey'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rzCO5fQysw0'
+    slides: null
+  -
+    title: 'lol im so random!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Mark Wunsch'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pdUCK_io9SQ'
+    slides: null
+  -
+    title: 'Plants are Recursive!!: Using L-Systems to Generate Realistic Weeds'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Sher Minn Chong'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0eXg4B1feOY'
+    slides: null
+  -
+    title: 'A Shot in the Dark!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Brendan Curran Johnson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:izq_9s6nkO4'
+    slides: null
+  -
+    title: 'Making Money Disappear with Hash Functions!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Brendan Cordy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GU8YzFmBIc4'
+    slides: null
+  -
+    title: 'Lossy text compression, for some reason?!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Allison Parrish'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:meovx9OqWJc'
+    slides: null
+  -
+    title: 'I’m not a number, I’m a free file descriptor!!1 (Our protagonist promptly disappears down a wormhole)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Andreas Fuchs'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_XgXCVULj0o'
+    slides: null
+  -
+    title: 'All Together Now! Programming the Quantum Computer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jennifer Fernick'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-KDPg6BntwU'
+    slides: null
+  -
+    title: 'The Tales of the Cursed Operating Systems Textbook!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Kiran Bhattaram'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QxtwVsHxvC4'
+    slides: null
+  -
+    title: 'Code in Spaaaaaace!!!!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Katie Bechtold'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ETgNLF_XpEM'
+    slides: null
+  -
+    title: 'How to trick a neural network!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Julia Evans'
+        twitter: b0rk
+        github: null
+    videos:
+      - 'youtube:7_DX1EGKZXY'
+    slides: null
+  -
+    title: 'Opening Words'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Lindsey Kuper and Julia Evans'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gGZl0t0WpLo'
+    slides: null
+  -
+    title: 'Keynote: The Creative Programmer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Catt Small'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WBOA2MI4u7w'
+    slides: null
+  -
+    title: 'How I fixed UNIX atime! With 10 lines of code and feminism!!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Valerie Aurora'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fHjsdyN4UK0'
+    slides: null
+  -
+    title: 'What Developers and Economists Can Learn from Each Other!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Rob Jefferson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mwnOiblMWC0'
+    slides: null
+  -
+    title: 'Making a Metaverse! A WebVR (not so M)MO for Programmers!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Irvin Hwang'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lKXDq8tN9gk'
+    slides: null
+  -
+    title: 'Ping! Are you there?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Lydia Gu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nSB53WRGY_0'
+    slides: null
+  -
+    title: 'How I Code and Use a Computer at 1,000 WPM!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Sina Bahram'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:G1r55efei5c'
+    slides: null
+  -
+    title: 'My favorite Unicode character: the zero-width joiner!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Anne Decusatis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4wevZ1vohDY'
+    slides: null

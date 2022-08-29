@@ -1,0 +1,443 @@
+name: 'EmberConf 2016'
+description: ''
+location: 'Portland, OR, United States'
+venue: ''
+city: ''
+country: ''
+link: 'https://2016.emberconf.com/'
+playlist: ''
+from_date: '2016-03-28'
+to_date: '2016-03-30'
+tags: ''
+talks:
+  -
+    title: "You're Building a Distributed System!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Mike Pack'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-ecg0wPakWI'
+    slides: null
+  -
+    title: 'Ember Between Design and Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Lisa Gringl'
+        twitter: null
+        github: null
+      -
+        name: 'Francesco Novy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mIpwlxdqLcU'
+    slides: null
+  -
+    title: 'How to Build a Compiler'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'James Kyle'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Tar4WgAfMr4'
+    slides: null
+  -
+    title: 'The Tale of Two Teams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Ray Tiley'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:82hCVrgqlrM'
+    slides: null
+  -
+    title: 'Building Mobile Applications with Ember'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Alex Blom'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Ry639hvWKbM'
+    slides: null
+  -
+    title: 'The Great Migration, Redesigning and Rewriting our App in Ember.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Jade Applegate'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mbESxa_0PBs'
+    slides: null
+  -
+    title: 'Living Style Guide Driven Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Chris LoPresto'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Z1lL_Zo62h0'
+    slides: null
+  -
+    title: 'Building Desktop Apps with Ember and Electron'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Felix Rieseberg'
+        twitter: felixrieseberg
+        github: felixrieseberg
+    videos:
+      - 'youtube:_uA5LZk2vmQ'
+    slides: null
+  -
+    title: 'Cross-Pollinating Communities, We All Win'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Chris Ball'
+        twitter: cball_
+        github: null
+    videos:
+      - 'youtube:DDnN3Qnd3tw'
+    slides: null
+  -
+    title: 'How I Learned to Love Ember'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Ju Liu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:m2YD-wA5sAw'
+    slides: null
+  -
+    title: 'Compose Yourself with Ember and D3'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Ivan Vanderbyl'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SOfwqwqWhMU'
+    slides: null
+  -
+    title: 'Idiomatic Ember, Sweet Spot of Performance and Productivity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Lauren Elizabeth Tan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lP9ap-AKBAM'
+    slides: null
+  -
+    title: 'Immutability is for UI, You, and I'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Charles Lowell'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:r2Cq1mUlRk4'
+    slides: null
+  -
+    title: 'Warp Speed Memory Management'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Kelly Senna'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5goUZF45VCk'
+    slides: null
+  -
+    title: 'The Ember Addon Community'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Katie Gengler'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_FZw_cokIhc'
+    slides: null
+  -
+    title: 'Ember CLI, The Next Generation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Stefan Penner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UMo9DHrRccI'
+    slides: null
+  -
+    title: 'Easy-Bake Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Liz Baillie'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9Wj01UrGtfs'
+    slides: null
+  -
+    title: 'Debugging Ember With Empathy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Vaidehi Joshi'
+        twitter: vaidehijoshi
+        github: vaidehijoshi
+    videos:
+      - 'youtube:CctE59nvXyw'
+    slides: null
+  -
+    title: 'Building a Game in Ember Starring Your Cat'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Matt McKenna'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:t9v3CBowdxw'
+    slides: null
+  -
+    title: 'Using Service Workers in Ember'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'John Kleinschmidt'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9YOvV4ZgDhU'
+    slides: null
+  -
+    title: 'The Future of Ember Templating'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Godfrey Chan'
+        twitter: chancancode
+        github: null
+      -
+        name: 'Yehuda Katz'
+        twitter: wycats
+        github: null
+    videos:
+      - 'youtube:dpx9P1cz37k'
+    slides: null
+  -
+    title: '<select>ing Good Ember Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: "Brenna O'Brien"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yvvst_639oY'
+    slides: null
+  -
+    title: 'Closing Keynote" Reversing the River"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Oren Teich'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EZT9ndgOE6U'
+    slides: null
+  -
+    title: 'Migrating an Existing App to Ember, Component After Component'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Xavier Cambar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-iL8ME7Ux2k'
+    slides: null
+  -
+    title: 'EmberConf MiniTalks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Leah Silber'
+        twitter: wifelette
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Opening Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Tom Dale'
+        twitter: tomdale
+        github: tomdale
+      -
+        name: 'Yehuda Katz'
+        twitter: wycats
+        github: null
+    videos:
+      - 'youtube:OInJBwS8VDQ'
+    slides: null
+  -
+    title: 'Dissecting an Ember CLI Build'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Estelle DeBlois'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hNwgp9alwKg'
+    slides: null
+  -
+    title: 'Ember at Scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Chad Hietala'
+        twitter: chadhietala
+        github: chadhietala
+    videos:
+      - 'youtube:xvzM-v9xaEw'
+    slides: null
+  -
+    title: 'An Illustrated Guide to Ember'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Brigitte Warner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-TB-u5QxjE4'
+    slides: null
+  -
+    title: 'Interoperable Component Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Matthew Beale'
+        twitter: mixonic
+        github: null
+    videos:
+      - 'youtube:fFbns_4YR28'
+    slides: null

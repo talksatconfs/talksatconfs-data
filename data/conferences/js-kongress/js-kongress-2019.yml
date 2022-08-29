@@ -1,0 +1,271 @@
+name: 'JS Kongress 2019'
+description: '(R)evolution of Architectures - we will dig deeper into the role of JavaScript as a driving force for modern software and cloud architectures'
+location: ''
+venue: ''
+city: Munich
+country: Germany
+link: 'https://2019.js-kongress.com/'
+playlist: 'youtube.com:PL8ajgHZ7PoCviKPAFTeYRkp7cDAm6ZC50'
+from_date: '2019-03-11'
+to_date: '2019-03-12'
+tags: ''
+talks:
+  -
+    title: 'Opening Keynote | Everything’s a plugin: Understanding webpack from the inside out'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-11 00:00'
+    speakers:
+      -
+        name: 'Sean Larkin'
+        twitter: TheLarkInn
+        github: thelarkinn
+    videos:
+      - 'youtube:H3g0BdyVVxA'
+    slides: null
+  -
+    title: 'Future JavaScript: what is still missing?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-11 00:00'
+    speakers:
+      -
+        name: 'Dr. Axel Rauschmayer'
+        twitter: rauschma
+        github: null
+    videos:
+      - 'youtube:XYAgmj527PU'
+    slides:
+      - 'https://speakerdeck.com/rauschma/future-javascript-what-is-still-missing'
+  -
+    title: 'How To Combine Event Sourcing Architecture In Your Node.js Server'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-11 00:00'
+    speakers:
+      -
+        name: 'Tamar Twena-Stern'
+        twitter: SternTwena
+        github: null
+    videos:
+      - 'youtube:eOqgg0xmG3w'
+    slides:
+      - 'https://speakerdeck.com/tamartwena/event-sourcing-in-node-dot-js'
+  -
+    title: 'A web platform feature is born! – massively distributed multiplayer engineering'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-11 00:00'
+    speakers:
+      -
+        name: 'Mariko Kosaka'
+        twitter: kosamari
+        github: kosamari
+    videos: null
+    slides: null
+  -
+    title: 'Taming reactive node.js: Stream-oriented architecture with NestJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-11 00:00'
+    speakers:
+      -
+        name: 'Kamil Myśliwiec'
+        twitter: kammysliwiec
+        github: kamilmysliwiec
+    videos:
+      - 'youtube:c8hvW14VdkY'
+    slides:
+      - 'https://speakerdeck.com/kamilmysliwiec/taming-reactive-node-dot-js-stream-oriented-architecture-with-nest'
+  -
+    title: 'Mastering UIs with Finite State Machines'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-11 00:00'
+    speakers:
+      -
+        name: 'Rubén Sospedra'
+        twitter: 'sospedra_r) is'
+        github: null
+    videos:
+      - 'youtube:qouq0qkkIPM'
+    slides:
+      - 'https://github.com/sospedra/talks/blob/master/finite-state-machines/slides.pdf'
+  -
+    title: 'Like A Surgeon – Dissecting a completely Functional-Reactive JavaScript app for the very first time'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-11 00:00'
+    speakers:
+      -
+        name: 'Netta Bondy'
+        twitter: _bondit_
+        github: NettaB
+    videos:
+      - 'youtube:tchjAe0udO0'
+    slides:
+      - 'https://www.slideshare.net/NettaBondy/like-a-surgeon-dissecting-a-completely-functional-reactive-javascript-app-for-the-very-first-time-1'
+  -
+    title: 'Independent deployment of the frontend with Docker and Kubernetes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-11 00:00'
+    speakers:
+      -
+        name: 'Monica Lent'
+        twitter: monicalent
+        github: mlent
+    videos:
+      - 'youtube:ZuzSEQGE9qM'
+    slides: null
+  -
+    title: 'Crafting state management – A principle based architecture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-11 00:00'
+    speakers:
+      -
+        name: 'Michael Hladky'
+        twitter: Michael_Hladky
+        github: null
+    videos:
+      - 'youtube:eXNph3xMRWY'
+    slides: null
+  -
+    title: 'Opening Keynote: The big piece of the post-LAMP pie'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-12 00:00'
+    speakers:
+      -
+        name: 'Maria Shoaib'
+        twitter: mariashoaib01
+        github: null
+    videos:
+      - 'youtube:tdqoj7DZK9c'
+    slides: null
+  -
+    title: 'Decomposition and beyond: frontend engineering at scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-12 00:00'
+    speakers:
+      -
+        name: 'Nadia Makarevich'
+        twitter: nadia_jsdev
+        github: null
+    videos:
+      - 'youtube:UsEaqeUbNQo'
+    slides:
+      - 'https://drive.google.com/file/d/1N9XdUqCMa6fZ0j0G4yvEs9I4MJJivIBZ/view'
+  -
+    title: 'Angular, React, Vue and Co. – peacefully united thanks to Web Components and Micro Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-12 00:00'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos:
+      - 'youtube:AX11VVfex6U'
+    slides:
+      - 'https://speakerdeck.com/manfredsteyer/angular-react-vue-and-co-peacefully-united-thanks-to-web-components-and-micro-apps-72bbaaf1-c226-47dc-b280-f2a5000c33e1'
+  -
+    title: 'Scaling Node.js applications with Kubernetes and Docker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-12 00:00'
+    speakers:
+      -
+        name: 'Erick Wendel'
+        twitter: erickwendel_
+        github: null
+    videos:
+      - 'youtube:ZgMAYQmSJO4'
+    slides:
+      - 'https://www.icloud.com/keynote/04VR3IquunOYEv3G83OTTYn8w#_Scaling_Node.js_applications_with_Kubernetes_and_Docker_-_JSKongress_-_12032019'
+  -
+    title: 'Beyond JavaScript: The languages for the modern Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-12 00:00'
+    speakers:
+      -
+        name: 'Julian Antonielli'
+        twitter: _jjant
+        github: null
+    videos:
+      - 'youtube:gA6sZYKNfig'
+    slides: null
+  -
+    title: 'Weaving Webs of Workers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-12 00:00'
+    speakers:
+      -
+        name: 'Trent Willis'
+        twitter: trentmwillis
+        github: trentmwillis
+    videos:
+      - 'youtube:voFXsFRc6jU'
+    slides:
+      - 'https://noti.st/trentmwillis/RxTcdy/weaving-webs-of-workers#sAP3aNC'
+  -
+    title: 'Let your users decide what they want'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-12 00:00'
+    speakers:
+      -
+        name: 'Narendra Shetty'
+        twitter: narendra_shetty
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Front-End Stands Alone'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-12 00:00'
+    speakers:
+      -
+        name: 'Keerthana Krishnan'
+        twitter: KeerthanaK17
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Streaming HTTP and GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-12 00:00'
+    speakers:
+      -
+        name: 'Rob Richard'
+        twitter: rob_richard
+        github: null
+    videos:
+      - 'youtube:MzRwwmKnrNQ'
+    slides:
+      - 'https://robrichard.net/jskongress-2019/#1'

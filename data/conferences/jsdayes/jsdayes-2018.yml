@@ -1,0 +1,299 @@
+name: 'JSDayES 2018'
+description: 'Para muchos de nosotros, el desarrollo web es, simplemente, apasionante. Estar al tanto de las últimas tendencias en desarrollo, los últimos cambios de nuestro framework de cabecera o incluso de sus competidores, son parte de nuestro día a día. Por ese motivo, seguramente, estás ahora leyendo este artículo en el blog de JSDayES.'
+location: ''
+venue: ''
+city: Madrid
+country: Spain
+link: 'https://2018.jsday.es/'
+playlist: 'youtube.com:PLCE-eme9nf8Elh9DEr9of7kCY8BOUbhBy'
+from_date: '2018-10-20'
+to_date: '2018-10-20'
+tags: ''
+talks:
+  -
+    title: 'Just keep swimming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-20 00:00'
+    speakers:
+      -
+        name: 'Catalina Oyaneder'
+        twitter: cataflu
+        github: cat2608
+    videos:
+      - 'youtube:ME2udmhXjKU'
+    slides: null
+  -
+    title: 'Creando las aplicaciones web del futuro, hoy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-20 00:00'
+    speakers:
+      -
+        name: 'Eduardo Sada'
+        twitter: aeroalquimia
+        github: null
+      -
+        name: 'Cristina Ponce Torres'
+        twitter: CristinaGrim
+        github: null
+    videos:
+      - 'youtube:UBwZBS-_iAM'
+    slides: null
+  -
+    title: 'TensorFlow.js FullStack Machine Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-20 00:00'
+    speakers:
+      -
+        name: 'Laura Morillo'
+        twitter: Laura_Morillo
+        github: null
+      -
+        name: 'Luis Talegón'
+        twitter: Luisetex
+        github: null
+    videos:
+      - 'youtube:qruLax3zLUY'
+    slides: null
+  -
+    title: 'V8 conoce al enemigo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-20 00:00'
+    speakers:
+      -
+        name: 'Diego Lafuente Garcia'
+        twitter: tufosa
+        github: DiegoTUI
+    videos:
+      - 'youtube:QWNhHVLBuD8'
+    slides: null
+  -
+    title: 'Construir con JS una AI para jugar al ajedrez en 40 minutos'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-20 00:00'
+    speakers:
+      -
+        name: 'Gonzalo Ruiz de Villa'
+        twitter: gruizdevilla
+        github: null
+    videos:
+      - 'youtube:NUqXAFTqBmw'
+    slides:
+      - 'https://slides.com/gruizdevilla/chess'
+  -
+    title: 'Front performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-20 00:00'
+    speakers:
+      -
+        name: 'Ana Encinar'
+        twitter: jnisabe
+        github: null
+    videos:
+      - 'youtube:Lw1H9Owj2Mo'
+    slides: null
+  -
+    title: 'Generators ¿un Hummer en el establo?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-20 00:00'
+    speakers:
+      -
+        name: 'Pedro Palao'
+        twitter: null
+        github: null
+      -
+        name: 'Federico Badiola'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fMZ5t8GcEpg'
+    slides: null
+  -
+    title: 'Muerte a las libreríasJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-20 00:00'
+    speakers:
+      -
+        name: 'Héctor Moreno'
+        twitter: Hecmocerpro
+        github: hecmocer-pro
+    videos:
+      - 'youtube:N5PJXBPx4Qg'
+    slides: null
+  -
+    title: 'The Big Fails Theory'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-20 00:00'
+    speakers:
+      -
+        name: 'Marta Fonda'
+        twitter: MartaFonda
+        github: martafonda
+    videos:
+      - 'youtube:u4j5U8ldrcI'
+    slides: null
+  -
+    title: 'Algoritmos cuánticos para JavaScripters'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-20 00:00'
+    speakers:
+      -
+        name: 'Jesús Pérez'
+        twitter: jesusprubio
+        github: jesusprubio
+    videos:
+      - 'youtube:0trvK-DDfF0'
+    slides:
+      - 'https://slides.com/jesusprubio/quantum-for-javascripters/fullscreen#/'
+  -
+    title: '¿Cómo funciona un Virtual DOM?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-20 00:00'
+    speakers:
+      -
+        name: 'Rubén Valseca'
+        twitter: rubnvp
+        github: rubnvp
+    videos:
+      - 'youtube:yFE4iWkrI2Y'
+    slides:
+      - 'https://docs.google.com/presentation/d/1Eq95XNOaxlWTIKRDj62NGXy6DRmiacQ7PYUGP1zjVwQ/'
+  -
+    title: 'Aterrizando en JS consejos para [node]sesperar en el intento'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-20 00:00'
+    speakers:
+      -
+        name: 'Esther Lozano'
+        twitter: esloho
+        github: null
+    videos:
+      - 'youtube:igtw2C5gb3E'
+    slides:
+      - 'https://www.slideshare.net/esloho/'
+  -
+    title: 'Stencil from frameworks to compilers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-20 00:00'
+    speakers:
+      -
+        name: 'Manuel Martinez-Almeida'
+        twitter: manucorporat
+        github: manucorporat
+    videos:
+      - 'youtube:y85ghhCrBME'
+    slides:
+      - 'https://github.com/manucorporat/stencil-framework-to-compiler/'
+  -
+    title: "it('should be easier') Testing automatizado en el mundo real"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-20 00:00'
+    speakers:
+      -
+        name: 'PAQUI CALABRIA'
+        twitter: zurribulle
+        github: fcalabria
+    videos:
+      - 'youtube:Vn408golSxA'
+    slides:
+      - 'https://slides.com/paquicalabria/itshouldbeeasy#/'
+  -
+    title: '3D virtual puppet remote controlled with smartphone'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-20 00:00'
+    speakers:
+      -
+        name: 'Gorka Ludlow'
+        twitter: AquiGorka
+        github: AquiGorka
+    videos:
+      - 'youtube:m-1iidVTY58'
+    slides: null
+  -
+    title: 'Escribiendo Service Workers con Workbox'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-20 00:00'
+    speakers:
+      -
+        name: 'Pablo Magaz'
+        twitter: pablo_magaz
+        github: pmagaz
+    videos:
+      - 'youtube:GjXwJdYa3J4'
+    slides:
+      - 'https://pablomagaz.com/static/slides/'
+  -
+    title: 'Vanilla JS Graphics and Animations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-20 00:00'
+    speakers:
+      -
+        name: 'Ibon Tolosana'
+        twitter: hyperandroid
+        github: null
+    videos:
+      - 'youtube:BYztulUzY4k'
+    slides: null
+  -
+    title: 'Mastering UIs with Finite State Machines'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-20 00:00'
+    speakers:
+      -
+        name: 'Rubén Sospedra'
+        twitter: 'sospedra_r) is'
+        github: null
+    videos:
+      - 'youtube:rltGBd_tMks'
+    slides:
+      - 'https://github.com/sospedra/talks/blo'
+  -
+    title: 'Advanced JavaScript patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-20 00:00'
+    speakers:
+      -
+        name: 'César Alberca'
+        twitter: cesalberca
+        github: cesalberca
+    videos:
+      - 'youtube:aNf1Oos0ZB8'
+    slides:
+      - 'https://docs.google.com/presentation/d/1LEWc3ErrzjaN3nzlsMtGVx1QKGsc8G2mgw-qP-WZhJo/edit#slide=id.p'

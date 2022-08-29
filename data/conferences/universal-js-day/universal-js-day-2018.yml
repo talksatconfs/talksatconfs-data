@@ -1,0 +1,132 @@
+name: 'Universal JS Day 2018'
+description: 'Have you ever wondered how you can quickly spread your app on different mobile platforms like iOS, Android or desktop? Companies like Facebook, NetFlix or PayPal use JavaScript in their development stack from the web server to their mobile device. We will discuss together through talk and workshops how JavaScript can improve and expand the target of our apps, but above all understand how much this language used together with new frameworks and patterns such as React Native, Ionic, Server Side Rendering, Progressive Web Apps, Electron, NativeScript open new horizons in the development of cross-platform applications integrated in the cloud.'
+location: ''
+venue: ''
+city: Ferrara
+country: Italy
+link: 'https://2018.universaljsday.com/'
+playlist: 'youtube.com:PLWK9j6ps_unkHJak0fQzk9n3A9TyNq-Hh'
+from_date: '2018-04-19'
+to_date: '2018-04-20'
+tags: ''
+talks:
+  -
+    title: 'What Service Workers can do'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-20 00:00'
+    speakers:
+      -
+        name: 'Maurizio Mangione'
+        twitter: granze
+        github: null
+    videos:
+      - 'youtube:uvmBH65L5Ik'
+    slides:
+      - 'https://docs.google.com/presentation/d/1I_DuNCCc5u_CIu5cgausA9-OeWBuwZiaJrpS3L31c70/edit#slide=id.p'
+  -
+    title: 'Hitchhiker''s guide to the "Universe"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-20 00:00'
+    speakers:
+      -
+        name: 'Giacomo Zinetti'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Hv1CcXCvm7A'
+    slides:
+      - 'https://universaljsday2018.slides.giko.it/'
+  -
+    title: 'Mobile App Development: First steps with NativeScript and Angular 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-20 00:00'
+    speakers:
+      -
+        name: 'Filippo Matteo Riggio'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4BEj50xhwG4'
+    slides:
+      - 'https://2018.universaljsday.com/download/nativescript-slides.pdf'
+  -
+    title: 'Refactor of a hi-fi music player in JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-20 00:00'
+    speakers:
+      -
+        name: 'Andrea Coiutti'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NkMakO5YfLM'
+    slides:
+      - 'http://slides.com/andreacoiutti/refactoring-runeaudio/fullscreen#/'
+  -
+    title: 'SIP WebRTC phone in your browser: from sipML5 to Janus'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-20 00:00'
+    speakers:
+      -
+        name: 'Alessandro Polidori'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NfFNPiBiQUA'
+    slides:
+      - 'https://www.slideshare.net/ale_polidori/telefono-sip-webrtc-nel-tuo-browser-da-sipml5-a-janus'
+  -
+    title: 'Making desktop applications with Electron and Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-20 00:00'
+    speakers:
+      -
+        name: 'Michele Aponte'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MuOarje-soo'
+    slides:
+      - 'https://www.slideshare.net/apomic80/realizzare-applicazioni-desktop-con-electron-e-angular-97258640'
+  -
+    title: 'Dealing with CSS universally'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-20 00:00'
+    speakers:
+      -
+        name: 'Simon Vocella'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2HgAa7VtyHQ'
+    slides:
+      - 'https://speakerdeck.com/voxsim/dealing-with-css-universally'
+  -
+    title: 'Fun with Bluetooth'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-20 00:00'
+    speakers:
+      -
+        name: 'Niels Leenheer'
+        twitter: html5test
+        github: NielsLeenheer
+    videos:
+      - 'youtube:RJa2yaL_mto'
+    slides:
+      - 'https://speakerdeck.com/nielsleenheer/fun-with-bluetooth-at-universal-js-day'

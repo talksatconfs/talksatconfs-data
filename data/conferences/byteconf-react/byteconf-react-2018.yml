@@ -1,0 +1,132 @@
+name: 'Byteconf React 2018'
+description: 'Byteconf React is a 100% free conference with the best JavaScript and React speakers in the world.'
+location: ''
+venue: ''
+city: ''
+country: ''
+link: 'https://www.byteconf.com/react-2018/'
+playlist: 'youtube.com:PLH_Crma-Dc9PRM7KxKerImYGUY22wkR3Z'
+from_date: '2018-08-31'
+to_date: '2018-08-31'
+tags: ''
+talks:
+  -
+    title: 'Reactive Programming: The Solution to JavaScript Fatigue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Tracy Lee'
+        twitter: ladyleet
+        github: ladyleet
+    videos:
+      - 'youtube:iyW9yMRMm4c'
+    slides:
+      - 'https://www.slideshare.net/ladyleet/reactive-programming-with-rxjs-byteconf-2018'
+  -
+    title: 'Applying the science of habit formation to improve coding skills'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Alex Kallaway'
+        twitter: ka11away
+        github: null
+    videos:
+      - 'youtube:kFjQAasFWUw'
+    slides:
+      - 'https://s3.amazonaws.com/byteconf-production/react-2018/alex-kallaway.pdf'
+  -
+    title: 'Learning Backwards: Learning CS Through the Lens of React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Kyle Shevlin'
+        twitter: kyleshevlin
+        github: null
+    videos:
+      - 'youtube:0QdUsOSt60s'
+    slides:
+      - 'http://kyleshevlin.github.io/learning-backwards'
+  -
+    title: 'Insights from building rich animated experiences in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Jeremias Menichelli'
+        twitter: jeremenichelli
+        github: null
+    videos:
+      - 'youtube:S3u-ccn4PEM'
+    slides:
+      - 'https://slides.com/jeremenichelli/rich-animated-experiences-react/'
+  -
+    title: 'Testing Big with BigTest in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Robert DeLuca'
+        twitter: robdel12
+        github: robdel12
+    videos:
+      - 'youtube:w8a7Km9b6UI'
+    slides:
+      - 'https://speakerdeck.com/robdel12/testing-big-in-javascript'
+  -
+    title: 'Dr Strangelove: or how I stopped worrying and learned to love higher order functions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Tim Roberts'
+        twitter: cirsca
+        github: null
+    videos:
+      - 'youtube:Z5A3vc6AucY'
+    slides:
+      - 'https://docs.google.com/presentation/d/1Vh03g-Xmb_emXJ0dNtsb7IFsO71GUPz6G8wCNYHUph0/edit#slide=id.g35f391192_04'
+  -
+    title: 'Building AR Apps with React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Vladimir Novick'
+        twitter: VladimirNovick
+        github: vnovick
+    videos:
+      - 'youtube:1GToikXnNaw'
+    slides:
+      - 'https://www.beautiful.ai/deck/-LKwMZNHA9Ok5S-xRt_J/Building-AR-Apps-Byteconf'
+  -
+    title: 'Confident React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Kent C. Dodds'
+        twitter: kentcdodds
+        github: kentcdodds
+    videos:
+      - 'youtube:zGlnlP99aFk'
+    slides:
+      - 'https://slides.com/kentcdodds/confident-react'

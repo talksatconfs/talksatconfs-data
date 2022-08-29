@@ -1,0 +1,165 @@
+name: 'AlterConf Dublin, Ireland - 2016'
+description: ''
+location: 'Dublin, Ireland'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2016/dublin-ireland'
+playlist: ''
+from_date: '2016-08-06'
+to_date: '2016-08-06'
+tags: ''
+talks:
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Ashe Dryden'
+        twitter: ashedryden
+        github: ashedryden
+    videos: null
+    slides: null
+  -
+    title: 'Building an Accessible Community'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-06 00:00'
+    speakers:
+      -
+        name: 'Jenny Wong'
+        twitter: miss_jwo
+        github: null
+    videos:
+      - 'youtube:s-4eUBI0JtM'
+    slides: null
+  -
+    title: "How LGBT peoples' lives have been changed by the Internet"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-06 00:00'
+    speakers:
+      -
+        name: 'Anna Wilson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ucsbMpbuy2k'
+    slides: null
+  -
+    title: 'Safety in Online Spaces'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-06 00:00'
+    speakers:
+      -
+        name: 'February Keeney'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Rz8PSufBo4s'
+    slides: null
+  -
+    title: 'Debugging Fear'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-06 00:00'
+    speakers:
+      -
+        name: 'Ingrid Epure'
+        twitter: ingridepure
+        github: ingride
+    videos:
+      - 'youtube:TNOtaJcQG4Q'
+    slides: null
+  -
+    title: 'The Robotic CEO: Class at the Intersection of Technology and a Modest Proposal.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-06 00:00'
+    speakers:
+      -
+        name: 'Eilís Ní Fhlannagáin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ym_-HPiMqH8'
+    slides: null
+  -
+    title: 'Lessons from a life of exile'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-06 00:00'
+    speakers:
+      -
+        name: 'Daniel Irvine'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TMInndYD_BM'
+    slides: null
+  -
+    title: 'A name that disempowers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-06 00:00'
+    speakers:
+      -
+        name: Ariane
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8Gyy-gkpRoM'
+    slides: null
+  -
+    title: 'Who are Internet Filters for?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-06 00:00'
+    speakers:
+      -
+        name: 'Alyssa Ross'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JFyXsP4Wczc'
+    slides: null
+  -
+    title: 'Becoming Feerless: Lessons Learned from Building Tools for Mental Health'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-06 00:00'
+    speakers:
+      -
+        name: 'Danielle Leong'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_-ioklewPeI'
+    slides: null
+  -
+    title: "We want to believe, but we don't"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-06 00:00'
+    speakers:
+      -
+        name: 'Jacqueline Russell'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OxyQSJMvWBo'
+    slides: null

@@ -1,0 +1,301 @@
+name: "PHP fwdays'19"
+description: ''
+location: Kyiv
+venue: ''
+city: ''
+country: ''
+link: 'https://fwdays.com/en/event/php-fwdays-2019'
+playlist: ''
+from_date: '2019-06-01'
+to_date: '2019-06-01'
+tags: ''
+talks:
+  -
+    title: 'Is there life without ORM?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Sergey Protko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:S8bBJBdERi4'
+    slides: null
+  -
+    title: 'Using the Workflow component for e-commerce'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Michelle Sanver'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UUFqau_Yz1w'
+    slides: null
+  -
+    title: 'Development of multi-process runtime applications in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Igor Karpenko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fQKz1qaBPw4'
+    slides: null
+  -
+    title: 'Backwards Incompatible Tales'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Marco Pivetta'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4NIL4b4OjrU'
+    slides: null
+  -
+    title: 'Your web application is vulnerable!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Dmytro Naumenko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yBn865kTJa0'
+    slides: null
+  -
+    title: 'Discussion: Going wild with Microservices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Oleksii Petrov'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Mutation Testing in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Maks Rafalko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8t-gCS3wbEE'
+    slides: null
+  -
+    title: 'Taming the Beast of Asynchronous PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Oleksii Petrov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SpmnVDYwr_g'
+    slides: null
+  -
+    title: 'Discussion: PHP projects under high load'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Kirill Latysh'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Twig Designer's Professional Toolkit"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Andrey Yatsenko'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Developer's toolchain"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Dmytro Dziubenko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:J-QXtddhDrM'
+    slides: null
+  -
+    title: 'Handling Exceptional Conditions with Grace and Style'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Nikola Poša'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0INRyHKC5dQ'
+    slides: null
+  -
+    title: 'Discussion: Building Big Opensource'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Mykhailo Bodnarchuk'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Implementing async binary clients in pure PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Anton Shabouta'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8I-4fCJcadk'
+    slides: null
+  -
+    title: 'Projects scaling with Amazon Web Services'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Alexander Torosh'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:X03iObz5zBo'
+    slides: null
+  -
+    title: 'Discussion: Connecting PHP Communities. Organizer’s Experience'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Mykhailo Bodnarchuk'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Symfony 4 in action'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Fabien Potencier'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yfTLx-fcJio'
+    slides: null
+  -
+    title: 'Power-up micro-services with gRPC and ProtoBuffers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Oleksii Didenko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lx8pB5bJ61c'
+    slides: null
+  -
+    title: 'The history of the Codeception project'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Mykhailo Bodnarchuk'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3ddvBbxs2tQ'
+    slides: null
+  -
+    title: 'Designing hybrid Go/PHP applications using RoadRunner'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Anton Tsitou'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:647CIr6ZkDA'
+    slides: null
+  -
+    title: 'Refactoring Huge Legacy PHP Applications - From 100 hours to minutes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-01 00:00'
+    speakers:
+      -
+        name: 'Tomáš Votruba'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gQWQA-GZxXc'
+    slides: null

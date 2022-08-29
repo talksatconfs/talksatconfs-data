@@ -1,0 +1,984 @@
+name: 'RubyConf 2018'
+description: ''
+location: 'Los Angeles'
+venue: ''
+city: ''
+country: ''
+link: 'https://confreaks.tv/events/rubyconf2018'
+playlist: ''
+from_date: '2018-11-13'
+to_date: '2018-11-15'
+tags: ''
+talks:
+  -
+    title: 'JRuby 2018: Real World Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: 'Thomas Enebo'
+        twitter: null
+        github: null
+      -
+        name: 'Charles Nutter'
+        twitter: headius
+        github: headius
+    videos:
+      - 'youtube:_U-5TE9tBBA'
+    slides: null
+  -
+    title: "Humans Aren't APIs And Your Request Is 400 Denied"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: 'Jennifer Tu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jnC-JvbqnlA'
+    slides: null
+  -
+    title: 'Q&A with Matz'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: "Yukihiro 'Matz' Matsumoto"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gwZbR2oyjmQ'
+    slides: null
+  -
+    title: 'The Anatomy of a Ruby Gem: Going From Zero to Sharing Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Tony Drake'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XkGFMTyUr5A'
+    slides: null
+  -
+    title: "The Ruby Developer's Command Line Toolkit"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Brad Urani'
+        twitter: bradurani
+        github: null
+    videos:
+      - 'youtube:V0p7pWSxOXw'
+    slides: null
+  -
+    title: "The New Manager's Toolkit"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: 'Brandon Hays'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:67ky0Lxsq14'
+    slides: null
+  -
+    title: "Keynote: Who and What We're Leaving Behind"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Bianca Escalante'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:o2TdaLwTnKk'
+    slides: null
+  -
+    title: 'Practical guide to benchmarking your optimizations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Anna Gluszak'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FapHqq5kU_Y'
+    slides: null
+  -
+    title: 'Ruby-us Hagrid: Writing Harry Potter with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Alex Peattie'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gTru3pXKPnI'
+    slides: null
+  -
+    title: 'Empowering Early-Career Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Mercedes Bernard'
+        twitter: mercedescodes
+        github: null
+    videos:
+      - 'youtube:Qspf0SX_oPs'
+    slides: null
+  -
+    title: 'Keynote: Unlearning - The Challenge of Change'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: 'Jessie Shternshus'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:M0yO5sPxp-w'
+    slides: null
+  -
+    title: 'ROM: the final frontier of mruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Yurie Yamane'
+        twitter: null
+        github: null
+      -
+        name: 'Masahiko Takahashi'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Beating Mastermind: Winning with the help of Donald Knuth'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: 'Adam Forsyth'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Okm_t5T1PiA'
+    slides: null
+  -
+    title: 'Trash Talk: A Garbage Collection Choose-Your-Own-Adventure'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Colin Fulton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qXo3fqjY50o'
+    slides: null
+  -
+    title: 'High-speed cables for Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: 'Vladimir Dementyev'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8XRcOZXOzV4'
+    slides: null
+  -
+    title: 'The Psychology of Fake News (And What Tech Can Do About It)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Cecy Correa'
+        twitter: cecycorrea
+        github: null
+    videos:
+      - 'youtube:2cVfYMxqZmI'
+    slides: null
+  -
+    title: 'What poker can teach us about post-mortems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Cory Chamblin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4ak_UBZnemY'
+    slides: null
+  -
+    title: 'Reducing Enumerable - An Illustrated Adventure'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Brandon Weaver'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:x3b9KlzjJNM'
+    slides: null
+  -
+    title: 'Opening Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: "Yukihiro 'Matz' Matsumoto"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1XdTr84f-vA'
+    slides: null
+  -
+    title: 'BDD: Baby Driven Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Allison McMillan'
+        twitter: allie_p
+        github: null
+    videos:
+      - 'youtube:epALpAVlbTc'
+    slides: null
+  -
+    title: 'Cats, The Musical! Algorithmic Song Meow-ification'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Beth Haubert'
+        twitter: haubertdashery
+        github: bethanyhaubert
+    videos:
+      - 'youtube:W0h5dzEFclY'
+    slides: null
+  -
+    title: 'Building Serverless Ruby Bots'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: 'Damir Svrtan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:USktC3PLE9s'
+    slides: null
+  -
+    title: 'Cache is King: Get the Most Bang for Your Buck From Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Molly Struve'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vEi-vYcyTT8'
+    slides: null
+  -
+    title: 'Inheritance, Composition, Ruby and You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Cody Stringham'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_f2LYPpueAY'
+    slides: null
+  -
+    title: 'Hijacking Ruby Syntax in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: 'Tomohiro Hashidate'
+        twitter: null
+        github: null
+      -
+        name: 'Satoshi Tagomori'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZPaxvU7dMBU'
+    slides: null
+  -
+    title: 'Uncoupling Systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Jeremy Hanna'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:33kf0AhZ794'
+    slides: null
+  -
+    title: 'Make Ruby Write Your Code for You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Alex Stephen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Ly7lbd7myHU'
+    slides: null
+  -
+    title: "The New Design of Ruby's Documentation"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: 'ITOYANAGI Sakura'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:clahP0C0-Xg'
+    slides: null
+  -
+    title: 'Building web-based board games only with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: 'Yoh Osaki'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RdcjZs8Ysng'
+    slides: null
+  -
+    title: "Eiffel's Tower"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: 'Nickolas Means'
+        twitter: nmeans
+        github: null
+    videos:
+      - 'youtube:RslVT-L2A40'
+    slides: null
+  -
+    title: 'Branch in Time'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: 'Tekin Süleyman'
+        twitter: brilimitless
+        github: tekin
+    videos:
+      - 'youtube:8OOTVxKDwe0'
+    slides: null
+  -
+    title: "Let's subclass Hash - what's the worst that could happen?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Michael Herold'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:KzdSxgVPhXU'
+    slides: null
+  -
+    title: 'Cheating with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: 'Cameron Dutro'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fmxTHBO2Yzc'
+    slides: null
+  -
+    title: 'The Dangers of Tribal Knowledge'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Annie Sexton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:o-JL-so5Gm8'
+    slides: null
+  -
+    title: 'Ruby Family Feud'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Evan Phoenix'
+        twitter: evanphx
+        github: evanphx
+    videos:
+      - 'youtube:5DMw7MiBOGQ'
+    slides: null
+  -
+    title: 'Graphics and Simulations (and Games), Oh My!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Ryan Davis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5KVcsV_jseQ'
+    slides: null
+  -
+    title: 'Lightning Talks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:8s--ZyTmFxU'
+    slides: null
+  -
+    title: 'Designing an engineering team: Making room for everyone'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Jack Danger'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:04bgdpAlAxU'
+    slides: null
+  -
+    title: 'Retrospectives for Humans'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Courtney Eckhardt'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:s7R7V5wC0wA'
+    slides: null
+  -
+    title: 'The secret power of Ruby 2.6: JIT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Takashi Kokubun'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3fidwhVjuhs'
+    slides: null
+  -
+    title: 'No Title Required: How Leadership Can Come From Anywhere'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: 'Jim Liu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yEork8Tq2NE'
+    slides: null
+  -
+    title: 'Parallel programming in Ruby3 with Guild'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Koichi Sasada'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XiujvihOLq8'
+    slides: null
+  -
+    title: 'Keynote: How to Build a Magical Living Room'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Saron Yitbarek'
+        twitter: saronyitbarek
+        github: null
+    videos:
+      - 'youtube:nOscsODuol4'
+    slides: null
+  -
+    title: 'Wafflebot: Cloud Connected Artificially Intelligent Waffles'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Jonan Scheffler'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vXYklRYVjd4'
+    slides: null
+  -
+    title: 'Pointers for Eliminating Heaps of Memory'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Aaron Patterson'
+        twitter: tenderlove
+        github: tenderlove
+    videos:
+      - 'youtube:ZfgxvNUfQdU'
+    slides: null
+  -
+    title: 'Optimizations in Multiple Dimensions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Jamie Gaskins'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oze1Hu2sUdI'
+    slides: null
+  -
+    title: 'd[-_-]b REPL-ELECTRIC'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: 'Joseph Wilk'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jVgGYFfifAs'
+    slides: null
+  -
+    title: 'The Case of the Missing Method — A Ruby Mystery Story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Nadia Odunayo'
+        twitter: nodunayo
+        github: null
+    videos:
+      - 'youtube:mn2D_k-X-es'
+    slides: null
+  -
+    title: 'Ruby is the Best Javascript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: 'Kevin Kuchta'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:datDkio1AXM'
+    slides: null
+  -
+    title: 'Building for Gracious Failure'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'James Thompson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fAHwr9og4Ug'
+    slides: null
+  -
+    title: "It's Down! Simulating Incidents in Production"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Kelsey Pedersen'
+        twitter: kelsey_pedersen
+        github: null
+    videos:
+      - 'youtube:l03zuqXuxVw'
+    slides: null
+  -
+    title: "The Developer's Toolkit: Everything We Use But Ruby"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Noel Rappin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EeRyJtSTXv8'
+    slides: null
+  -
+    title: 'Building Generic Software'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: 'Chris Salzberg'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RZkemV_-__A'
+    slides: null
+  -
+    title: 'Yes, You Should Provide a Client Library For Your API'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Daniel Azuma'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Q8l_3jMhjwY'
+    slides: null
+  -
+    title: 'Unraveling the Masculinization of Technology'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Audrey Eschright'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DPLrJtighWU'
+    slides: null
+  -
+    title: 'Code Review, Forwards and Back'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Sumana Harihareswara'
+        twitter: null
+        github: null
+      -
+        name: 'Jason Owen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Ruby for Makers: Designing Physical Products With Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Andy Glass'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:S3yLn9fuT9M'
+    slides: null
+  -
+    title: 'The Games Developers Play'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Andy Croll'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IANnPHieT84'
+    slides: null
+  -
+    title: 'Secrets of a Stealth Mentee'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Katherine Wu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:aNnBowC-2ds'
+    slides: null
+  -
+    title: 'Sweat the Small Stuff'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Aaron Harpole'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Hx3LKRlJ774'
+    slides: null
+  -
+    title: 'Refactoring the Technical Interview'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Mark Siemers'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cMYTwP21dEU'
+    slides: null
+  -
+    title: 'Documentation Tradeoffs and Why Good Commits Matter'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Greggory Rothmeier'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cdpaQ6R7100'
+    slides: null
+  -
+    title: 'RubyPlot - Creating a Plotting Library for Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Pranav Garg'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7QBkckZ1aNQ'
+    slides: null
+  -
+    title: 'Live Mob Refactoring'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:bxNUCtz2svo'
+    slides: null
+  -
+    title: 'Running a Government Department on Ruby for over 13 Years'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Jeremy Evans'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:k7j4p4I1icY'
+    slides: null
+  -
+    title: 'Being Good: An Introduction to Robo- and Machine Ethics'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Eric Weinstein'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-9V1TQ49vmI'
+    slides: null
+  -
+    title: 'Ethical Data Collection for Regular Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Colin Fleming'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EkHhBpO6Kzo'
+    slides: null
+  -
+    title: 'The Atonement of J. Robert Oppenheimer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Caleb Thompson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1PWjTLvTkos'
+    slides: null
+  -
+    title: 'Building a Memex (with Ruby!)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: 'Andrew Louis'
+        twitter: hyfen
+        github: hyfen
+    videos:
+      - 'youtube:DFWxvQn4cf8'
+    slides: null

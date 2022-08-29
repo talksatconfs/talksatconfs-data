@@ -1,0 +1,309 @@
+name: 'HolyJS 2016'
+description: 'Do not confuse HolyJS with frontend conferences - there are many such in Russia. But until 2016 there was not a single conference on the most popular in the world (according to GitHub and RedMonk) programming language - JavaScript, which is most often associated with the frontend.'
+location: 'Moscow, Russian Federation'
+venue: ''
+city: Moscow
+country: 'Russian Federation'
+link: 'https://2016.holyjs-moscow.ru/en/'
+playlist: 'youtube:PL8sJahqnzh8IDythQu3ZJPqnvuSXQF8MV'
+from_date: '2016-12-11'
+to_date: '2016-12-11'
+tags: ''
+talks:
+  -
+    title: 'ECMAScript: latest and upcoming features'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Axel Rauschmayer'
+        twitter: rauschma
+        github: null
+    videos:
+      - 'youtube:bIPiqN2YTiQ'
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/3Wtdonv1aoWq6GgMWsOmO0/aafff034449f44d200292cc7bcf161b3/Axel_Rauschmayer___ECMAScript_a_______latest_and_upcoming_features.pdf'
+  -
+    title: 'Web applications: split monolith'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Victor Grishchenko'
+        twitter: gritzko
+        github: null
+    videos: null
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/6b6yocEZqgkms0omC2EKU2/23a2b87c370059e86f0ceafec03ba161/holy-msk.pdf'
+  -
+    title: 'Dr. Strangelove or How I Learned to Stop Worrying and Love the Serverless Chatbots'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Slobodan Stojanović'
+        twitter: slobodan_
+        github: stojanovic
+    videos:
+      - 'youtube:hRkK3xCYJ1g'
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/1WMFErbKO0muAmMwoOWGaA/c240315f0a44feff038cb94d67085732/SlobodanStojanovic_DrStrangeloveOrHowILearnedToStopWorryingAndLoveTheServerlessChatbots-2.pdf'
+  -
+    title: 'Web mutation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Pavel Kondratenko'
+        twitter: mrgustarus
+        github: null
+    videos: null
+    slides:
+      - 'https://downloads.ctfassets.net/nn534z2fqr9f/4o5NUKOz2gisoGgMKYGUgy/0dd1f1d9b5f5e6fd336e977791b5eb81/Pavel_Kondratenko-The_web_is_mutating.pdf'
+  -
+    title: 'How modern libraries and frameworks work with the DOM'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Vyacheslav Slinko'
+        twitter: vslinko
+        github: null
+    videos:
+      - 'youtube:P0XaHYtA1QE'
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/1qpWqK0BF2aI0mSKmuqy86/63d68412bb4582ecde32482903065ef4/Viacheslav_Slinko_-_How_modern_libraries_and_frameworks_work_with_DOM.pdf'
+  -
+    title: 'Debugging Node.js in Production'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Thomas Watson'
+        twitter: wa7son
+        github: null
+    videos:
+      - 'youtube:briH-bfleIM'
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/2UgTARoNfG6gYyw2y2A4SG/30ad30533cfd053f6f86548589c8c8b7/Thomas_Watson_-_Debugging_Node.js_in_Production.pdf'
+  -
+    title: 'Koa and middleware evolution'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Evgeny Pshenichny'
+        twitter: pshenichnyy
+        github: null
+    videos:
+      - 'youtube:uwlzpzZhlbE'
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/7CSsUvLVxmCWogsMCYYmck/05cf14c3627ddef869355fa208d07e32/koa-evolution-pshenichnyy-holyjs.pdf'
+  -
+    title: 'How to approach modern web applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Nikita Prokopov'
+        twitter: nikitonsky
+        github: null
+    videos:
+      - 'youtube:x9yYlDNHI2Y'
+    slides:
+      - 'https://downloads.ctfassets.net/nn534z2fqr9f/3OjrzqA0JymAUEMiEA4KIO/bc8fa61d56eb52f56092947b424838db/Nikita_Prokopov_-_Approaches_to_modern_web_applications.pdf'
+  -
+    title: 'Remote (dev) tools do it yourself'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Roman Dvornov'
+        twitter: rdvornov
+        github: null
+    videos:
+      - 'youtube:yb22qyVUqTs'
+    slides:
+      - 'https://www.slideshare.net/basisjs/remove-devtools'
+  -
+    title: 'Rich text editing with Draft.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Nikolaus Graf'
+        twitter: nikgraf
+        github: null
+    videos:
+      - 'youtube:rHat0n1xBVc'
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/1rVBvaJvpOAeimKOakC2sK/f54551db199543d2ef2d6cd1753f1674/Nikolaus_Graf__Rich_text_editing_with_Draft.js.pdf'
+  -
+    title: 'Logux - a new way to connect client and server'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Andrey Sitnik'
+        twitter: andreysitnik
+        github: ai
+    videos:
+      - 'youtube:1RMhUPsVw2M'
+    slides:
+      - 'https://slides.com/ai/logux'
+  -
+    title: 3L3M3NT5
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Martin Kleppe'
+        twitter: aemkei
+        github: aemkei
+    videos:
+      - 'youtube:p0X9UlqarCU'
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/66MGrpJhaE2YumkUeACowY/b245e84a8aee6c62ed984b1cafbb9cea/Martin-Kleppe_3L3M3NT5.pdf'
+  -
+    title: 'Building Interactive npm Command Line Modules'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Irina Shestak'
+        twitter: _lrlna
+        github: lrlna
+    videos:
+      - 'youtube:X5f2_6jPoOc'
+    slides:
+      - 'https://lrlna.github.io/holyjs-2016/#0'
+  -
+    title: 'Offline is the new black'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Max Stoiber'
+        twitter: mxstbr
+        github: mxstbr
+    videos:
+      - 'youtube:pjr6VJdDcHQ'
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/7JtLWND1QcS8AGKiyOMiwG/df1cc309d1ae6b7d60c885dd85ecab18/offline-is-then-new-black.pdf'
+  -
+    title: 'Modular CSS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Andrey Okonechnikov'
+        twitter: okonetchnikov
+        github: null
+    videos:
+      - 'youtube:vYmSYsj-s5w'
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/6l0ov5ckpOUeaYOIAScuIc/ee1ccd4771084d490efb3a334a262417/Andrey_Okonetchnikov_-_Modular_CSS.pdf'
+  -
+    title: 'Why should you care about Elm?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Tereza Sokol'
+        twitter: mishunov
+        github: null
+    videos:
+      - 'youtube:sd3umr2Zg40'
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/3J6GgXC2PC8swuEAEi8aKK/737ee2d2b870ed56cc832938d8d3a208/Tereza_Sokol_-_A_little_closer_to_frontend_bliss_with_Elm.pdf'
+  -
+    title: 'Swan cancer and pike: how technology pulls the frontend to the bottom'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Evgeny Gusev'
+        twitter: bunopus
+        github: null
+    videos:
+      - 'youtube:jPbqeSSDuug'
+    slides:
+      - 'https://bunopus.github.io/presentation-frontend-singularity/#/'
+  -
+    title: 'WebVR is the next frontier'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Martin Splitt'
+        twitter: g33konaut
+        github: g33konaut
+    videos:
+      - 'youtube:39MiUkGSEks'
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/3pqKcOn67uAmmcOooqOa6U/82fa7fb3dff4bb031fa1d3d7ff233fca/Martin_Splitt_-_WebVR_-_the_next_frontier.pdf'
+  -
+    title: 'P2P shared folder powered by javascript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Mathias buus madsen'
+        twitter: mafintosh
+        github: mafintosh
+    videos:
+      - 'youtube:VGoWhHhYpQU'
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/1oAMAU2BducsGEkOaKsSE2/7d9bfb0d05d01e113716dbe393d6f31c/slides.pdf'
+  -
+    title: debugger
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-12-11 00:00'
+    speakers:
+      -
+        name: 'Denis Mishunov'
+        twitter: mishunov
+        github: null
+    videos:
+      - 'youtube:VGoWhHhYpQU'
+    slides: null

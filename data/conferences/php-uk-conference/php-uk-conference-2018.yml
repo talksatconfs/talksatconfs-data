@@ -1,0 +1,499 @@
+name: 'PHP UK Conference 2018'
+description: ''
+location: London
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2018-02-14'
+to_date: '2018-02-16'
+tags: ''
+talks:
+  -
+    title: 'Building Cloud-Native Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-16 00:00'
+    speakers:
+      -
+        name: 'Michael Hausenblas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:417JirTmp2g'
+    slides: null
+  -
+    title: 'Database Schema Migrations with Zero Downtime'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-15 00:00'
+    speakers:
+      -
+        name: 'Michiel Rook'
+        twitter: michieltcs
+        github: null
+    videos:
+      - 'youtube:un-vdrVAX-A'
+    slides: null
+  -
+    title: "Things I Wish I Knew When I Started Playing 'Developer'"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-15 00:00'
+    speakers:
+      -
+        name: 'Gary Hockin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:E6wKix6eLFg'
+    slides: null
+  -
+    title: 'Build, provision & deploy in the Cloud with Packer, Ansible & Terraform'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-15 00:00'
+    speakers:
+      -
+        name: 'Thijs Feryn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:myy_DGD9JoU'
+    slides: null
+  -
+    title: 'Building Websites with Zend Expressive 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-15 00:00'
+    speakers:
+      -
+        name: 'Rob Allen'
+        twitter: akrabat
+        github: akrabat
+    videos:
+      - 'youtube:koW1titx9cU'
+    slides: null
+  -
+    title: 'Zero to API with Lumen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-16 00:00'
+    speakers:
+      -
+        name: 'Amanda Folson'
+        twitter: AmbassadorAwsum
+        github: afolson
+    videos:
+      - 'youtube:rwvptziuw7o'
+    slides: null
+  -
+    title: 'Going Backstage on Community Trends: Bug or Feature?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-15 00:00'
+    speakers:
+      -
+        name: 'Jenny Wong'
+        twitter: miss_jwo
+        github: null
+    videos:
+      - 'youtube:lma--k9Gbps'
+    slides: null
+  -
+    title: 'Behaviour Driven Development and Behat: Telling Stories Through Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-16 00:00'
+    speakers:
+      -
+        name: 'Matt Brunt'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bCLlBgYQoIk'
+    slides: null
+  -
+    title: 'Debugging PHP with Xdebug'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-15 00:00'
+    speakers:
+      -
+        name: 'Mark Niebergall'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4wkHBwkhu7g'
+    slides: null
+  -
+    title: 'Inversion of Control (IoC) Containers Beyond Constructor Injection'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-16 00:00'
+    speakers:
+      -
+        name: 'Hannes Van De Vreken'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:moNNCdLCJr8'
+    slides: null
+  -
+    title: 'London Calling: Creating a customisable, multi-tenanted i18n solution'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-16 00:00'
+    speakers:
+      -
+        name: 'Liam Wiltshire'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WCAIQdvvAaA'
+    slides: null
+  -
+    title: 'Urban Legends: What You Code Makes You Who You Are'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-16 00:00'
+    speakers:
+      -
+        name: 'PJ Hagerty'
+        twitter: aspleenic
+        github: null
+    videos:
+      - 'youtube:lUqGNBxQMx4'
+    slides: null
+  -
+    title: 'Introduction to PHP Extensions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-16 00:00'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos:
+      - 'youtube:cxu3mcum-Sk'
+    slides: null
+  -
+    title: 'Diving Deep into Docker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-14 00:00'
+    speakers:
+      -
+        name: 'David McKay'
+        twitter: rawkode
+        github: rawkode
+    videos: null
+    slides: null
+  -
+    title: 'How Doctrine Caching Can Skyrocket Your Application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-15 00:00'
+    speakers:
+      -
+        name: 'Jachim Coudenys'
+        twitter: coudenysj
+        github: null
+    videos:
+      - 'youtube:PzrbkRZEdHA'
+    slides: null
+  -
+    title: 'Automatic PHP 7 Compatibility Checking Using php7cc'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-16 00:00'
+    speakers:
+      -
+        name: 'Mark Niebergall'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:59fbepJZ_3w'
+    slides: null
+  -
+    title: "What You'll Miss on AWS & How To Find It"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-15 00:00'
+    speakers:
+      -
+        name: M1ke
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ofJULYfOUlI'
+    slides: null
+  -
+    title: 'The secrets of Cryptography'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-16 00:00'
+    speakers:
+      -
+        name: 'Christopher Riley'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gU0mAPywm7o'
+    slides: null
+  -
+    title: 'Performance optimisation: how do I go about it?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-16 00:00'
+    speakers:
+      -
+        name: 'Kat Zień'
+        twitter: kasiazien
+        github: null
+    videos:
+      - 'youtube:4hB7tGcz1l8'
+    slides: null
+  -
+    title: 'Zero to Jenkins: Automatic builds + deploys'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-15 00:00'
+    speakers:
+      -
+        name: 'Michael Heap'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kuBD3p20oyE'
+    slides: null
+  -
+    title: 'Creating a dashboard with Laravel, Vue and Pusher'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-15 00:00'
+    speakers:
+      -
+        name: 'Freek van der Herten'
+        twitter: freekmurze
+        github: freekmurze
+    videos:
+      - 'youtube:3q64HgGmLP4'
+    slides: null
+  -
+    title: 'Getting started with Kubernetes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-16 00:00'
+    speakers:
+      -
+        name: 'Bastian Hofmann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bXRmFfuyxQ0'
+    slides: null
+  -
+    title: 'Theming WordPress'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-16 00:00'
+    speakers:
+      -
+        name: 'Beth Tucker Long'
+        twitter: e3betht
+        github: e3betht
+    videos:
+      - 'youtube:1spgWAQMErI'
+    slides: null
+  -
+    title: 'Service Workers and their role in PWAs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-16 00:00'
+    speakers:
+      -
+        name: 'Ipsha Bhidonia'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fUJWNiWeQ98'
+    slides: null
+  -
+    title: 'Introduction to GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-15 00:00'
+    speakers:
+      -
+        name: 'Michael Cullum'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZE-1Q-QAVpU'
+    slides: null
+  -
+    title: 'Content Security Policy to the Rescue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-15 00:00'
+    speakers:
+      -
+        name: 'Dheeraj Joshi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GZS5uS_4PMs'
+    slides: null
+  -
+    title: 'MySQL 8 -- A New Beginning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-16 00:00'
+    speakers:
+      -
+        name: 'Dave Stokes'
+        twitter: iansltx
+        github: mysqlmentor
+    videos:
+      - 'youtube:LMF2ESRxp7w'
+    slides: null
+  -
+    title: 'From zero to multi-platform Chatbot with BotMan'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-15 00:00'
+    speakers:
+      -
+        name: 'Marcel Pociot'
+        twitter: marcelpociot
+        github: mpociot
+    videos:
+      - 'youtube:rz1lN-fKHHw'
+    slides: null
+  -
+    title: 'Docker, Kubernetes & OpenShift'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-14 00:00'
+    speakers:
+      -
+        name: 'Marek Jelen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Get Rolling Fast with Symfony Flex'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-16 00:00'
+    speakers:
+      -
+        name: 'Beau Simensen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pm0wDHe_Fs0'
+    slides: null
+  -
+    title: 'Command and (e)mission Control'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-15 00:00'
+    speakers:
+      -
+        name: 'Barney Hanlon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:syCpDX4I8H8'
+    slides: null
+  -
+    title: 'BDD In Practice'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-14 00:00'
+    speakers:
+      -
+        name: 'Ciaran McNulty'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Goodbye Drush Make. Hello Composer!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-16 00:00'
+    speakers:
+      -
+        name: 'Oliver Davies'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZL2FtRTX9Y8'
+    slides: null
+  -
+    title: 'Working with Webhooks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-15 00:00'
+    speakers:
+      -
+        name: 'Lorna Mitchell'
+        twitter: lornajane
+        github: lornajane
+    videos:
+      - 'youtube:kBlmEfljrn0'
+    slides: null
+  -
+    title: 'The why and the how of moving to 7.x'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-15 00:00'
+    speakers:
+      -
+        name: 'Wim Godden'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:l4Nb9xWxuc0'
+    slides: null

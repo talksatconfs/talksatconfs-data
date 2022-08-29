@@ -1,0 +1,514 @@
+name: 'PHP UK Conference 2016'
+description: ''
+location: London
+venue: ''
+city: ''
+country: ''
+link: 'http://web.archive.org/web/20160226170835/http://phpconference.co.uk/'
+playlist: ''
+from_date: '2016-02-18'
+to_date: '2016-02-19'
+tags: ''
+talks:
+  -
+    title: 'Dip Your Toes in the Sea of Security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-19 00:00'
+    speakers:
+      -
+        name: 'James Titcumb'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XLNm0-eoLaE'
+    slides: null
+  -
+    title: 'How I learned to stop worrying and love Regular Expressions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-19 00:00'
+    speakers:
+      -
+        name: 'Jordi Boggiano'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OqUsf6LQzPg'
+    slides: null
+  -
+    title: 'Every Millisecond Counts: Performance & UX'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-18 00:00'
+    speakers:
+      -
+        name: 'Davey Shafik'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:KMOSQIQVchc'
+    slides: null
+  -
+    title: 'Kubernetes at the Home Office'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-19 00:00'
+    speakers:
+      -
+        name: 'Billie Thompson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ACHiv5vuJuk'
+    slides: null
+  -
+    title: 'Welcome to PHP UK 2016'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-19 00:00'
+    speakers:
+      -
+        name: 'Johanna Cherry & Sam Bell'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Imposter Syndrome and Individual Competence'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-19 00:00'
+    speakers:
+      -
+        name: 'Jessica Rose'
+        twitter: jesslynnrose
+        github: null
+    videos:
+      - 'youtube:taklO4YIMow'
+    slides: null
+  -
+    title: 'From Vagrant to Production'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-19 00:00'
+    speakers:
+      -
+        name: 'Stephan Hochdorfer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kk-vImUfXjM'
+    slides: null
+  -
+    title: 'MySQL 5.7 + JSON'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-18 00:00'
+    speakers:
+      -
+        name: 'Morgan Tocker'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rC0Hat5GV6g'
+    slides: null
+  -
+    title: 'HHVM and MongoDB — the perfect combination'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-18 00:00'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos:
+      - 'youtube:J412nlAHsIs'
+    slides: null
+  -
+    title: 'Welcome to the new age: porting extensions to PHP 7'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-19 00:00'
+    speakers:
+      -
+        name: 'Adam Harvey'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TaDhhaN2hh0'
+    slides: null
+  -
+    title: 'Whirlwind tour through the HTTP2 spec'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-19 00:00'
+    speakers:
+      -
+        name: 'Ole Michaelis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sRo98KNmBuM'
+    slides: null
+  -
+    title: 'Simple Machine Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-18 00:00'
+    speakers:
+      -
+        name: 'Christopher Hoult'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tSUjgzCQB_4'
+    slides: null
+  -
+    title: 'Automation Automation Automation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-19 00:00'
+    speakers:
+      -
+        name: 'Michael Heap'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JH5yolHWFHc'
+    slides: null
+  -
+    title: 'Introducing Zend Framework 3'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-19 00:00'
+    speakers:
+      -
+        name: 'Rob Allen'
+        twitter: akrabat
+        github: akrabat
+    videos:
+      - 'youtube:ycNDcPuIK8o'
+    slides: null
+  -
+    title: 'Large-scale websites performance optimisation tricks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-18 00:00'
+    speakers:
+      -
+        name: 'Georgiana Gligor'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7L5qvCjgHko'
+    slides: null
+  -
+    title: 'Elastic scaling in a (micro)service oriented architecture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-18 00:00'
+    speakers:
+      -
+        name: 'Bastian Hofmann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YBDscJhz2S0'
+    slides: null
+  -
+    title: 'Real-Time Data Pipelines'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-19 00:00'
+    speakers:
+      -
+        name: 'Samantha Quiñones'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1i1Zoy2JpcY'
+    slides: null
+  -
+    title: 'Step Into Debugging'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-19 00:00'
+    speakers:
+      -
+        name: 'Gary Hockin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SlluEqL0oOI'
+    slides: null
+  -
+    title: 'PSR-7 HTTP messages in the wild'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-18 00:00'
+    speakers:
+      -
+        name: 'Hannes Van De Vreken'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gOVALgpqHzM'
+    slides: null
+  -
+    title: 'SilverStripe - the open source PHP CMS for teams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-18 00:00'
+    speakers:
+      -
+        name: 'Hamish Friedlander'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lIeZMimgeIQ'
+    slides: null
+  -
+    title: 'What To Expect From PHP7'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-18 00:00'
+    speakers:
+      -
+        name: 'Lorna Mitchell'
+        twitter: lornajane
+        github: lornajane
+    videos:
+      - 'youtube:hC5dPhM_LFo'
+    slides: null
+  -
+    title: 'Doctrine ORM Good Practices and Tricks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-19 00:00'
+    speakers:
+      -
+        name: 'Marco Pivetta'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rzGeNYC3oz0'
+    slides: null
+  -
+    title: 'Mentoring: Change the World One Hour at a Time'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-18 00:00'
+    speakers:
+      -
+        name: 'Beth Tucker Long'
+        twitter: e3betht
+        github: e3betht
+    videos:
+      - 'youtube:s1TiSxp27Gg'
+    slides: null
+  -
+    title: 'From PHP to Machine Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-19 00:00'
+    speakers:
+      -
+        name: 'Juozas Kaziukenas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Tm_awZP0vFY'
+    slides: null
+  -
+    title: 'Got 15 minutes? Then give something back!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-19 00:00'
+    speakers:
+      -
+        name: 'Liam Wiltshire'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zaxkc_ganvQ'
+    slides: null
+  -
+    title: 'Mocking Dependencies in Unit Tests with Phake'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-18 00:00'
+    speakers:
+      -
+        name: 'Matthew Turland'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6fNL5U1FUiI'
+    slides: null
+  -
+    title: 'Welcome to PHP UK Conference'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-18 00:00'
+    speakers:
+      -
+        name: 'Johanna Cherry & Sam Bell'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Version Control - tips, tricks and good citizenship'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-18 00:00'
+    speakers:
+      -
+        name: 'Tess Barnes'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HPQAXX_-2Aw'
+    slides: null
+  -
+    title: 'Git Workflow and Comic Book Continuity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-19 00:00'
+    speakers:
+      -
+        name: 'Gavin Davies'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BzITHlQa_VQ'
+    slides: null
+  -
+    title: 'All the cool kids...'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-19 00:00'
+    speakers:
+      -
+        name: 'Matthias Noback'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EDXgNA_pXX0'
+    slides: null
+  -
+    title: 'The Code Manifesto'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-18 00:00'
+    speakers:
+      -
+        name: 'Kayla Daniels'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0ncZRjh4wUk'
+    slides: null
+  -
+    title: 'Docker & PHP - development and deployment'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-18 00:00'
+    speakers:
+      -
+        name: 'Szymon Skórczyński'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Q6EBPTVCrDM'
+    slides: null
+  -
+    title: 'Magento Done Right'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-18 00:00'
+    speakers:
+      -
+        name: 'Ciaran Rooney'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1EltH1SyLe8'
+    slides: null
+  -
+    title: 'Behind the Scenes of Maintaining an Open Source Project'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-18 00:00'
+    speakers:
+      -
+        name: 'Jordi Boggiano'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cOjS7iof6SU'
+    slides: null
+  -
+    title: 'Eating spaghetti with Symfony'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-18 00:00'
+    speakers:
+      -
+        name: 'Jakub Zalas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_h1MJbyGSc8'
+    slides: null
+  -
+    title: 'Security Theatre'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-19 00:00'
+    speakers:
+      -
+        name: 'Thomas Shone'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cEIVLEdbT_s'
+    slides: null

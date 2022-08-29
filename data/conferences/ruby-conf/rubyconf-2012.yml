@@ -1,0 +1,690 @@
+name: 'RubyConf 2012'
+description: ''
+location: 'Denver, Colorado'
+venue: ''
+city: ''
+country: ''
+link: 'https://confreaks.tv/events/rubyconf2012'
+playlist: ''
+from_date: '2012-11-01'
+to_date: '2012-11-03'
+tags: ''
+talks:
+  -
+    title: 'Tokaido: Making Ruby Better on OSX'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-01 00:00'
+    speakers:
+      -
+        name: 'Yehuda Katz'
+        twitter: wycats
+        github: null
+    videos:
+      - 'youtube:4iv3Gk95-v0'
+    slides: null
+  -
+    title: 'The Celluloid Ecosystem'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-02 00:00'
+    speakers:
+      -
+        name: 'Tony Arcieri'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZVU7yRoYb3o'
+    slides: null
+  -
+    title: 'Arduino the Ruby way'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-02 00:00'
+    speakers:
+      -
+        name: 'Austin Vance'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oUIor6GK-qA'
+    slides: null
+  -
+    title: 'Ruby vs. the world'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-02 00:00'
+    speakers:
+      -
+        name: 'Matt Aimonetti'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:V_k3q37Tieg'
+    slides: null
+  -
+    title: 'Keynote: Reinventing Wheels of the Future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-01 00:00'
+    speakers:
+      -
+        name: "Yukihiro 'Matz' Matsumoto"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hgs_fVfsduA'
+    slides: null
+  -
+    title: 'Testing Should Be Fun'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-03 00:00'
+    speakers:
+      -
+        name: 'Noel Rappin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:l07J_5luC3M'
+    slides: null
+  -
+    title: 'Implementation Details of Ruby 2.0 VM'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-01 00:00'
+    speakers:
+      -
+        name: 'Koichi Sasada'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lWIP4nsKIMU'
+    slides: null
+  -
+    title: 'An Intimate Chat with Matz'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-03 00:00'
+    speakers:
+      -
+        name: "Yukihiro 'Matz' Matsumoto"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:B7vCuNaqT7k'
+    slides: null
+  -
+    title: 'Inside RubyMotion'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-02 00:00'
+    speakers:
+      -
+        name: 'Rich Kilmer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:r4F4ZW8Go5o'
+    slides: null
+  -
+    title: 'Game Development and Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-03 00:00'
+    speakers:
+      -
+        name: 'Andrew Nordman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:H5_Kid3hpRs'
+    slides: null
+  -
+    title: 'Someone is Wrong'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-01 00:00'
+    speakers:
+      -
+        name: 'Joseph Wilk'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UUIBANm8s2s'
+    slides: null
+  -
+    title: 'mruby meets iOS and RTOS!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-03 00:00'
+    speakers:
+      -
+        name: 'Yurie Yamane'
+        twitter: null
+        github: null
+      -
+        name: 'Masayoshi Takahashi'
+        twitter: null
+        github: null
+      -
+        name: 'Yuichiro MASUI'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HuPOizo6pSE'
+    slides: null
+  -
+    title: 'Asynchronous Processing for Fun and Profit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-02 00:00'
+    speakers:
+      -
+        name: 'Mike Perham'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RwUHcBg0i7Q'
+    slides: null
+  -
+    title: 'Why JRuby Works'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-01 00:00'
+    speakers:
+      -
+        name: 'Thomas Enebo'
+        twitter: null
+        github: null
+      -
+        name: 'Charles Nutter'
+        twitter: headius
+        github: headius
+    videos:
+      - 'youtube:wYFrGlSERto'
+    slides: null
+  -
+    title: 'Xiki: the Rubyfied Next-Generation Shell Console'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-02 00:00'
+    speakers:
+      -
+        name: 'Craig Muth'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QqOrQN0bxNE'
+    slides: null
+  -
+    title: 'Allow me to reintroduce myself. My name is MagLev.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-01 00:00'
+    speakers:
+      -
+        name: 'Jesse Cooke'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Wh0BHJ7fUoc'
+    slides: null
+  -
+    title: 'Rapid Programming Language Prototypes with Ruby & Racc'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-03 00:00'
+    speakers:
+      -
+        name: 'Tom Lee'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:goQZps9vt3o'
+    slides: null
+  -
+    title: 'Simulating the world with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-03 00:00'
+    speakers:
+      -
+        name: 'Bryan Liles'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4vBrTEBlGnw'
+    slides: null
+  -
+    title: 'Interface testing: Creating a Diablo 3 bot using jRuby and Sikuli UI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-03 00:00'
+    speakers:
+      -
+        name: 'Rodrigo Franco'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jLUwGNAHYIc'
+    slides: null
+  -
+    title: 'Ruby 2.0 on Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-01 00:00'
+    speakers:
+      -
+        name: 'Akira Matsuda'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RHcXC9ROjlw'
+    slides: null
+  -
+    title: 'Change your tools, change your outcome - the next frontier of deployment'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-02 00:00'
+    speakers:
+      -
+        name: 'Dr. Nic Williams'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BLDZrMetifM'
+    slides: null
+  -
+    title: 'DRb vs RabbitMQ Showdown'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-02 00:00'
+    speakers:
+      -
+        name: 'Davy Stevenson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hhxEt5zAD3k'
+    slides: null
+  -
+    title: 'Thinking in Objects'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-03 00:00'
+    speakers:
+      -
+        name: 'Josh Susser'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:D52V2tbWdNQ'
+    slides: null
+  -
+    title: 'How to build, use and grow internal tools'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-02 00:00'
+    speakers:
+      -
+        name: 'Keavy McMinn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WpL9wE_KKD0'
+    slides: null
+  -
+    title: 'Could a Machine Ever Write Tests For Our Code? New Verification Techniques For Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-03 00:00'
+    speakers:
+      -
+        name: 'Loren Segal'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AHAONhPchKA'
+    slides: null
+  -
+    title: 'Grow Your Unix Beard Using Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-02 00:00'
+    speakers:
+      -
+        name: 'Jesse Storimer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2rAoasxZKGU'
+    slides: null
+  -
+    title: 'Toward a Design for Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-01 00:00'
+    speakers:
+      -
+        name: 'Brian Ford'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BagNfTbXn3w'
+    slides: null
+  -
+    title: 'Ruby Monitoring State of the Union'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-01 00:00'
+    speakers:
+      -
+        name: 'Joseph Ruscio'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sp9OlDNAL9k'
+    slides: null
+  -
+    title: 'Building modular, scalable web apps? Of CORS!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-01 00:00'
+    speakers:
+      -
+        name: 'Michael Bleigh'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VQA2yrpI7Xk'
+    slides: null
+  -
+    title: 'The Insufficiency of Good Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-03 00:00'
+    speakers:
+      -
+        name: 'Sarah Mei'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UgrVdHYEZGg'
+    slides: null
+  -
+    title: 'Ruby HTTP clients comparison'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-01 00:00'
+    speakers:
+      -
+        name: 'Hiroshi Nakamura'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:x6CeB75aMwc'
+    slides: null
+  -
+    title: 'Your app is not a black box'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-01 00:00'
+    speakers:
+      -
+        name: 'Josh Kalderimis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:F9ZMMZqu3aI'
+    slides: null
+  -
+    title: 'Failure for Fun and Profit!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-01 00:00'
+    speakers:
+      -
+        name: 'Kerri Miller'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:F8RnrbqKTgA'
+    slides: null
+  -
+    title: "Rails Is A Follower: what we can learn from dRuby's metaprogramming magic"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-02 00:00'
+    speakers:
+      -
+        name: 'Makoto Inoue'
+        twitter: null
+        github: null
+      -
+        name: 'Masatoshi Seki'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kJsUgXsyfuQ'
+    slides: null
+  -
+    title: 'RubyMotion for Faster Client/Server Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-02 00:00'
+    speakers:
+      -
+        name: 'Tammer Saleh'
+        twitter: null
+        github: null
+      -
+        name: 'Randall Thomas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HSC-ZEw6Mhc'
+    slides: null
+  -
+    title: 'krypt - The next level of Ruby cryptography'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-03 00:00'
+    speakers:
+      -
+        name: 'Martin Boßlet'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:U67JVwj9uT4'
+    slides: null
+  -
+    title: 'Service Oriented Architecture at Square'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-01 00:00'
+    speakers:
+      -
+        name: 'Chris Hunt'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6mesJxUVZyI'
+    slides: null
+  -
+    title: Boundaries
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-03 00:00'
+    speakers:
+      -
+        name: 'Gary Bernhardt'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yTkzNHF6rMs'
+    slides: null
+  -
+    title: 'Real Time Salami'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-02 00:00'
+    speakers:
+      -
+        name: 'Aaron Patterson'
+        twitter: tenderlove
+        github: tenderlove
+    videos:
+      - 'youtube:axva-w-m9qg'
+    slides: null
+  -
+    title: 'Making Security Priority Zero'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-02 00:00'
+    speakers:
+      -
+        name: 'Rein Henrichs'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dtG-7J1h7V8'
+    slides: null
+  -
+    title: 'Zero Downtime Deploys Made Easy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-01 00:00'
+    speakers:
+      -
+        name: 'Matt Duncan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LT_gFFcLj9Q'
+    slides: null
+  -
+    title: 'Abstracting Features Into Custom Reverse Proxies (Or: Making Better Lemonade From Chaos)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-01 00:00'
+    speakers:
+      -
+        name: 'Nick Muerdter'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Vu2FOeAUZjw'
+    slides: null
+  -
+    title: 'Y Not -- Adventures in Functional Programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-02 00:00'
+    speakers:
+      -
+        name: 'Jim Weirich '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FITJMJjASUs'
+    slides: null
+  -
+    title: 'Refactoring from Good to Great'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-01 00:00'
+    speakers:
+      -
+        name: 'Ben Orenstein'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:L1G--mPscQM'
+    slides: null
+  -
+    title: 'Dissecting a Ruby Block'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-01 00:00'
+    speakers:
+      -
+        name: 'Pat Shaughnessy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nQ1XYwzaqck'
+    slides: null
+  -
+    title: 'There and Back Again -or- How I Set out to Benchmark an Algorithm and Ended Up Fixing Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-02 00:00'
+    speakers:
+      -
+        name: 'Joshua Ballanco'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JlfyDp53_nY'
+    slides: null
+  -
+    title: 'Building Data Driven Products with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-11-01 00:00'
+    speakers:
+      -
+        name: 'Ryan Weald'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XIqRdB5HCYM'
+    slides: null

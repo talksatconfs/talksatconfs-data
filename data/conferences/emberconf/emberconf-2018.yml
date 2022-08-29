@@ -1,0 +1,411 @@
+name: 'EmberConf 2018'
+description: 'EmberConf is the best place to meet the folks behind the magic. You’ll hear from members of the Ember Core Team, top community contributors and users, and help shape the future of Ember.'
+location: 'Portland, OR, United States'
+venue: ''
+city: 'Portland, OR'
+country: 'United States'
+link: 'https://2018.emberconf.com/'
+playlist: 'youtube:PLE7tQUdRKcybgng3wPvbSYg3yYt1WVmsL'
+from_date: '2018-03-13'
+to_date: '2018-03-14'
+tags: ''
+talks:
+  -
+    title: 'Building a Memex in Ember'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-14 14:15'
+    speakers:
+      -
+        name: 'Andrew Louis'
+        twitter: hyfen
+        github: hyfen
+    videos:
+      - 'youtube:OzcV-4hErBA'
+    slides: null
+  -
+    title: "LET'S TEST THAT ADDON!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-12 13:30'
+    speakers:
+      -
+        name: 'Samanta De Barros'
+        twitter: sami_dbc
+        github: null
+    videos:
+      - 'youtube:31kVznd-zys'
+    slides: null
+  -
+    title: 'CONTRIBUTOR RALLY'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-14 16:05'
+    speakers:
+      -
+        name: 'Sean Massa'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CcSKlsc_AhQ'
+    slides: null
+  -
+    title: "TOYOTA'S SHARED COMPONENT LIBRARY"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-14 16:10'
+    speakers:
+      -
+        name: 'Tony Ward'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4fI72aZl_N8'
+    slides: null
+  -
+    title: 'Living Animation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-13 17:30'
+    speakers:
+      -
+        name: 'Edward Faulkner'
+        twitter: eaf4
+        github: null
+    videos:
+      - 'youtube:4JofVQ3nGrw'
+    slides: null
+  -
+    title: 'Prying Open the Black Box'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-14 15:00'
+    speakers:
+      -
+        name: 'Godfrey Chan'
+        twitter: chancancode
+        github: null
+    videos:
+      - 'youtube:MAAouySLtqA'
+    slides: null
+  -
+    title: 'EMBER-CLI ADDONS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-14 16:20'
+    speakers:
+      -
+        name: 'Sam Selikoff'
+        twitter: samselikoff
+        github: null
+    videos:
+      - 'youtube:PVzutIELrf4'
+    slides: null
+  -
+    title: 'THE CHIRPOLITH: SUCCESSFULLY MIGRATING A MESSY APP TO EMBER'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-14 16:10'
+    speakers:
+      -
+        name: 'Alex Rothenberg'
+        twitter: alexrothenberg
+        github: null
+    videos:
+      - 'youtube:szj7tLLaCZ4'
+    slides: null
+  -
+    title: 'Say More'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-13 14:15'
+    speakers:
+      -
+        name: 'Jamie White'
+        twitter: jgwhite
+        github: null
+    videos:
+      - 'youtube:iAyRVPSOpy8'
+    slides: null
+  -
+    title: 'LIGHTING THOUGHTS ON LIGHTING DEPLOY'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-14 16:15'
+    speakers:
+      -
+        name: 'Christina Kung'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:575NwSFx9aA'
+    slides: null
+  -
+    title: 'Everything they didn’t tell you about the Ember Community'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-13 11:30'
+    speakers:
+      -
+        name: 'Jessica Jordan'
+        twitter: jjordan_dev
+        github: jessica-jordan
+    videos:
+      - 'youtube:h3YtViXranw'
+    slides: null
+  -
+    title: 'Smartphone Symphony'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-14 10:45'
+    speakers:
+      -
+        name: 'Gavin Joyce'
+        twitter: gavinjoyce
+        github: gavinjoyce
+    videos:
+      - 'youtube:lEMG7ZayU48'
+    slides: null
+  -
+    title: 'PIXEL BY PIXEL: VISUAL REGRESSION TESTING IN EMBER'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-12 14:10'
+    speakers:
+      -
+        name: 'Mike Fotinakis'
+        twitter: mikefotinakis
+        github: null
+    videos:
+      - 'youtube:jlwS7Zq1Des'
+    slides: null
+  -
+    title: 'How To Build A Bonfire: On Training and Hiring New Devs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-13 16:45'
+    speakers:
+      -
+        name: 'Taylor Jones'
+        twitter: hiimtaylorjones
+        github: null
+    videos:
+      - 'youtube:yHPjv61e4MY'
+    slides: null
+  -
+    title: 'Deep Dive on Ember Events'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-14 13:30'
+    speakers:
+      -
+        name: 'Marie Chatfield'
+        twitter: mariechatfield
+        github: null
+    videos:
+      - 'youtube:G9hXjjHFJVs'
+    slides: null
+  -
+    title: 'Closing Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-14 17:30'
+    speakers:
+      -
+        name: 'Vaidehi Joshi'
+        twitter: vaidehijoshi
+        github: vaidehijoshi
+      -
+        name: 'Saron Yitbarek'
+        twitter: saronyitbarek
+        github: null
+    videos:
+      - 'youtube:wkfc0Mvg4QY'
+    slides: null
+  -
+    title: 'The Future of Data in Ember'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-14 09:45'
+    speakers:
+      -
+        name: 'Dan Gebhardt'
+        twitter: dgeb
+        github: dgeb
+    videos:
+      - 'youtube:3_vanHCDTho'
+    slides: null
+  -
+    title: 'Mastering the Art of Forms'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-13 16:00'
+    speakers:
+      -
+        name: 'Danielle Adams'
+        twitter: adamzdanielle
+        github: danielleadams
+    videos:
+      - 'youtube:bepcUhMMc5c'
+    slides: null
+  -
+    title: 'The Next Generation of Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-13 13:30'
+    speakers:
+      -
+        name: 'Tobias Bieniek'
+        twitter: TobiasBieniek
+        github: null
+    videos:
+      - 'youtube:8D-O4cSteRk'
+    slides: null
+  -
+    title: 'Ambitious for All: Accessibility in Ember'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-13 10:45'
+    speakers:
+      -
+        name: 'Melanie Sumner'
+        twitter: melaniersumner
+        github: null
+    videos:
+      - 'youtube:6ydNf7e5P00'
+    slides: null
+  -
+    title: "Who Moved My Cheese? Ember's New Filesystem"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-13 15:00'
+    speakers:
+      -
+        name: 'Matthew Beale'
+        twitter: mixonic
+        github: null
+    videos:
+      - 'youtube:M-ya4qmX4Nw'
+    slides: null
+  -
+    title: 'INTRODUCTIONS AND PREAMBLE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-14 16:00'
+    speakers:
+      -
+        name: 'Leah Silber'
+        twitter: wifelette
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'LET ME EMBER THIS FOR YOU'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-14 16:25'
+    speakers:
+      -
+        name: 'Serena Fritsch'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wVMPigAWKl8'
+    slides: null
+  -
+    title: 'Creating fluid app-like experiences with Ember'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-14 16:45'
+    speakers:
+      -
+        name: 'Nick Schot'
+        twitter: nickschot
+        github: null
+    videos:
+      - 'youtube:d4Lq4DBUMOs'
+    slides: null
+  -
+    title: 'FAIL AT MAINTAINING YOUR FIRST OSS PROJECT IN 3 EASY STEPS!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-14 14:50'
+    speakers:
+      -
+        name: 'Lee Baillie'
+        twitter: _lbaillie
+        github: null
+    videos:
+      - 'youtube:C5f0W1Ec4bg'
+    slides: null
+  -
+    title: 'PAIR PROGRAMMING AS A MECHANISM FOR GROWTH'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-14 15:30'
+    speakers:
+      -
+        name: 'Dianne Eramo'
+        twitter: DianneEramo
+        github: null
+    videos:
+      - 'youtube:sMV8kJPb3Bg'
+    slides: null
+  -
+    title: 'Opening Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-13 09:30'
+    speakers:
+      -
+        name: 'Tom Dale'
+        twitter: tomdale
+        github: tomdale
+      -
+        name: 'Yehuda Katz'
+        twitter: wycats
+        github: null
+    videos:
+      - 'youtube:NhtpXs0ZtUc'
+    slides: null
+  -
+    title: 'Reuse, Recycle: One Team’s Journey from Projects to Products'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-14 11:30'
+    speakers:
+      -
+        name: 'Sarah Bostwick'
+        twitter: FajitaFresca
+        github: null
+    videos:
+      - 'youtube:HJO0hmCct4Q'
+    slides: null

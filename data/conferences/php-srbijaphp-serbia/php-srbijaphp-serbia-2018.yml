@@ -1,0 +1,316 @@
+name: 'PHP Srbija/PHP Serbia 2018'
+description: ''
+location: 'Madlenianum Theatre, Belgrade, Serbia'
+venue: ''
+city: ''
+country: ''
+link: 'https://conf2018.phpsrbija.rs/'
+playlist: ''
+from_date: '2018-05-25'
+to_date: '2018-05-27'
+tags: ''
+talks:
+  -
+    title: 'Pros and cons of functional programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-27 06:30'
+    speakers:
+      -
+        name: 'Branislav Bujišić'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PKRSOy9m9Tg'
+    slides: null
+  -
+    title: 'Event Sourcing: The Good, The Bad and The Complicated'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-26 11:30'
+    speakers:
+      -
+        name: 'Marco Pivetta'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:szApNehdNUg'
+    slides: null
+  -
+    title: 'Dynamic programming - 101'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-27 10:30'
+    speakers:
+      -
+        name: 'Tobias Nyholm'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WlaMTAdkBWs'
+    slides: null
+  -
+    title: 'The last infrastructure talk for developers, or why your future apps will be serverless'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-27 11:30'
+    speakers:
+      -
+        name: 'Slobodan Stojanović'
+        twitter: slobodan_
+        github: stojanovic
+    videos:
+      - 'youtube:mSiRekbLyyQ'
+    slides: null
+  -
+    title: introDDDuction
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-26 09:00'
+    speakers:
+      -
+        name: 'Robert Basic'
+        twitter: robertbasic
+        github: robertbasic
+    videos:
+      - 'youtube:DfavfoQQOTk'
+    slides: null
+  -
+    title: 'Recommendation Engines with Neo4j and PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-27 06:30'
+    speakers:
+      -
+        name: 'Christophe Willemsen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:21INV_0iCJ4'
+    slides: null
+  -
+    title: 'When testing makes no sense'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-26 06:30'
+    speakers:
+      -
+        name: 'Miro Svrtan'
+        twitter: msvrtan
+        github: msvrtan
+    videos:
+      - 'youtube:GdajdmsckDk'
+    slides: null
+  -
+    title: 'Decomposing a live application with confidence'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-26 05:30'
+    speakers:
+      -
+        name: 'Luís Cobucci'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XfJ-KzHg7ow'
+    slides: null
+  -
+    title: 'Dive deep into blockchain'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-26 09:00'
+    speakers:
+      -
+        name: 'Tomasz Kowalczyk'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BFhqTlk1wXU'
+    slides: null
+  -
+    title: 'How I learned to Stop Wiring and Love Autowiring Containers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-26 11:30'
+    speakers:
+      -
+        name: 'Beau Simensen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UeAVPEaF0Ng'
+    slides: null
+  -
+    title: 'Unglue all the things!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-27 04:45'
+    speakers:
+      -
+        name: 'Beau Simensen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yXzoiq-rJ-o'
+    slides: null
+  -
+    title: 'Getting started with PHP core development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-27 09:00'
+    speakers:
+      -
+        name: 'Arnout Boks'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DNAJXROxQ8g'
+    slides: null
+  -
+    title: 'Where will you be when the storm comes?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-26 05:30'
+    speakers:
+      -
+        name: 'Dr. Florian Krause'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qWWA8xzMnMU'
+    slides: null
+  -
+    title: 'Dr Sheldon Cooper Presents: Fun with Flags'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-26 10:30'
+    speakers:
+      -
+        name: 'Michael Heap'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QL2uQp-3xU4'
+    slides: null
+  -
+    title: 'Project Triage: What To Do When It All Hits The Fan'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-26 04:45'
+    speakers:
+      -
+        name: "Eryn O'Neil"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iKJknNd9SDo'
+    slides: null
+  -
+    title: 'JWT - To authentication & beyond!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-27 10:30'
+    speakers:
+      -
+        name: 'Luís Cobucci'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tCvR9ghEKIE'
+    slides: null
+  -
+    title: 'Caching in PHP with PSRs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-27 05:30'
+    speakers: {  }
+    videos:
+      - 'youtube:reyutZzkX_k'
+    slides: null
+  -
+    title: 'From zero to multi-platform Chatbot with BotMan'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-26 10:30'
+    speakers:
+      -
+        name: 'Marcel Pociot'
+        twitter: marcelpociot
+        github: mpociot
+    videos:
+      - 'youtube:ppVHYtw3JRo'
+    slides: null
+  -
+    title: 'Machine learning and trend analysis in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-27 11:30'
+    speakers:
+      -
+        name: 'Michael Cullum'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Bt3xxyip9lY'
+    slides: null
+  -
+    title: 'State in a stateless world'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-27 05:30'
+    speakers:
+      -
+        name: 'Luka Muzinic'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:V1h_OjbuZAE'
+    slides: null
+  -
+    title: 'Anonymous Classes: Behind the Mask'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-26 06:30'
+    speakers:
+      -
+        name: 'Mark Baker'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YygjHeKz-ME'
+    slides: null
+  -
+    title: 'Hey Boss, Event Sourcing Could Fix That!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-27 09:00'
+    speakers:
+      -
+        name: 'Emily Stamey'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PqWQs-yn3Ec'
+    slides: null

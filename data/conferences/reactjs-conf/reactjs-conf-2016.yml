@@ -1,0 +1,278 @@
+name: 'React.js Conf 2016'
+description: ''
+location: 'San Francisco, CA'
+venue: ''
+city: ''
+country: ''
+link: 'http://conf2016.reactjs.org/schedule.html'
+playlist: ''
+from_date: '2016-02-22'
+to_date: '2016-02-23'
+tags: ''
+talks:
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-22 00:00'
+    speakers:
+      -
+        name: 'Nick Schrock'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MGuKhcnrqGA'
+    slides: null
+  -
+    title: 'React "What Lies Ahead"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-22 00:00'
+    speakers:
+      -
+        name: 'Ben Alpert'
+        twitter: soprano
+        github: spicyj
+    videos:
+      - 'youtube:-RJf2jYzs8A'
+    slides: null
+  -
+    title: 'Rich Text Editing with React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-22 00:00'
+    speakers:
+      -
+        name: 'Isaac Salier'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:feUYwoLhE_4'
+    slides: null
+  -
+    title: 'A Cartoon Guide to the Wilds of Data Handling'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-22 00:00'
+    speakers:
+      -
+        name: 'Lin Clark'
+        twitter: linclark
+        github: linclark
+    videos:
+      - 'youtube:WIqbzHdEPVM'
+    slides: null
+  -
+    title: 'Demystifying Tech Recruiting'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-22 00:00'
+    speakers:
+      -
+        name: 'Helena Milosevic'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:N233T0epWTs'
+    slides: null
+  -
+    title: 'Web-like Release Agility for Native Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-22 00:00'
+    speakers:
+      -
+        name: 'Parashuram N'
+        twitter: nparashuram
+        github: axemclion
+    videos:
+      - 'youtube:B8J8xn3pLpk'
+    slides: null
+  -
+    title: 'React, Meet Virtual Reality'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-22 00:00'
+    speakers:
+      -
+        name: 'Eric Florenzano'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ty2bFeOdGeI'
+    slides: null
+  -
+    title: 'Building a Progressive Web App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-22 00:00'
+    speakers:
+      -
+        name: 'Aditya Punjani'
+        twitter: adityapunjani
+        github: adityapunjani
+    videos:
+      - 'youtube:m2tvYGCdOzs'
+    slides: null
+  -
+    title: 'How To Use React In A Wedding Gift Without Being A Bad Friend'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-22 00:00'
+    speakers:
+      -
+        name: 'Keith Poplawski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GnIrNYtmRDg'
+    slides: null
+  -
+    title: 'Lightning talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-23 00:00'
+    speakers:
+      -
+        name: 'Cole Voss'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TZF_6cQmvg0'
+    slides: null
+  -
+    title: 'Team × Technology'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-23 00:00'
+    speakers:
+      -
+        name: 'James Ide'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2Zthnq-hIXA'
+    slides: null
+  -
+    title: 'Universal GL Effects for Web and Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-23 00:00'
+    speakers:
+      -
+        name: 'Gaetan Renaudeau'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Xnqy_zkBAew'
+    slides: null
+  -
+    title: 'Redux, Re-frame, Relay, Om/next, oh my!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-23 00:00'
+    speakers:
+      -
+        name: 'Jared Forsyth'
+        twitter: jaredforsyth
+        github: jaredly
+    videos:
+      - 'youtube:-jwQ3sGoiXg'
+    slides: null
+  -
+    title: 'Performance Without Compromise'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-23 00:00'
+    speakers:
+      -
+        name: 'Steve McGuire'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kDARP5QZ6nU'
+    slides: null
+  -
+    title: 'A GraphQL Framework in Non-JS Servers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-23 00:00'
+    speakers:
+      -
+        name: 'Syrus Akbary'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RNoyPSrQyPs'
+    slides: null
+  -
+    title: 'Speeding up Startup for Large React Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-23 00:00'
+    speakers:
+      -
+        name: 'Bhuwan Khattar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SnAq9tbeRm4'
+    slides: null
+  -
+    title: 'Rethinking All Practices "Building Applications in Elm"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-23 00:00'
+    speakers:
+      -
+        name: 'Jamison Dance'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:txxKx_I39a8'
+    slides: null
+  -
+    title: 'Optimising React Native "Tools and Tips"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-23 00:00'
+    speakers:
+      -
+        name: 'Tadeu Zagallo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0MlT74erp60'
+    slides: null
+  -
+    title: 'Back to React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-23 00:00'
+    speakers:
+      -
+        name: 'Andrew Clark'
+        twitter: acdlite
+        github: acdlite
+    videos:
+      - 'youtube:ZVYVtUFDf28'
+    slides: null

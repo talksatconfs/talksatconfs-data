@@ -1,0 +1,623 @@
+name: 'SunshinePHP 2015'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2015-02-05'
+to_date: '2015-02-07'
+tags: ''
+talks:
+  -
+    title: 'REST API Best Practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-07 11:30'
+    speakers:
+      -
+        name: 'Mike Stowe'
+        twitter: mikestowe
+        github: mikestowe
+    videos: null
+    slides: null
+  -
+    title: 'Elephants In The Clouds: Mastering PHP On Heroku'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-05 09:00'
+    speakers:
+      -
+        name: 'David Zuelke'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Speak HTTP And Consume APIs With Guzzle'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-07 14:45'
+    speakers:
+      -
+        name: 'Jeremy Lindblom'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Wrangle Cross-Cutting Concerns With Event Driven Programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-07 16:00'
+    speakers:
+      -
+        name: 'Chris Saylor'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Machine Learning: Or How To Build SkyNet On Your Lunch Break'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-07 10:15'
+    speakers:
+      -
+        name: 'Graham Daniels'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Javascript Single Page App Front-end And The PHP Back-end'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-07 16:00'
+    speakers:
+      -
+        name: 'Ralph Schindler'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Beyond Design Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-07 10:15'
+    speakers:
+      -
+        name: 'Anthony Ferrara'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Hackathon by in2it'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 19:00'
+    speakers:
+      -
+        name: 'Michelangelo van Dam'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Drupal 8: The Crash Course'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-07 11:30'
+    speakers:
+      -
+        name: 'Larry Garfield'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Developer Experience In The PHP World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 10:15'
+    speakers:
+      -
+        name: 'Ryan Weaver'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'HHVM Basics'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-07 11:30'
+    speakers:
+      -
+        name: 'Sara Golemon'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Giving Up Control: Inversion Of Control For Beginners'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 16:00'
+    speakers:
+      -
+        name: "Matthew Weier O'Phinney"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introduction To Continuous Integration With Jenkins'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-07 17:15'
+    speakers:
+      -
+        name: 'Eric Hogue'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'CMS Made Simple: Simple For You, Simple For Your Customers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 10:15'
+    speakers:
+      -
+        name: 'Beth Tucker Long'
+        twitter: e3betht
+        github: e3betht
+    videos: null
+    slides: null
+  -
+    title: 'Secure Form Processing And Protection'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 14:45'
+    speakers:
+      -
+        name: 'Joe Ferguson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Twelve-Factor App: Best Practices For PHP On Platforms-As-A-Service'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 10:15'
+    speakers:
+      -
+        name: 'David Zuelke'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Composer The Right Way'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 17:15'
+    speakers:
+      -
+        name: 'Rafael Dohms'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'My App Is Secure...I Think'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-05 13:00'
+    speakers:
+      -
+        name: 'Wim Godden'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Big "Why Equal Doesn''t Equal" Quiz'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 14:45'
+    speakers:
+      -
+        name: 'Juliette Reinders Folmer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Jump-Start Your Application With AngularJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-05 09:00'
+    speakers:
+      -
+        name: 'Chris Saylor'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Getting Started With Varnish'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-05 13:00'
+    speakers:
+      -
+        name: 'Samantha Quiñones'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Handling Highly Connected Data With The Neo4j Graph Database'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-07 17:15'
+    speakers:
+      -
+        name: 'Michelle Sanver'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Symfony2 - The Very Basics'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 16:00'
+    speakers:
+      -
+        name: 'Margaret Staples'
+        twitter: dead_lugosi
+        github: mstaples
+    videos: null
+    slides: null
+  -
+    title: "PHP and teams, it's good chemistry!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 09:00'
+    speakers:
+      -
+        name: 'Rasmus Lerdorf'
+        twitter: rasmus
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Your API Is Bad And You Should Feel Bad'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 11:30'
+    speakers:
+      -
+        name: 'Ben Edmunds'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building Web Service Clients With Guzzle'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-05 13:00'
+    speakers:
+      -
+        name: 'Jeremy Lindblom'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TDD: Team-Driven Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 17:15'
+    speakers:
+      -
+        name: 'Samantha Quiñones'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Workshop: Improving QA on PHP Development Projects'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-05 13:00'
+    speakers:
+      -
+        name: 'Michelangelo van Dam'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Your Inner Sysadmin'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-05 09:00'
+    speakers:
+      -
+        name: 'Chris Tankersley'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Action Domain Responder A Refinement of MVC'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 17:15'
+    speakers:
+      -
+        name: 'Paul Jones'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Maximising Performance in ZF2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-07 14:45'
+    speakers:
+      -
+        name: 'Gary Hockin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Advanced Git Skills'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-05 09:00'
+    speakers:
+      -
+        name: 'Lorna Mitchell'
+        twitter: lornajane
+        github: lornajane
+    videos: null
+    slides: null
+  -
+    title: 'How To Cope When It All Hits the Fan'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-07 13:30'
+    speakers:
+      -
+        name: "Eryn O'Neil"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Same Thing Happens Every Time.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-07 09:00'
+    speakers:
+      -
+        name: 'Paul M. Jones'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Tuning Nginx And PHP-FPM The Right Way'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 14:45'
+    speakers:
+      -
+        name: 'Evan Coury'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Your Code Are My Tests!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-07 10:15'
+    speakers:
+      -
+        name: 'Michelangelo van Dam'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Vagrant Provisioning With Ansible'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-07 16:00'
+    speakers:
+      -
+        name: 'Erika Heidi'
+        twitter: erikaheidi
+        github: erikaheidi
+    videos: null
+    slides: null
+  -
+    title: 'Dockerize All The Things!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-07 17:15'
+    speakers:
+      -
+        name: 'Chris Tankersley'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Unit Testing PHP Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 11:30'
+    speakers:
+      -
+        name: 'Michael Moussa'
+        twitter: michaelmoussa
+        github: michaelmoussa
+    videos: null
+    slides: null
+  -
+    title: 'Advanced Adventures In Git'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 11:30'
+    speakers:
+      -
+        name: 'Lorna Mitchell'
+        twitter: lornajane
+        github: lornajane
+    videos: null
+    slides: null
+  -
+    title: "Beyond PHP: It's Not (just) About The Code!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-07 14:45'
+    speakers:
+      -
+        name: 'Wim Godden'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Queues And The Giant Beanstalkd'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 16:00'
+    speakers:
+      -
+        name: 'Daniel Cousineau'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'MVC5 - Reactive Higher Order Messages Eliminate Technical Debt'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 10:15'
+    speakers:
+      -
+        name: 'Gregory Baboolal'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Debugging Zen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 17:15'
+    speakers:
+      -
+        name: 'Ben Ramsey'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Down the Rabbit Hole: Lessons Learned combining Career and Community.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-07 18:15'
+    speakers:
+      -
+        name: 'Cal Evans'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP Speaks HTTPS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 11:30'
+    speakers:
+      -
+        name: "Matthew Weier O'Phinney"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How a team can make or break a startup.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 13:30'
+    speakers:
+      -
+        name: 'Poornima Vijayashanker'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

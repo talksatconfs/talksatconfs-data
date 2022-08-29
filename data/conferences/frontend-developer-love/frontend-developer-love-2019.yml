@@ -1,0 +1,217 @@
+name: 'Frontend Developer Love 2019'
+description: "1000+ Frontend Developers - “This is the most impressive venue I have ever seen” Evan You 2018! Cinema Seats, Creators, All new and Unique Talks, Theatre Setting. Greatest Javascript Conference in the Netherlands Presentations from the World's Frontend Leaders like Creator of Vue - Evan You, Sean Larkin - Webpack Core Team, Rick Hanlon - Jest Core Team, Kyle Mathews the creator of GatsbyJS and more.Looking for new and innovative solutions to your web development issues? Check out what you can learn from this conference: Reactive Angular Animations, Serverless Computing, Automated Scaffolding with Schematics, JavaScript bundlers, Microfrontends"
+location: ''
+venue: ''
+city: Amsterdam
+country: Netherlands
+link: 'https://www.frontenddeveloperlove.com/'
+playlist: 'youtube.com:PL02pdjMT4gWzhniCNr2hxmLvMZ2RUpEaz'
+from_date: '2019-02-13'
+to_date: '2019-02-15'
+tags: ''
+talks:
+  -
+    title: Introduction
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-14 00:00'
+    speakers:
+      -
+        name: 'Chris Visser'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The future of JavaScript bundlers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-14 00:00'
+    speakers:
+      -
+        name: 'Johannes Ewald'
+        twitter: jhnnns
+        github: jhnns
+    videos: null
+    slides: null
+  -
+    title: 'New Features of Webpack 5'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-14 00:00'
+    speakers:
+      -
+        name: 'Sean Larkin'
+        twitter: TheLarkInn
+        github: thelarkinn
+    videos:
+      - 'youtube:J_sDa58UUQo'
+    slides: null
+  -
+    title: 'Elegance of Movement with reactive Angular Animations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-14 00:00'
+    speakers:
+      -
+        name: 'Elena Gancheva'
+        twitter: eagan4eva
+        github: elena-gancheva
+    videos:
+      - 'youtube:cXKnVJ_XPpg'
+    slides:
+      - 'https://docs.google.com/presentation/d/1QxhLZf33XvCEIWvoXAAsdJSWaPHteI0Zb6-PLMmgNh4/edit#slide=id.g4cae059276_0_0'
+  -
+    title: "You don't know Microfrontends"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-14 00:00'
+    speakers:
+      -
+        name: 'Luca Mezzalira'
+        twitter: lucamezzalira
+        github: Apress/front-end-reactive-architectures
+      -
+        name: 'Max Gallo'
+        twitter: _maxgallo
+        github: maxgallo
+    videos:
+      - 'youtube:fl6F-f454to'
+    slides:
+      - 'https://docs.google.com/presentation/d/1JXmS-7-w8NX819Fjf4GaSx6wNTuCltRa-hzbyilmzOI/edit?fbclid=IwAR1LcQR8n8_znFMEBqyZaNiQhzV_fWDDEmgZKrhTjf5jyDSoWg9vK-8U340#slide=id.g4baa18d2f7_0_0'
+  -
+    title: 'Angular and Webcomponents'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-14 00:00'
+    speakers:
+      -
+        name: ' Ana Cidre'
+        twitter: anacidre_
+        github: anacidre
+      -
+        name: sazimi
+        twitter: sherrrylst
+        github: sazimi
+    videos:
+      - 'youtube:BlQCBNGxygk'
+    slides:
+      - 'https://github.com/sazimi/talks/blob/master/2019/january/front-end-love-web-components.pdf'
+  -
+    title: 'Transforming your Web Application into a PWA - Why and How?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-14 00:00'
+    speakers:
+      -
+        name: 'Gijs Weterings'
+        twitter: gweterings
+        github: GijsWeterings
+    videos:
+      - 'youtube:BLN8asEcqKs'
+    slides: null
+  -
+    title: 'The Fresh Jest of Bel-Air'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-15 00:00'
+    speakers:
+      -
+        name: 'Rick Hanlon'
+        twitter: rickhanlonii
+        github: rickhanlonii
+    videos:
+      - 'youtube:OTshapR_vlA'
+    slides: null
+  -
+    title: 'Rest, GraphQL & gRPC'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-15 00:00'
+    speakers:
+      -
+        name: 'David den Toom'
+        twitter: Koning_David
+        github: Koning_David
+    videos:
+      - 'youtube:ZmGyeseXz8M'
+    slides: null
+  -
+    title: 'What is new with Gatsby.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-15 00:00'
+    speakers:
+      -
+        name: 'Kyle Mathews'
+        twitter: kylemathews
+        github: KyleAMathews
+    videos:
+      - 'youtube:-bHkPPL1Tz4'
+    slides: null
+  -
+    title: 'A New Generation of Natively Compiled Tools'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-15 00:00'
+    speakers:
+      -
+        name: 'Patrick Stapfer'
+        twitter: ryyppy
+        github: ryyppy
+    videos: null
+    slides: null
+  -
+    title: 'What its like to be a full time open source maintainer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-15 00:00'
+    speakers:
+      -
+        name: 'Evan You'
+        twitter: youyuxi
+        github: yyx990803
+    videos:
+      - 'youtube:RyqQElmC69k'
+    slides: null
+  -
+    title: 'Unlock the Proxy Power (Vue.js)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-15 00:00'
+    speakers:
+      -
+        name: 'John Lindquist'
+        twitter: johnlindquist
+        github: johnlindquist
+    videos:
+      - 'youtube:95haj8RqR5o'
+    slides:
+      - 'https://github.com/johnlindquist/unlock-the-proxy-power'
+  -
+    title: 'Automated Scaffolding with Schematics (Angular)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-15 00:00'
+    speakers:
+      -
+        name: 'Natalia Venditto'
+        twitter: AnfibiaCreativa
+        github: anfibiacreativa
+    videos:
+      - 'youtube:yvr9l-tRA0s'
+    slides: null

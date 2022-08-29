@@ -1,0 +1,192 @@
+name: 'Smashing Conference New York 2018'
+description: 'Learn how others failed, so that you won’thave to make the same mistakes. You willalso discover techniques, strategies and tooling to get to better results, faster.'
+location: ''
+venue: ''
+city: 'New York, NY'
+country: 'United States'
+link: 'https://archive.smashingconf.com/ny-2018/'
+playlist: 'vimeopro.com:https://vimeopro.com/smashingmagazine/smashingconf-new-york-2018'
+from_date: '2018-10-23'
+to_date: '2018-10-24'
+tags: ''
+talks:
+  -
+    title: 'Til Launch Do Us Part'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-23 09:50'
+    speakers:
+      -
+        name: 'Dan Mall'
+        twitter: danmall
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/296790002'
+    slides: null
+  -
+    title: 'Building Inclusive Experiences with CSS and SVG'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-23 10:40'
+    speakers:
+      -
+        name: 'Sara Soueidan'
+        twitter: SaraSoueidan
+        github: SaraSoueidan
+    videos:
+      - 'vimeo.com:https://vimeo.com/296790813'
+    slides: null
+  -
+    title: 'The Long Tail of Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-23 12:00'
+    speakers:
+      -
+        name: 'Tim Kadlec'
+        twitter: tkadlec
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/296791460'
+    slides: null
+  -
+    title: 'New Adventures in Front-End'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-23 12:50'
+    speakers:
+      -
+        name: 'Vitaly Friedman'
+        twitter: smashingmag
+        github: vitalyfriedman
+    videos:
+      - 'vimeo.com:https://vimeo.com/296792084'
+    slides: null
+  -
+    title: 'Designing Progressive Web Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-23 15:10'
+    speakers:
+      -
+        name: 'Jason Grigsby'
+        twitter: grigs
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/296793040'
+    slides: null
+  -
+    title: 'The Shape of Thoughts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-23 16:00'
+    speakers:
+      -
+        name: 'Chiara Aliotta'
+        twitter: ChiaraAliotta
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/296793687'
+    slides: null
+  -
+    title: 'Why We Brand, Why We Buy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-23 17:20'
+    speakers:
+      -
+        name: 'Debbie Millman'
+        twitter: debbiemillman
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'And so the Mystery Begins…'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-24 09:40'
+    speakers:
+      -
+        name: 'John Maeda'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Serverless Functions and Vue.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-24 10:30'
+    speakers:
+      -
+        name: 'Sarah Drasner'
+        twitter: sarah_edo
+        github: sdras
+    videos:
+      - 'vimeo.com:https://vimeo.com/296938039'
+    slides: null
+  -
+    title: 'Designing for Augmented Reality'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-24 11:50'
+    speakers:
+      -
+        name: 'Michael Flarup'
+        twitter: flarup
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/296938351'
+    slides: null
+  -
+    title: "Bet you Didn't Think Your Browser Could do That"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-24 12:40'
+    speakers:
+      -
+        name: 'Monica Dinculescu'
+        twitter: notwaldorf
+        github: notwaldorf
+    videos:
+      - 'vimeo.com:https://vimeo.com/296941390'
+    slides: null
+  -
+    title: 'Encouraging Clicks - How to Encourage Action Without Alienating People'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-24 15:00'
+    speakers:
+      -
+        name: 'Paul Boag'
+        twitter: boagworld
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/296967288'
+    slides: null
+  -
+    title: 'Design in the Era of the Algorithm'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-24 15:50'
+    speakers:
+      -
+        name: 'Josh Clark'
+        twitter: bigmediumjosh
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/297201811'
+    slides: null

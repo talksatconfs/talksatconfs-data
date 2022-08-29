@@ -1,0 +1,180 @@
+name: 'Ng-Poland 2017'
+description: 'Meet Angularians from all over the world - share knowledge. Hear top speakers from around the world. Learn about the present and future of Angular and its ecosystem, TypeScript, tools and much more.'
+location: ''
+venue: ''
+city: Warsaw
+country: Poland
+link: 'https://ng-poland.pl/index2017.html'
+playlist: 'youtube:PLYJFRoKhU5SM4EwP7CdVfQeSrNFDM5ygl'
+from_date: '2017-11-21'
+to_date: '2017-11-21'
+tags: ''
+talks:
+  -
+    title: 'Keynote - Understand NGRX by building a Store'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-21 00:00'
+    speakers:
+      -
+        name: 'Todd Motto'
+        twitter: toddmotto
+        github: toddmotto
+    videos:
+      - 'youtube:6Z-1v1UnoM8'
+    slides: null
+  -
+    title: 'High-Performance Applications with Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-21 00:00'
+    speakers:
+      -
+        name: 'Nir Kaufman'
+        twitter: nirkaufman
+        github: nirkaufman
+    videos:
+      - 'youtube:UjXwskqSr9A'
+    slides: null
+  -
+    title: 'Login and Access Control in Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-21 00:00'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos:
+      - 'youtube:-OVucp-EqxA'
+    slides: null
+  -
+    title: 'Understanding High Order Observables'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-21 00:00'
+    speakers:
+      -
+        name: 'GERARD SANS'
+        twitter: gerardsans
+        github: gsans
+    videos:
+      - 'youtube:R0mKU8XMF-w'
+    slides: null
+  -
+    title: 'Sharing Code between Web and Native Apps with Angular and NativeScript.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-21 00:00'
+    speakers:
+      -
+        name: 'Sebastian Witalec'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:aurn2Yna75Q'
+    slides: null
+  -
+    title: 'Building Angular2 & Firebase application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-21 00:00'
+    speakers:
+      -
+        name: 'Fáris Ismail'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TsA6o4SfYf4'
+    slides: null
+  -
+    title: 'Angular 5 has arrived'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-21 00:00'
+    speakers:
+      -
+        name: 'Bartłomiej Narożnik'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zcmLg9MiEFU'
+    slides: null
+  -
+    title: "Separate your concerns with router's resolver"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-21 00:00'
+    speakers:
+      -
+        name: 'Filip Mamcarczyk'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HSFEP_813RU'
+    slides: null
+  -
+    title: 'Form of Art: Validation in Angular Forms'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-21 00:00'
+    speakers:
+      -
+        name: 'Shmuela Jacobs'
+        twitter: ShmuelaJ
+        github: shmool
+    videos:
+      - 'youtube:sNzhh8u2fyY'
+    slides: null
+  -
+    title: 'How to use Functional Programming with Angular and why it’s a good idea'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-21 00:00'
+    speakers:
+      -
+        name: 'Miłosz Piechocki'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MFDfEgOaV9Q'
+    slides: null
+  -
+    title: 'Packages for Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-21 00:00'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos:
+      - 'youtube:3fMTdm7k_d0'
+    slides: null
+  -
+    title: 'A few words about task management'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-21 00:00'
+    speakers:
+      -
+        name: 'Dariusz Kalbarczyk'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UbbDIacNRuI'
+    slides: null

@@ -1,0 +1,192 @@
+name: 'dotAI 2018'
+description: 'With world-class experts on stage, we will explore the current state-of-the-art, the latest machine learning frameworks and everything there is to know about building intelligent applications in 2018.'
+location: ''
+venue: ''
+city: Paris
+country: France
+link: 'https://www.dotai.io/'
+playlist: 'youtube.com:PLMW8Xq7bXrG6M2Nabwt3LuBxZyHVHRZhf'
+from_date: '2018-05-31'
+to_date: '2018-05-31'
+tags: ''
+talks:
+  -
+    title: 'All AI Roads Lead to Distribution'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Jim Dowling'
+        twitter: jim_dowling
+        github: jimdowling
+    videos:
+      - 'youtube:g72SAF4KOH0'
+    slides:
+      - 'https://www.slideshare.net/dowlingjim/all-ai-roads-lead-to-distribution-dot-ai'
+  -
+    title: 'Processing 100+ million images per month with deep learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Eliot Andres'
+        twitter: EliotAndres
+        github: EliotAndres
+    videos:
+      - 'youtube:zdm_u19MU50'
+    slides:
+      - 'https://docs.google.com/presentation/embed?id=1HiZo-Ufa5CH4ZCvAAGluZQw0Ghdyro94NNmKin9hIFc&start=false&loop=false&'
+  -
+    title: 'Machine Learning on Source Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Vadim Markovtsev'
+        twitter: vadimlearning
+        github: vmarkovtsev
+    videos:
+      - 'youtube:0CXmmJOZ5cE'
+    slides:
+      - 'http://vmarkovtsev.github.io/dotai-2018-paris/'
+  -
+    title: 'Logistics and data: towards a decision support tool'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Charlotte Ledoux'
+        twitter: LedouxCharlotte
+        github: null
+    videos:
+      - 'youtube:JrlLxljwupM'
+    slides:
+      - 'https://www.slideshare.net/CharlotteLedoux/logistics-and-data-towards-a-decision-support-tool'
+  -
+    title: 'Software 2.0, a Babel fish for deep learning?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Olivier Wulveryck'
+        twitter: owulveryck
+        github: owulveryck
+    videos:
+      - 'youtube:Gf-pmc7Mykc'
+    slides:
+      - 'https://www.slideshare.net/OlivierWulveryck/software-20-a-babel-fish-for-deep-learning'
+  -
+    title: 'Traps to avoid when working with AI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Virginie Mathivet'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NBcFoZaIvf0'
+    slides:
+      - 'https://www.slideshare.net/VirginieMathivet/you-vs-ryur-algorithm-be-the-smartest'
+  -
+    title: 'Deep Learning in the Wild'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Isabel Schwende'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WG2b1cNlNvU'
+    slides:
+      - 'https://www.slideshare.net/IsabelSchwende/dotai-paris-2018-lightning-talk'
+  -
+    title: 'Knowledge Graphs & Deep Learning at YouTube'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Aurelien Geron'
+        twitter: aureliengeron
+        github: ageron
+    videos:
+      - 'youtube:ywfYMQD6yYk'
+    slides:
+      - 'https://www.slideshare.net/aureliengeron/knowledge-graphs-for-search-amp-discovery-101596477'
+  -
+    title: 'Crowdsourcing Artificial Intelligence for Science: YOU can do a lot!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Sharada Mohanty'
+        twitter: MeMohanty
+        github: spMohanty
+    videos:
+      - 'youtube:X4d8bavOJ8w'
+    slides:
+      - 'https://drive.google.com/file/d/19kzyHANs-K0k5Jp9wT1ebGzFaSAsBQ81/view?usp=sharing'
+  -
+    title: 'Using structure to select features in high dimension'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Chloé-Agathe Azencott'
+        twitter: cazencott
+        github: chagaz
+    videos:
+      - 'youtube:ktroVuYEYgs'
+    slides:
+      - 'http://cazencott.info/dotclear/public/publications/2018-05-31-azencott.pdf'
+  -
+    title: 'Model Serving for Deep Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Hagay Lupesko'
+        twitter: null
+        github: lupesko
+    videos:
+      - 'youtube:-Tb2Gqws_OA'
+    slides:
+      - 'https://sprcdn-assets.sprinklr.com/674/Model_Serving_for_Deep_Learnin-57972e09-0bfa-4197-87b3-cb9c8402fb9c-1824388229.pdf'
+  -
+    title: 'Building Trust through Explainable AI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Peet Denny'
+        twitter: peetdenny
+        github: peetdenny
+    videos:
+      - 'youtube:bX9I4BuqJnU'
+    slides:
+      - 'https://www.slideshare.net/PeetDenny/building-trust-through-explainable-ai'

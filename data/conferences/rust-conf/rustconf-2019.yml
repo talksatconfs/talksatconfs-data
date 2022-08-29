@@ -1,0 +1,185 @@
+name: 'RustConf 2019'
+description: 'RustConf gathers Rust developers from around the world to learn and share with one another. It kicks off with optional training courses which lead into the Day 2 schedule of keynote speeches, technical talks and a community happy hour.'
+location: 'Portland, OR, United States'
+venue: ''
+city: 'Portland, OR'
+country: 'United States'
+link: 'https://rustconf.com/'
+playlist: ''
+from_date: '2019-08-22'
+to_date: '2019-08-23'
+tags: ''
+talks:
+  -
+    title: 'Flatulence, Crystals, and Happy Little Accidents'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 00:00'
+    speakers:
+      -
+        name: 'Nick Fitzgerald'
+        twitter: fitzgen
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Messing around with fn main() and getting away with it'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 00:00'
+    speakers:
+      -
+        name: 'Yoshua Wuyts'
+        twitter: yoshuawuyts
+        github: yoshuawuyts
+    videos: null
+    slides: null
+  -
+    title: 'Is This Magic!? Ferris Explores Rustc!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 00:00'
+    speakers:
+      -
+        name: 'J Haigh'
+        twitter: DebugSteven
+        github: null
+      -
+        name: QuietMisdreavus
+        twitter: QuietMisdreavus
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'tokio-trace: scoped, structured, async-aware diagnostics'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 00:00'
+    speakers:
+      -
+        name: 'Eliza Weisman'
+        twitter: mycoliza
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Bringing Rust Home to Meet the Parents'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 00:00'
+    speakers:
+      -
+        name: 'Jeremy Fitzhardinge'
+        twitter: jsgf
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Syscalls for Rustaceans'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 00:00'
+    speakers:
+      -
+        name: 'Gargi Sharma'
+        twitter: gawwrgi
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Towards an Open Ecosystem of Empowered UI Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 00:00'
+    speakers:
+      -
+        name: 'Adam Perry'
+        twitter: adam_n_p
+        github: dikaiosune
+    videos: null
+    slides: null
+  -
+    title: 'Class fixes; or, you become the Rust compiler'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 00:00'
+    speakers:
+      -
+        name: 'Isobel Redelmeier'
+        twitter: 1z0b31
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Symbiotic Relationship of C++ and Rust'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 00:00'
+    speakers:
+      -
+        name: 'Isabella Muerte'
+        twitter: slurpsmadrips
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Rust for Weld, a High Performance Parallel JIT Compiler'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 00:00'
+    speakers:
+      -
+        name: 'Shoumik Palkar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'From Electron, to WASM, to Rust (aaand back to Electron)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 00:00'
+    speakers:
+      -
+        name: 'Irina Shestak'
+        twitter: _lrlna
+        github: lrlna
+    videos: null
+    slides: null
+  -
+    title: 'Taking constant evaluation to the limit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 00:00'
+    speakers:
+      -
+        name: 'Oliver Schneider'
+        twitter: oli_obk
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Monotron - Building a retro computer in Embedded Rust'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 00:00'
+    speakers:
+      -
+        name: 'Jonathan Pallant'
+        twitter: therealjpster
+        github: null
+    videos: null
+    slides: null

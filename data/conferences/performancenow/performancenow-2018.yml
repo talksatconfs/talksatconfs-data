@@ -1,0 +1,246 @@
+name: 'performance.now() 2018'
+description: 'This is a single track conference with sixteen world-class speakers covering today’s most important web performance insights.'
+location: ''
+venue: ''
+city: Amsterdam
+country: Netherlands
+link: 'https://perfnow.nl/'
+playlist: 'youtube.com:PLjnstNlepBvMnKuNFvWeQWzlRp8Cbiw0X'
+from_date: '2018-11-08'
+to_date: '2018-11-09'
+tags: ''
+talks:
+  -
+    title: 'Make JavaScript Faster'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Steve Souders'
+        twitter: souders
+        github: null
+    videos:
+      - 'youtube:RwSlubTBnew'
+    slides:
+      - 'https://www.slideshare.net/souders/make-javascript-faster'
+  -
+    title: "It's My (Third) Party and I'll Cry If I Want To"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Harry Roberts'
+        twitter: csswizardry
+        github: null
+    videos:
+      - 'youtube:bmIUYBNKja4'
+    slides:
+      - 'https://speakerdeck.com/csswizardry/its-my-third-party-and-ill-cry-if-i-want-to'
+  -
+    title: 'Fast but not Furious: Debugging User Interaction Performance Issues'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Anna Migas'
+        twitter: szynszyliszys
+        github: szynszyliszys
+    videos:
+      - 'youtube:JGdIzKcAEkI'
+    slides:
+      - 'https://www.slideshare.net/AnnaMigas1/performancenow-fast-but-not-furious'
+  -
+    title: 'How I optimized my JavaScript sheet music rendering engine'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Adrian Holovaty'
+        twitter: adrianholovaty
+        github: null
+    videos:
+      - 'youtube:XH5EtQge_Bg'
+    slides: null
+  -
+    title: 'The Five Whys of Web Font Loading Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Zach Leatherman'
+        twitter: zachleat
+        github: null
+    videos:
+      - 'youtube:FbguhX3n3Uc'
+    slides:
+      - 'https://noti.st/zachleat/KNaZEg/the-five-whys-of-web-font-loading-performance'
+  -
+    title: 'Down the line: Evolving HTTP and making things QUIC'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Natasha Rooney'
+        twitter: thisNatasha
+        github: null
+    videos:
+      - 'youtube:WCwzKe4pKxY'
+    slides:
+      - 'https://docs.google.com/presentation/d/1BU-5Od9TLWMaVgr0yZ6qdzMgqZE9UCurinjx9Q4pZGw'
+  -
+    title: 'Headers for Hackers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Andrew Betts'
+        twitter: triblondon
+        github: null
+    videos:
+      - 'youtube:k92ZbrY815c'
+    slides:
+      - 'https://speakerdeck.com/triblondon/headers-for-hackers'
+  -
+    title: 'How I learned to stop worrying and love UX metrics'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Tammy Everts'
+        twitter: tameverts
+        github: null
+    videos:
+      - 'youtube:lLR_nGA5t5g'
+    slides:
+      - 'https://www.slideshare.net/tammyeverts/how-i-learned-to-stop-worrying-and-love-ux-metrics'
+  -
+    title: 'The Long-Tail of Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Tim Kadlec'
+        twitter: tkadlec
+        github: null
+    videos:
+      - 'youtube:6vMvg38CXFk'
+    slides:
+      - 'https://noti.st/tkadlec/FAqr8X'
+  -
+    title: 'Past, Present and Future of Resource Loading'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Yoav Weiss'
+        twitter: yoavweiss
+        github: null
+    videos:
+      - 'youtube:XwEKGuq_e0o'
+    slides:
+      - 'https://yoavweiss.github.io/perfnow_resource_loading/'
+  -
+    title: 'Image Optimization'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Kornel Lesiński'
+        twitter: kornelski
+        github: null
+    videos:
+      - 'youtube:jTXhYj2aCDU'
+    slides: null
+  -
+    title: 'Raiders of the Fast Start: Frontend Performance Archeology'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Katie Sylor-Miller'
+        twitter: ksylor
+        github: null
+    videos:
+      - 'youtube:qts9gPYoANU'
+    slides:
+      - 'https://www.slideshare.net/KatrinaSylorMiller/raiders-of-the-fast-start-frontend-performance-archaeology-performancenow-conference'
+  -
+    title: 'PWA Challenges'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Jason Grigsby'
+        twitter: grigs
+        github: null
+    videos:
+      - 'youtube:1570FmnYtck'
+    slides:
+      - 'https://www.slideshare.net/grigs/progressive-web-app-challenges'
+  -
+    title: "Move Fast & Don't Break Things"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Scott Jehl'
+        twitter: scottjehl
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building a Foundation for Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Michelle Vu'
+        twitter: micvu
+        github: null
+    videos:
+      - 'youtube:FBeR6QvroEQ'
+    slides: null
+  -
+    title: 'The Latest in Metrics & Measurement'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Paul Irish'
+        twitter: paul_irish
+        github: null
+    videos:
+      - 'youtube:XvZ7-Uh0R4Q'
+    slides: null

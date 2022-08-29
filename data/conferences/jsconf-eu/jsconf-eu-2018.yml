@@ -1,0 +1,666 @@
+name: 'JSConf EU 2018'
+description: 'JSConf EU is the labour-of-love conference for the JavaScript community in Europe'
+location: ''
+venue: ''
+city: Berlin
+country: Germany
+link: 'https://2018.jsconf.eu/'
+playlist: 'youtube.com:PL37ZVnwpeshG2YXJkun_lyNTtM-Qb3MKa'
+from_date: '2018-06-02'
+to_date: '2018-06-03'
+tags: ''
+talks:
+  -
+    title: 'Deep Learning in JS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Ashi Krishnan'
+        twitter: rakshesha
+        github: queerviolet
+    videos:
+      - 'youtube:SV-cgdobtTA'
+    slides: null
+  -
+    title: '10 Things I Regret About Node.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Ryan Dahl'
+        twitter: ry
+        github: null
+    videos:
+      - 'youtube:M3BM9TB-8yA'
+    slides: null
+  -
+    title: 'Aggressive Web Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Phil Nash'
+        twitter: philnash
+        github: philnash
+    videos:
+      - 'youtube:uo-UOvq3-0Y'
+    slides: null
+  -
+    title: 'Nested Loops opening'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'JAN MONSCHKE'
+        twitter: thedeftone
+        github: janmonschke
+      -
+        name: 'KAHLIL LECHELT'
+        twitter: kahliltweets
+        github: null
+      -
+        name: 'BORIS LECHELT'
+        twitter: bonotes
+        github: null
+    videos:
+      - 'youtube:e6wrCr7bzSg'
+    slides: null
+  -
+    title: 'Live:js opening'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Martin Schuhfuss'
+        twitter: usefulthink
+        github: null
+      -
+        name: 'Ruth John'
+        twitter: Rumyra
+        github: Rumyra
+      -
+        name: 'Sam Wray'
+        twitter: _2xaa
+        github: null
+      -
+        name: 'Matt Mckegg'
+        twitter: MattMckegg
+        github: null
+    videos:
+      - 'youtube:dPWRaN2PXZw'
+    slides: null
+  -
+    title: 'Exploring Augmented Reality on the Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Jordan Santell'
+        twitter: jsantell
+        github: jsantell
+    videos:
+      - 'youtube:bqmT0_w6_qc'
+    slides: null
+  -
+    title: 'TC39 Panel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: TC39
+        twitter: TC39
+        github: TC39
+    videos:
+      - 'youtube:Hj5q8uyqGYc'
+    slides: null
+  -
+    title: 'Look mum, no hands! — Brain controlled JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Charlie Gerard'
+        twitter: devdevcharlie
+        github: charliegerard
+    videos:
+      - 'youtube:7KhFO-qCVyg'
+    slides: null
+  -
+    title: 'Unintended Consequences: How to Reduce Exclusionary Practices (…)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Kim Crayton'
+        twitter: KimCrayton1
+        github: kmcrayton7
+    videos:
+      - 'youtube:t8F12gZJ4AQ'
+    slides: null
+  -
+    title: 'JavaScript Engines: The Good Parts™'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Mathias Bynens'
+        twitter: mathias
+        github: mathiasbynens
+      -
+        name: 'Benedikt Meurer'
+        twitter: bmeurer
+        github: bmeurer
+    videos:
+      - 'youtube:5nmpokoRaZI'
+    slides: null
+  -
+    title: 'To push, or not to push?! - The future of HTTP/2 server push'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Patrick Hamann'
+        twitter: patrickhamann
+        github: phamann
+    videos:
+      - 'youtube:cznVISavm-k'
+    slides: null
+  -
+    title: "From You Can't to You Can: The Welcoming Nature of Javascript"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Tejas Kumar'
+        twitter: TejasKumar_
+        github: TejasQ
+    videos:
+      - 'youtube:ONlLvZWXv1Y'
+    slides: null
+  -
+    title: 'Computer, build me an app'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Rich Harris'
+        twitter: rich_harris
+        github: rich-harris
+    videos:
+      - 'youtube:qqt6YxAZoOc'
+    slides: null
+  -
+    title: 'Baby’s First Rust+WebAssembly module: Say hi to JSConf EU!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Lin Clark'
+        twitter: linclark
+        github: linclark
+    videos:
+      - 'youtube:1meg-Dl_Urw'
+    slides: null
+  -
+    title: 'TCP - A story about hope, (pkg) loss && the missing link'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Ola Gasidlo'
+        twitter: misprintedtype
+        github: zoepage
+    videos:
+      - 'youtube:aOPgTWVtX78'
+    slides: null
+  -
+    title: 'Journey of JS community from 2 to 2k members'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Neha Sharma'
+        twitter: hellonehha
+        github: null
+    videos:
+      - 'youtube:n8dv_3Pojo4'
+    slides: null
+  -
+    title: 'Existential Engineering or How Ethics Precedes Error Handling'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Patricia Realini'
+        twitter: patriciarealini
+        github: patriciarealini
+    videos:
+      - 'youtube:GxKLgs8Vgsc'
+    slides: null
+  -
+    title: 'Hand-crafting WebAssembly'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Emil Bay'
+        twitter: emilbayes
+        github: emilbayes
+    videos:
+      - 'youtube:CfdmzVos1Fs'
+    slides: null
+  -
+    title: 'Further Adventures of the Event Loop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Erin Zimmer'
+        twitter: ErinJZimmer
+        github: ejzimmer
+    videos:
+      - 'youtube:u1kqx6AenYw'
+    slides: null
+  -
+    title: 'Empathy-Driven Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Marcy Sutton'
+        twitter: marcysutton
+        github: marcysutton
+    videos:
+      - 'youtube:l95VFLj3e2w'
+    slides: null
+  -
+    title: 'Metro: Scaling JavaScript Build Systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Miguel Jiménez Esún'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:99QyAz3Wfqc'
+    slides: null
+  -
+    title: 'The Etymology of Programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Brittany Storoz'
+        twitter: brittanystoroz
+        github: brittanystoroz
+    videos:
+      - 'youtube:2KTK2qD4-gs'
+    slides: null
+  -
+    title: 'Metaphors We Compute By'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 00:00'
+    speakers:
+      -
+        name: 'Alvaro Videla'
+        twitter: old_sound
+        github: videlalvaro
+    videos:
+      - 'youtube:JrjbX-KX6wQ'
+    slides: null
+  -
+    title: 'Please wait... loading: a tale of two loaders'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Myles Borins'
+        twitter: 'Myles Borins'
+        github: MylesBorins
+    videos:
+      - 'youtube:35ZMoH8T-gc'
+    slides: null
+  -
+    title: 'Visualising Enterprise Data with D3'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Sean Landsman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BJR5SF4cI_Y'
+    slides: null
+  -
+    title: 'Asynchrony: Under the Hood'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Shelley Vohr'
+        twitter: codebytere
+        github: codebytere
+    videos:
+      - 'youtube:SrNQS8J67zc'
+    slides: null
+  -
+    title: 'Time travel debugging: A step-by-step guide'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Jason Laster'
+        twitter: jasonlaster11
+        github: jasonLaster/
+    videos:
+      - 'youtube:rDq1AN1kSn4'
+    slides: null
+  -
+    title: 'Haute Codeture: Clothing as a Canvas'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Stephanie Nemeth'
+        twitter: stephaniecodes
+        github: traumverloren
+    videos:
+      - 'youtube:LT3OD6V6mtA'
+    slides: null
+  -
+    title: 'Native BigInts in JavaScript: A Case Study in TC39'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Daniel Ehrenberg'
+        twitter: littledan
+        github: littledan
+    videos:
+      - 'youtube:RiU5OzMZ7z8'
+    slides: null
+  -
+    title: "Securing your site like it's 1999"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Katie Fenn'
+        twitter: katie_fenn
+        github: katiefenn
+    videos:
+      - 'youtube:Tpzqu4EGFjc'
+    slides: null
+  -
+    title: 'Tales From the Trenches: Fingerprints on the Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Igor Trindade Oliveira'
+        twitter: Igortolivei
+        github: igortoliveira
+    videos:
+      - 'youtube:hZg0Ks_IHjQ'
+    slides: null
+  -
+    title: 'About Coding Kids and Screaming Carrots'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Georgios Kaleadis'
+        twitter: deluxee
+        github: georgiee/
+    videos:
+      - 'youtube:t0m5rrKKMOA'
+    slides: null
+  -
+    title: 'Quirks and surprises of webdev in China'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Hannes Schluchtmann'
+        twitter: escapedcat
+        github: escapedcat
+    videos:
+      - 'youtube:tLUwq9NQExA'
+    slides: null
+  -
+    title: 'Improving Low-Connectivity Experiences on the Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Valerie Woolard Srinivasan'
+        twitter: valeriecodes
+        github: valeriecodes
+    videos:
+      - 'youtube:G96ie93tn5Q'
+    slides: null
+  -
+    title: 'Kablooie: A History of Errors & a Future of Solutions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Sarah Groff Hennigh-Palermo'
+        twitter: superSGP
+        github: sarahgp
+    videos:
+      - 'youtube:tteIQBPPxqc'
+    slides: null
+  -
+    title: 'Breaking Changes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'James Coglan'
+        twitter: jcoglan
+        github: blog.jcoglan.com/
+    videos:
+      - 'youtube:StN9QKnhhHc'
+    slides: null
+  -
+    title: 'Build Advanced Search Experiences with a Custom Query Language'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Adrien Trauth'
+        twitter: nioufe
+        github: nioufe
+    videos:
+      - 'youtube:P2yB_iEJXyI'
+    slides: null
+  -
+    title: 'When Chomsky Met JavaScript: Exploring the Linguistics(...)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Alaina Kafkes'
+        twitter: alainakafkes
+        github: alainakafkes
+    videos:
+      - 'youtube:ZbMj_ab29Js'
+    slides: null
+  -
+    title: 'Hey you, do you even design ?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Florence Okoye'
+        twitter: FINOkoye
+        github: null
+    videos:
+      - 'youtube:Bmm4-2SJ8qQ'
+    slides: null
+  -
+    title: 'Photorealistic Real Time Computer Graphics with Javascript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Ivan Moreno'
+        twitter: ivanmoreno_xyz
+        github: boyaquito/
+    videos:
+      - 'youtube:YHVKME6vYjY'
+    slides: null
+  -
+    title: 'A Node.js Security Roadmap'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Mike Samuel'
+        twitter: mvsamuel
+        github: mikesamuel
+    videos:
+      - 'youtube:1Gun2lRb5Gw'
+    slides: null
+  -
+    title: 'Formalizing user rights on the Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Paul Frazee'
+        twitter: pfrazee
+        github: pfrazee
+    videos:
+      - 'youtube:x-ffpAkviM0'
+    slides: null
+  -
+    title: 'Imagine This: A Web Without Servers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Tara Vancil'
+        twitter: taravancil
+        github: taravancil
+    videos:
+      - 'youtube:rJ_WvfF3FN8'
+    slides: null
+  -
+    title: 'From Rabbi to Coder: How To Prepare for the Technical Interview'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Ben Greenberg'
+        twitter: RabbiGreenberg
+        github: benhayehudi
+    videos:
+      - 'youtube:tTZ3pWoDkjc'
+    slides: null
+  -
+    title: 'Using a modern web to recreate 1980s horribly slow & loud loading screens'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-03 00:00'
+    speakers:
+      -
+        name: 'Remy Sharp'
+        twitter: rem
+        github: remy
+    videos:
+      - 'youtube:o3MNdxQFUe8'
+    slides: null

@@ -1,0 +1,329 @@
+name: 'DeltaV Conference 2018'
+description: 'DeltaV is proud to be supporting the following good causes as part of the conference. A financial contribution will be made to support the fantastic work codebar, Code Club and CodeYourFuture are doing in the tech community.'
+location: ''
+venue: ''
+city: London
+country: 'United Kingdom'
+link: 'https://2018.deltavconf.com/'
+playlist: 'youtube.com:PLGUWTxqQHq52UYQJVPrDBI7YOZNWlp1en'
+from_date: '2018-05-10'
+to_date: '2018-05-11'
+tags: ''
+talks:
+  -
+    title: 'Redefining Web Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Tim Kadlec'
+        twitter: tkadlec
+        github: null
+    videos:
+      - 'youtube:JJGxNjrIYVc'
+    slides:
+      - 'https://noti.st/tkadlec/OOXqpJ/redefining-web-performance'
+  -
+    title: 'Starting a Dedicated Web Performance Team the First Ten Months'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Sarah Dapul-Weberman'
+        twitter: sarahddubs
+        github: null
+    videos:
+      - 'youtube:ne_UYfDmDYc'
+    slides: null
+  -
+    title: 'Speeding up Without Slowing down'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Rhys Evans'
+        twitter: wheresrhys
+        github: null
+    videos:
+      - 'youtube:OS1fKsFXLKg'
+    slides: null
+  -
+    title: 'This is for Everyone'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Seren Davies'
+        twitter: ninjanails
+        github: null
+      -
+        name: 'Bruce Lawson'
+        twitter: brucel
+        github: null
+    videos:
+      - 'youtube:o36RiEbI2IU'
+    slides: null
+  -
+    title: 'Chrome User Experience Report'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: Parameshwaran
+        twitter: everConfusedGuy
+        github: null
+    videos:
+      - 'youtube:wVY3-acLIoI'
+    slides: null
+  -
+    title: "Web Performance @ NBrown It's a Business Affair"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Nick Webb'
+        twitter: jdwebops
+        github: null
+      -
+        name: 'Laura Sheridan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:z-mhV-pn68Q'
+    slides: null
+  -
+    title: "Let's Build a Progressive Web App"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: uve
+        twitter: uveavanto
+        github: null
+    videos:
+      - 'youtube:oCjDpObOZPM'
+    slides: null
+  -
+    title: 'Frontend Resilience'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Ian Feather'
+        twitter: ianfeather
+        github: null
+    videos:
+      - 'youtube:iUfymdAZ1wI'
+    slides:
+      - 'https://www.slideshare.net/ianfeather/frontend-resilience'
+  -
+    title: 'A Rube Goldberg Machine and New Web Technology'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Ada Rose Cannon'
+        twitter: Lady_Ada_King
+        github: AdaRoseCannon
+    videos:
+      - 'youtube:DCRN1cG7sOA'
+    slides:
+      - 'https://ada.is/grid-slides/new-web/'
+  -
+    title: 'Debugger; for Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Denys Mishunov'
+        twitter: 'Denys Mishunov'
+        github: null
+    videos:
+      - 'youtube:seuOUunPUjw'
+    slides:
+      - 'https://noti.st/mishunov/4DIwwS/debugger-for-developers'
+  -
+    title: 'Hunting the Unicorn'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Tammy Everts'
+        twitter: tameverts
+        github: null
+    videos:
+      - 'youtube:-PqL4qhvnE8'
+    slides:
+      - 'https://www.slideshare.net/tammyeverts/the-hunt-for-the-unicorn-performance-metric-deltav-london-2018'
+  -
+    title: 'Any Site can be a Progressive Web App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Jeremy Keith'
+        twitter: adactio
+        github: null
+    videos:
+      - 'youtube:GXv4W94qsQ0'
+    slides:
+      - 'https://speaking.adactio.com/d1zSa7/any-site-can-be-a-progressive-web-app'
+  -
+    title: 'Fast Fashion - How Missguided Revolutionised their Approach to Site Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Mark Leach'
+        twitter: null
+        github: null
+      -
+        name: 'Andy Davies'
+        twitter: AndyDavies
+        github: null
+    videos:
+      - 'youtube:mLzt23ZVGx0'
+    slides:
+      - 'https://www.slideshare.net/AndyDavies/'
+  -
+    title: 'How To Manage Performance Like a Product'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Lauren Younger'
+        twitter: llyounger
+        github: null
+    videos:
+      - 'youtube:PhKPQPX4y-o'
+    slides:
+      - 'https://www.slideshare.net/secret/N8DiIc06G2fYkN'
+  -
+    title: 'Improving Load Time for 100 Million Websites - Wix Case-Study'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Dan Shappir'
+        twitter: DanShappir
+        github: null
+    videos:
+      - 'youtube:4QqlGgF8Y2I'
+    slides: null
+  -
+    title: 'QUIC, in Theory and Practice'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Robin Marx'
+        twitter: programmingart
+        github: null
+    videos:
+      - 'youtube:B1SQFjIXJtc'
+    slides: null
+  -
+    title: "There's more to Performance than meets the Eye"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Léonie Watson'
+        twitter: LeonieWatson
+        github: null
+    videos:
+      - 'youtube:n1sXj9oAXFU'
+    slides: null
+  -
+    title: "It’s My (Third) Party and I'll Cry If I Want To"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Harry Roberts'
+        twitter: csswizardry
+        github: null
+    videos:
+      - 'youtube:rzMID7ES6q4'
+    slides:
+      - 'https://speakerdeck.com/csswizardry/its-my-third-party-and-ill-cry-if-i-want-to'
+  -
+    title: 'Where are the Women?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Dora Militaru'
+        twitter: doramilitaru
+        github: null
+    videos:
+      - 'youtube:LVGaVLJoIGY'
+    slides:
+      - 'https://speakerdeck.com/doramatadora/deltav-conference-2018-where-are-the-women'
+  -
+    title: '25% Faster Hotel Search. Web Performance? - Trivago.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Tobias Baldauf'
+        twitter: tbaldauf
+        github: null
+    videos:
+      - 'youtube:9f2sjQmJCKY'
+    slides:
+      - 'https://speakerdeck.com/tbaldauf/25-percent-faster-hotel-search-web-performance-trivago'
+  -
+    title: 'The Shape of the Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Henri Helvetica'
+        twitter: HenriHelvetica
+        github: null
+    videos:
+      - 'youtube:9BadRPRQN70'
+    slides: null

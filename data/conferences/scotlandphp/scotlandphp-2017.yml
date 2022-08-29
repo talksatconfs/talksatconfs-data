@@ -1,0 +1,208 @@
+name: 'ScotlandPHP 2017'
+description: ''
+location: 'EICC, Edinburgh'
+venue: ''
+city: ''
+country: ''
+link: 'https://conference.scotlandphp.co.uk/2017/'
+playlist: ''
+from_date: '2017-11-04'
+to_date: '2017-11-04'
+tags: ''
+talks:
+  -
+    title: 'Containing Chaos with Kubernetes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Terrence Ryan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xR9bxZZCIj8'
+    slides: null
+  -
+    title: 'Refactoring Large Legacy Applications with Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Craig McCreath'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XvoPZwjBln0'
+    slides: null
+  -
+    title: 'Security Theatre'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Thomas Shone'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ovgW7omgKIk'
+    slides: null
+  -
+    title: 'Clean Application Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Adam Culp'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:djpewDYYu-Y'
+    slides: null
+  -
+    title: "Content Security Policies: Let's Break Stuff"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-11-04 00:00'
+    speakers:
+      -
+        name: 'Matt Brunt'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oW1VUDMuHF0'
+    slides: null
+  -
+    title: 'What even is "Cloud Native"?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'David McKay'
+        twitter: rawkode
+        github: rawkode
+    videos:
+      - 'youtube:zxSE5zOhSLY'
+    slides: null
+  -
+    title: 'The Myth of untestable Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Sebastian Heuer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OK8WKd0d99M'
+    slides: null
+  -
+    title: 'MySQL 8 -- A New Beginning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Dave Stokes'
+        twitter: iansltx
+        github: mysqlmentor
+    videos:
+      - 'youtube:TNL2OyJkD3g'
+    slides: null
+  -
+    title: 'Behat Best Practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Ciaran McNulty'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9hKTt37Dw2g'
+    slides: null
+  -
+    title: 'The Science of Code Reviews'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Rick Kuipers'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rqgmMsedEFc'
+    slides: null
+  -
+    title: 'Pushing the Limits of PHP with ReactPHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Christian Lück'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tRxnwK_oJu0'
+    slides: null
+  -
+    title: 'Rise of the Machines'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-03 00:00'
+    speakers:
+      -
+        name: 'Josh Holmes'
+        twitter: null
+        github: joshholmes
+    videos:
+      - 'youtube:dFtw2u_h1iQ'
+    slides: null
+  -
+    title: 'Creating space to be awesome'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Meri Williams'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Y-ja7f7unYA'
+    slides: null
+  -
+    title: "GraphQL is right in front of us, let's do it!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Renato Mefi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ICQ_NtDxlV0'
+    slides: null

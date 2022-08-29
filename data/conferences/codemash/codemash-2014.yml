@@ -1,0 +1,1754 @@
+name: 'CodeMash 2014'
+description: ''
+location: 'Sandusky, Ohio'
+venue: ''
+city: ''
+country: ''
+link: 'https://web.archive.org/web/20140319220855/https://www.codemash.org/'
+playlist: ''
+from_date: '2014-01-07'
+to_date: '2014-01-10'
+tags: ''
+talks:
+  -
+    title: 'Biometrics: Using Your Body for Fun and Profit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Chris Gardner'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Functional Test Automation Smackdown'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jim Holmes'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Androids Under the Stairs: Mobile Scala'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Nathan Dotz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How to be a functional programmer without being a jerk about it.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Nathan Dotz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Mobile Application Security? There's a Session for That!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Benjamin Floyd'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building A Mini Killer Robot'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jared Faris'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Let's Build Skynet In An Hour"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Joshua Gretz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Open Your Mind to Erlang'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Anthony Eden'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Physics And The User Interface for iOS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jonathan Penn'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Zen And The Intro To iOS Gesture Recognizers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jonathan Penn'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '[self shouldTest:@”iOS”];'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Amber Conville'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Advanced Concurrent Programming in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: "Jerry D'Antonio"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Becoming an Outlier: Career Reboot for the Developer Mind'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Cory House'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Pragmatic Architecture in .Net: Curing the Architecture Astronaut'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Cory House'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Test Driven Developers Android Testing Toolbox'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Dave Shah'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Using NoSQL with JPA, EclipseLink and Java EE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Reza Rahman'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'JavaEE.Next(): Java EE 7, 8, and Beyond'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Reza Rahman'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'MongoDB and Meeting Your Storage Needs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Brett S Berliner'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Mixing Functional programming with OO'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Nilanjan Raychaudhuri'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Your Graph is Showing: The Trend toward Graph Databases & Connected Data'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Greg Jordan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Scala for Java developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Nilanjan Raychaudhuri'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Low Risk Entrepreneur'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Steve Smith'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'People, Process, Tools – The Essence of DevOps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Richard Campbell'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Serenity for Android: Lessons learned about designing an app for Google TV'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'David Carver'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Debugging with Fiddler'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Eric Lawrence'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Hardware Interaction with JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Scott Preston'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Understanding Objective-C Inside and Out'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jeff Kelley'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How We Build Realtime Systems At bitly'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: "Sean O'Connor"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Exploring JVM Bytecodes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Matt Insko'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Engineering Beauty'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Matt Sears'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Tooling and Improving Web Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jack Lawson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Surviving Support: 10 Tips for Saving Your Users and Yourself'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Julie Cameron'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Team Collaboration'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jonathan Knapp'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Searching for the Masses with ElasticSearch'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Andrew Glover'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Java.Next: An overview of Java 8'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Scott Seighman'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building decoupled polyglot applications with Vert.x'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Toby Crawley'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Concurrent Applications with F# Agents'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Rachel Reese'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Liberate the Front-End'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'David Mosher'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Angular Directives: Demystified'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Brian Genisio'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'DudeOps: Why the Big Lebowski is about your IT Project'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Michael Ducy'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Gambling for Rubyists'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Kerri Miller'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Clojure: Thinking in Data'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Alex Miller'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Hadoop Kickstarter for the Microsoft Platform'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Gary Short'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TypeScript for C# Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Bill Wagner'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Do Some "Solr"Searching With Your Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'David Hoerster'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Un-integrated Development Environment'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Joel Byler'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Escaping Reality With Shoes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Zachary Scott'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Show an Open Source Project Some Love and Start Using Travis-CI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Joel Byler'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Vagrant, the ability to think about production deployments from day 1 of development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Paul Stack'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Managing Terabytes on AWS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Fred Simon'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Physical Computing Product Development with Arduino'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Scott Sullivan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Motorizing a 44” x 8” Telescope from Scratch'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'John Michael Hauck'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Component-oriented: the past and future of web development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Chris Nelson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Are branching, null, and attributes all that OO? Let's get weird!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'David Copeland'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Scratching the Surface with JavaFX'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jim Weaver'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Windows to Web: Angular for XAML developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jeff Yates'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Promises A+ - Understanding the spec through implementation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Rhys Brett-Bowen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Gesture Recognition with Kinect for Windows'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Carl Franklin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Embrace the IFrame'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Daniel Shultz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Log Management Made Awesome: The Kibana 3 Way'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Nick Slowes'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How to Start a Company'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Benjamin Winkler'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Communicating with a Fist-full of Wire'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'John Van Enk'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building Killer Single-Page Apps with Durandal and ASP.NET Web API'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Brian Sullivan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Welcome to the world of Sound'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Joseph Wilk'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'I Only Want to Write My App Once: Using Xamarin to Build Multi-Platform Mobile Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jerrel Blankenship'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Beyond CSS and Color Wheels: Applied UX Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Erik Dahl'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Future of C#'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Dustin Campbell'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Test All The (CSS) Things! Making CSS testing less painful and more reliable'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Tina Bell Vance'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Devs who grok testing: Why I love working with them, and how they mitigate risk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Lisa Crispin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Testing Web Services'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Stan Jónsson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Birth and Death of Javascript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Gary Bernhardt'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building URL-Driven Web Apps with JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Tom Dale'
+        twitter: tomdale
+        github: tomdale
+    videos: null
+    slides: null
+  -
+    title: 'Single-Page App Architecture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Aidan Feldman'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'OOP: You’re Doing It Completely Wrong'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Kevin Berridge'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Rust for $LANGUAGE-ists'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Steve Klabnik'
+        twitter: steveklabnik
+        github: steveklabnik
+    videos: null
+    slides: null
+  -
+    title: 'UX Antipatterns: Hidden User Traps in Sites and Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Michael Boeke'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Create a Web Site w/ Laravel in Under an Hour'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Dirk Merkel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to Hadoop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Keegan Witt'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Embedding JavaScript in .NET'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Kevin Hazzard'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Navigating the Open Source Legal Waters'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jeff Strauss'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Trending toward Next-Gen Application Performance through Lifecycle Monitoring'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Scott Barber'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'D3.js as client-side web framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Neal Lindsay'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Google Glass on Node.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Toby Miller'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A humbling experience through web accessibility'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Hany Elemary'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Android 4.3 and Bluetooth SMART: The Sensor Games'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Ben Von Handorf'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Right Amount Of Planning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jonathan Mills'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Make an Event of It!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jason Clark'
+        twitter: riceboyler
+        github: riceboyler
+    videos: null
+    slides: null
+  -
+    title: 'The DOM is not your application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Noel Rappin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'An Honest Look at Independence'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jim Christopher'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'SOLID JavaScript In A Wobbly World (wide web)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Derick Bailey'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Performance In a Responsive World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Rob Harr'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How we built a Cloud Platform at Riot Games using NetflixOSS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Carl Quinn'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Practical Machine Learning – Recommender Engine and Anomaly Detection'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Seth Juarez'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Math for .NET Developers – Making Data that Looks Real'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Seth Juarez'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Using MonoGame to Develop Games for All (or Nearly All) Platforms'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Kevin Grossnicklaus'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Startup Tips and Tricks: Getting a small IT shop off the ground'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Kevin Grossnicklaus'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Automating Windows Azure without Creating SkyNet'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Mike Wood'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "NSExpressions: Everything you wanted to know but didn't know to ask"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Joshua Smith'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Rails with a Clojure twist'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'David Pick'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Modern Web Development Workflow backed by .NET'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jay Harris'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Sneaking Scala through the Back Door'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Dianne Marsh'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'XCTest & Bots: CI with Xcode 5'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Kevin Munc'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'More Cache for Less Cash'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Michael Collier'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Windows Azure Mobile Services: The Perfect Partner'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Michael Collier'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Democratizing Event-Processing at all Scales in all Languages'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Matthew Podwysocki'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Demystify the Modern Identity Stack'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Mike Benkovich'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Web Security Audits: A Comprehensive Guide'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Aaron Bedra'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Python Through the Back Door'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Roy Rapoport'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Don't forget to throw out the trash!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'George Walters II'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Secrets of Clojure Web Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Clinton Dreisbach'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How Netflix architects for survival.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jeremy Edberg'
+        twitter: jedberg
+        github: jedberg
+    videos: null
+    slides: null
+  -
+    title: 'Following the changing weather of the clouds.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jeremy Edberg'
+        twitter: jedberg
+        github: jedberg
+    videos: null
+    slides: null
+  -
+    title: 'Simply JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Leon Gersing'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Scaling Your Data Safely for Fun and Profit with Riak!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Alex Moore'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Own Your Own Career – Advice from a Veteran Consultant'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'David Giard'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Migrating from Maven To Gradle... Best of breed or just the least evil?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Bryan Davis'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Preparing your QA team for Mobile Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Geoffrey Goetz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Feeling Confident About Your Legacy Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'David Hoerster'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Patterns of effective test setup: Object Mother and beyond'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Seth Petry-Johnson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to Front-End Tooling'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Adam Simpson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Acceptance Testing: The Dirty Details'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Kevin Berridge'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Real World Polyglot Persistence'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jimmy Bogard'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'What the Heck is Kanban?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Stan Jónsson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building your own lightsaber - Arduino + Pi + node.js + 3D Printing == build light'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Pete Hodgson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Real JavaScript Ninjas know how to role with WAI-ARIA'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Dylan Barrell'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Transform Your Architecture With RabbitMQ'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Alex Robson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Streamlining Development To Deployment with Docker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Alex Robson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Hit the GPU running: An ungentle introduction to using OpenGL ES in iOS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Brian Stanek'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building Apps For Windows'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jeff Blankenburg'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'C# on a diet with Scriptcs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Kevin Pilch-Bisson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Applied API Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jon Skeet'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Async on the Server'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Stephen Cleary'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Lessons from a Grizzled Speaker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Josh Holmes'
+        twitter: null
+        github: joshholmes
+    videos: null
+    slides: null
+  -
+    title: 'Asynchrony in Node.js, let me count the ways'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Glenn Block'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

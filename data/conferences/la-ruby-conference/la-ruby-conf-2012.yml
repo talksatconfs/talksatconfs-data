@@ -1,0 +1,189 @@
+name: 'LA Ruby Conf 2012'
+description: ''
+location: ''
+venue: ''
+city: 'Bubank, California'
+country: 'United States'
+link: 'https://web.archive.org/web/20120109041829/http://www.larubyconf.com/presentations'
+playlist: ''
+from_date: '2012-02-02'
+to_date: '2012-02-04'
+tags: ''
+talks:
+  -
+    title: 'Welcome and Introduction'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-04 09:00'
+    speakers:
+      -
+        name: ' Coby Randquist'
+        twitter: null
+        github: null
+      -
+        name: 'JR Fent '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Getting Addicted to SOA'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-04 09:15'
+    speakers:
+      -
+        name: 'Jeff Casimir'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How to scale a Ruby webservice'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-04 09:45'
+    speakers:
+      -
+        name: 'Jeremie Castagna'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Kill! Kill! Die! Die! Load Testing With A Vengeance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-04 10:30'
+    speakers:
+      -
+        name: 'Dan Yoder'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Rack Middleware as a General Purpose Abstraction'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-04 11:00'
+    speakers:
+      -
+        name: 'John Bender'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Designing Hypermedia APIs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-04 11:45'
+    speakers:
+      -
+        name: 'Steve Klabnik'
+        twitter: steveklabnik
+        github: steveklabnik
+    videos: null
+    slides: null
+  -
+    title: 'Quit Your Job. Srsly.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-04 14:15'
+    speakers:
+      -
+        name: 'Shane Becker'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Maintainable Ruby on Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-04 14:45'
+    speakers:
+      -
+        name: 'Steven Baker'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Great Developers Steal'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-04 15:30'
+    speakers:
+      -
+        name: 'Ben Scofield'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Rails: All Aboard the Fail Train'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-04 16:00'
+    speakers:
+      -
+        name: 'Xavier Shay'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Time to move away from Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-04 16:45'
+    speakers:
+      -
+        name: 'Matt Aimonetti'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-04 17:30'
+    speakers:
+      -
+        name: "Joe O'Brien"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Conference Wrap up'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-02-04 18:30'
+    speakers:
+      -
+        name: ' Coby Randquist'
+        twitter: null
+        github: null
+      -
+        name: 'JR Fent '
+        twitter: null
+        github: null
+    videos: null
+    slides: null

@@ -1,0 +1,367 @@
+name: 'JavaScript Conference Armenia 2018'
+description: 'Learn about the modern development ecosystem by attending talks and workshops.'
+location: ''
+venue: ''
+city: Yerevan
+country: Armenia
+link: 'https://jsconf.am/'
+playlist: 'youtube.com:PL578TLdGXRcaMq7lqM4qpGY7gFRb9iDTy'
+from_date: '2018-11-03'
+to_date: '2018-11-03'
+tags: ''
+talks:
+  -
+    title: 'Framework Design - Lessons Learned from Repeated Mistakes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Rouben Meschian'
+        twitter: null
+        github: rmeschian
+    videos:
+      - 'youtube:FGSqKyws6i8'
+    slides: null
+  -
+    title: 'Building Reliable Backend with Node.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Illya Klymov'
+        twitter: xanf_ua
+        github: xanf
+    videos:
+      - 'youtube:uGumw80nYSM'
+    slides: null
+  -
+    title: 'GraphQL & Apollo in Vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Natalia Tepluhina'
+        twitter: n_tepluhina
+        github: NataliaTepluhina
+    videos:
+      - 'youtube:iJULWNCaLrY'
+    slides: null
+  -
+    title: 'Machine learning in the browser'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Varuzhan Harutyunyan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cbYT2oQzQQU'
+    slides: null
+  -
+    title: 'Scalable Best Practices for Your Development Team'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Tejas Kumar'
+        twitter: TejasKumar_
+        github: TejasQ
+    videos:
+      - 'youtube:bs4vsji1GZ0'
+    slides: null
+  -
+    title: 'The State of State Management in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Vardges Vardanyan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wYyvYMuPYyM'
+    slides: null
+  -
+    title: 'Presentations with React and GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Juho Vepsäläinen'
+        twitter: bebraw
+        github: bebraw
+    videos:
+      - 'youtube:vmGLhIbU-aE'
+    slides: null
+  -
+    title: 'Orchestrating Node.js Containers with Kubernetes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Shahen Hovhannisyan'
+        twitter: shahen_94
+        github: shahen94
+    videos:
+      - 'youtube:JeRtDBbD7bs'
+    slides: null
+  -
+    title: 'Metaprogramming, ES6 Proxy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Robert Hanesoghlyan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Xg6id30T0qY'
+    slides: null
+  -
+    title: 'Objects in JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Hayk Barseghyan'
+        twitter: HaykEnemy
+        github: null
+    videos:
+      - 'youtube:viiidc6Buqc'
+    slides: null
+  -
+    title: 'React !sync Rendering'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Khachatur Virabyan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Oy0jRhyodBc'
+    slides: null
+  -
+    title: 'Optimizing bundle with WebPack and Code Splitting'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Arnold Dadayan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:G9JWBtueLeU'
+    slides: null
+  -
+    title: 'GatsbyJS as the Future of the Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Ruben Harutyunyan'
+        twitter: Vagr9K
+        github: Vagr9K
+    videos:
+      - 'youtube:JTJ-0Y2Wlc8'
+    slides: null
+  -
+    title: 'Thinking and Styling in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Hrach Mkrtchyan'
+        twitter: hrachmk
+        github: hrachmkr
+    videos:
+      - 'youtube:XNJ11uDJGfc'
+    slides: null
+  -
+    title: 'Test-Driven Development with Jest'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'David Demirkhanyan'
+        twitter: null
+        github: null
+      -
+        name: 'Narek Ghevondian'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0G5E5XDDp48'
+    slides: null
+  -
+    title: 'ES2015+ code in production, Reality or Myth'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Lilit Tadevosyan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:adclLyUFx3c'
+    slides:
+      - 'https://docs.google.com/presentation/d/1nwXYF6POhhSelww4lvnB61KRocpur9wlIx2DPixFTWI/edit?fbclid=IwAR2Ff0kiLlnC1oAYUgEM0Hr4KKanVnaQLudcgrKtb_70iUp1U-k6bJeTPyM'
+  -
+    title: 'Simple Mobile App Using NativeScript Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Gor Rustamyan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:eE3GmEfpi6Y'
+    slides: null
+  -
+    title: 'NodeJS. Going Serverless with AWS Lambda'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Slavik Manukyan'
+        twitter: SlavikManukyan
+        github: slavikmanukyan
+    videos:
+      - 'youtube:q8U3iHYh3uI'
+    slides: null
+  -
+    title: 'JavaScript Engines.The V8 Engine'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Albert Hovhannisyan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5_NVFmmjEI0'
+    slides: null
+  -
+    title: 'React Server-Side Rendering | Isomorphic JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Ruben Sargsyan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:l7oNkk1196A'
+    slides: null
+  -
+    title: 'Developing JS Applications Using Docker Containers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Hayk Galstyan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:c4A-UAFS238'
+    slides: null
+  -
+    title: 'Web Scraping with Puppeteer and NodeJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Razmik Bourtoutian'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5ArQ6cgam0w'
+    slides: null
+  -
+    title: 'GraphQL, why and when?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Vova Hayrapetyan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6yBOkb48QoM'
+    slides: null
+  -
+    title: 'Building SPA with WebAssembly by using Blazor'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Aghasi Lorsabyan'
+        twitter: lorsabyan
+        github: lorsabyan
+    videos:
+      - 'youtube:vKJvazrMgRo'
+    slides: null
+  -
+    title: "You Don't Know Node.js EventLoop"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-03 00:00'
+    speakers:
+      -
+        name: 'Nairi Haroutiounian'
+        twitter: nairihar
+        github: nairihar
+    videos:
+      - 'youtube:_FTWUEezG_o'
+    slides: null

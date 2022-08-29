@@ -1,0 +1,154 @@
+name: 'TSConf 2018'
+description: 'The first conference ever focused completely on TypeScript! Beyond the typical introduction to TypeScript talk, we’ll spend the day discussing best practices and advanced features of the language, including information from key members of the TypeScript team. All in an informal and fun environment!'
+location: ''
+venue: ''
+city: 'Seattle, WA'
+country: 'United States'
+link: 'https://tsconf.io/2018/'
+playlist: 'youtube:PL2z7rCjEG2ksF0rJ8Qwp1y5eTjqiPIRfT'
+from_date: '2018-03-12'
+to_date: '2018-03-12'
+tags: ''
+talks:
+  -
+    title: 'Opening Remarks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-12 00:00'
+    speakers:
+      -
+        name: 'Anders Hejlsberg'
+        twitter: ahejlsberg
+        github: ahejlsberg
+    videos:
+      - 'youtube:wpgKd-rwnMw'
+    slides: null
+  -
+    title: 'Building StencilJS with TypeScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-12 00:00'
+    speakers:
+      -
+        name: 'Josh Thomas'
+        twitter: jthoms1
+        github: jthoms1
+    videos:
+      - 'youtube:LBv07i-Wim8'
+    slides: null
+  -
+    title: 'Escape the Office: Designing Interfaces for Other Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-12 00:00'
+    speakers:
+      -
+        name: 'Sarah Higley'
+        twitter: codingchaos
+        github: smhigley
+    videos:
+      - 'youtube:zuhxOFTeWos'
+    slides: null
+  -
+    title: 'End-to-End Type Safety with Swagger and TypeScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-12 00:00'
+    speakers:
+      -
+        name: 'Mohsen Azimi'
+        twitter: mohsen____
+        github: mohsen1
+    videos:
+      - 'youtube:u-7lcjnzZu4'
+    slides: null
+  -
+    title: 'TypeScript at Google'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-12 00:00'
+    speakers:
+      -
+        name: 'Bowen Ni'
+        twitter: null
+        github: bowenni
+      -
+        name: 'Radoslav Kirov'
+        twitter: radokirov
+        github: rkirov
+    videos:
+      - 'youtube:sjov1k5jexA'
+    slides: null
+  -
+    title: 'Reclaiming your sanity: Webpack and Ethereum smart contracts with Typescript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-12 00:00'
+    speakers:
+      -
+        name: 'Devon Zuegel'
+        twitter: devonzuegel
+        github: devonzuegel
+    videos:
+      - 'youtube:ePfD8FC2Nks'
+    slides: null
+  -
+    title: 'When Cross-Platform Is An Understatement: Making Weird Physical Games With TypeScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-12 00:00'
+    speakers:
+      -
+        name: 'Mike Lazer-Walker'
+        twitter: lazerwalker
+        github: lazerwalker
+    videos:
+      - 'youtube:OY5K4Wdsnpg'
+    slides: null
+  -
+    title: 'Static Analysis and Source Code Manipulation in TypeScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-12 00:00'
+    speakers:
+      -
+        name: 'David Sherret'
+        twitter: davidsherret
+        github: dsherret
+    videos:
+      - 'youtube:CTpKZgy0dpo'
+    slides: null
+  -
+    title: 'TalkScript with the TypeScript Team'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-12 00:00'
+    speakers:
+      -
+        name: 'Daniel Rosenwasser'
+        twitter: drosenwasser
+        github: DanielRosenwasser
+      -
+        name: 'Mohamed Hegazy'
+        twitter: null
+        github: mhegazy
+      -
+        name: 'Ryan Cavanaugh'
+        twitter: SeaRyanC
+        github: RyanCavanaugh
+      -
+        name: 'Anders Hejlsberg'
+        twitter: ahejlsberg
+        github: ahejlsberg
+    videos:
+      - 'youtube:MxB0ldQfvT4'
+    slides: null

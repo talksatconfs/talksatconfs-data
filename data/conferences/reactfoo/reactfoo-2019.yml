@@ -1,0 +1,140 @@
+name: 'ReactFoo 2019'
+description: 'ReactFoo Bangalore will bring together 250 developers working with React, and who are invested in building a space for conversations around experiences using React in production.'
+location: ''
+venue: ''
+city: Bangalore
+country: India
+link: 'https://reactfoo.in/2019/'
+playlist: 'youtube.com:PL279M8GbNsevCCJUWWEqXgP6vK0RZ2uSx'
+from_date: '2019-03-02'
+to_date: '2019-03-02'
+tags: ''
+talks:
+  -
+    title: 'Writing good components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-02 00:00'
+    speakers:
+      -
+        name: 'Siddharth Kshetrapal'
+        twitter: siddharthkp
+        github: siddharthkp
+    videos:
+      - 'youtube:8OFkp1CLjWA'
+    slides: null
+  -
+    title: 'The mistakes we fixed - A retrospective of the Treebo mobile app'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-02 00:00'
+    speakers:
+      -
+        name: 'Kashish Grover'
+        twitter: _kingofnull
+        github: kashishgrover
+    videos:
+      - 'youtube:be0HybdYosM'
+    slides:
+      - 'https://speakerdeck.com/kashishgrover/the-mistakes-we-fixed'
+  -
+    title: 'Keynote: Building React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-02 00:00'
+    speakers:
+      -
+        name: 'Parashuram Narasimhan'
+        twitter: nParashuram
+        github: null
+    videos:
+      - 'youtube:OubjYz14QxY'
+    slides: null
+  -
+    title: 'A React Native widgetised framework - Move fast and build things'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-02 00:00'
+    speakers:
+      -
+        name: 'Toshi Gupta'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ffp7UtRZBFU'
+    slides: null
+  -
+    title: 'Kickstarting a library of internal React components for multiple teams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-02 00:00'
+    speakers:
+      -
+        name: 'Xavier Lefevre'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gGZZRG9YdR0'
+    slides:
+      - 'https://slides.com/xavierlefevre/deck-6-7#/'
+  -
+    title: "The magical land of AST's with babel, eslint and codemods"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-02 00:00'
+    speakers:
+      -
+        name: 'Vivek Nayyar'
+        twitter: viveknayyar
+        github: null
+    videos:
+      - 'youtube:669ste6xgkk'
+    slides: null
+  -
+    title: 'Delivering JS applications at scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-02 00:00'
+    speakers:
+      -
+        name: 'Santosh Grampurohit'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yz_6nYpYTxo'
+    slides: null
+  -
+    title: 'Deep Dive into Apollo Client'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-02 00:00'
+    speakers:
+      -
+        name: 'Kiran Abburi'
+        twitter: kiran_abburi
+        github: akiran
+    videos:
+      - 'youtube:RE2vZFq7fvE'
+    slides: null
+  -
+    title: 'Building a highly scalable exchange - To react or not to react'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-02 00:00'
+    speakers:
+      -
+        name: 'Sreekanth G.S'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:A0MSplAk7fM'
+    slides: null

@@ -1,0 +1,219 @@
+name: 'dotScale 2018'
+description: 'Come see the best experts worldwide share their insights on scalability, DevOps and distributed systems.'
+location: ''
+venue: ''
+city: Paris
+country: France
+link: 'https://www.dotscale.io/'
+playlist: 'youtube.com:PLMW8Xq7bXrG4zEMLdfZTpS9VCKjXeD--h'
+from_date: '2018-06-01'
+to_date: '2018-06-01'
+tags: ''
+talks:
+  -
+    title: 'At scale, everything is hard'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Paul Dix'
+        twitter: pauldix
+        github: pauldix
+    videos:
+      - 'youtube:80rY626zCfk'
+    slides:
+      - 'https://speakerdeck.com/pauldix/at-scale-everything-is-hard'
+  -
+    title: 'Kubernetes 101'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Bridget Kromhout'
+        twitter: bridgetkromhout
+        github: bridgetkromhout
+    videos:
+      - 'youtube:N7gxfroizbA'
+    slides:
+      - 'https://www.slideshare.net/bridgetkromhout/kubernetes-101-dotscale'
+  -
+    title: 'Just-Right Consistency'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Marc Shapiro'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lO-UfHASUSE'
+    slides:
+      - 'https://pages.lip6.fr/Marc.Shapiro/slides/JRC_dotScale_2018-06-01.pdf'
+  -
+    title: 'Demonstrating your Architecture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Julio Faerman'
+        twitter: julioaws
+        github: jfaerman
+    videos:
+      - 'youtube:ubpB4VQrBeE'
+    slides:
+      - 'https://speakerdeck.com/faermanj/demonstrating-your-architecture'
+  -
+    title: 'Distributions and package management in the containers era'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Lucas Nussbaum'
+        twitter: lucasnussbaum
+        github: lnussbaum
+    videos:
+      - 'youtube:hnWnKIZmPyA'
+    slides:
+      - 'https://www.slideshare.net/nussbauml/distributions-and-package-management-in-the-containers-era'
+  -
+    title: 'Git as a continuous manager'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Matthias Dugué'
+        twitter: m4d_z
+        github: m4dz
+    videos:
+      - 'youtube:N181gp9gouY'
+    slides:
+      - 'https://talks.m4dz.net/git-continous-manager/?format=flash&lang=en#1'
+  -
+    title: 'Nano-node: Intelligent Hard Drives in Large Storage Infrastructures'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Enrico Signoretti'
+        twitter: esignoretti
+        github: esignoretti
+    videos:
+      - 'youtube:f202h-2tecs'
+    slides:
+      - 'https://www.slideshare.net/openio/nanonode-intelligent-hard-drives-in-large-storage-infrastructures'
+  -
+    title: 'Serverless, Revealed!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Daniel Maher'
+        twitter: phrawzty
+        github: phrawzty
+    videos:
+      - 'youtube:0s8ATQmhQPE'
+    slides: null
+  -
+    title: 'Observability tips with HAProxy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Willy Tarreau'
+        twitter: willytarreau
+        github: wtarreau
+    videos:
+      - 'youtube:1JSX9ch04eY'
+    slides:
+      - 'https://www.slideshare.net/WillyTarreau/observability-tips-for-haproxy'
+  -
+    title: 'Three heretical opinions about the future of time-series data'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Mike Freedman'
+        twitter: michaelfreedman
+        github: mfreed
+    videos:
+      - 'youtube:r4jMunPhwzw'
+    slides:
+      - 'https://www.slideshare.net/TimescaleDB/three-heretical-opinions-about-the-future-of-timeseries-data'
+  -
+    title: 'The Data of Infrastructures'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Jeremy Edberg'
+        twitter: jedberg
+        github: jedberg
+    videos:
+      - 'youtube:KUxHINjOcA8'
+    slides: null
+  -
+    title: 'Data Cartography'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Preeti Vaidya'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dAM8SPUOXNw'
+    slides:
+      - 'https://speakerdeck.com/pv2259/data-cartography'
+  -
+    title: 'Designing Scalable and Extendable Data Pipeline for Call of Duty Games'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Yaroslav Tkachenko'
+        twitter: sap1ens
+        github: sap1ens
+    videos:
+      - 'youtube:Vn_EJoreZfk'
+    slides:
+      - 'https://www.slideshare.net/sap1ens/designing-scalable-and-extendable-data-pipeline-for-call-of-duty-games'
+  -
+    title: 'Istio, we have a problem! Understanding and fixing bugs with a service-mesh'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'David Gageot'
+        twitter: dgageot
+        github: dgageot
+    videos:
+      - 'youtube:ybVK7cd3TqQ'
+    slides: null

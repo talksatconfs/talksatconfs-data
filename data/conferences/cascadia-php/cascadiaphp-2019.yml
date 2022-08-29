@@ -1,0 +1,402 @@
+name: 'CascadiaPHP 2019'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2019-09-20'
+to_date: '2019-09-21'
+tags: ''
+talks:
+  -
+    title: 'Websockets and Event-driven Programming using ReactPHP and Amp'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-20 11:30'
+    speakers:
+      -
+        name: 'Steve Meyers'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'MongoDB Schema Design Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-20 10:00'
+    speakers:
+      -
+        name: 'Ken W. Alger'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'When did you stop speaking up?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-21 13:30'
+    speakers:
+      -
+        name: 'Merline Raymond'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Code Review: For Me & You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-20 14:30'
+    speakers:
+      -
+        name: 'Steve Grunwell'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Load Testing Your App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-20 14:30'
+    speakers:
+      -
+        name: 'Ian Littman'
+        twitter: iansltx
+        github: iansltx
+    videos: null
+    slides: null
+  -
+    title: 'Make styling a breeze with Tailwind CSS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-20 11:30'
+    speakers:
+      -
+        name: 'Jason McCreary'
+        twitter: jasonmccreary
+        github: jasonmccreary
+    videos: null
+    slides: null
+  -
+    title: 'Building World Class Developer Organizations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-20 17:00'
+    speakers:
+      -
+        name: 'Josh Holmes'
+        twitter: null
+        github: joshholmes
+    videos: null
+    slides: null
+  -
+    title: 'Xdebug will forever change the way you debug your PHP code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-21 16:00'
+    speakers:
+      -
+        name: 'Tim Bond'
+        twitter: null
+        github: cookieguru
+    videos: null
+    slides: null
+  -
+    title: 'Hacking Wordpress - A Primer for PHP Programmers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-20 14:30'
+    speakers:
+      -
+        name: 'Eli White'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Blazing fast websites with Gatsby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-21 14:30'
+    speakers:
+      -
+        name: 'Preston So'
+        twitter: prestonso
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Converting Your Dev Environment to a Docker Stack'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-20 11:30'
+    speakers:
+      -
+        name: 'Dana Luther'
+        twitter: danaluther
+        github: DanaLuther
+    videos: null
+    slides: null
+  -
+    title: 'Why Open Source?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-21 09:00'
+    speakers:
+      -
+        name: 'Larry Garfield'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP-FIG Panel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-21 10:00'
+    speakers:
+      -
+        name: 'Ian Littman'
+        twitter: iansltx
+        github: iansltx
+    videos: null
+    slides: null
+  -
+    title: 'Dev Parent'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-21 11:30'
+    speakers:
+      -
+        name: 'Alena Holligan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Becoming a Version Control God'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-20 10:00'
+    speakers:
+      -
+        name: 'Michael Price'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Algorithms in Context'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-20 16:00'
+    speakers:
+      -
+        name: 'Margaret Staples'
+        twitter: dead_lugosi
+        github: mstaples
+    videos: null
+    slides: null
+  -
+    title: 'Building an Alexa audio streaming application with PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-21 16:00'
+    speakers:
+      -
+        name: 'Bill Condo'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Knowledge Grows'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-20 09:00'
+    speakers:
+      -
+        name: 'Beth Tucker Long'
+        twitter: e3betht
+        github: e3betht
+    videos: null
+    slides: null
+  -
+    title: 'Peeling Back the Magic: Modern PHP Without a Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-21 10:00'
+    speakers:
+      -
+        name: 'Kevin Smith'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Simplifying Infrastructure With Terraform'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-21 14:30'
+    speakers:
+      -
+        name: 'Ashley Hutson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Future of the Web is Low-tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-21 11:30'
+    speakers:
+      -
+        name: 'Eric Mann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Welcome to the community'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-21 17:00'
+    speakers:
+      -
+        name: 'Matt Trask'
+        twitter: matthewtrask
+        github: matthewtrask
+    videos: null
+    slides: null
+  -
+    title: 'Confidently Testing WordPress'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-20 16:00'
+    speakers:
+      -
+        name: 'Steve Grunwell'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Stepping Outside your Comfort Zone: Learning to Teach'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-21 16:00'
+    speakers:
+      -
+        name: 'Heather L White'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Machine Learning: A Beginner's Practical Guide"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-20 10:00'
+    speakers:
+      -
+        name: 'Michael Moussa'
+        twitter: michaelmoussa
+        github: michaelmoussa
+    videos: null
+    slides: null
+  -
+    title: 'Empathy as a Service: Supporting Mental Health in the Tech Workplace'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-20 13:30'
+    speakers:
+      -
+        name: 'Nara Kasbergen'
+        twitter: xiehan
+        github: xiehan
+    videos: null
+    slides: null
+  -
+    title: 'Modern and Secure PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-20 16:00'
+    speakers:
+      -
+        name: 'Ben Edmunds'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Saving Babies' Butts with Vue.js and Symfony"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-21 10:00'
+    speakers:
+      -
+        name: 'Andrew Koebbe'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Wrapping Legacy Apps to modernize your workflow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-21 11:30'
+    speakers:
+      -
+        name: 'Kurtis S Holsapple'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Putting legacy to REST with middleware'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-21 14:30'
+    speakers:
+      -
+        name: 'Adam Culp'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

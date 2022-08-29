@@ -1,0 +1,192 @@
+name: 'AlterConf Portland, OR - 2015'
+description: ''
+location: 'Portland, OR'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2015/portland-or'
+playlist: ''
+from_date: '2015-06-27'
+to_date: '2015-06-27'
+tags: ''
+talks:
+  -
+    title: "Stand-up comedy that doesn't hurt"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-27 00:00'
+    speakers:
+      -
+        name: 'Sumana Harihareswara'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PracWlf4oZw'
+    slides: null
+  -
+    title: 'Visualizing Disparity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-27 00:00'
+    speakers:
+      -
+        name: 'Kamilah Jenkins'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XAbBrdlTg-Q'
+    slides: null
+  -
+    title: 'Podcasting While Black Saved My Sanity, It Can Save Yours Too'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-27 00:00'
+    speakers:
+      -
+        name: 'Kahlief Adams'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BRWiPChwMH0'
+    slides: null
+  -
+    title: 'Your Job Is Political'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-27 00:00'
+    speakers:
+      -
+        name: 'Kelsey Gilmore-Innis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:anhaACUEgxQ'
+    slides: null
+  -
+    title: 'Outliving GamerGate: How We Cope, Survive, and Thrive Beyond (Online) Abuse'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-27 00:00'
+    speakers:
+      -
+        name: 'Courtney Stanton'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The glorification of generalization in tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-27 00:00'
+    speakers:
+      -
+        name: 'Elea Chang'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qBrKaltp3AE'
+    slides: null
+  -
+    title: "The Road Ahead: Making 'Diversity In Tech' More Inclusive"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-27 00:00'
+    speakers:
+      -
+        name: 'Stephanie Morillo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1WaiK_3jKWc'
+    slides: null
+  -
+    title: 'Sniffing for Culture Smells & Interviewing Critically'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-27 00:00'
+    speakers:
+      -
+        name: 'Liz Abinante'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YYGDaF2alho'
+    slides: null
+  -
+    title: 'Riot Grrrl in the Tech Wrrrld'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-27 00:00'
+    speakers:
+      -
+        name: 'Marni Cohen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jxH3-d40B8o'
+    slides: null
+  -
+    title: 'Building a Home on the Internet'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-27 00:00'
+    speakers:
+      -
+        name: 'Lynn Cyrin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:O67xlw1RdKY'
+    slides: null
+  -
+    title: 'Broken Body Beautiful: how taking selfies with my iPhone helped me find self-love'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-27 00:00'
+    speakers:
+      -
+        name: 'Kyeli Smith'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:G9kvzEfaIsA'
+    slides: null
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Ashe Dryden'
+        twitter: ashedryden
+        github: ashedryden
+    videos: null
+    slides: null
+  -
+    title: 'Future Perfect: A Text Adventure Game for our Failed Ideals'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-27 00:00'
+    speakers:
+      -
+        name: 'Morgane Santos'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Zwsx-9MQqqw'
+    slides: null

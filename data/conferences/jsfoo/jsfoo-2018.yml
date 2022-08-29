@@ -1,0 +1,413 @@
+name: 'JSFoo 2018'
+description: 'With JavaScript being used as much as it is talked about, JSFoo is certainly the most needed conference this year! The reasons for its popularity are also the reasons for its vulnerability (security-wise). Hence this edition will focus broadly on JavaScript and security.HasGeek hosted the first edition of JSFoo in 2011 to address the growing needs of a niche community working with Javascript. Since then, our JS community has grown tremendously. And this year, we’re meeting again on 26 – 27 October to explore new ideas and developments, to implement innovative solutions, and to learn from others’ experiences. Want to see the quality and topics of talks at last year’s conference? You can watch the JSFoo 2017 videos or the related ReactFoo 2017 videos to see what was on trend. Or check out the 2017 conference website.'
+location: 'Bengaluru, India'
+venue: ''
+city: Banglore
+country: India
+link: 'https://jsfoo.in/2018/'
+playlist: 'youtube.com:PL279M8GbNsetSZ6aDtRLcOnADdAjqEutn'
+from_date: '2018-10-26'
+to_date: '2018-10-27'
+tags: ''
+talks:
+  -
+    title: 'Everything you need to know about client-side malicious code execution'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-27 00:00'
+    speakers:
+      -
+        name: 'Lavakumar Kuppan'
+        twitter: lavakumark
+        github: Lavakumar
+    videos:
+      - 'youtube:tsxjmh9Sbw0'
+    slides: null
+  -
+    title: 'Birds Of Feather session: AngularJS users'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Arjuna Suresh'
+        twitter: null
+        github: null
+      -
+        name: 'Vinci Rufus'
+        twitter: vinci
+        github: areai51
+    videos: null
+    slides: null
+  -
+    title: 'New kids in browserland'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-27 00:00'
+    speakers:
+      -
+        name: 'Swapnil Agarwal'
+        twitter: null
+        github: swapagarwal
+    videos:
+      - 'youtube:9Z-6fHeVOQM'
+    slides:
+      - 'https://gitpitch.com/swapagarwal/new-kids-in-browserland'
+  -
+    title: 'Architecture of scalable and resilient NodeJS apps with GraphQL & event-driven serverless'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Shahidh K Muhammed'
+        twitter: shahidh_k
+        github: shahidhk
+    videos:
+      - 'youtube:22xPS_hXSlo'
+    slides: null
+  -
+    title: 'Using Service Workers to improve dynamic image delivery in the browser'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Rahul Nanwani'
+        twitter: rnanwani
+        github: null
+    videos:
+      - 'youtube:t3jVvB58cV0'
+    slides:
+      - 'https://docs.google.com/presentation/d/1yvIGsgX7Ga9YMqFc8FlfehxDJZGC-roaMb7KSahSodY/edit'
+  -
+    title: 'Birds Of Feather session: GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Shahidh K Muhammed'
+        twitter: shahidh_k
+        github: shahidhk
+      -
+        name: 'Kiran Abburi'
+        twitter: kiran_abburi
+        github: akiran
+    videos: null
+    slides: null
+  -
+    title: 'One code to rule them all - developing native Android / iOS app + Web App with a common codebase'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-27 00:00'
+    speakers:
+      -
+        name: 'Shyam Seshadri'
+        twitter: shyamseshadri
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'What makes JSON Web Tokens (JWT) secure?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Siddharth Kshetrapal'
+        twitter: siddharthkp
+        github: siddharthkp
+    videos:
+      - 'youtube:rCkDE2me_qk'
+    slides:
+      - 'https://sid.studio/jwt/'
+  -
+    title: 'Joint Q&A" data leakages and privacy on the web"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-27 00:00'
+    speakers:
+      -
+        name: 'Dominic Tarr'
+        twitter: dominictarr
+        github: dominictarr
+      -
+        name: 'Lavakumar Kuppan'
+        twitter: lavakumark
+        github: Lavakumar
+    videos: null
+    slides: null
+  -
+    title: 'Rethink Async'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Hemanth HM'
+        twitter: GNUmanth
+        github: hemanth
+    videos:
+      - 'youtube:h8QQP--97HU'
+    slides: null
+  -
+    title: 'Web Workers " a graphical introduction"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-27 00:00'
+    speakers:
+      -
+        name: 'Ritesh Kumar'
+        twitter: 'Ritesh Kumar'
+        github: ritz078
+    videos:
+      - 'youtube:1RSUfWAKQ_M'
+    slides:
+      - 'https://speakerdeck.com/ritz078/web-workers-a-musical-intro'
+  -
+    title: 'Building robust applications using Elm'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-27 00:00'
+    speakers:
+      -
+        name: 'Ritesh Pillai'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3tWExsIae8g'
+    slides:
+      - 'https://drive.google.com/file/d/1w9yVL1sli-QXG9sxBjOlHy5BSlRmcPWV/view'
+  -
+    title: 'Birds Of Feather session: Sensitive data leakage, data protection and privacy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-27 00:00'
+    speakers:
+      -
+        name: 'Lavakumar Kuppan'
+        twitter: lavakumark
+        github: Lavakumar
+    videos: null
+    slides: null
+  -
+    title: 'Joint Q&A: Web application security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Arnav Gupta'
+        twitter: championswimmer
+        github: championswimmer
+      -
+        name: 'Ankit Muchhala'
+        twitter: ankit_muchhala
+        github: ankit-m
+      -
+        name: 'Shyam Seshadri'
+        twitter: shyamseshadri
+        github: null
+      -
+        name: 'Siddharth Kshetrapal'
+        twitter: siddharthkp
+        github: siddharthkp
+    videos: null
+    slides: null
+  -
+    title: 'Building a secure BFF at Postman'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Ankit Muchhala'
+        twitter: ankit_muchhala
+        github: ankit-m
+    videos:
+      - 'youtube:JexwKAlbJ6o'
+    slides:
+      - 'https://www.slideshare.net/AnkitMuchhala/building-a-secure-bff-at-postman'
+  -
+    title: 'Complex Features Made Easy With RxJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-27 00:00'
+    speakers:
+      -
+        name: 'Ben Lesh'
+        twitter: benlesh
+        github: null
+    videos:
+      - 'youtube:B-nFj2o03i8'
+    slides: null
+  -
+    title: 'The art of writing mature tests'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Deepak Pathania'
+        twitter: deepakpathania789
+        github: null
+    videos:
+      - 'youtube:eKLeUyNxvqA'
+    slides: null
+  -
+    title: 'ReasonML" Strict, powerful, and forgiving."'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-27 00:00'
+    speakers:
+      -
+        name: 'Hari Gopal'
+        twitter: harigopal
+        github: harigopal
+    videos:
+      - 'youtube:3tWExsIae8g'
+    slides: null
+  -
+    title: 'VueJS at Olacabs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Ashrith Kulai'
+        twitter: ashrith_kulai
+        github: ashrithkulai
+    videos:
+      - 'youtube:Ho7y6WUaBSE'
+    slides:
+      - 'https://docs.google.com/presentation/d/1yvIGsgX7Ga9YMqFc8FlfehxDJZGC-roaMb7KSahSodY/edit'
+  -
+    title: 'Sponsored talk" MySQL 8 loves JavaScript"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-27 00:00'
+    speakers:
+      -
+        name: 'Sanjay Manwani'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SKi5K231klU'
+    slides: null
+  -
+    title: 'Quick fixes to improve page load time'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-27 00:00'
+    speakers:
+      -
+        name: 'Tejas Dinkar'
+        twitter: tdinkar
+        github: gja
+    videos:
+      - 'youtube:ifioC5EcIE4'
+    slides: null
+  -
+    title: 'The audit-driven approach to security design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-27 00:00'
+    speakers:
+      -
+        name: 'Dominic Tarr'
+        twitter: dominictarr
+        github: dominictarr
+    videos:
+      - 'youtube:8TJ0YY0dPXw'
+    slides: null
+  -
+    title: 'Demystifying web application security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Shyam Seshadri'
+        twitter: shyamseshadri
+        github: null
+    videos:
+      - 'youtube:wEt47UycHf4'
+    slides:
+      - 'https://www.slideshare.net/shyamsesh/demystifying-web-application-security-jsfoo-2018'
+  -
+    title: 'Birds Of Feather session: Vue in production -- user stories'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Rahul Kadyan'
+        twitter: znck0
+        github: null
+      -
+        name: 'Vidya Ramakrishna'
+        twitter: null
+        github: null
+      -
+        name: 'Ashrith Kulai'
+        twitter: ashrith_kulai
+        github: ashrithkulai
+      -
+        name: 'Swapnil Agarwal'
+        twitter: null
+        github: swapagarwal
+    videos: null
+    slides: null
+  -
+    title: 'Writing the HasGeek app with NativeScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-27 00:00'
+    speakers:
+      -
+        name: 'Arnav Gupta'
+        twitter: championswimmer
+        github: championswimmer
+    videos:
+      - 'youtube:nsgvhmTnJck'
+    slides: null
+  -
+    title: 'Authentication done right: consuming (and serving) Oauth2.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-26 00:00'
+    speakers:
+      -
+        name: 'Arnav Gupta'
+        twitter: championswimmer
+        github: championswimmer
+    videos:
+      - 'youtube:wAlLe7uvOxc'
+    slides: null

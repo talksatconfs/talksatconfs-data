@@ -1,0 +1,361 @@
+name: '!!Con 2015'
+description: ''
+location: 'New York City'
+venue: ''
+city: ''
+country: ''
+link: 'http://bangbangcon.com/2015/'
+playlist: ''
+from_date: '2015-05-16'
+to_date: '2015-05-17'
+tags: ''
+talks:
+  -
+    title: 'Bending the Laws of Physics! Or, How Wi-Fi Keeps Getting Faster.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Kiran Bhattaram'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tg_8H0TdpOc'
+    slides: null
+  -
+    title: 'Music! Programming! Arduino! (Or: Building Electronic Musical Interfaces to Create Awesome)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Bonnie Eisenman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:67Y-wH0FJFg'
+    slides: null
+  -
+    title: "Don't know about you, but I'm feeling like SHA-2!: Checksumming with Taylor Swift"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Ashley Blewer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1QgamEwwPro'
+    slides: null
+  -
+    title: 'From text to textiles!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Lea Albaugh'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ihqcgrR0azw'
+    slides: null
+  -
+    title: 'Eternal Sunshine of the Spotless Search Index!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Fiona Condon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:T38r5sDeUM0'
+    slides: null
+  -
+    title: "I made a cell phone! (DON'T TELL THE FCC KTHX!)"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Kevin Lynagh'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FlRa-iH7PGw'
+    slides: null
+  -
+    title: 'Lightpainting with Robots! And JavaScript!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jon Williams'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gux7XhKEc9o'
+    slides: null
+  -
+    title: 'The Burrows-Wheeler Transform: Better Compression with a Reversible Sort!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Scott Vokes'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6hZ-j0B_Dhc'
+    slides: null
+  -
+    title: 'Recovering data from an SD card — the hard way!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Joshua Wise'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wEgQgj_v7T4'
+    slides: null
+  -
+    title: 'Great Caching Disasters (and how to avoid them)!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Lisa Van Gelder'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VP_I9tQQpsE'
+    slides: null
+  -
+    title: 'Spinning metal platters in the cloud!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Sasha Laundy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DH_PH5KbO5c'
+    slides: null
+  -
+    title: 'Dissecting a Bestseller: The Art and Science of Storytelling!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Allison Nelson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xWJ-JdAhLMo'
+    slides: null
+  -
+    title: 'What the clock?!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Kamal Marhubi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Cbu6V4aDtDg'
+    slides: null
+  -
+    title: "i'm in ur javaz haxxing ur codez!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Max Veytsman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6NdLZl16OkA'
+    slides: null
+  -
+    title: 'QUINE + TAR = QUININE!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Peter Boothe'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xv2aMLeq_Pk'
+    slides: null
+  -
+    title: 'Invent the Future You Want to Live In!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'David Nolen'
+        twitter: swannodette
+        github: null
+    videos:
+      - 'youtube:y2s9y8FJ5vs'
+    slides: null
+  -
+    title: 'Limitless and recursion-free recursion limits!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Allison Kaptur'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Qk1I6ZxcceU'
+    slides: null
+  -
+    title: 'The Science behind #TheDress: Measuring Virality at BuzzFeed!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Polina Giralt & Anita Mehrotra'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6a7jJVvaxh0'
+    slides: null
+  -
+    title: 'Git from the inside out!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Mary Rose Cook'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UZ-geQQr45o'
+    slides: null
+  -
+    title: 'MissingNo., my favourite Pokémon!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Igor Wiedler'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yX7tDROZUt8'
+    slides: null
+  -
+    title: 'Time travel, gdb, elephants, and you!!!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Josh Matthews'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:E-VO8npCM6I'
+    slides: null
+  -
+    title: 'Git Pushes from Paradise: Adding a remote island alphabet to Wikipedia!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Nick Doiron'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rHaK5bW2wgQ'
+    slides: null
+  -
+    title: 'Contributing to open source should be like ROLLER DERBY!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Libby Horacek'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:aeiG9VQT9u0'
+    slides: null
+  -
+    title: 'What Programmers and Economists Can Learn from Each Other! (cancelled due to illness)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Rob Jefferson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Cross-platform file names in Rust: a wonderful and horrifying hack!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Simon Sapin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:K2PRjmvOY9Y'
+    slides: null

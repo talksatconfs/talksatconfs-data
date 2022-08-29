@@ -1,0 +1,235 @@
+name: ".NET fwdays'19"
+description: ''
+location: Київ
+venue: ''
+city: ''
+country: ''
+link: 'https://fwdays.com/en/event/dotnet-fwdays-2019'
+playlist: ''
+from_date: '2019-04-13'
+to_date: '2019-04-13'
+tags: ''
+talks:
+  -
+    title: 'Going container for .NET Core in the cloud'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-13 10:00'
+    speakers:
+      -
+        name: 'Alex Thissen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tz4vM1qjxzI'
+    slides: null
+  -
+    title: 'Building Service Mesh with .NET Core'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-13 11:05'
+    speakers:
+      -
+        name: 'Serhiy Kalinets'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:q3JWeJWQ_6U'
+    slides: null
+  -
+    title: 'True SQL Server Detective'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-13 06:25'
+    speakers:
+      -
+        name: 'Denis Reznik'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zj005HBvLgc'
+    slides: null
+  -
+    title: '.NET чи ‘нєт’, мікросервіси та інше'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Serhiy Kalinets'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Artificial Intelligence and Machine Learning for .NET developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-13 07:20'
+    speakers:
+      -
+        name: 'Oleksander Krakovetskyi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LfZX4puMils'
+    slides: null
+  -
+    title: 'Microservices delivery pipeline with .NET Core, Docker and AWS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-13 10:00'
+    speakers:
+      -
+        name: 'Oleksandr Nahirniak'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VXekGVMFo_w'
+    slides: null
+  -
+    title: 'Octopus: on the way to deployment brilliance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-13 07:20'
+    speakers:
+      -
+        name: 'Maksym Khamrovskyi, Kostiantyn Averin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:C9AIUqcOfME'
+    slides: null
+  -
+    title: 'Going container for .NET Core in the cloud'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-13 07:20'
+    speakers:
+      -
+        name: 'Alex Thissen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tz4vM1qjxzI'
+    slides: null
+  -
+    title: 'It depends: loving .NET Core dependency injection or not'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-13 07:20'
+    speakers:
+      -
+        name: 'Alex Thissen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Wxar-a_a_2A'
+    slides: null
+  -
+    title: 'Life, Liberty and the Pursuit of APIness : The Secret to Happy Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-13 12:30'
+    speakers:
+      -
+        name: 'Dylan Beattie'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lFRKrHE8oPo'
+    slides: null
+  -
+    title: 'Dev spaces development in AKS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-13 10:00'
+    speakers:
+      -
+        name: 'Sergii Bielskiy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:uN1W_HVoNm8'
+    slides: null
+  -
+    title: 'Security is a matter of success'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-13 05:10'
+    speakers:
+      -
+        name: 'Dino Esposito'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gA0WEag44Ao'
+    slides: null
+  -
+    title: 'Load testing which you always wanted'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-13 09:05'
+    speakers:
+      -
+        name: 'Anton Moldovan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:deL1TdguMB8'
+    slides: null
+  -
+    title: 'What is wrong with Dependency Injection? Myths and Truths'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-13 11:05'
+    speakers:
+      -
+        name: 'Igor Kochetov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:f7u2NNOj-xE'
+    slides: null
+  -
+    title: 'Writing Allocation Free Code in C#'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-13 09:05'
+    speakers:
+      -
+        name: 'Matt Ellis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1ZJ8ROVS5gk'
+    slides: null
+  -
+    title: 'The future of serverless computing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-13 06:25'
+    speakers:
+      -
+        name: 'Anton Boyko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:D5SNiK_RRc0'
+    slides: null

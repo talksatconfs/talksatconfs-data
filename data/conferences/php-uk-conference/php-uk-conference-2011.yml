@@ -1,0 +1,236 @@
+name: 'PHP UK Conference 2011'
+description: ''
+location: London
+venue: ''
+city: ''
+country: ''
+link: 'http://web.archive.org/web/20110408231136/http://www.phpconference.co.uk/'
+playlist: ''
+from_date: '2011-02-25'
+to_date: '2011-02-25'
+tags: ''
+talks:
+  -
+    title: 'HTML5 and CSS3 Today'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-25 00:00'
+    speakers:
+      -
+        name: 'Martin Beeby'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:L3Rc2EKEtoQ'
+    slides: null
+  -
+    title: 'The InnoDB Storage Engine for MySQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-25 00:00'
+    speakers:
+      -
+        name: 'Morgan Tocker'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:adDSvfW12Lc'
+    slides: null
+  -
+    title: 'Opening keynote: Experience'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-25 00:00'
+    speakers:
+      -
+        name: 'Marco Tabini'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:95GOeK1HRJM'
+    slides: null
+  -
+    title: "99 Problems, But The Search Ain't One"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-25 00:00'
+    speakers:
+      -
+        name: 'Andrei Zmievski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:shHi1eRM1nc'
+    slides: null
+  -
+    title: Xdebug
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-25 00:00'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos:
+      - 'youtube:ELtok-IrZSY'
+    slides: null
+  -
+    title: 'Advanced OO Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-25 00:00'
+    speakers:
+      -
+        name: ' Tobias Schlitt'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XY2HP9c2O0o'
+    slides: null
+  -
+    title: 'ZeroMQ Is The Answer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-25 00:00'
+    speakers:
+      -
+        name: 'Ian Barber'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:h8jo3GnKhWM'
+    slides: null
+  -
+    title: 'Varnish in Action'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-25 00:00'
+    speakers:
+      -
+        name: 'Thijs Feryn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BsJ_B2VhtIE'
+    slides: null
+  -
+    title: 'NoSQL Databases: What, When and Why'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-25 00:00'
+    speakers:
+      -
+        name: 'Lorenzo Alberton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:l7n2NyKoS2s'
+    slides: null
+  -
+    title: 'Beyond Frameworks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-25 00:00'
+    speakers:
+      -
+        name: 'Stuart Herbert'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-YpexVKmyNQ'
+    slides: null
+  -
+    title: 'PHP in a Mobile Ecosystem'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-25 00:00'
+    speakers:
+      -
+        name: 'Ivo Jansch'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GYvEXud7ZTM'
+    slides: null
+  -
+    title: 'Agility and Quality'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-25 00:00'
+    speakers:
+      -
+        name: 'Sebastian Bergmann  '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dFxPj2Lzyi4'
+    slides: null
+  -
+    title: 'Running on Amazon EC2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-25 00:00'
+    speakers:
+      -
+        name: 'Jonathan Weiss'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0So5F6fjhpQ'
+    slides: null
+  -
+    title: 'Continuous Improvement in PHP Projects'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-25 00:00'
+    speakers:
+      -
+        name: 'Thorsten Rinne'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DwgZsaC5Fp4'
+    slides: null
+  -
+    title: 'Optimising a Zend Framework Application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-25 00:00'
+    speakers:
+      -
+        name: 'Rob Allen'
+        twitter: akrabat
+        github: akrabat
+    videos:
+      - 'youtube:0dIozDHJPKE'
+    slides: null
+  -
+    title: 'Large-scale Data Processing with MapReduce and PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-25 00:00'
+    speakers:
+      -
+        name: 'David Zuelke'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:elOaZdQCWEY'
+    slides: null

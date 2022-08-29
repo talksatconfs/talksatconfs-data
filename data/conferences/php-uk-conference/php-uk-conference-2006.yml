@@ -1,0 +1,77 @@
+name: 'PHP UK Conference 2006'
+description: ''
+location: London
+venue: ''
+city: ''
+country: ''
+link: 'http://web.archive.org/web/20060220182309/http://www.phpconference.co.uk/'
+playlist: ''
+from_date: '2006-02-10'
+to_date: '2006-02-10'
+tags: ''
+talks:
+  -
+    title: 'The eZ PHP Components Library (Object Oriented PHP)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2006-02-10 00:00'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos: null
+    slides: null
+  -
+    title: '"AJAX@localhost"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2006-02-10 00:00'
+    speakers:
+      -
+        name: 'Harry Fuecks'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP Security Holes and the Hardened PHP Project'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2006-02-10 00:00'
+    speakers:
+      -
+        name: 'Christopher Kunz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Template Path'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2006-02-10 00:00'
+    speakers:
+      -
+        name: 'Matt Zandstra'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Dependency Injection with PHP (Object Oriented PHP)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2006-02-10 00:00'
+    speakers:
+      -
+        name: 'Pawel Kozlowski'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

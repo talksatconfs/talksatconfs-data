@@ -1,0 +1,278 @@
+name: 'Render Conference 2017'
+description: 'Render Conf is the successor to jQuery UK, which returned to Oxford for its second year in 2017. It was a single track conference happening across two days with technical talks featuring plenty of takeaways to inspire attendees to be better developers!'
+location: 'Oxford, United Kingdom'
+venue: ''
+city: Oxford
+country: 'United Kingdom'
+link: 'https://2017.render-conf.com/'
+playlist: 'youtube:PLBzScQzZ83I_n5kvxmUaRNZvc_vsCuEQD'
+from_date: '2017-03-30'
+to_date: '2017-03-31'
+tags: ''
+talks:
+  -
+    title: 'Evaluating Technology'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-30 00:00'
+    speakers:
+      -
+        name: 'Jeremy Keith'
+        twitter: adactio
+        github: null
+    videos:
+      - 'youtube:wAekLOUpMB4'
+    slides: null
+  -
+    title: 'HTTP: History and Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-30 00:00'
+    speakers:
+      -
+        name: 'Ana Balica'
+        twitter: anabalica
+        github: ana-balica
+    videos:
+      - 'youtube:DtTKF5OcpsU'
+    slides: null
+  -
+    title: 'Accessibility is more than just supporting screenreaders'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-30 00:00'
+    speakers:
+      -
+        name: 'Seren Davies'
+        twitter: ninjanails
+        github: null
+    videos:
+      - 'youtube:oG_cYElSZwM'
+    slides: null
+  -
+    title: 'Isomorphic React sans Node??'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-30 00:00'
+    speakers:
+      -
+        name: 'Ben Ilegbodu'
+        twitter: benmvp
+        github: benmvp
+    videos:
+      - 'youtube:zxtcr8Zuvfs'
+    slides: null
+  -
+    title: 'A Modern Front-End Workflow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-30 00:00'
+    speakers:
+      -
+        name: 'Umar Hansa'
+        twitter: umaar
+        github: null
+    videos:
+      - 'youtube:v5r_n6Tq0uk'
+    slides: null
+  -
+    title: 'PackWars: Webpack vs Browserify vs SystemJS vs require.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-30 00:00'
+    speakers:
+      -
+        name: 'Opher Vishnia'
+        twitter: opherv
+        github: opherv
+    videos:
+      - 'youtube:ahRNMEA4mWw'
+    slides: null
+  -
+    title: 'Progressive Image Rendering'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-30 00:00'
+    speakers:
+      -
+        name: 'José M. Pérez'
+        twitter: jmperezperez
+        github: null
+    videos:
+      - 'youtube:S70xyRYCNdY'
+    slides: null
+  -
+    title: 'Spreadsheets, Forms and Forks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-30 00:00'
+    speakers:
+      -
+        name: 'Jessica Lord'
+        twitter: jllord
+        github: null
+    videos:
+      - 'youtube:YribHd92Ip4'
+    slides: null
+  -
+    title: 'Coding Art'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-30 00:00'
+    speakers:
+      -
+        name: "Mathieu 'p01' Henri"
+        twitter: p01
+        github: null
+    videos:
+      - 'youtube:symlQgdQBTw'
+    slides: null
+  -
+    title: 'Hack to the Future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-30 00:00'
+    speakers:
+      -
+        name: 'Seb Lee-Delisle'
+        twitter: seb_ly
+        github: null
+    videos:
+      - 'youtube:ZrMO_71_tAc'
+    slides: null
+  -
+    title: 'Styling Hillary: A Design System for All Americans'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-31 00:00'
+    speakers:
+      -
+        name: 'Mina Markham'
+        twitter: 'Mina Markham'
+        github: null
+    videos:
+      - 'youtube:dwMhn2OKHkk'
+    slides: null
+  -
+    title: 'Start Using CSS Grid Layout Today'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-31 00:00'
+    speakers:
+      -
+        name: 'Rachel Andrew'
+        twitter: rachelandrew
+        github: null
+    videos:
+      - 'youtube:tjHOLtouElA'
+    slides: null
+  -
+    title: 'The Awesome Struggles as a Front-end Engineer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-31 00:00'
+    speakers:
+      -
+        name: 'Frances Ng'
+        twitter: franxyzxyz
+        github: null
+    videos:
+      - 'youtube:Df0-2e6M_y4'
+    slides: null
+  -
+    title: 'Growing Up, Getting Serious'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-31 00:00'
+    speakers:
+      -
+        name: 'Peter Gasston'
+        twitter: stopsatgreen
+        github: null
+    videos:
+      - 'youtube:8vWBcnIJhgw'
+    slides: null
+  -
+    title: 'The Unbearable Likeness of Web Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-31 00:00'
+    speakers:
+      -
+        name: 'Sarah Semark'
+        twitter: sarahsemark
+        github: null
+    videos:
+      - 'youtube:8hK-JQlK89c'
+    slides: null
+  -
+    title: 'Demystifying Deep Neural Nets'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-31 00:00'
+    speakers:
+      -
+        name: 'Rosie Campbell'
+        twitter: RosieCampbell
+        github: null
+    videos:
+      - 'youtube:S4vL355capU'
+    slides: null
+  -
+    title: 'The Future of the Web in a VR World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-31 00:00'
+    speakers:
+      -
+        name: 'Jaume Sanchez'
+        twitter: thespite
+        github: null
+    videos:
+      - 'youtube:ULPyGpBRp84'
+    slides: null
+  -
+    title: 'Progressive what apps?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-31 00:00'
+    speakers:
+      -
+        name: 'Patrick Kettner'
+        twitter: patrickkettner
+        github: patrickkettner
+    videos:
+      - 'youtube:Y1l5Y3INwaE'
+    slides: null
+  -
+    title: 'Websites are a symptom, not the cause'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-31 00:00'
+    speakers:
+      -
+        name: 'Sally Jenkinson'
+        twitter: sjenkinson
+        github: null
+    videos:
+      - 'youtube:O43HSNzwV88'
+    slides: null

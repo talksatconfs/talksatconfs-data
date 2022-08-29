@@ -1,0 +1,194 @@
+name: 'PHP Yorkshire 2018'
+description: ''
+location: ''
+venue: 'The University of York'
+city: ''
+country: ''
+link: 'https://2018.phpyorkshire.co.uk/'
+playlist: PLizA60F3A-6y6-vnUx3gHRaNNXGInG9gp
+from_date: '2018-04-13'
+to_date: '2018-04-14'
+tags: ''
+talks:
+  -
+    title: 'SQL, NoSQL and Beyond'
+    description: ''
+    tags: ''
+    link: 'https://2018.phpyorkshire.co.uk/speaker/lorna-mitchell.html'
+    talk_date: '2018-04-14 09:30'
+    speakers:
+      -
+        name: 'Lorna Mitchell'
+        twitter: lornajane
+        github: lornajane
+    videos:
+      - 'www.youtube.com:vhCChD9p1ZQ'
+    slides: null
+  -
+    title: 'Building Text Adventures and other CLI Apps in PHP'
+    description: ''
+    tags: ''
+    link: 'https://2018.phpyorkshire.co.uk/speaker/tim-nash.html'
+    talk_date: '2018-04-14 09:30'
+    speakers:
+      -
+        name: 'Tim Nash'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:OoKVXvzsrQo'
+    slides: null
+  -
+    title: 'Privacy by Design'
+    description: ''
+    tags: ''
+    link: 'https://2018.phpyorkshire.co.uk/speaker/heather-burns.html'
+    talk_date: '2018-04-14 10:50'
+    speakers:
+      -
+        name: 'Heather Burns'
+        twitter: WebDevLaw
+        github: null
+    videos:
+      - 'www.youtube.com:zU3GZyO_E4g'
+    slides: null
+  -
+    title: 'State in a Stateless World'
+    description: ''
+    tags: ''
+    link: 'https://2018.phpyorkshire.co.uk/speaker/luka-muzinic.html'
+    talk_date: '2018-04-14 10:50'
+    speakers:
+      -
+        name: 'Luka Muzinic'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:OEzwc32GrVY'
+    slides: null
+  -
+    title: 'Technically DDD'
+    description: ''
+    tags: ''
+    link: 'https://2018.phpyorkshire.co.uk/speaker/pim-elshoff.html'
+    talk_date: '2018-04-14 11:50'
+    speakers:
+      -
+        name: 'Pim Elshoff'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:aKBkpLj9-88'
+    slides: null
+  -
+    title: 'Serving PHP Happily'
+    description: ''
+    tags: ''
+    link: 'https://2018.phpyorkshire.co.uk/speaker/jenny-wong.html'
+    talk_date: '2018-04-14 11:50'
+    speakers:
+      -
+        name: 'Jenny Wong'
+        twitter: miss_jwo
+        github: null
+    videos:
+      - 'youtube:-95kc_GshUY'
+    slides: null
+  -
+    title: 'Looking After Your Mental Health, a Guide for Software Developers'
+    description: ''
+    tags: ''
+    link: 'https://2018.phpyorkshire.co.uk/speaker/mark-railton.html'
+    talk_date: '2018-04-14 13:50'
+    speakers:
+      -
+        name: 'Mark Railton'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:ITY3RAg_PW0'
+    slides: null
+  -
+    title: 'Websites at the Speed of Light'
+    description: ''
+    tags: ''
+    link: 'https://2018.phpyorkshire.co.uk/speaker/luis-ferro.html'
+    talk_date: '2018-04-14 13:50'
+    speakers:
+      -
+        name: 'Luis Ferro'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:KysF7m933Cs'
+    slides: null
+  -
+    title: 'The Security Code Review guide'
+    description: ''
+    tags: ''
+    link: 'https://2018.phpyorkshire.co.uk/speaker/nicola-pietroluongo.html'
+    talk_date: '2018-04-14 14:50'
+    speakers:
+      -
+        name: 'Nicola Pietroluongo'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:NxtCMHus1HQ'
+    slides: null
+  -
+    title: 'Being a Remote Developer'
+    description: ''
+    tags: ''
+    link: 'https://2018.phpyorkshire.co.uk/speaker/miro-svrtan.html'
+    talk_date: '2018-04-14 14:50'
+    speakers:
+      -
+        name: 'Miro Svrtan'
+        twitter: msvrtan
+        github: msvrtan
+    videos:
+      - 'www.youtube.com:DFDEnOO6a5Y'
+    slides: null
+  -
+    title: 'Behat Best Practices'
+    description: ''
+    tags: ''
+    link: 'https://2018.phpyorkshire.co.uk/speaker/ciaran-mcnulty.html'
+    talk_date: '2018-04-14 16:10'
+    speakers:
+      -
+        name: 'Ciaran McNulty'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:vlYwrxA1xVs'
+    slides: null
+  -
+    title: 'Moving Towards Better Coding Standards'
+    description: ''
+    tags: ''
+    link: 'https://2018.phpyorkshire.co.uk/speaker/scott-dutton.html'
+    talk_date: '2018-04-14 16:10'
+    speakers:
+      -
+        name: 'Scott Dutton'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:MmoZz_j2Y1A'
+    slides: null
+  -
+    title: 'Introduction to Cynefin'
+    description: ''
+    tags: ''
+    link: 'https://2018.phpyorkshire.co.uk/speaker/liz-keogh.html'
+    talk_date: '2018-04-14 17:10'
+    speakers:
+      -
+        name: 'Liz Keogh'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2Mnail6Xi-M'
+    slides: null

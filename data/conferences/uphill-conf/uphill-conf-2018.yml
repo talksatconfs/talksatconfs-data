@@ -1,0 +1,142 @@
+name: 'Uphill Conf 2018'
+description: 'The inspiring frontend conference on top of beautiful Mount Gurten.'
+location: 'Bern, Switzerland'
+venue: ''
+city: Bern
+country: Switzerland
+link: 'https://uphillconf.com/archive/2018/'
+playlist: 'youtube.com:PL_z8APYi9YObX_DUrYZDBG40x6bznPxwS'
+from_date: '2018-04-26'
+to_date: '2018-04-27'
+tags: ''
+talks:
+  -
+    title: 'Building a Performant Web Application in 2018'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-26 00:00'
+    speakers:
+      -
+        name: 'Jem Young'
+        twitter: jemyoung
+        github: null
+    videos:
+      - 'youtube:cd8pyX-droM'
+    slides: null
+  -
+    title: 'Progressive Web Apps - the Angular way'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-26 00:00'
+    speakers:
+      -
+        name: 'Simona Cotin'
+        twitter: simona_cotin
+        github: simonaco
+    videos:
+      - 'youtube:o_gGlNrbOIo'
+    slides: null
+  -
+    title: 'Empathy-Driven Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-26 00:00'
+    speakers:
+      -
+        name: 'Marcy Sutton'
+        twitter: marcysutton
+        github: marcysutton
+    videos:
+      - 'youtube:wvGvJemoDHI'
+    slides: null
+  -
+    title: 'Building component libraries using the Angular CDK'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-26 00:00'
+    speakers:
+      -
+        name: 'Austin McDaniel'
+        twitter: amcdnl
+        github: null
+    videos:
+      - 'youtube:ejh_UVci9FA'
+    slides: null
+  -
+    title: 'Angular Elements'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-26 00:00'
+    speakers:
+      -
+        name: 'Pascal Precht'
+        twitter: pascalprecht
+        github: null
+    videos:
+      - 'youtube:sCTQvsAoTek'
+    slides: null
+  -
+    title: 'Serverless functions and Vue.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-26 00:00'
+    speakers:
+      -
+        name: 'Sarah Drasner'
+        twitter: sarah_edo
+        github: sdras
+    videos:
+      - 'youtube:nqcq2_9H0vI'
+    slides: null
+  -
+    title: 'Two fundamental abstractions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-26 00:00'
+    speakers:
+      -
+        name: 'Andre Staltz'
+        twitter: andrestaltz
+        github: staltz
+    videos:
+      - 'youtube:fdol03pcvMA'
+    slides: null
+  -
+    title: 'React + RxJS: A Match Made in Heaven'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-26 00:00'
+    speakers:
+      -
+        name: 'John Lindquist'
+        twitter: johnlindquist
+        github: johnlindquist
+    videos:
+      - 'youtube:voVU3G7Y39A'
+    slides: null
+  -
+    title: 'Does Diversity Really Matter? - A Visual Journey Through Diversity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-26 00:00'
+    speakers:
+      -
+        name: 'Monika Blaser'
+        twitter: mon_blaser
+        github: null
+      -
+        name: 'Brigitte Hulliger'
+        twitter: bhulliger
+        github: null
+    videos:
+      - 'youtube:gLDtlEgxxPo'
+    slides: null

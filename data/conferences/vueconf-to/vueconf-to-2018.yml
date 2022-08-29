@@ -1,0 +1,208 @@
+name: 'VueConf TO 2018'
+description: 'First ever Vue Conference in Canada. Biggest in North America + Great workshops & talks'
+location: ''
+venue: ''
+city: Toronto
+country: Canada
+link: 'https://vuetoronto.com/'
+playlist: 'youtube.com:PLJNLwTPak6diYxk8TFz9fPWvjsryV2ygv'
+from_date: '2018-11-14'
+to_date: '2018-11-16'
+tags: ''
+talks:
+  -
+    title: 'Vue 3.0 Updates'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-15 00:00'
+    speakers:
+      -
+        name: 'Evan You'
+        twitter: youyuxi
+        github: yyx990803
+    videos:
+      - 'youtube:8Hgt9HYaCDA'
+    slides: null
+  -
+    title: 'Vuetify, The Path to 2.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'John Leider'
+        twitter: zeroskillz
+        github: johnleider
+    videos:
+      - 'youtube:E-5QmZvsp6Q'
+    slides: null
+  -
+    title: 'Visualizations using SVG, Canvas, and WebGL in Vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Chris Fritz'
+        twitter: chrisvfritz
+        github: chrisvfritz
+    videos:
+      - 'youtube:S9WKmeQcZjc'
+    slides: null
+  -
+    title: 'Vue and Vuex: The good, the bad and the ugly'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Filipa Lacerda'
+        twitter: FilipaLacerda
+        github: null
+    videos:
+      - 'youtube:LVklxTbBPj4'
+    slides: null
+  -
+    title: 'Light, lazy asynchronous patterns for Vue Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Eduardo San Martin Morote'
+        twitter: posva
+        github: posva
+    videos:
+      - 'youtube:5nr8zLo9hAg'
+    slides: null
+  -
+    title: 'Nuxt.js 2.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Sebastien Chopin'
+        twitter: Atinux
+        github: Atinux
+    videos:
+      - 'youtube:-Z1hI4Wxblo'
+    slides: null
+  -
+    title: 'Augmenting Shopify with Vue.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Trudy MacNabb'
+        twitter: dear_trudence
+        github: deartrudence
+    videos:
+      - 'youtube:SrP7S0TE5RA'
+    slides: null
+  -
+    title: 'A Token Walks Into a SPA'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Ignacio Anaya'
+        twitter: ianaya89
+        github: ianaya89
+    videos:
+      - 'youtube:MO7XdqbEH3A'
+    slides: null
+  -
+    title: 'Easy 3D Graphics with Vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Brian Jesse'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_2au7E9k50Q'
+    slides: null
+  -
+    title: 'Design Systems in Vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Benjamin Michoux'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TSahaYVC-bo'
+    slides: null
+  -
+    title: 'Enhancing Cart Customization with Vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Charles Ouellet'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1fkmNbJnZ0I'
+    slides: null
+  -
+    title: 'Vue Instance & Communication with the Outside World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Houmann Saffarzedeh'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1eerDMtOREk'
+    slides: null
+  -
+    title: 'nextTick Down to Business'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Tessa Park'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qNgqTWpW7U0'
+    slides: null
+  -
+    title: 'The Performance Alphabet'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Henri Helvetica'
+        twitter: HenriHelvetica
+        github: null
+    videos:
+      - 'youtube:pkiTlsiTkOg'
+    slides: null

@@ -1,0 +1,487 @@
+name: 'PHP UK Conference 2013'
+description: ''
+location: London
+venue: ''
+city: ''
+country: ''
+link: 'http://web.archive.org/web/20130308112542/http://phpconference.co.uk/'
+playlist: ''
+from_date: '2013-02-22'
+to_date: '2013-02-23'
+tags: ''
+talks:
+  -
+    title: 'Monitoring at Scale: Intuitive Dashboard Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 00:00'
+    speakers:
+      -
+        name: 'Lorenzo Alberton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zHSb4NNr_XE'
+    slides: null
+  -
+    title: 'Scaling with HipHop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 00:00'
+    speakers:
+      -
+        name: 'Sara Golemon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Dwek7dZDFN0'
+    slides: null
+  -
+    title: 'The Future of the PHP Development Environment'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 00:00'
+    speakers:
+      -
+        name: 'Jeremy Quinton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:L6qA_djDHDc'
+    slides: null
+  -
+    title: 'PHP is evil and wants to eat your babies: A look at defensive programming techniques in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-22 00:00'
+    speakers:
+      -
+        name: 'Richard Johnson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:T5cCLiBffXs'
+    slides: null
+  -
+    title: 'Realtime Web Apps in the Wild'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 00:00'
+    speakers:
+      -
+        name: 'Phil Leggetter'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:77bFefme4Ng'
+    slides: null
+  -
+    title: 'KEYNOTEYou are a designer.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-22 00:00'
+    speakers:
+      -
+        name: 'Aral Balkan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OMw1-dHxsTE'
+    slides: null
+  -
+    title: 'RabbitMQ Hands On'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 00:00'
+    speakers:
+      -
+        name: 'Alvaro Videla'
+        twitter: old_sound
+        github: videlalvaro
+    videos:
+      - 'youtube:dAzsbZO7nnU'
+    slides: null
+  -
+    title: 'Keynote PanelOpen Source in Action'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 00:00'
+    speakers:
+      -
+        name: 'Sara Golemon, Martijn Verburg, Ian Barber, Beth Tucker Long'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wn-Rq9srawA'
+    slides: null
+  -
+    title: 'A Hands-On Introduction to Writing Unit Tests Using PHPUnit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 00:00'
+    speakers:
+      -
+        name: 'Harrie Verveer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Jr8jAK86Uf0'
+    slides: null
+  -
+    title: 'Unleash Your Inner Author! - How to Avoid the "Trigger-Trap"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-22 00:00'
+    speakers:
+      -
+        name: 'June Henriksen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP Traits, Threat or Treat?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-22 00:00'
+    speakers:
+      -
+        name: 'Nick Belhomme'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mussJGZos4w'
+    slides: null
+  -
+    title: 'Ten Commandments of a Software Engineer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 00:00'
+    speakers:
+      -
+        name: 'Sebastian Marek'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:013jdm0cpCs'
+    slides: null
+  -
+    title: 'Expert Troubleshooting: Resolving MySQL Problems quickly'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 00:00'
+    speakers:
+      -
+        name: 'Kenny Gryp'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:I7fsZB1HC8I'
+    slides: null
+  -
+    title: 'Event Stream Processing In PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-22 00:00'
+    speakers:
+      -
+        name: 'Ian Barber'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:js0zEArFVz8'
+    slides: null
+  -
+    title: 'Pair Programming, TDD and Other Impractical Things'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-22 00:00'
+    speakers:
+      -
+        name: 'Marcello Duarte'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XcGlVB7MBos'
+    slides: null
+  -
+    title: 'OpenStreetMap for the Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 00:00'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos:
+      - 'youtube:L4AGUNjSbdA'
+    slides: null
+  -
+    title: 'Looking Ahead: PHP 5.5'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-22 00:00'
+    speakers:
+      -
+        name: 'David Soria Parra'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:q5bODy9JzEI'
+    slides: null
+  -
+    title: '"Small Data" Machine Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-22 00:00'
+    speakers:
+      -
+        name: 'Andrei Zmievski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pCl223SUT14'
+    slides: null
+  -
+    title: 'MVC Events and Module: the New Architecture of ZF2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 00:00'
+    speakers:
+      -
+        name: 'Enrico Zimuel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:O6dwYklDVp0'
+    slides: null
+  -
+    title: 'Usability for Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 00:00'
+    speakers:
+      -
+        name: 'Beth Tucker Long'
+        twitter: e3betht
+        github: e3betht
+    videos:
+      - 'youtube:UFDERcO4zNI'
+    slides: null
+  -
+    title: "You Can't Optimize What You Can't Measure"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 00:00'
+    speakers:
+      -
+        name: 'Juozas Kaziukenas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-wYUMX9zj9k'
+    slides: null
+  -
+    title: "API Design: It's Not Rocket Surgery"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-22 00:00'
+    speakers:
+      -
+        name: 'Dave Ingram'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:aoiaSkRCObY'
+    slides: null
+  -
+    title: 'Bottleneck Analysis'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-22 00:00'
+    speakers:
+      -
+        name: 'Ilia Alshanetsky'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:f8zACyZAE9s'
+    slides: null
+  -
+    title: 'Advanced JavaScript Techniques for Modern Web Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-22 00:00'
+    speakers:
+      -
+        name: 'Bastian Hofmann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1IiipTQ2WGI'
+    slides: null
+  -
+    title: 'Cranking Nginx up to 11'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-22 00:00'
+    speakers:
+      -
+        name: 'Helgi Thorbjoernsson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zrPzkyyDgrk'
+    slides: null
+  -
+    title: 'Planning To Fail'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 00:00'
+    speakers:
+      -
+        name: 'Dave Gardner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hHwNEuTu6rQ'
+    slides: null
+  -
+    title: 'Refactoring to Symfony Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-22 00:00'
+    speakers:
+      -
+        name: 'Michael Peacock'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Aq5Hi6PasFg'
+    slides: null
+  -
+    title: "Help, I'm Running Out of Memory!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-22 00:00'
+    speakers:
+      -
+        name: 'Julien Pauli'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sm1HUrnsxLI'
+    slides: null
+  -
+    title: 'The Hypermedia API'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 00:00'
+    speakers:
+      -
+        name: 'Ben Longden'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:eyiwSePBMUM'
+    slides: null
+  -
+    title: 'Making PHP See'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 00:00'
+    speakers:
+      -
+        name: 'Michael Maclean'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BX3l9YudNYQ'
+    slides: null
+  -
+    title: 'Keynote PanelFrameworks: The Good, The Bad and The Ugly'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-22 00:00'
+    speakers:
+      -
+        name: 'Richard Johnson, Michael Peacock, Enrico Zimuel, Bastian Hofmann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ovVLSynGcd8'
+    slides: null
+  -
+    title: 'PHP Extensions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-22 00:00'
+    speakers:
+      -
+        name: 'Sara Golemon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pDk1yx_JycE'
+    slides: null
+  -
+    title: 'From the Ground Up - Coding, Deploying, and Scaling with AWS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-22 00:00'
+    speakers:
+      -
+        name: 'Rowan Merewood'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HFqmmXo85H0'
+    slides: null
+  -
+    title: 'KEYNOTEThe Diabolical Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 00:00'
+    speakers:
+      -
+        name: 'Martijn Verburg'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yuqp5lNPG8w'
+    slides: null

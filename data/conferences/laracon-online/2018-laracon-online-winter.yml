@@ -1,0 +1,124 @@
+name: '2018 - Laracon Online (Winter)'
+description: "There’s nothing like attending a Laracon, but unfortunately, not everyone can take part in Laracon US or EU in person.\r\n\r\nThat’s why we’ve created Laracon Online. The easiest and most affordable way to get the Laracon experience.\r\n\r\nWe’ve put together a full day of talks featuring some of Laravel’s brightest minds, and streaming them directly to your home or office."
+location: ''
+venue: ''
+city: ''
+country: ''
+link: 'https://web.archive.org/web/20180329120845/https://laracon.net/'
+playlist: 'youtube:PLyfOROdV5_9Ppj_aWUnOij3zCcEIrXXJ9'
+from_date: '2018-02-07'
+to_date: '2018-02-07'
+tags: ''
+talks:
+  -
+    title: 'Adam Wathan - Advanced Vue Component Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-07 15:00'
+    speakers:
+      -
+        name: 'Adam Wathan'
+        twitter: adamwathan
+        github: null
+    videos:
+      - 'youtube:aoANE2TLQuk'
+    slides: null
+  -
+    title: 'Steve Schoger - The Little Details of UI Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-07 16:00'
+    speakers:
+      -
+        name: 'Steve Schoger'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EjEYTRD-W-M'
+    slides: null
+  -
+    title: 'Taylor Otwell - Laravel 5.6 and Spark 6'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-07 15:15'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:p5aykyfE3wo'
+    slides: null
+  -
+    title: 'Chris Fidao - Scaling Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-07 18:15'
+    speakers:
+      -
+        name: 'Chris Fidao'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tn3vTci2afg'
+    slides: null
+  -
+    title: 'Wes Bos - The Future of Javascript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-07 19:30'
+    speakers:
+      -
+        name: 'Wes Bos'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gy4ACUVlKys'
+    slides: null
+  -
+    title: 'Jonathan Reinink - Advanced Querying with Eloquent'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-07 20:30'
+    speakers:
+      -
+        name: 'Jonathan Reinink'
+        twitter: reinink
+        github: null
+    videos:
+      - 'youtube:g8sAwiiQVgw'
+    slides: null
+  -
+    title: 'Sandi Metz - You Are Insufficiently Persuasive'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-07 21:45'
+    speakers:
+      -
+        name: 'Sandi Metz'
+        twitter: sendimetz
+        github: skmetz
+    videos:
+      - 'youtube:m2J-8nhzKNg'
+    slides: null
+  -
+    title: 'Matt Stauffer - Laravel for fun (and profit?)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-07 22:45'
+    speakers:
+      -
+        name: 'Matt Stauffer'
+        twitter: stauffermatt
+        github: null
+    videos:
+      - 'youtube:8oC9AOPAfzI'
+    slides: null

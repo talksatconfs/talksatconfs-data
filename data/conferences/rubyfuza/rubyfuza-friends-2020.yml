@@ -1,0 +1,287 @@
+name: 'Rubyfuza & Friends 2020'
+description: ''
+location: ''
+venue: ''
+city: 'Cape Town'
+country: 'South Africa'
+link: ''
+playlist: 'youtube:PLI113oIao_x4Y3CxTJ1pntEcdVyHHVaVt'
+from_date: '2020-02-06'
+to_date: '2020-02-07'
+tags: ''
+talks:
+  -
+    title: '2020 Key Note'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-06 09:45'
+    speakers:
+      -
+        name: 'AVDI GRIMM'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qeMn4lZlxPE'
+    slides: null
+  -
+    title: 'Keeping performance in check - real time!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-06 10:30'
+    speakers:
+      -
+        name: 'Christiane (Tina) Heiligers'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:z8XpttsI8eQ'
+    slides: null
+  -
+    title: 'Harnessing Stress'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-06 11:30'
+    speakers:
+      -
+        name: 'KATHY ALLEN MANN'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YFeMm-LdNf4'
+    slides: null
+  -
+    title: 'Accessibility for All'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-06 12:00'
+    speakers:
+      -
+        name: 'RORY PREDDY'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GDztyRy8t-Q'
+    slides: null
+  -
+    title: 'Why the future of Ruby is Crystal clear.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-06 12:30'
+    speakers:
+      -
+        name: 'PAUL OGUDA'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4jr8aL-xMh0'
+    slides: null
+  -
+    title: 'Safe, Flexible Tests'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-06 14:00'
+    speakers:
+      -
+        name: 'FRITZ MEISSNER'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IgFgRKH_KTw'
+    slides: null
+  -
+    title: 'Disk is fast, memory is slow. Forget all you think you know.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-06 14:30'
+    speakers:
+      -
+        name: 'DANIEL MAGLIOLA'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DkoDJ5Z4VzU'
+    slides: null
+  -
+    title: 'Disrupting development routines with one day sprints'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-06 15:00'
+    speakers:
+      -
+        name: 'ELENA AIELLO'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yXVtV3QiI-4'
+    slides: null
+  -
+    title: 'Making the Leap into Tech Leadership'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-06 16:00'
+    speakers:
+      -
+        name: 'TANAKA MUTAKWA'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7so8yuqZ-M4'
+    slides: null
+  -
+    title: 'Rails Testing - Tips of lightning fast test suites'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-06 16:30'
+    speakers:
+      -
+        name: 'RAOUL DIFFOUO'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oEIWoGqQJFU'
+    slides: null
+  -
+    title: 'Scaling Ruby Applications with JRuby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-07 09:45'
+    speakers:
+      -
+        name: 'Charles Nutter'
+        twitter: headius
+        github: headius
+    videos:
+      - 'youtube:6c7wXVrYfwo'
+    slides: null
+  -
+    title: 'Ruby Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-07 10:30'
+    speakers:
+      -
+        name: 'Daniel Smith'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0PDWqoBG7FI'
+    slides: null
+  -
+    title: 'How I convinced my employer to let me write it in Elixir'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-07 11:30'
+    speakers:
+      -
+        name: 'De Wet Blomerus'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wJCipsEBt00'
+    slides: null
+  -
+    title: 'Choices when automating it all'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-07 12:00'
+    speakers:
+      -
+        name: 'Raounak Sharma'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:URQZVhFmFN8'
+    slides: null
+  -
+    title: 'Lightning Talks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-07 12:30'
+    speakers: {  }
+    videos: null
+    slides: null
+  -
+    title: 'Go-ing a long way with Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-07 14:00'
+    speakers:
+      -
+        name: 'Shweta Kale'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nfThxIf2KQw'
+    slides: null
+  -
+    title: 'State of the art of managing assets in the new rails world'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-07 14:30'
+    speakers:
+      -
+        name: 'Prathamesh Sonpatki'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:igJqYmILdxk'
+    slides: null
+  -
+    title: '5 Years of React patterns, practices and pitfalls'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-07 15:00'
+    speakers:
+      -
+        name: 'Ben Janecke'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4zm2p83XYXI'
+    slides: null
+  -
+    title: 'Computational Thinking'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-07 16:00'
+    speakers:
+      -
+        name: 'Sarah Aslanifar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-X_9XzQePLs'
+    slides: null
+  -
+    title: 10x10
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-07 16:30'
+    speakers:
+      -
+        name: 'Ruberto Paulo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_QEcDg0gulE'
+    slides: null

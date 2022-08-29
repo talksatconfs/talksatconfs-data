@@ -1,0 +1,176 @@
+name: 'LA Ruby Conf 2011'
+description: ''
+location: ''
+venue: ''
+city: 'San Pedro, California'
+country: 'United States'
+link: 'https://web.archive.org/web/20110828151134/http://www.larubyconf.com/presentations'
+playlist: ''
+from_date: '2011-02-03'
+to_date: '2011-02-05'
+tags: ''
+talks:
+  -
+    title: 'Welcome and Introduction'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-05 09:00'
+    speakers:
+      -
+        name: ' Coby Randquist'
+        twitter: null
+        github: null
+      -
+        name: 'JR Fent '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'ActiveSupport Three - It is finally getting interesting'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-05 09:15'
+    speakers:
+      -
+        name: 'Bryan Lyles'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "NinjaScript: JavaScript so unobtrusive, you won't see it coming."
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-05 10:00'
+    speakers:
+      -
+        name: 'Evan Dorn '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Rails Tutorial Story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-05 10:45'
+    speakers:
+      -
+        name: 'Michael Hartl'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How To Jam In Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-05 11:30'
+    speakers:
+      -
+        name: 'Ron Evans'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Working in Virtual Machines, the Vagrant Way'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-05 13:00'
+    speakers:
+      -
+        name: 'Mitchell Hashimoto'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Securing Your Rails App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-05 13:45'
+    speakers:
+      -
+        name: 'Jim Weirich '
+        twitter: null
+        github: null
+      -
+        name: ' Matt Yoho'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Easy Node.js Apps With Lisp'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-05 14:30'
+    speakers:
+      -
+        name: 'Giles Bowkett'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Advanced API design: how an awesome API can attract friends, make you rich, and change the world'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-05 15:45'
+    speakers:
+      -
+        name: 'Jon Dahl'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Twitter Mobile'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-05 16:30'
+    speakers:
+      -
+        name: 'Ben Sandofsky'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Your Slides Suck'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-05 17:15'
+    speakers:
+      -
+        name: 'Shane Becker'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-02-05 18:00'
+    speakers:
+      -
+        name: 'Evan Phoenix'
+        twitter: evanphx
+        github: evanphx
+    videos: null
+    slides: null

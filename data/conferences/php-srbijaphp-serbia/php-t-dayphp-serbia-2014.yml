@@ -1,0 +1,138 @@
+name: 'PHP T-Day/PHP Serbia 2014'
+description: ''
+location: 'Belgrade, Serbia'
+venue: ''
+city: ''
+country: ''
+link: 'https://tday2014.phpsrbija.rs/'
+playlist: ''
+from_date: '2014-11-22'
+to_date: '2014-11-22'
+tags: ''
+talks:
+  -
+    title: 'I walk in the shadow of valley of tests'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-21 18:30'
+    speakers:
+      -
+        name: 'Srdjan Vranac'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:y7Ea36olt-g'
+    slides: null
+  -
+    title: 'Spec BDD with PHPSpec'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-21 18:30'
+    speakers:
+      -
+        name: 'Sasa Stamenkovic'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:i2EN5ckNMLc'
+    slides: null
+  -
+    title: 'Testing open source projects with Travis CI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-21 18:30'
+    speakers:
+      -
+        name: 'Ivan Habunek'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1FqQDKRlWbk'
+    slides: null
+  -
+    title: 'Your code are my tests!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-21 18:30'
+    speakers:
+      -
+        name: 'Michelangelo van Dam'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OFf1i9OxNC8'
+    slides: null
+  -
+    title: 'Moving Fast Without Deploying Broken Things'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-21 18:30'
+    speakers:
+      -
+        name: 'Sebastian Bergmann  '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ldDDZyqKHkY'
+    slides: null
+  -
+    title: 'Story BDD with Behat'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-21 18:30'
+    speakers:
+      -
+        name: 'Sasa Stamenkovic'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:da3g7TB3tqE'
+    slides: null
+  -
+    title: 'Continuos Delivery 101'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-21 18:30'
+    speakers:
+      -
+        name: 'Darko Fabijan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Mre4nH0TPh0'
+    slides: null
+  -
+    title: 'Narrative, API testing for a pragmatist'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-21 18:30'
+    speakers:
+      -
+        name: 'Ilija Studen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:G7qqIoLCF-8'
+    slides: null
+  -
+    title: 'Codeception, because tests can have frameworks too!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-21 18:30'
+    speakers:
+      -
+        name: 'Luka Muzinic'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6O-kKkhFBCs'
+    slides: null

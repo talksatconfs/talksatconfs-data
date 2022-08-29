@@ -1,0 +1,155 @@
+name: 'AlterConf Seattle, WA - 2017'
+description: ''
+location: 'Seattle, WA'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2017/seattle-wa'
+playlist: ''
+from_date: '2017-05-06'
+to_date: '2017-05-06'
+tags: ''
+talks:
+  -
+    title: 'Narrative as a Guide for User Experience'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Ivy Krislov'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How Self-Advocacy can help create a richer, more inclusive life experience'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Brendan Gramer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'African American Career Burn-Out: Self-Care and Preventing Career Burn-out'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: "Brianne' Ellis"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Lynn Cyrin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Starting Over: A Beginner Yet Again'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Heather Herrington'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Power of Open'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Dr Tyrone Grandison'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Modern Day Corporate Exile: When Organizations Close Rank'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Susie Lee'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Community Is Contribution'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Mikena Wood'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Are You a Boy or a Girl? Non-binary Representation in Games'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Sai Timmermann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Virtual Armor: Tools for Preventing Abuse in VR'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Renee Gittins'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Being black is not only dangerous, it's distracting"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Carter Morgan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

@@ -1,0 +1,220 @@
+name: 'PHP UK Conference 2010'
+description: ''
+location: London
+venue: ''
+city: ''
+country: ''
+link: 'http://web.archive.org/web/20100314120603/http://www.phpconference.co.uk/'
+playlist: ''
+from_date: '2010-02-26'
+to_date: '2010-02-26'
+tags: ''
+talks:
+  -
+    title: 'PHP code audits'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-26 00:00'
+    speakers:
+      -
+        name: 'Damien Seguy'
+        twitter: faguo
+        github: dseguy
+    videos: null
+    slides: null
+  -
+    title: 'PHPillow & CouchDB & PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-26 00:00'
+    speakers:
+      -
+        name: ' Kore Nordmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Hidden features - from core to PECL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-26 00:00'
+    speakers:
+      -
+        name: 'Johannes Schlüter'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP on the D-BUS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-26 00:00'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos: null
+    slides: null
+  -
+    title: 'Would you like docs with that?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-26 00:00'
+    speakers:
+      -
+        name: 'Stefan Koopmanschap'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP 5.3 in practice'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-26 00:00'
+    speakers:
+      -
+        name: 'Fabien Potencier'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Living with legacy code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-26 00:00'
+    speakers:
+      -
+        name: 'Rowan Merewood'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "'In search of...' - integrating site search systems"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-26 00:00'
+    speakers:
+      -
+        name: 'Ian Barber'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Cloud computing for PHP using the Windows Azure SDK'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-26 00:00'
+    speakers:
+      -
+        name: 'Rob Allen'
+        twitter: akrabat
+        github: akrabat
+    videos: null
+    slides: null
+  -
+    title: 'Database optimisation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-26 00:00'
+    speakers:
+      -
+        name: 'Remo Biagioni'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Best practices in web service design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-26 00:00'
+    speakers:
+      -
+        name: 'Lorna Jane Mitchell'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Web and mobile application monetisation models'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-26 00:00'
+    speakers:
+      -
+        name: 'Chuck Hudson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: AntiPHPatterns
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-26 00:00'
+    speakers:
+      -
+        name: ' Stefan Priebsch  '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'RDBMS in the social networks age'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-26 00:00'
+    speakers:
+      -
+        name: 'Lorenzo Alberton'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Keynote talk: The lost art of simplicity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-26 00:00'
+    speakers:
+      -
+        name: 'Josh Holmes'
+        twitter: null
+        github: joshholmes
+    videos: null
+    slides: null
+  -
+    title: Regex-fu
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-26 00:00'
+    speakers:
+      -
+        name: 'Juliette Folmer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

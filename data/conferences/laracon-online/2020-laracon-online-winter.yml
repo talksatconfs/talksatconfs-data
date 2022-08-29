@@ -1,0 +1,124 @@
+name: '2020 - Laracon Online (Winter)'
+description: "With over 15,000 attendees in our first three years, Laracon Online is the largest Laravel conference in the universe!\r\n\r\nThere’s nothing like attending a Laracon, but unfortunately, not everyone can take part in Laracon US/EU/AU in person.\r\n\r\nThat’s why we’ve created Laracon Online. The easiest and most affordable way to get the Laracon experience."
+location: ''
+venue: ''
+city: ''
+country: ''
+link: 'https://web.archive.org/web/20200303101454/https://laracon.net/'
+playlist: 'youtube:PLyfOROdV5_9PALlmOZOEoyn6rptG3rggm'
+from_date: '2020-02-26'
+to_date: '2020-02-26'
+tags: ''
+talks:
+  -
+    title: 'Jason McCreary - Laravel Testing Strategies'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-26 04:30'
+    speakers:
+      -
+        name: 'Jason McCreary'
+        twitter: jasonmccreary
+        github: jasonmccreary
+    videos:
+      - 'youtube:dibzNJrcbi4'
+    slides: null
+  -
+    title: 'Jonathan Reinink - Advanced Eloquent Tips & Tricks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-26 05:30'
+    speakers:
+      -
+        name: 'Jonathan Reinink'
+        twitter: reinink
+        github: null
+    videos:
+      - 'youtube:jII5z4srivk'
+    slides: null
+  -
+    title: 'Taylor Otwell - Full Laravel 7 walk-through!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-26 06:45'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:I35ZtLDEMhI'
+    slides: null
+  -
+    title: 'Freek Van der Herten - Behind the scenes of Flare'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-26 07:45'
+    speakers:
+      -
+        name: 'Freek Van Der Verten'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fZqyWsEUCl0'
+    slides: null
+  -
+    title: 'Christoph Rumpel - Laravel Factories Reloaded'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-26 09:00'
+    speakers:
+      -
+        name: 'Christoph Rumpel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5YkzwUVnAOw'
+    slides: null
+  -
+    title: 'Caleb Porzio - Making Server-Side Apps Sing With AlpineJS And Laravel Livewire'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-26 10:00'
+    speakers:
+      -
+        name: 'Caleb Porzio'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bmtDuUXiiqU'
+    slides: null
+  -
+    title: 'Snipe - Running a million dollar FOSS business on Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-26 11:15'
+    speakers:
+      -
+        name: 'Alison Gianotto (Snipe)'
+        twitter: snipeyhead
+        github: null
+    videos:
+      - 'youtube:O4JstBq4-Kw'
+    slides: null
+  -
+    title: 'Matt Stauffer - How To JSON:API Quickly & Easily in Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-26 12:15'
+    speakers:
+      -
+        name: 'Matt Stauffer'
+        twitter: stauffermatt
+        github: null
+    videos:
+      - 'youtube:C01dvypo4O4'
+    slides: null

@@ -1,0 +1,310 @@
+name: 'RubyConf AU 2019'
+description: 'Our yearly gathering where we share knowledge about the Ruby programming language, and celebrate the Australian and broader Ruby community.'
+location: ''
+venue: ''
+city: Melbourne
+country: Australia
+link: 'https://rubyconf.org.au/2019/'
+playlist: 'youtube.com:PL9_jjLrTYxc3dTbvb8fIuzDFGTCaEdO3a'
+from_date: '2019-02-07'
+to_date: '2019-02-09'
+tags: ''
+talks:
+  -
+    title: 'The Case Of The Missing Method - A Ruby Mystery Story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 00:00'
+    speakers:
+      -
+        name: 'Nadia Odunayo'
+        twitter: nodunayo
+        github: null
+    videos:
+      - 'youtube:aRkHqYDi_wQ'
+    slides: null
+  -
+    title: 'I Have ADD and So Can - Ooh, Shiny!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 00:00'
+    speakers:
+      -
+        name: 'Heidi Waterhouse'
+        twitter: wiredferret
+        github: null
+    videos:
+      - 'youtube:xX6qLuarYVs'
+    slides: null
+  -
+    title: 'How to hijack, proxy and smuggle sockets with Rack/Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 00:00'
+    speakers:
+      -
+        name: 'Dávid Halász'
+        twitter: halaszdavid
+        github: null
+    videos:
+      - 'youtube:dU7192V1mLI'
+    slides: null
+  -
+    title: 'Representations Count'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 00:00'
+    speakers:
+      -
+        name: 'Tom Stuart'
+        twitter: tomstuart
+        github: null
+    videos:
+      - 'youtube:ej-W956YQN0'
+    slides: null
+  -
+    title: 'What Could Go Wrong? The Subtle Science Of Coding for Failure'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 00:00'
+    speakers:
+      -
+        name: 'Daniel Fone'
+        twitter: danielfone
+        github: null
+    videos:
+      - 'youtube:R7BSwkvGoH0'
+    slides: null
+  -
+    title: 'Harry the Hedgehog Learns You A Communication'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 00:00'
+    speakers:
+      -
+        name: 'Laura Mosher'
+        twitter: LauraTrev
+        github: null
+    videos:
+      - 'youtube:1R_2MZC81Aw'
+    slides: null
+  -
+    title: 'Taming Monoliths Without Microservices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 00:00'
+    speakers:
+      -
+        name: 'Kelly Sutton'
+        twitter: kellysutton
+        github: null
+    videos:
+      - 'youtube:-ovkkvvTiRM'
+    slides: null
+  -
+    title: "Pairing with People Who Don't Look Like You"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 00:00'
+    speakers:
+      -
+        name: 'Betsy Haibel'
+        twitter: betsythemuffin
+        github: null
+    videos:
+      - 'youtube:A_9v5L01fcs'
+    slides: null
+  -
+    title: 'A Branch in Time (a story about revision histories)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 00:00'
+    speakers:
+      -
+        name: 'Tekin Süleyman'
+        twitter: brilimitless
+        github: tekin
+    videos:
+      - 'youtube:1NoNTqank_U'
+    slides: null
+  -
+    title: 'Environment Variables'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 00:00'
+    speakers:
+      -
+        name: 'Merrin Macleod'
+        twitter: commerxplat
+        github: spinscale
+    videos:
+      - 'youtube:N4hiqGwTRBU'
+    slides: null
+  -
+    title: 'Internet Legislation is Eating the World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Eliza Sorensen'
+        twitter: Zemmiph0bia
+        github: null
+      -
+        name: 'Jack Chen'
+        twitter: chendo
+        github: null
+    videos:
+      - 'youtube:MDBm6_udqLg'
+    slides: null
+  -
+    title: 'What were they thinking?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Keith Pitty'
+        twitter: keithpitty
+        github: null
+    videos:
+      - 'youtube:KiGbAbjYAjI'
+    slides: null
+  -
+    title: 'Views, from the top'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Tim Riley'
+        twitter: timriley
+        github: timriley
+    videos:
+      - 'youtube:VGWt1OLFzdU'
+    slides: null
+  -
+    title: 'earn to make the point: data visualisation strategy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Mila Dymnikova'
+        twitter: milameow1
+        github: null
+    videos:
+      - 'youtube:4OkoJxR3jdM'
+    slides: null
+  -
+    title: 'Hacking Your Emotional API'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'John Sawers'
+        twitter: emotionalapi
+        github: null
+    videos:
+      - 'youtube:OGDRUI8biTc'
+    slides: null
+  -
+    title: 'Algorithms to live by and why should we care'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Elle Meredith'
+        twitter: aemeredith
+        github: elle
+    videos:
+      - 'youtube:kxYL0EyYOKw'
+    slides: null
+  -
+    title: 'Building APIs you want to hug with GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Tom Ridge'
+        twitter: tjridge
+        github: null
+    videos:
+      - 'youtube:lyJebJuG_sk'
+    slides: null
+  -
+    title: 'What the hell is a JRuby?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Tom Gamon'
+        twitter: thrgamon
+        github: thrgamon
+    videos:
+      - 'youtube:qJqC6xm-2PI'
+    slides: null
+  -
+    title: "It's Down! Simulating Incidents in Production"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Kelsey Pedersen'
+        twitter: kelsey_pedersen
+        github: null
+    videos:
+      - 'youtube:NYZdambrG_I'
+    slides: null
+  -
+    title: 'Mechanically Confident'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Adam Cuppy'
+        twitter: adamcuppy
+        github: null
+    videos:
+      - 'youtube:Btsx9YzhJVM'
+    slides: null
+  -
+    title: 'Cats, The Musical! Algorithmic Song Meow-ification'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 00:00'
+    speakers:
+      -
+        name: 'Beth Haubert'
+        twitter: haubertdashery
+        github: bethanyhaubert
+    videos:
+      - 'youtube:JTNPLwqJIDg'
+    slides: null

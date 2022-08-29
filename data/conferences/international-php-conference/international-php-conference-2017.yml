@@ -1,0 +1,1034 @@
+name: 'International PHP Conference 2017'
+description: "International PHP Conference is the world's first PHP conference for top-notch expertise in PHP and web technologies."
+location: ''
+venue: ''
+city: Munich
+country: Germany
+link: 'https://phpconference.com/archive/archiv-2017/'
+playlist: PLjODKYi0WiE6nYuGnReAmYwXCXbVWsjBX
+from_date: '2017-10-23'
+to_date: '2017-10-27'
+tags: ''
+talks:
+  -
+    title: 'Everything you need to know about PHP 7.2'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/everything-you-need-to-know-about-php-7-2/'
+    talk_date: '2017-10-24 10:15'
+    speakers:
+      -
+        name: 'Sebastian Bergmann  '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:od19SMYxRZQ'
+    slides: null
+  -
+    title: 'Database? Meh! Implementation Details with Domain-driven Design'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/database-meh-implementation-details-with-domain-driven-design/'
+    talk_date: '2017-10-24 10:15'
+    speakers:
+      -
+        name: 'Maciej Malarz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "It's not Dark Magic – Pulling back the Curtains from your Style Sheets"
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/web-development/its-not-dark-magic-pulling-back-the-curtains-from-your-style-sheets/'
+    talk_date: '2017-10-24 10:15'
+    speakers:
+      -
+        name: 'Aimee Knight'
+        twitter: Aimee_Knight
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Develop Desktop Applications with Electron'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/develop-desktop-applications-with-electron/'
+    talk_date: '2017-10-24 10:15'
+    speakers:
+      -
+        name: 'Jakob Westhoff'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Robust Production-ready Node.js'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/robust-production-ready-node-js/'
+    talk_date: '2017-10-24 10:15'
+    speakers:
+      -
+        name: 'Hunter Loftis'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Symfony 4 and Symfony Flex – Core Ideas, Features and Improvements'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/symfony-4-and-symfony-flex-core-ideas-features-and-improvements/'
+    talk_date: '2017-10-24 11:45'
+    speakers:
+      -
+        name: 'Victoria Quirante'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'SonarJS: a static Tool to detect Runtime Exceptions in JavaScript'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/sonarjs-a-static-tool-to-detect-runtime-exceptions-in-javascript/'
+    talk_date: '2017-10-24 11:45'
+    speakers:
+      -
+        name: 'Carlo Bottiglieri  '
+        twitter: null
+        github: null
+      -
+        name: ' Elena Vilchik'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PouchDB – The perfect Offline-First Database for your Browser'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/web-development/pouchdb-the-perfect-offline-first-database-for-your-browser/'
+    talk_date: '2017-10-24 11:45'
+    speakers:
+      -
+        name: 'Hans-Christian Otto'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Security State of Open Source PHP Applications'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/the-security-state-of-open-source-php-applications/'
+    talk_date: '2017-10-24 11:45'
+    speakers:
+      -
+        name: 'Johannes Dahse'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Angular with Redux'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/angular/angular-with-redux/'
+    talk_date: '2017-10-24 11:45'
+    speakers:
+      -
+        name: 'Manuel Mauky'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Stabile Software in volatilen Umgebungen'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/architecture/stabile-software-in-volatilen-umgebungen/'
+    talk_date: '2017-10-24 14:15'
+    speakers:
+      -
+        name: ' Kore Nordmann'
+        twitter: null
+        github: null
+      -
+        name: ' Tobias Schlitt'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Domain-specific Languages with PHP'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/domain-specific-languages-with-php/'
+    talk_date: '2017-10-24 14:15'
+    speakers:
+      -
+        name: ' Stefan Priebsch  '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Routing into the Sunset with Angular'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/angular/routing-into-the-sunset-with-angular/'
+    talk_date: '2017-10-24 14:15'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos: null
+    slides: null
+  -
+    title: 'From Zero to Hero – Web Performance'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/web-development/from-zero-to-hero-web-performance/'
+    talk_date: '2017-10-24 14:15'
+    speakers:
+      -
+        name: 'Sebastian Springer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'There’s a slight Smell of wet Dog in your Code'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/theres-a-slight-smell-of-wet-dog-in-your-code/'
+    talk_date: '2017-10-24 14:15'
+    speakers:
+      -
+        name: 'Sebastian Feldmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Legacy-Anwendungen mit Expressive modernisieren'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/legacy-anwendungen-mit-expressive-modernisieren/'
+    talk_date: '2017-10-24 16:00'
+    speakers:
+      -
+        name: 'Ralf Eggert'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Climbing the Abstract Syntax Tree'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/php-7-climbing-the-abstract-syntax-tree/'
+    talk_date: '2017-10-24 16:00'
+    speakers:
+      -
+        name: 'James Titcumb'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Web goes Native: Progressive Web Apps (PWA) – with Angular'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/angular/web-goes-native-progressive-web-apps-pwa-with-angular/'
+    talk_date: '2017-10-24 16:00'
+    speakers:
+      -
+        name: 'Shmuela Jacobs'
+        twitter: ShmuelaJ
+        github: shmool
+    videos:
+      - 'youtube:ayj49vwCfCU'
+    slides: null
+  -
+    title: 'Redux and React'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/redux-and-react/'
+    talk_date: '2017-10-24 16:00'
+    speakers:
+      -
+        name: 'Chris Noring'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Make your own Robotic Tester with Docker, FFmpeg and codeception'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/testing-and-test-driven-development/make-your-own-robotic-tester-with-docker-ffmpeg-and-codeception/'
+    talk_date: '2017-10-24 16:00'
+    speakers:
+      -
+        name: 'Chris Ozog'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Der Weg von nativen/Java-basierten Clientsystemen nach HTML/JavaScript: die RISC-HTML-Methode'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/der-weg-von-nativenjava-basierten-client-systemen-nach-htmljavascript-die-risc-html-methode/'
+    talk_date: '2017-10-24 16:00'
+    speakers:
+      -
+        name: 'Björn Müller'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Templating in 2017 – you're still doing it wrong"
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/templating-in-2017-youre-still-doing-it-wrong/'
+    talk_date: '2017-10-24 17:15'
+    speakers:
+      -
+        name: 'Arne Blankerts'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Packt mein Shop das? Load Testing, Performance und Co.'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/web-security/packt-mein-shop-das-load-testing-performance-und-co/'
+    talk_date: '2017-10-24 17:15'
+    speakers:
+      -
+        name: ' Kore Nordmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Through the Sound Barrier: High-Performance Applications with Angular'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/angular/through-the-sound-barrier-high-performance-applications-with-angular/'
+    talk_date: '2017-10-24 17:15'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos: null
+    slides: null
+  -
+    title: 'Sharing Code between Web and Native Mobile Apps with Angular and NativeScript'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/angular/sharing-code-between-web-and-native-mobile-apps-with-angular-and-nativescript/'
+    talk_date: '2017-10-24 17:15'
+    speakers:
+      -
+        name: 'Sebastian Witalec'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Global Inventory Web App in Angular – Keeping 5700 People in sync'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/angular/global-inventory-web-app-in-angular-keeping-5700-people-in-sync/'
+    talk_date: '2017-10-24 17:15'
+    speakers:
+      -
+        name: 'Ralf Schwoebel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Using PHP outside the Web Context, why not scientific Applications?'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/using-php-outside-the-web-context-why-not-scientific-applications/'
+    talk_date: '2017-10-24 17:15'
+    speakers:
+      -
+        name: 'Andrés Correa Casablanca'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:uqZFkvS9JpA'
+    slides: null
+  -
+    title: 'Queues with RabbitMQ'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/architecture/queues-with-rabbitmq/'
+    talk_date: '2017-10-25 09:00'
+    speakers:
+      -
+        name: 'Lorna Mitchell'
+        twitter: lornajane
+        github: lornajane
+    videos:
+      - 'youtube:JnatrDD1E3E'
+    slides: null
+  -
+    title: 'Dip your Toes in the Sea of Security'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/dip-your-toes-in-the-sea-of-security/'
+    talk_date: '2017-10-25 09:00'
+    speakers:
+      -
+        name: 'James Titcumb'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Vue of Search Engine Optimization – How to make your Single-Page App rank well'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/angular/the-vue-of-search-engine-optimization-how-to-make-your-single-page-app-rank-well/'
+    talk_date: '2017-10-25 09:00'
+    speakers:
+      -
+        name: 'Dennis Schaaf  '
+        twitter: null
+        github: null
+      -
+        name: '  André Scharf debugger eval code:23:21'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Divide and Conquer – Microservices with Node.js'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/divide-and-conquer-microservices-with-node-js/'
+    talk_date: '2017-10-25 09:00'
+    speakers:
+      -
+        name: 'Sebastian Springer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'RxJS, a better async'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/rxjs-a-better-async/'
+    talk_date: '2017-10-25 09:00'
+    speakers:
+      -
+        name: 'Chris Noring'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How to escape Legacy Hell'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/architecture/how-to-escape-legacy-hell/'
+    talk_date: '2017-10-25 10:45'
+    speakers:
+      -
+        name: 'Arne Blankerts'
+        twitter: null
+        github: null
+      -
+        name: 'Sebastian Heuer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Go for PHP Developers'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/architecture/go-for-php-developers/'
+    talk_date: '2017-10-25 10:45'
+    speakers:
+      -
+        name: 'Terrence Ryan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:KWWo0vJaogI'
+    slides: null
+  -
+    title: 'Write solid JavaScript Code with TypeScript'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/write-solid-javascript-code-with-typescript/'
+    talk_date: '2017-10-25 10:45'
+    speakers:
+      -
+        name: 'Thomas Claudius Huber'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Writing React Components: The Functional Way'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/writing-react-components-the-functional-way/'
+    talk_date: '2017-10-25 10:45'
+    speakers:
+      -
+        name: 'David Kopal'
+        twitter: coding_lawyer
+        github: codinglawyer
+    videos: null
+    slides: null
+  -
+    title: 'The Art of State Machinery'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/architecture/the-art-of-state-machinery/'
+    talk_date: '2017-10-25 10:45'
+    speakers:
+      -
+        name: 'Bernhard Spielmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'When to abstract?'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/when-to-abstract/'
+    talk_date: '2017-10-25 12:00'
+    speakers:
+      -
+        name: ' Kore Nordmann'
+        twitter: null
+        github: null
+      -
+        name: ' Tobias Schlitt'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Self-hosted Continuous Integration for PHP Applications with GitLab'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/self-hosted-continuous-integration-for-php-applications-with-gitlab/'
+    talk_date: '2017-10-25 12:00'
+    speakers:
+      -
+        name: 'Sebastian Leitz'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:m35iG5v-rRw'
+    slides: null
+  -
+    title: 'Was man alles ohne JavaScript machen kann'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/web-development/was-man-alles-ohne-javascript-machen-kann/'
+    talk_date: '2017-10-25 12:00'
+    speakers:
+      -
+        name: 'Sven Wolfermann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Unleash the Power of Angular Reactive Forms'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/angular/unleash-the-power-of-angular-reactive-forms/'
+    talk_date: '2017-10-25 12:00'
+    speakers:
+      -
+        name: 'Nir Kaufman'
+        twitter: nirkaufman
+        github: nirkaufman
+    videos: null
+    slides: null
+  -
+    title: 'ECMAScript oder TypeScript, das ist hier die Frage'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/ecmascript-oder-typescript-das-ist-hier-die-frage/'
+    talk_date: '2017-10-25 12:00'
+    speakers:
+      -
+        name: 'Thorsten Maier'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Domain-specific Assertions'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/testing-and-test-driven-development/domain-specific-assertions/'
+    talk_date: '2017-10-25 14:15'
+    speakers:
+      -
+        name: 'Sebastian Bergmann  '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Bausteine erfolgreicher Retrospektiven in agilen Prozessen'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/bausteine-erfolgreicher-retrospektiven-in-agilen-prozessen/'
+    talk_date: '2017-10-25 14:15'
+    speakers:
+      -
+        name: 'Tobias Ranft'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Zero-Configuration Microservices with Node.js and Docker'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/zero-configuration-microservices-with-node-js-and-docker/'
+    talk_date: '2017-10-25 14:15'
+    speakers:
+      -
+        name: 'Armagan Amcalar'
+        twitter: dashersw
+        github: dashersw
+    videos: null
+    slides: null
+  -
+    title: 'Learning Machine Learning'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/learning-machine-learning/'
+    talk_date: '2017-10-25 14:15'
+    speakers:
+      -
+        name: 'Joel Lord'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'JavaScript Testing mit Jasmine'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/javascript-testing-mit-jasmine/'
+    talk_date: '2017-10-25 14:15'
+    speakers:
+      -
+        name: 'Dominik Ehrenberg  '
+        twitter: null
+        github: null
+      -
+        name: 'Jakob Westhoff'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Alexa Skills für Amazon Echo mit PHP entwickeln'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/alexa-skills-fur-amazon-echo-mit-php-entwickeln/'
+    talk_date: '2017-10-25 16:00'
+    speakers:
+      -
+        name: 'Ralf Eggert'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SrPfNaOJ4F0'
+    slides: null
+  -
+    title: 'Angular 5 vs. React'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/angular/angular-5-vs-react/'
+    talk_date: '2017-10-25 16:00'
+    speakers:
+      -
+        name: 'Dr. Marius Hofmeister  '
+        twitter: null
+        github: null
+      -
+        name: ' Stephan Rauh'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Inferno – React on Speed?'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/inferno-react-on-speed/'
+    talk_date: '2017-10-25 16:00'
+    speakers:
+      -
+        name: 'Dr. Florian Rappl'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Exploratory Data Analysis with JavaScript'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/exploratory-data-analysis-with-javascript/'
+    talk_date: '2017-10-25 16:00'
+    speakers:
+      -
+        name: 'Philipp Burckhardt'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'JavaScript frameworks vs. SEO: Challenges around JS crawling and indexing'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/javascript-frameworks-vs-seo-challenges-around-js-crawling-and-indexing/'
+    talk_date: '2017-10-25 16:00'
+    speakers:
+      -
+        name: 'Bartosz Góralewicz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Getting comfortable being uncomfortable – Lessons learned one Year after Coding Bootcamp'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/getting-comfortable-being-uncomfortable-lessons-learned-one-year-after-coding-bootcamp/'
+    talk_date: '2017-10-25 17:15'
+    speakers:
+      -
+        name: 'Aimee Knight'
+        twitter: Aimee_Knight
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Devs fight your Battle! A Pledge for cross-functional Teams'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/devs-fight-your-battle-a-pledge-for-cross-functional-teams/'
+    talk_date: '2017-10-26 09:00'
+    speakers:
+      -
+        name: 'Steffen Behn  '
+        twitter: null
+        github: null
+      -
+        name: ' Tina Dreimann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-jz2EhZimEA'
+    slides: null
+  -
+    title: 'webpack – the JavaScript Bundler'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/webpack-the-javascript-bundler/'
+    talk_date: '2017-10-26 09:00'
+    speakers:
+      -
+        name: 'Aaron Czichon'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Year with Event Sourcing and CQRS'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/year-with-event-sourcing-and-cqrs/'
+    talk_date: '2017-10-26 09:00'
+    speakers:
+      -
+        name: 'Miro Svrtan'
+        twitter: msvrtan
+        github: msvrtan
+    videos: null
+    slides: null
+  -
+    title: 'Rise of the Nodebots'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/rise-of-the-nodebots/'
+    talk_date: '2017-10-26 09:00'
+    speakers:
+      -
+        name: 'Joel Lord'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building Cross-Platform Apps with Apache Cordova and GitHub Electron'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/angular/building-cross-platform-apps-with-apache-cordova-and-github-electron/'
+    talk_date: '2017-10-26 09:00'
+    speakers:
+      -
+        name: 'Thorsten Hans'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Architecture Refactoring: Moving towards DDD'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/architecture-refactoring/'
+    talk_date: '2017-10-26 10:30'
+    speakers:
+      -
+        name: 'Michael Haeuslmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'BotMan – From Zero to Chatbot'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/botman-from-zero-to-chatbot/'
+    talk_date: '2017-10-26 10:30'
+    speakers:
+      -
+        name: 'Marcel Pociot'
+        twitter: marcelpociot
+        github: mpociot
+    videos:
+      - 'youtube:d8Ao5ZlEl8o'
+    slides: null
+  -
+    title: 'Unlock the Power of JavaScript Decorators'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/unlock-the-power-of-javascript-decorators/'
+    talk_date: '2017-10-26 10:30'
+    speakers:
+      -
+        name: 'Nir Kaufman'
+        twitter: nirkaufman
+        github: nirkaufman
+    videos: null
+    slides: null
+  -
+    title: 'Backups in the Time of Microservices'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/backups-in-the-time-of-microservices/'
+    talk_date: '2017-10-26 11:45'
+    speakers:
+      -
+        name: 'Sebastian Feldmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'I didn’t know the Browser could do that'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/web-development/i-didnt-know-the-browser-could-do-that/'
+    talk_date: '2017-10-26 11:45'
+    speakers:
+      -
+        name: 'Sam Bellen'
+        twitter: sambego
+        github: Sambego
+    videos: null
+    slides: null
+  -
+    title: 'LAMP in Containers'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/lamp-in-containers/'
+    talk_date: '2017-10-26 11:45'
+    speakers:
+      -
+        name: 'Terrence Ryan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A Glimmer of Hope – Creating modern Web Components with Glimmer'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/a-glimmer-of-hope-creating-modern-web-components-with-glimmer/'
+    talk_date: '2017-10-26 11:45'
+    speakers:
+      -
+        name: 'Jessica Jordan'
+        twitter: jjordan_dev
+        github: jessica-jordan
+    videos: null
+    slides: null
+  -
+    title: 'Best Practices for Writing JS Libraries'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/best-practices-for-writing-js-libraries/'
+    talk_date: '2017-10-26 11:45'
+    speakers:
+      -
+        name: 'Philipp Burckhardt'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How hard can it be?'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/architecture/how-hard-can-it-be/'
+    talk_date: '2017-10-26 13:45'
+    speakers:
+      -
+        name: 'Arne Blankerts'
+        twitter: null
+        github: null
+      -
+        name: ' Stefan Priebsch  '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mYUVb5uvoBA'
+    slides: null
+  -
+    title: 'Debugging, Logging and Profiling in Distributed Systems'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/debugging-logging-and-profiling-in-distributed-systems/'
+    talk_date: '2017-10-26 14:30'
+    speakers:
+      -
+        name: 'Benjamin Eberlei  '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:X1GCM84nXfI'
+    slides: null
+  -
+    title: 'You can save Web Typography'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/web-development/you-can-save-web-typography/'
+    talk_date: '2017-10-26 14:30'
+    speakers:
+      -
+        name: 'Oliver Schöndorfer'
+        twitter: glyphe
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Everything Web and why open matters'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/web-development/everything-web-and-why-open-matters/'
+    talk_date: '2017-10-26 14:30'
+    speakers:
+      -
+        name: 'Carsten Sandtner'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Mobile Web Second Edition: First-Class Citizen on your Device now'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/the-mobile-web-second-edition-first-class-citizen-on-your-device-now/'
+    talk_date: '2017-10-26 14:30'
+    speakers:
+      -
+        name: 'Maxim Salnikov'
+        twitter: webmaxru
+        github: webmaxru
+    videos: null
+    slides: null
+  -
+    title: 'GraphQL - the better interface for client-server-enterprise systems'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/server-deployment/graphql-die-bessere-schnittstelle-fur-betriebliche-client-server-systeme/'
+    talk_date: '2017-10-26 14:30'
+    speakers:
+      -
+        name: 'Linda Zeman'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Jenkins vs Circle vs Travis'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/jenkins-vs-circle-vs-travis/'
+    talk_date: '2017-10-26 16:00'
+    speakers:
+      -
+        name: 'Miro Svrtan'
+        twitter: msvrtan
+        github: msvrtan
+    videos: null
+    slides: null
+  -
+    title: 'Functional Reactive Programming with Cycle.js'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/functional-reactive-programming-with-cycle-js/'
+    talk_date: '2017-10-26 16:00'
+    speakers:
+      -
+        name: 'Luca Mezzalira'
+        twitter: lucamezzalira
+        github: Apress/front-end-reactive-architectures
+    videos: null
+    slides: null
+  -
+    title: 'How to automate your DevSecOps successfully'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/how-to-automate-your-devsecops-successfully/'
+    talk_date: '2017-10-26 16:00'
+    speakers:
+      -
+        name: 'Manuel Pistner'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

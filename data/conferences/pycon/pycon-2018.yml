@@ -1,0 +1,1404 @@
+name: 'PyCon 2018'
+description: 'The PyCon 2018 conference, which will take place in Cleveland, is the largest annual gathering for the community using and developing the open-source Python programming language.'
+location: ''
+venue: ''
+city: 'Cleveland, OH'
+country: 'United States'
+link: 'https://us.pycon.org/2018/'
+playlist: 'youtube.com:PLCq0ZVVxGP0Y-xlum2pnhqwsrIf61J6Ka'
+from_date: '2018-05-11'
+to_date: '2018-05-13'
+tags: ''
+talks:
+  -
+    title: 'Adapting from Spark to Dask: what to expect'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Irina Truong'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:X4YHGKj3V5M'
+    slides: null
+  -
+    title: 'All in the timing: How side channel attacks work'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Philip James'
+        twitter: null
+        github: null
+      -
+        name: 'Asheesh Laroia'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dT2xjgUInhQ'
+    slides: null
+  -
+    title: 'Analyzing Data: What pandas and SQL Taught Me About Taking an Average'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Alex Petralia'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DlgG0QdrqAU'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/alex-petralia-analyzing-data-what-pandas-and-sql-taught-me-about-taking-an-average'
+  -
+    title: 'Augmenting Human Decision Making with Data Science'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Kelsey Pedersen'
+        twitter: kelsey_pedersen
+        github: null
+    videos:
+      - 'youtube:hnSgIUA57hg'
+    slides: null
+  -
+    title: 'Behavior-Driven Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Andrew Knight'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EtIAbfCrsFI'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/andrew-knight-behavior-driven-python'
+  -
+    title: "Beyond scraping: how to use machine learning when you're not sure where to start"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Julie Lavoie'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BwC01zoSRBc'
+    slides: null
+  -
+    title: 'Beyond Unit Tests: Taking Your Testing to the Next Level'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Hillel Wayne'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MYucYon2-lk'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/hillel-wayne-beyond-unit-tests-taking-your-testing-to-the-next-level'
+  -
+    title: 'Birding with Python and Machine Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Kirk Kaiser'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:938yg4udxSc'
+    slides: null
+  -
+    title: 'Bowerbirds of Technology: Architecture and Teams at Less-than-Google Scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Sam Kitajima-Kimbrel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0Z45gcIwwrQ'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/sam-kitajima-kimbrel-bowerbirds-of-technology-architecture-and-teams-at-less-than-google-scale'
+  -
+    title: 'Building a Data Pipeline with Testing in Mind'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Jiaqi Liu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fRUCAt9WFpc'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/jiaqi-liu-building-a-data-pipeline-with-testing-in-mind'
+  -
+    title: 'Build Teams as an Engineer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Joyce Jang'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-9NpTeddWds'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/joyce-jang-build-teams-as-an-engineer'
+  -
+    title: 'Code like an accountant: Designing data systems for accuracy, resilience and auditability'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Sophie Rapoport'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:svcBO-OjYfM'
+    slides: null
+  -
+    title: 'Code Reviews Using Art Critique Principles'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Stacy Morse'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lpWvYxEW09k'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/stacy-morse-code-reviews-using-art-critique-principles'
+  -
+    title: 'Coding through Adversity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Chris Schuhmacher'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dGz-K8x8k5k'
+    slides: null
+  -
+    title: 'CuPy: A NumPy-compatible Library for GPU'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Shohei Hido'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MAz1xolSB68'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/shohei-hido-cupy-a-numpy-compatible-library-for-gpu'
+  -
+    title: 'Debugging PySpark -- Or trying to make sense of a JVM stack trace when you were minding your own bus'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Holden Karau'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:McgG09XriEI'
+    slides: null
+  -
+    title: 'Deconstructing the US Patent Database'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Van Lindberg'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lk6FGg5RzAk'
+    slides: null
+  -
+    title: 'Demystifying the Patch Function'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Lisa Roach'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ww1UsGZV8fQ'
+    slides: null
+  -
+    title: 'Elegant Solutions For Everyday Python Problems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Nina Zakharenko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WiQqqB9MlkA'
+    slides: null
+  -
+    title: 'Exploring Deep Learning Framework PyTorch'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Stephanie Kim'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LEkyvEZoDZg'
+    slides: null
+  -
+    title: 'Flourishing FLOSS: Making Your Project Successful'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Anna Ossowski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GmbaKdd6o6A'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/anna-ossowski-flourishing-floss-making-your-project-successful'
+  -
+    title: 'How we designed an inclusivity-first conference on a shoestring budget and short timeline'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Christopher Neugebauer'
+        twitter: null
+        github: null
+      -
+        name: 'Josh Simmons'
+        twitter: null
+        github: null
+      -
+        name: 'Sam Kitajima-Kimbrel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:C7ZhMnfUKIA'
+    slides: null
+  -
+    title: 'import time_travel: A Primer on Timezones in Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'David Gouldin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CiegLU8ijFU'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/david-gouldin-import-time-travel-a-primer-on-timezones-in-python'
+  -
+    title: 'Listen, Attend, and Walk : Interpreting natural language navigational instructions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Padmaja Bhagwat'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MJBWAkE7cEo'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/padmaja-bhagwat-listen-attend-and-walk-interpreting-natural-language-navigational-instructions'
+  -
+    title: 'Love your bugs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Allison Kaptur'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HuuYwUxM-ZY'
+    slides: null
+  -
+    title: 'Performance Python: Seven Strategies for Optimizing Your Numerical Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Jake VanderPlas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zQeYx87mfyw'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/jake-vanderplas-performance-python-seven-strategies-for-optimizing-your-numerical-code'
+  -
+    title: 'Python for the quantum computing age'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Ravi Chityala'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Randomness in Python: Controlled Chaos in an Ordered Machine'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Amanda Sopkin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EGF4G2feXx4'
+    slides: null
+  -
+    title: 'Reactive Programming with RxPy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Valery Calderon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:I5AZ3rTR4Wc'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/valery-calderon-reactive-programming-with-rxpy'
+  -
+    title: 'Software Library APIs: Lessons Learned from scikit-learn'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Liz Sander'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WCEXYvv-T5Q'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/liz-sander-software-library-apis-lessons-learned-from-scikit-learn'
+  -
+    title: 'Strategies to Edit Production Data'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Julie Qiu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:43NiFtbNg_s'
+    slides: null
+  -
+    title: 'Taking Django Async'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Andrew Godwin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-7taKQnndfo'
+    slides: null
+  -
+    title: 'The AST and Me'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Emily Morehouse-Valcarcel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XhWvz4dK4ng'
+    slides: null
+  -
+    title: 'Trust the data to speak for itself'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Opetunde Adepoju'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Thinking Outside the GIL with AsyncIO and Multiprocessing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'John Reese'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0kXaLh8Fz3k'
+    slides: null
+  -
+    title: 'Trio: Async concurrency for mere mortals'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Nathaniel J. Smith'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oLkfnc_UMcE'
+    slides: null
+  -
+    title: 'Using Python to build an AI to play and win SNES StreetFighter II'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Adam Fletcher'
+        twitter: null
+        github: null
+      -
+        name: 'Jonathan Mortensen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NyNUYYI-Pdg'
+    slides: null
+  -
+    title: 'Visual Testing with PyCharm and pytest'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Brian Okken'
+        twitter: null
+        github: null
+      -
+        name: 'Paul Everitt'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FjojZxDZscQ'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/brian-okken-paul-everitt-visual-testing-with-pycharm-and-pytest'
+  -
+    title: '"WHAT IS THIS MESS?" - Writing tests for pre-existing code bases'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Justin Crown'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LDdUuoI_lIg'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/justin-crown-what-is-this-mess-writing-tests-for-pre-existing-code-bases'
+  -
+    title: 'Win back lovely API: GraphQL in Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-11 00:00'
+    speakers:
+      -
+        name: 'Keith Yang'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A Bit about Bytes: Understanding Python Bytecode'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'James Bennett'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cSSpnq362Bk'
+    slides: null
+  -
+    title: 'Bayesian Non-parametric Models for Data Science using PyMC3'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Christopher Fonnesbeck'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-sIOMs4MSuA'
+    slides: null
+  -
+    title: 'Building a cross-platform native app with BeeWare'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Russell Keith-Magee'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qaPzlIJ57dk'
+    slides: null
+  -
+    title: 'By the Numbers: Python Community Trends in 2017/2018'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Dmitry Filippov'
+        twitter: null
+        github: null
+      -
+        name: 'Ewa Jodlowska'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xEE4X-9RROM'
+    slides: null
+  -
+    title: 'Colossal Cave Adventure in Python... in the browser!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Christopher Swenson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RojaWIoBfOo'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/christopher-swenson-colossal-cave-adventure-in-python-dot-dot-dot-in-the-browser'
+  -
+    title: 'Controlling apples with snakes: Automating mobile apps with Appium'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Nir Arad'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-ltFl1vbe6I'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/nir-arad-controlling-apples-with-snakes-automating-mobile-apps-with-appium'
+  -
+    title: 'Counter, Gauge, Upper 90 - Oh my!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Amit Saha'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:R4kMwckrUlg'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/amit-saha-counter-gauge-upper-90-oh-my'
+  -
+    title: 'Dataclasses: The code generator to end all code generators'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Raymond Hettinger'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:T-TwcmT6Rcw'
+    slides: null
+  -
+    title: 'Data Visualization in Mixed Reality with Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Anna Nicanorova'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:K94iCIy77pA'
+    slides: null
+  -
+    title: 'Democratizing Distributed Computing with Dask and JupyterHub'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Matthew Rocklin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Iq72dt1gO9c'
+    slides: null
+  -
+    title: "Don't Look Back in Anger: Wildman Whitehouse and the Great Failure of 1858"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Lilly Ryan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GuNoaAFnTPg'
+    slides: null
+  -
+    title: 'Easy 2D Game Creation With Arcade'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Paul Vincent Craven'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DAWHMHMPVHU'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/paul-vincent-craven-easy-2d-game-creation-with-arcade'
+  -
+    title: 'Fighting Gerrymandering with PyMC3'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Colin Carroll'
+        twitter: null
+        github: null
+      -
+        name: 'Karin C. Knudson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:G9I5ZnkWR0A'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/colin-carroll-karin-c-knudson-fighting-gerrymandering-with-pymc3'
+  -
+    title: 'Fighting the Good Fight: Python 3 in your organization'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Jason Fried'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:H4SS9yVWJYA'
+    slides: null
+  -
+    title: 'Get your resources faster, with importlib.resources'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Barry Warsaw'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZsGFU2qh73E'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/barry-warsaw-get-your-resources-faster-with-importlib-dot-resources'
+  -
+    title: 'Graph Databases: Talking about your Data Relationships with Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Nicolle Cysneiros'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:J8LvW-tyLRc'
+    slides: null
+  -
+    title: 'How Netflix does failovers in 7 minutes flat'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Amjith Ramanujam'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iQI56-up3Yk'
+    slides: null
+  -
+    title: 'HOWTO Write a Function'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Jack Diederich'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rrBJVMyD-Gs'
+    slides: null
+  -
+    title: 'How to Write Deployment-friendly Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Hynek Schlawack'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wuCpCkrfeMs'
+    slides: null
+  -
+    title: 'Inside the Cheeseshop: How Python Packaging Works'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Dustin Ingram'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AQsZsgJ30AE'
+    slides: null
+  -
+    title: 'One weird trick to becoming a better software developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Esther Nam'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IYWlfVqBQLc'
+    slides: null
+  -
+    title: 'Oops! I Committed My Password To GitHub!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Miguel Grinberg'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2uaTPmNvH0I'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/miguel-grinberg-oops-i-committed-my-password-to-github'
+  -
+    title: 'Pipenv: The Future of Python Dependency Management'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Kenneth Reitz'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GBQAKldqgZs'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/kenneth-reitz-pipenv-the-future-of-python-dependency-management'
+  -
+    title: 'Practical Sphinx'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Carol Willing'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0ROZRNZkPS8'
+    slides: null
+  -
+    title: 'Programming microbes using Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Janet Matsen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5lYWxjSitIg'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/janet-matsen-programming-microbes-using-python'
+  -
+    title: 'Python 2 to 3: How to Upgrade and What Features to Start Using'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Trey Hunner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:klaGx9Q_SOA'
+    slides: null
+  -
+    title: 'Python 3: ten years later'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Victor Stinner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Aj3KMefwOqI'
+    slides: null
+  -
+    title: 'Python across the USA: This is the Bus.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Justin Myles Holmes'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tRp84BlFF94'
+    slides: null
+  -
+    title: 'Python Data Sonification for Science and Discovery'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Erin Braswell'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3EXvR1shVFQ'
+    slides: null
+  -
+    title: 'Python, Locales and Writing Systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Rae Knowler'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EEV4G6rh-KQ'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/rae-knowler-python-locales-and-writing-systems'
+  -
+    title: 'Python Performance Investigation by Example'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Matt Davis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yrRqNzJTBjk'
+    slides: null
+  -
+    title: 'Reinventing the Parser Generator'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'David Beazley'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zJ9z6Ge-vXs'
+    slides: null
+  -
+    title: 'Secrets of a WSGI master.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Graham Dumpleton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CPz0s1CQsTE'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/graham-dumpleton-secrets-of-a-wsgi-master'
+  -
+    title: 'Solve Your Problem With Sloppy Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Larry Hastings'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Jd8ulMb6_ls'
+    slides: null
+  -
+    title: 'Surviving (and thriving!) when you are overloaded'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Scott Triglia'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dWuRDbH4Xlw'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/scott-triglia-surviving-and-thriving-when-you-are-overloaded'
+  -
+    title: 'The human nature of failure & resiliency'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'VM (Vicky) Brasseur'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:h-38HZqanJs'
+    slides: null
+  -
+    title: 'The Journey Over the Intermediate Gap'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Sara Packman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:49CIIu1XkIE'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/sara-packman-the-journey-over-the-intermediate-gap'
+  -
+    title: 'Visualizing Algorithms with Python and Programmable LEDs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Christopher Beacham / Lady Red'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wJpUlnfwjbk'
+    slides: null
+  -
+    title: 'What is a Python Core Developer?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Mariatta Wijaya'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hhj7eb6TrtI'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/mariatta-wijaya-what-is-a-python-core-developer'
+  -
+    title: "You're an expert. Here's how to teach like one."
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Shannon Turner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3m555yWTaNI'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/shannon-turner-youre-an-expert-heres-how-to-teach-like-one'
+  -
+    title: 'A practical guide to Singular Value Decomposition in Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-13 00:00'
+    speakers:
+      -
+        name: 'Daniel Pyrathon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:d7iIb_XVkZs'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/daniel-pyrathon-a-practical-guide-to-singular-value-decomposition-in-python'
+  -
+    title: 'Automating Code Quality'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-13 00:00'
+    speakers:
+      -
+        name: 'Kyle Knapp'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:G1lDk_WKXvY'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality'
+  -
+    title: 'Big-O: How Code Slows as Data Grows'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-13 00:00'
+    speakers:
+      -
+        name: 'Ned Batchelder'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:duvZ-2UK0fc'
+    slides: null
+  -
+    title: 'Clearer Code at Scale: Static Types at Zulip and Dropbox'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-13 00:00'
+    speakers:
+      -
+        name: 'Greg Price'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0c46YHS3RY8'
+    slides: null
+  -
+    title: 'Efficient shared memory data structures'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-13 00:00'
+    speakers:
+      -
+        name: 'Claudio Freire'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:52zM4GgmqDE'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/claudio-freire-efficient-shared-memory-data-structures'
+  -
+    title: 'Effortless Logging: A deep dive into the logging module'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-13 00:00'
+    speakers:
+      -
+        name: 'Mario Corchero'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Pbz1fo7KlGg'
+    slides: null
+  -
+    title: 'How We Do Identity Wrong'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-13 00:00'
+    speakers:
+      -
+        name: 'Amber Brown ("HawkOwl")'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:A5tPhUKljuY'
+    slides: null
+  -
+    title: 'Learning From Failure: Post Mortems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-13 00:00'
+    speakers:
+      -
+        name: 'Alex Gaynor'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:L9Y2ap6vIMg'
+    slides: null
+  -
+    title: 'Pumping up Python modules using Rust'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-13 00:00'
+    speakers:
+      -
+        name: 'Vigneshwer Dhinakaran'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UYpWVfTng4s'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/vigneshwer-dhinakaran-pumping-up-python-modules-using-rust'
+  -
+    title: 'Systemd: why you should care as a Python developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-13 00:00'
+    speakers:
+      -
+        name: 'Alvaro Leiva Geisse'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZUX9Fx8Rwzg'
+    slides: null
+  -
+    title: 'The Hare Wins the Race: Getting the most out of RabbitMQ in distributed applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-13 00:00'
+    speakers:
+      -
+        name: 'Steven Sklar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WXkhJ92-fsY'
+    slides: null
+  -
+    title: 'There and Back Again: Disable and re-enable garbage collector at Instagram'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-13 00:00'
+    speakers:
+      -
+        name: 'Zekun Li'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WVnACT48CkE'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/zekun-li-there-and-back-again-disable-and-re-enable-garbage-collector-at-instagram'
+  -
+    title: 'Type-checked Python in the real world'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-13 00:00'
+    speakers:
+      -
+        name: 'Carl Meyer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pMgmKJyWKn8'
+    slides:
+      - 'https://speakerdeck.com/pycon2018/carl-meyer-type-checked-python-in-the-real-world'
+  -
+    title: 'Types, Deeper Static Analysis, and you'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-13 00:00'
+    speakers:
+      -
+        name: 'Pieter Hooimeijer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hWV8t494N88'
+    slides: null
+  -
+    title: 'User focused API Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-13 00:00'
+    speakers:
+      -
+        name: 'Renato Oliveira'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:q42hCs2E4So'
+    slides: null

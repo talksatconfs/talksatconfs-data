@@ -1,0 +1,623 @@
+name: 'SunshinePHP 2019'
+description: "The SunshinePHP Developer Conference is hosted by the South Florida PHP community (SoFloPHP) in Miami, Florida from February 7th - 9th, 2019, and you're invited! We'll host some of the best speakers, awesome talk topics, latest technologies, and up to date news in PHP. And don't forget our Hack-a-thon and Uncon'ference, as well as a great hallway track!The conference has something for every level of PHP developer. We start on February 7th with a full day of 8 PHP related tutorials and workshops that are each 3 hours of in-depth information. Next we follow that with 2 days on February 8th and 9th containing 5 keynotes and 30 PHP talks over 3 tracks.So come warm up for awhile in February and meet other PHP developers to see what others are doing, and share your experience as well. Then relax or have some fun at the evening events with plenty of fun for everyone!"
+location: ''
+venue: ''
+city: Miami
+country: 'United States'
+link: 'http://2019.sunshinephp.com/'
+playlist: ''
+from_date: '2019-02-07'
+to_date: '2019-02-09'
+tags: ''
+talks:
+  -
+    title: 'The Recommendation Engine: A case study on an application of a recommender system'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 16:00'
+    speakers:
+      -
+        name: 'Terry Chay'
+        twitter: tychay
+        github: tychay
+    videos: null
+    slides: null
+  -
+    title: 'Promises and Queues: Using Unlikely Suspects to Handle Asynchronous Parallel Processing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 17:15'
+    speakers:
+      -
+        name: 'Jacob Mather'
+        twitter: thejmather
+        github: jmather
+    videos: null
+    slides: null
+  -
+    title: 'Welcome to the PHP community'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 13:30'
+    speakers:
+      -
+        name: 'Nara Kasbergen'
+        twitter: xiehan
+        github: xiehan
+    videos: null
+    slides: null
+  -
+    title: 'Xdebug will forever change the way you debug your PHP code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 10:15'
+    speakers:
+      -
+        name: 'Tim Bond'
+        twitter: null
+        github: cookieguru
+    videos: null
+    slides: null
+  -
+    title: 'Call Center App with Twilio'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 11:30'
+    speakers:
+      -
+        name: 'Jonathan Eastman'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Updating your PWA'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 10:15'
+    speakers:
+      -
+        name: 'Mike Price'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Docker Alphabet Soup'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 17:15'
+    speakers:
+      -
+        name: 'Dana Luther'
+        twitter: danaluther
+        github: DanaLuther
+    videos: null
+    slides: null
+  -
+    title: 'Year with event sourcing and CQRS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 17:15'
+    speakers:
+      -
+        name: 'Miro Svrtan'
+        twitter: msvrtan
+        github: msvrtan
+    videos: null
+    slides: null
+  -
+    title: 'Unlock The Mystery of PHPUnit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 11:30'
+    speakers:
+      -
+        name: 'Brian Johnson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP + nginx + Redis = Ludicrous Speed'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 17:15'
+    speakers:
+      -
+        name: 'Jason McCreary'
+        twitter: jasonmccreary
+        github: jasonmccreary
+    videos: null
+    slides: null
+  -
+    title: 'Working with Webhooks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 11:30'
+    speakers:
+      -
+        name: 'Lorna Mitchell'
+        twitter: lornajane
+        github: lornajane
+    videos: null
+    slides: null
+  -
+    title: 'PHP Internals for the Inquisitive Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 11:30'
+    speakers:
+      -
+        name: 'Jeremy Mikola'
+        twitter: jmikola
+        github: jmikola
+    videos: null
+    slides: null
+  -
+    title: 'Think Like a Trainer: Strategies for Improving Your Communication Skills'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 09:00'
+    speakers:
+      -
+        name: 'Olivia Liddell'
+        twitter: oliravi
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Performance optimisation: how do I go about it?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 10:15'
+    speakers:
+      -
+        name: 'Kat Zień'
+        twitter: kasiazien
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Securing Legacy Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 16:00'
+    speakers:
+      -
+        name: 'Chris Cornutt'
+        twitter: enygma
+        github: enygma
+    videos: null
+    slides: null
+  -
+    title: 'Dealing With Development Overload'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 13:30'
+    speakers:
+      -
+        name: 'David Bisset'
+        twitter: dimensionmedia
+        github: cookieguru
+    videos: null
+    slides: null
+  -
+    title: 'Pop Songs and Programming for Fun and Profit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 18:30'
+    speakers:
+      -
+        name: 'PJ Hagerty'
+        twitter: aspleenic
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Start testing your PHP code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 13:00'
+    speakers:
+      -
+        name: 'Jason McCreary'
+        twitter: jasonmccreary
+        github: jasonmccreary
+    videos: null
+    slides: null
+  -
+    title: 'Dependency Injection for Mere Humans'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 14:45'
+    speakers:
+      -
+        name: 'Ian Littman'
+        twitter: iansltx
+        github: iansltx
+    videos: null
+    slides: null
+  -
+    title: '10 Minute Meeting'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 11:30'
+    speakers:
+      -
+        name: 'Missy Miller'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Laravel for the PHPurist'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 16:00'
+    speakers:
+      -
+        name: 'James LaChance'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Applying SOLID and supercharging your testing suite'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 10:15'
+    speakers:
+      -
+        name: 'Korvin Szanto'
+        twitter: KorvinSzanto
+        github: KorvinSzanto
+    videos: null
+    slides: null
+  -
+    title: "What's New in PHP 7.3"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 17:15'
+    speakers:
+      -
+        name: 'Ian Littman'
+        twitter: iansltx
+        github: iansltx
+    videos: null
+    slides: null
+  -
+    title: 'How does PHP static analysis work'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 11:30'
+    speakers:
+      -
+        name: 'Damien Seguy'
+        twitter: faguo
+        github: dseguy
+    videos: null
+    slides: null
+  -
+    title: 'Creating a job/queue system from scratch, it’s not that hard'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 14:45'
+    speakers:
+      -
+        name: 'Doug Steinberg'
+        twitter: 1800AskDoug
+        github: doug7410
+    videos: null
+    slides: null
+  -
+    title: 'The Sodium crypto library of PHP 7.2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 10:15'
+    speakers:
+      -
+        name: 'Enrico Zimuel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Swoole 4: Introducing the New Coroutine Design Pattern in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 17:15'
+    speakers:
+      -
+        name: 'Demin Yin'
+        twitter: deminy
+        github: deminy
+    videos: null
+    slides: null
+  -
+    title: 'Device Independent API design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 14:45'
+    speakers:
+      -
+        name: 'Amrita Jain'
+        twitter: amritajain973
+        github: amritajain
+    videos: null
+    slides: null
+  -
+    title: 'You can speak at a conference'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 10:15'
+    speakers:
+      -
+        name: 'Beth Tucker Long'
+        twitter: e3betht
+        github: e3betht
+    videos: null
+    slides: null
+  -
+    title: 'Get started with Vue.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 14:45'
+    speakers:
+      -
+        name: 'Matt Trask'
+        twitter: matthewtrask
+        github: matthewtrask
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to Serverless PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 11:30'
+    speakers:
+      -
+        name: 'Rob Allen'
+        twitter: akrabat
+        github: akrabat
+    videos: null
+    slides: null
+  -
+    title: 'REST API Workshop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 13:00'
+    speakers:
+      -
+        name: 'Mike Stowe'
+        twitter: mikestowe
+        github: mikestowe
+    videos: null
+    slides: null
+  -
+    title: 'Immutability to Save an Ever-Changing World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 16:00'
+    speakers:
+      -
+        name: 'Andrew Cassell'
+        twitter: null
+        github: cassell
+    videos: null
+    slides: null
+  -
+    title: 'PHP Code review'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 09:00'
+    speakers:
+      -
+        name: 'Damien Seguy'
+        twitter: faguo
+        github: dseguy
+    videos: null
+    slides: null
+  -
+    title: 'Essentials of blockchain technology'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 17:15'
+    speakers:
+      -
+        name: 'Lisa Bock'
+        twitter: michelletyrone
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PWA for PHP Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 14:45'
+    speakers:
+      -
+        name: 'Ben Marks'
+        twitter: benmarks
+        github: benmarks
+    videos: null
+    slides: null
+  -
+    title: 'Driving Innovation with MySQL 8.0 and Docker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 11:30'
+    speakers:
+      -
+        name: 'Kathy Forte'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Confessions Of a Not-So-Accidental Leader'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 09:00'
+    speakers:
+      -
+        name: 'Chris Hartjes'
+        twitter: grmpyprogrammer
+        github: chartjes
+    videos: null
+    slides: null
+  -
+    title: 'Pentesting for Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 13:00'
+    speakers:
+      -
+        name: 'Chris Cornutt'
+        twitter: enygma
+        github: enygma
+    videos: null
+    slides: null
+  -
+    title: 'Practical Object-Oriented Design Principles'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 09:00'
+    speakers:
+      -
+        name: 'Brandon Savage'
+        twitter: brandonsavage
+        github: brandonsavage
+    videos: null
+    slides: null
+  -
+    title: '12 years in the life of elephpant'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 14:45'
+    speakers:
+      -
+        name: 'Damien Seguy'
+        twitter: faguo
+        github: dseguy
+    videos: null
+    slides: null
+  -
+    title: 'The MySQL Document Store'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 16:00'
+    speakers:
+      -
+        name: 'Dave Stokes'
+        twitter: iansltx
+        github: mysqlmentor
+    videos: null
+    slides: null
+  -
+    title: 'The Ten Commandments of Object-Oriented Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 10:15'
+    speakers:
+      -
+        name: 'Brandon Savage'
+        twitter: brandonsavage
+        github: brandonsavage
+    videos: null
+    slides: null
+  -
+    title: 'Call... Text... Video Me Maybe?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 14:45'
+    speakers:
+      -
+        name: 'Mike Stowe'
+        twitter: mikestowe
+        github: mikestowe
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to Event Sourcing + CQRS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 16:00'
+    speakers:
+      -
+        name: 'Miro Svrtan'
+        twitter: msvrtan
+        github: msvrtan
+    videos: null
+    slides: null
+  -
+    title: 'CI/CD for PHP on AWS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 16:00'
+    speakers:
+      -
+        name: 'Michael Moussa'
+        twitter: michaelmoussa
+        github: michaelmoussa
+    videos: null
+    slides: null
+  -
+    title: 'Performance Tuning Your Progressive Web App (PWA)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 10:15'
+    speakers:
+      -
+        name: 'Josh Holmes'
+        twitter: null
+        github: joshholmes
+    videos: null
+    slides: null

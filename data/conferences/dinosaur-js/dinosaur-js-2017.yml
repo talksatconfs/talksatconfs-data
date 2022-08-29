@@ -1,0 +1,166 @@
+name: 'Dinosaur JS 2017'
+description: ''
+location: 'Space Gallery, Denver, Colorado'
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2017-06-15'
+to_date: '2017-06-16'
+tags: ''
+talks:
+  -
+    title: 'Emoji, Web Components, and Art'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-15 00:00'
+    speakers:
+      -
+        name: 'Monica Dinulescu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:99wOljfm_zM'
+    slides: null
+  -
+    title: 'Solving Imaginary Scaling Issues, at Scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-15 00:00'
+    speakers:
+      -
+        name: 'Laurie Voss'
+        twitter: seldo
+        github: seldo
+    videos:
+      - 'youtube:FJByltoGnA8'
+    slides: null
+  -
+    title: 'Atomic Design as a Migration Strategy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-15 00:00'
+    speakers:
+      -
+        name: 'Harrison Harnisch'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xy1keUwELKs'
+    slides: null
+  -
+    title: 'Conversational ULS: Talking to Siri, Alexa, and Your Web Browser'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-15 00:00'
+    speakers:
+      -
+        name: 'Scott Davis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VsGDzrSh1Kk'
+    slides: null
+  -
+    title: 'The True Cost of Unmoderated Collaboration: A Story from the Trenches'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-15 00:00'
+    speakers:
+      -
+        name: 'Myles Borins'
+        twitter: 'Myles Borins'
+        github: MylesBorins
+    videos:
+      - 'youtube:cJOUxRf80CE'
+    slides: null
+  -
+    title: 'Making the Jump: How Desktop Era Frameworks can Thrive on Mobile'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-15 00:00'
+    speakers:
+      -
+        name: 'Tom Dale'
+        twitter: tomdale
+        github: tomdale
+    videos:
+      - 'youtube:SdoLotbWcWI'
+    slides: null
+  -
+    title: 'Get Your Head Outta the Cloud – Let’s Talk Tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-15 00:00'
+    speakers:
+      -
+        name: 'Jeremy Foster'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1LdlCb9I9GQ'
+    slides: null
+  -
+    title: 'JavaScript Engines: How Do They Even?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-15 00:00'
+    speakers:
+      -
+        name: 'Franziska Hinkelmann'
+        twitter: fhinkel
+        github: fhinkel
+    videos:
+      - 'youtube:eVbaWACfyu0'
+    slides: null
+  -
+    title: 'Albers as a Millenial'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-15 00:00'
+    speakers:
+      -
+        name: 'Billy Roh'
+        twitter: billyroh
+        github: billyroh
+    videos:
+      - 'youtube:D_mOKvXPywY'
+    slides: null
+  -
+    title: 'One Day We Will All Be Front End Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-15 00:00'
+    speakers:
+      -
+        name: 'Micah Adams'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lTldrB7YGv8'
+    slides: null
+  -
+    title: 'Perfecting Perf: Rapid, Rigorous and Reproducible Performance Experiments'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-15 00:00'
+    speakers:
+      -
+        name: 'Lon Ingram'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SWSRH60AqpY'
+    slides: null

@@ -1,0 +1,549 @@
+name: 'Laracon EU 2018'
+description: 'Laracon EU is a unique international Laravel event with over 750 attendees. The conference has multiple tracks and is focusing on in-depth technical talks. Come learn about the state of the industry while networking with like-minded and diversely experienced developers.'
+location: Amsterdam
+venue: ''
+city: Amsterdam
+country: Netherlands
+link: 'https://laracon.eu/2018/'
+playlist: 'youtube.com:PLMdXHJK-lGoC64wnqvm6v1R5dsuAV-MpS'
+from_date: '2018-08-30'
+to_date: '2018-08-31'
+tags: ''
+talks:
+  -
+    title: 'Laravel Design Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Bobby Bouwmann'
+        twitter: bobbybouwmann
+        github: bobbybouwmann
+    videos:
+      - 'youtube:qpo5KG0vIyE'
+    slides: null
+  -
+    title: 'DevOps and the Rebirth of Childhood Innocence'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 00:00'
+    speakers:
+      -
+        name: 'Robert Douglass'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cKus-f7AbC8'
+    slides: null
+  -
+    title: 'Presenting Skills for Programmers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Chris Brown'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nQmS3N60fcY'
+    slides: null
+  -
+    title: 'State of Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:yM7K7jd92Sw'
+    slides: null
+  -
+    title: '5 [fun] ways to fall in love [again] with code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 00:00'
+    speakers:
+      -
+        name: 'Christopher Pitt'
+        twitter: assertchris
+        github: assertchris
+      -
+        name: 'Erika Heidi'
+        twitter: erikaheidi
+        github: erikaheidi
+    videos:
+      - 'youtube:wc3LzAsbc4I'
+    slides: null
+  -
+    title: 'Things every developer absolutely, positively needs to know about database indexing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Kai Sassnowski'
+        twitter: warsh33p
+        github: ksassnowski
+    videos:
+      - 'youtube:HubezKbFL7E'
+    slides: null
+  -
+    title: 'SOLID Design Principles'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Katerina Trajchevska'
+        twitter: ktrajchevska
+        github: trajchevska
+    videos:
+      - 'youtube:rtmFCcjEgEw'
+    slides: null
+  -
+    title: 'Kickass Laravel Development with Docker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 00:00'
+    speakers:
+      -
+        name: 'David McKay'
+        twitter: rawkode
+        github: rawkode
+    videos:
+      - 'youtube:BvDXzyOP3NE'
+    slides: null
+  -
+    title: 'Paying your mortgage with SAAS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Simon Bennett'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'OMG MySQL 8.0 is out! Are we there yet?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Gabriela Ferrara'
+        twitter: gabidavila
+        github: gabidavila
+    videos:
+      - 'youtube:eVq4to81ulk'
+    slides: null
+  -
+    title: 'Zero to API with Lumen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 00:00'
+    speakers:
+      -
+        name: 'Amanda Folson'
+        twitter: AmbassadorAwsum
+        github: afolson
+    videos:
+      - 'youtube:FHXVs7swRuU'
+    slides: null
+  -
+    title: 'How Not to Break a Simple Idea'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Mark Starkey'
+        twitter: null
+        github: MStarkey
+    videos:
+      - 'youtube:24Dh2hg1--k'
+    slides: null
+  -
+    title: 'High Performance e-commerce with Aimeos'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Norbert Sendetzky'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Gamification
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: Saud
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Intro to laravel event projector'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Freek van der Herten'
+        twitter: freekmurze
+        github: freekmurze
+    videos: null
+    slides: null
+  -
+    title: 'Nintendo Emulation in javascript + Vuejs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Taylor Dondich'
+        twitter: tdondich
+        github: null
+    videos: null
+    slides: null
+  -
+    title: IntroDDDuction
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 00:00'
+    speakers:
+      -
+        name: 'Robert Basic'
+        twitter: robertbasic
+        github: robertbasic
+    videos:
+      - 'youtube:2Mj2DVWqnuQ'
+    slides: null
+  -
+    title: 'Content Security Policy 101'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Christoph Rumpel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Project showcase: Server monitor &amp; DMP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Roy Duineveld'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Fundamentally Flawed: Privacy, People and the Age of Data'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Rizqi Djamaluddin'
+        twitter: __rizqi
+        github: rizqidjamaluddin
+    videos:
+      - 'youtube:Ucz0UFaYuvs'
+    slides: null
+  -
+    title: 'How we abused PHP and Laravel to do Big Data.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Marten Westphal'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:P0LfWwU7ToA'
+    slides: null
+  -
+    title: 'Crypto for Everyone'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Marcus Bointon'
+        twitter: SynchroM
+        github: Synchro
+    videos:
+      - 'youtube:617ge8TcwoQ'
+    slides: null
+  -
+    title: 'Visual perception of code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Brent Roose'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Code as a service'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Jason Adriaan + Chris Pitt'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Logs: The insights you always wanted'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Leo Sjöberg'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Minimum Viable Linux'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Mattias Geniar'
+        twitter: mattiasgeniar
+        github: mattiasgeniar
+    videos:
+      - 'youtube:94GK6Ik-x98'
+    slides: null
+  -
+    title: 'Build bridges, not walls—Design for users across cultures'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 00:00'
+    speakers:
+      -
+        name: 'Jenny Shen'
+        twitter: jennyshen
+        github: shenjenny
+    videos:
+      - 'youtube:uPsMTpdfWTI'
+    slides: null
+  -
+    title: 'Customizing Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 00:00'
+    speakers:
+      -
+        name: 'Franz Liedke'
+        twitter: franzliedke
+        github: franzliedke
+    videos:
+      - 'youtube:UJZBdUIwTbM'
+    slides: null
+  -
+    title: 'Handling media in a Laravel application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 00:00'
+    speakers:
+      -
+        name: 'Freek van der Herten'
+        twitter: freekmurze
+        github: freekmurze
+    videos:
+      - 'youtube:Ho9OVdxpFRM'
+    slides: null
+  -
+    title: 'Simplified Continuous Integration with Laravel and Jenkins'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 00:00'
+    speakers:
+      -
+        name: 'Margaret Staples'
+        twitter: dead_lugosi
+        github: mstaples
+    videos:
+      - 'youtube:3IQrbUrb2E0'
+    slides: null
+  -
+    title: 'Advanced animations with Vue.js: taking your interface to the next level'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Krystal Campioni'
+        twitter: krystalcampioni
+        github: krystalcampioni
+    videos:
+      - 'youtube:3mt-gI3F3mM'
+    slides: null
+  -
+    title: 'Twelve-Factor Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 00:00'
+    speakers:
+      -
+        name: 'Alex Bilbie'
+        twitter: alexbilbie
+        github: alexbilbie
+    videos:
+      - 'youtube:L5zAH3jIboQ'
+    slides: null
+  -
+    title: 'Extending Laravel Nova'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Marcel Pociot'
+        twitter: marcelpociot
+        github: mpociot
+    videos:
+      - 'youtube:3c3SJlMfSp0'
+    slides: null
+  -
+    title: "Alexa, let's build a voice powered app"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 00:00'
+    speakers:
+      -
+        name: 'Marcel Pociot'
+        twitter: marcelpociot
+        github: mpociot
+    videos:
+      - 'youtube:U0ypZh0mFgc'
+    slides: null
+  -
+    title: 'Migrating a 15 Year Old Enterprise Application to Laravel: Lessons Learned and Opportunities Gained'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 00:00'
+    speakers:
+      -
+        name: 'Taylor Dondich'
+        twitter: tdondich
+        github: null
+    videos:
+      - 'youtube:QdSXj6Pm5K0'
+    slides: null
+  -
+    title: 'Everybody Poops'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Ross Tuck'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Docker: Multi-stage Multi-Environment'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Abdala Cerqueira'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How you could run a flat organisation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Diede Guipers'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Laravel in 2018'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 00:00'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:yM7K7jd92Sw'
+    slides: null

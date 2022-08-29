@@ -1,0 +1,152 @@
+name: 'Front End North 2018'
+description: 'A one day conference in Sheffield for front end developers.'
+location: ''
+venue: ''
+city: Sheffield
+country: 'United Kingdom'
+link: 'https://frontendnorth.com/'
+playlist: 'youtube:PLMhR4YF6N-ymMomuT6cqNBWnSLPG3Bd3J'
+from_date: '2018-01-19'
+to_date: '2018-01-19'
+tags: ''
+talks:
+  -
+    title: 'The Night of the Living Style Guides'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-19 00:00'
+    speakers:
+      -
+        name: 'Sarah Semark'
+        twitter: sarahsemark
+        github: null
+    videos:
+      - 'youtube:Z6bbIR2o-iI'
+    slides: null
+  -
+    title: 'OfflineFirst Apps with PouchDB and CouchDB'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-19 00:00'
+    speakers:
+      -
+        name: 'Lorna Mitchell'
+        twitter: lornajane
+        github: lornajane
+    videos:
+      - 'youtube:9dQFJh0jEWo'
+    slides: null
+  -
+    title: 'Designing form validation the right way'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-19 00:00'
+    speakers:
+      -
+        name: 'Damian Nicholson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LnqG8ttmhKY'
+    slides: null
+  -
+    title: 'Reacting to change'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-19 00:00'
+    speakers:
+      -
+        name: 'Ben Cooper'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:47zxMtg9oEw'
+    slides: null
+  -
+    title: 'Build Anything With React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-19 00:00'
+    speakers:
+      -
+        name: 'Jani Eväkallio'
+        twitter: jevakallio
+        github: jevakallio
+    videos:
+      - 'youtube:2ZfZYl70MEQ'
+    slides: null
+  -
+    title: 'Agile working in a slow-moving world'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-19 00:00'
+    speakers:
+      -
+        name: 'Chris Marsh'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LAqPpvBmta4'
+    slides: null
+  -
+    title: 'Owning Innovation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-19 00:00'
+    speakers:
+      -
+        name: 'Tejay White'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GQXPxaGTOco'
+    slides: null
+  -
+    title: 'Selling Front-End'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-19 00:00'
+    speakers:
+      -
+        name: 'Kimb Jones'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jeFzegYgERI'
+    slides: null
+  -
+    title: 'Automating Critical CSS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-19 00:00'
+    speakers:
+      -
+        name: 'Rich Higgins'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:uDVevWRZ2To'
+    slides: null
+  -
+    title: 'Marty McFly Has A Lot To Answer For'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-19 00:00'
+    speakers:
+      -
+        name: 'Craig Burgess'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:H0P0NMGvHrU'
+    slides: null

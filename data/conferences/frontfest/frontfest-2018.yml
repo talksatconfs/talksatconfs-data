@@ -1,0 +1,128 @@
+name: 'FrontFest 2018'
+description: 'Segunda edición del evento exclusivamente dedicado al mundo del front-end en Madrid'
+location: ''
+venue: ''
+city: Madrid
+country: Spain
+link: 'https://2018.frontfest.es/'
+playlist: 'youtube:PLV_VSxFnAJKL7EFErVLnJuRqqhb_7QSNT'
+from_date: '2018-02-17'
+to_date: '2018-02-17'
+tags: ''
+talks:
+  -
+    title: '3 soluciones a un mismo problema: ¿cómo implementan la reactividad React, Vue y Angular?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Javier Abadía'
+        twitter: javierabadia
+        github: null
+    videos:
+      - 'youtube:VyzlZl6LlqM'
+    slides: null
+  -
+    title: '¿Estamos creando la web de la forma correcta?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Iván Abascal'
+        twitter: abalozz
+        github: abalozz
+    videos:
+      - 'youtube:1CexYcSkFl0'
+    slides: null
+  -
+    title: 'Testing práctico con JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Ramón Guijarro'
+        twitter: ladybenko
+        github: belen-albeza
+    videos:
+      - 'youtube:DCPpDw_HfgI'
+    slides: null
+  -
+    title: 'Mejorando como desarrolladores'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Ramón Guijarro'
+        twitter: ladybenko
+        github: belen-albeza
+    videos:
+      - 'youtube:DCPpDw_HfgI'
+    slides: null
+  -
+    title: 'Dibujo artístico aplicado al maquetador web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Carlos Mañas'
+        twitter: oneeyedman
+        github: oneeyedman/
+    videos:
+      - 'youtube:p-XhLT8-nQc'
+    slides: null
+  -
+    title: 'El navegador no es un condesador de fluzo, y lo sabes... ¿o no?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Joan León'
+        twitter: nucliweb
+        github: nucliweb/
+      -
+        name: 'Jorge Barrachina'
+        twitter: NTKOG
+        github: null
+    videos:
+      - 'youtube:26rEU4G95tA'
+    slides: null
+  -
+    title: 'WebGL y shaders: programando luz'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'VICENTE LUCENDO'
+        twitter: vlucendo
+        github: null
+    videos:
+      - 'youtube:ddz3l5YyjSk'
+    slides: null
+  -
+    title: 'Cuida tus modales'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Eduardo Sada'
+        twitter: aeroalquimia
+        github: null
+    videos:
+      - 'youtube:6SenXnVGWD4'
+    slides: null

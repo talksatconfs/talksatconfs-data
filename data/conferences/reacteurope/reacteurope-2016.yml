@@ -1,0 +1,430 @@
+name: 'ReactEurope 2016'
+description: ''
+location: 'Paris, France'
+venue: ''
+city: ''
+country: ''
+link: 'https://web.archive.org/web/20150924160728/https://www.react-europe.org/'
+playlist: ''
+from_date: '2016-06-01'
+to_date: '2016-06-02'
+tags: ''
+talks:
+  -
+    title: 'Going from 0 to full-time software engineer in 6 months'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Preethi Kasireddy'
+        twitter: iam_preethi
+        github: peekay
+    videos:
+      - 'youtube:vNkZV7u6xBg'
+    slides: null
+  -
+    title: 'JavaScript, React Native and Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Tadeu Zagallo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1oL_OJ3UePU'
+    slides: null
+  -
+    title: 'React Native <3 60FPS -- Improving React Native animations>'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Krzysztof Magiera'
+        twitter: kzzzf
+        github: kmagiera
+    videos:
+      - 'youtube:qgSMjYWqBk4'
+    slides: null
+  -
+    title: 'React Redux Analytics'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Evan Schultz'
+        twitter: e_p82
+        github: e-schultz
+    videos:
+      - 'youtube:MBTgiMLujek'
+    slides: null
+  -
+    title: 'A cartoon guide to performance in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Lin Clark'
+        twitter: linclark
+        github: linclark
+    videos:
+      - 'youtube:-t8eOoRsJ7M'
+    slides: null
+  -
+    title: 'Evolving the Visual Programming Environment with React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Jonas Gebhardt'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WjJdaDXN5Vs'
+    slides: null
+  -
+    title: 'Solving a tooling problem for react-native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Mike Grabowski'
+        twitter: grabbou
+        github: grabbou
+    videos:
+      - 'youtube:v5PXuNSO204'
+    slides: null
+  -
+    title: 'Building native mobile apps with GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Martijn Walraven'
+        twitter: martijnwalraven
+        github: null
+    videos:
+      - 'youtube:z5rz3saDPJ8'
+    slides: null
+  -
+    title: 'The Evolution of React UI Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Nik Graf'
+        twitter: nikgraf
+        github: nikgraf
+      -
+        name: 'Max Stoiber'
+        twitter: mxstbr
+        github: mxstbr
+    videos:
+      - 'youtube:0IkWuXeKPV0'
+    slides: null
+  -
+    title: 'Subdivide: Cross-platform charting with React & React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Ken Wheeler'
+        twitter: ken_wheeler
+        github: kenwheeler
+    videos:
+      - 'youtube:gt0VtewBZ94'
+    slides: null
+  -
+    title: 'Redux and Web Workers on the Frontend'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Chi Kei Chan'
+        twitter: null
+        github: null
+      -
+        name: 'Daniel Tsui'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:45CcE55QcNM'
+    slides: null
+  -
+    title: 'The Redux Journey'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Dan Abramov'
+        twitter: dan_abramov
+        github: gaearon
+    videos:
+      - 'youtube:uvAXVMwHJXU'
+    slides: null
+  -
+    title: 'Leveraging React and Redux to Make Your App Write Tests For You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Conor Hastings'
+        twitter: stillconor
+        github: conorhastings
+    videos:
+      - 'youtube:It7jU4uKxSk'
+    slides: null
+  -
+    title: 'Building li.st for Android with Exponent and React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Brent Vatne'
+        twitter: notbrent
+        github: brentvatne
+    videos:
+      - 'youtube:cI9bDvDEsYE'
+    slides: null
+  -
+    title: 'A Deepdive Into Flow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Jeff Morrison'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VEaDsKyDxkY'
+    slides: null
+  -
+    title: 'CSS in JS without Compromise'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'François de Campredon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DGEFNBYJRps'
+    slides: null
+  -
+    title: 'Being Successful at Open Source'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Christopher Chedeau'
+        twitter: Vjeux
+        github: vjeux
+    videos:
+      - 'youtube:nRF0OVQL9Nw'
+    slides: null
+  -
+    title: 'Native Navigation for Every Platform'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Eric Vicenti'
+        twitter: EricVicenti
+        github: ericvicenti
+    videos:
+      - 'youtube:dOSwHABLvdM'
+    slides: null
+  -
+    title: 'Subdivide: Understanding Your Component Ecosystem'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Chris Pearce'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:blbTwHQdDGk'
+    slides: null
+  -
+    title: 'Debugging flux applications in production'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Mihail Diordiev'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cbXLohVbzNI'
+    slides: null
+  -
+    title: 'Tools shape our thinking.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Jonas Gebhardt'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WjJdaDXN5Vs'
+    slides: null
+  -
+    title: 'React Native Retrospective'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Bonnie Eisenman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-vl57brMWNg'
+    slides: null
+  -
+    title: 'Subdivide: User Defined UI by Phil Holden'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Phil Holden'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:M99djS07Ph8'
+    slides: null
+  -
+    title: 'Recomposing your React application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Andrew Clark'
+        twitter: acdlite
+        github: acdlite
+    videos:
+      - 'youtube:zD_judE-bXk'
+    slides: null
+  -
+    title: 'GraphQL at Facebook'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Dan Schafer'
+        twitter: dlschafer
+        github: dschafer
+    videos:
+      - 'youtube:etax3aEe2dA'
+    slides: null
+  -
+    title: 'On the Spectrum of Abstraction'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-31 00:00'
+    speakers:
+      -
+        name: 'Cheng Lou'
+        twitter: _chenglou
+        github: chenglou
+    videos:
+      - 'youtube:mVVNJKv9esE'
+    slides: null
+  -
+    title: 'Shallow Rendering All The Way Down'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Nicole Rauch'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EJDqzTKllFA'
+    slides: null
+  -
+    title: 'GraphQL Future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Lee Byron'
+        twitter: leeb
+        github: leebyron
+      -
+        name: 'Laney Kuenzel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ViXL0YQnioU'
+    slides: null
+  -
+    title: 'Falcor "One Model Everywhere"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 00:00'
+    speakers:
+      -
+        name: 'Jafar Husain'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nxQweyTUj5s'
+    slides: null

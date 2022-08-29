@@ -1,0 +1,446 @@
+name: '!!Con 2019'
+description: ''
+location: 'New York City'
+venue: ''
+city: ''
+country: ''
+link: 'http://bangbangcon.com/2019/'
+playlist: ''
+from_date: '2019-05-11'
+to_date: '2019-05-12'
+tags: ''
+talks:
+  -
+    title: 'Manual algorithmic art: You can draw an Indian floor pattern that covers an infinite area!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Veena Sankaranarayanan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:12-nDzzxu_o'
+    slides: null
+  -
+    title: 'Hiding my love inside a MIDI file!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'David Mauricio Delgado Ruiz'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6T60F6r7t0w'
+    slides: null
+  -
+    title: 'Compute geolocation from object shadows!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jayesh Kawli'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:aWrONCKBpAY'
+    slides: null
+  -
+    title: 'Tales from the Underground: Hilarious Cybercrime Fails!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Pranshu Bajpai'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GUsHCvJdXV4'
+    slides: null
+  -
+    title: 'Let’s build a live chat! 👍from the 1800s (?!) 🤔using modern web technology!!! 😮'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Kate Beard'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5oftjRccijA'
+    slides: null
+  -
+    title: 'Custom Sudoku Books with Ruby!! and LaTeX!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Geoffrey Lessel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Vpr4i0IlUhE'
+    slides: null
+  -
+    title: 'You Won’t Believe This One Weird CPU Instruction!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Vaibhav Sagar'
+        twitter: vbhvsgr
+        github: vaibhavsagar
+    videos:
+      - 'youtube:bLFqLfz2Fmc'
+    slides: null
+  -
+    title: 'Do Parsers Dream of Electric Guitars?!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Ju Liu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6CNbhuHtoLs'
+    slides: null
+  -
+    title: 'Learning to See in 4D'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Omar Shehata'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PdFU1Sb4NOs'
+    slides: null
+  -
+    title: 'Day two Keynote by Jenn Schiffer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jenn Schiffer'
+        twitter: jennschiffer
+        github: null
+    videos:
+      - 'youtube:kXdcPzmUKfs'
+    slides: null
+  -
+    title: 'Finding the joy and excitement in a surprisingly colonial tech world'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Nabil Hassein'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sUSTyLUF26s'
+    slides: null
+  -
+    title: 'Reverse engineering your mouth!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Evy Kassirer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hTwjirrCuDE'
+    slides: null
+  -
+    title: 'I Built an Artificial Pancreas!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Sarah Withee'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IgxhCTs4S3c'
+    slides: null
+  -
+    title: 'Poeta Ex Machina! How To Teach Computers To Chant Latin Poetry!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Lee Butterman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JowjjoLreC4'
+    slides: null
+  -
+    title: 'We Love Polyhedra! (And So Should You!)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Nat Alison'
+        twitter: tesseralis
+        github: tesseralis
+    videos:
+      - 'youtube:XjvyELtrPF4'
+    slides: null
+  -
+    title: 'Dance of the Ancestors: I used Neural Networks to Re-imagine African Mask Art !!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Victor Dibia'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lq5L0NxYwXU'
+    slides: null
+  -
+    title: 'Go For Phallic Object Generation!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Ellen Körbes'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:u18KOCcnRpI'
+    slides: null
+  -
+    title: 'Paper Synthesizer! Music created with Augmented Reality'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jes Wolfe!'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:idoCdPPyM3c'
+    slides: null
+  -
+    title: 'I made a game you play by riding your bike!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Em Lazer-Walker'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_1Z4p04dl8Y'
+    slides: null
+  -
+    title: 'Even more vintage: releasing music on a custom-built Game Boy cartridge!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Peter Sobot'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5PHLJ7zppfo'
+    slides: null
+  -
+    title: 'Let’s expand the meaning of “GAME FEEL”!! It ain’t just the crunchy boomy bits!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Ayla Myers'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qaCBpgVIw0Q'
+    slides: null
+  -
+    title: 'lo-fi hip hop beats to npm install to'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Melody Starling'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3ecuflEMNHo'
+    slides: null
+  -
+    title: 'Build your own virtual machine with /dev/kvm and Rust!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Josh Triplett'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:A_diEEpAfpM'
+    slides: null
+  -
+    title: 'Speling werds egspressively with rrkurrent nuril nedwirques!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Allison Parrish'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Bykvo3Ww_1k'
+    slides: null
+  -
+    title: 'Musician experiments: I fed a bot my songs and asked it to write more! Plus: A concert!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Dawn Xiana Moon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:k7uT7pGjDAQ'
+    slides: null
+  -
+    title: 'Yes yes ya’ll! Miles of !malloc() and free() styles!¡!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Uche Ogbuji'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:a6_Z-Qp3A6E'
+    slides: null
+  -
+    title: 'Writing an Interpreter in SQL for Fun and No Profit!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Michael Malis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MPSMH8w7nfw'
+    slides: null
+  -
+    title: 'I built a robot to cheat at Pokemon!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Sophie Deziel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:teLJqGMrWJs'
+    slides: null
+  -
+    title: 'Life isn’t logical! It’s hard to put NOR gates in bacteria!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Tessa Alexanian'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ePuTFNaSaYM'
+    slides: null
+  -
+    title: 'Tail Call Optimization: The Musical!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Anjana Vakil, Natalia Margolis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-PX0BV9hGZY'
+    slides: null
+  -
+    title: 'Anything is possible! Unlocking the Nightmarish Power of JavaScript via with and Proxy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Andrew Sillers'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bG9-iHehy8A'
+    slides: null

@@ -1,0 +1,288 @@
+name: 'PHP Srbija/PHP Serbia 2019'
+description: ''
+location: 'Madlenianum Opera & Theatre, Belgrade, Serbia'
+venue: ''
+city: ''
+country: ''
+link: 'https://2019.phpsrbija.rs/'
+playlist: ''
+from_date: '2019-05-25'
+to_date: '2019-05-26'
+tags: ''
+talks:
+  -
+    title: 'The Big "Why equal doesn''t equal" Quiz'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-26 04:05'
+    speakers:
+      -
+        name: 'Juliette Reinders Folmer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PM_sOkb3XUE'
+    slides: null
+  -
+    title: 'Symfony 4: A new way to develop applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-26 11:00'
+    speakers:
+      -
+        name: 'Antonio Peric-Mazar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:b80i6S4WqW4'
+    slides: null
+  -
+    title: 'SmokeTests - The what, why and how'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-26 06:00'
+    speakers:
+      -
+        name: 'Sebastian Thoss'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:q5xtVF8avas'
+    slides: null
+  -
+    title: 'Load Testing Your App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-25 11:00'
+    speakers:
+      -
+        name: 'Ian Littman'
+        twitter: iansltx
+        github: iansltx
+    videos:
+      - 'youtube:XpdFFYo_EV8'
+    slides: null
+  -
+    title: 'Getting started with WebSockets'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-25 05:00'
+    speakers:
+      -
+        name: 'Marcel Pociot'
+        twitter: marcelpociot
+        github: mpociot
+    videos:
+      - 'youtube:1kti42FXMz4'
+    slides: null
+  -
+    title: 'Be nice, help the person who hacks your servers to get your data'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-25 05:00'
+    speakers: {  }
+    videos:
+      - 'youtube:p-k49Jfzh1A'
+    slides: null
+  -
+    title: 'Testing Strategy with the Help of a Static Analyzer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-25 09:30'
+    speakers:
+      -
+        name: 'Ondřej Mirtes'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bjIpKirgC0M'
+    slides: null
+  -
+    title: 'Hello my name is "if"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-25 11:00'
+    speakers:
+      -
+        name: 'Sebastian Feldmann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4fhJIFfBafY'
+    slides: null
+  -
+    title: 'Making architecture explicit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-25 06:00'
+    speakers:
+      -
+        name: 'Herberto Graca'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_yoZN9Sb3PM'
+    slides: null
+  -
+    title: "Content Security Policies: Let's Break Stuff"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-25 09:30'
+    speakers:
+      -
+        name: 'Matt Brunt'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:w7sngj4z_Sk'
+    slides: null
+  -
+    title: 'Keynote Talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-25 04:15'
+    speakers:
+      -
+        name: 'Zeev Suraski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hnj1S8FZnLc'
+    slides: null
+  -
+    title: 'Getting started with Kubernetes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-26 06:00'
+    speakers:
+      -
+        name: 'Bastian Hofmann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JqU5BK7PSNY'
+    slides: null
+  -
+    title: '6 Things I Learned as a Lead Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-26 09:30'
+    speakers:
+      -
+        name: 'Gabor Nadai'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kmOZj53y2Fw'
+    slides: null
+  -
+    title: 'Yii, PHP and frameworks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-26 05:00'
+    speakers:
+      -
+        name: 'Alexander Makarov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:36knRvgj3mM'
+    slides: null
+  -
+    title: "You're not a {framework} developer!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-26 08:30'
+    speakers:
+      -
+        name: 'Thomas Dutrion'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:i6sOvhRYSFQ'
+    slides: null
+  -
+    title: 'PANEL: Road to seniority'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-25 13:00'
+    speakers:
+      -
+        name: 'Miro Svrtan'
+        twitter: msvrtan
+        github: msvrtan
+    videos:
+      - 'youtube:KdOHeRIwKX8'
+    slides: null
+  -
+    title: 'The First Contact'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-26 09:30'
+    speakers:
+      -
+        name: 'Andreas Heigl'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2zAtXOb6IQM'
+    slides: null
+  -
+    title: 'Browser APIs: the unknown Super Heroes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-26 08:30'
+    speakers:
+      -
+        name: 'Rowdy Rabouw'
+        twitter: RowdyRabouw
+        github: rowdyrabouw
+    videos:
+      - 'youtube:ppWiArAiRJA'
+    slides: null
+  -
+    title: 'Top 10 PHP coding traps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-26 05:00'
+    speakers:
+      -
+        name: 'Damien Seguy'
+        twitter: faguo
+        github: dseguy
+    videos:
+      - 'youtube:ibXtz3X6Rh0'
+    slides: null
+  -
+    title: 'Micro Frontends - A microservice approach to the modern web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-25 06:00'
+    speakers:
+      -
+        name: 'Ivan Jovanovic'
+        twitter: ivanjov96
+        github: ivanjov
+    videos:
+      - 'youtube:bwFLfun_AfQ'
+    slides: null

@@ -1,0 +1,294 @@
+name: 'EmberConf 2014'
+description: ''
+location: 'Portland OR, United States'
+venue: ''
+city: ''
+country: ''
+link: 'https://2014.emberconf.com/'
+playlist: ''
+from_date: '2014-03-25'
+to_date: '2014-03-26'
+tags: ''
+talks:
+  -
+    title: "The Unofficial, Official\r\nEmber Testing Guide"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-03-26 14:15'
+    speakers:
+      -
+        name: 'Eric Berry'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MGRJUJteWPA'
+    slides:
+      - 'https://speakerdeck.com/coderberry/the-unofficial-official-ember-testing-guide'
+  -
+    title: 'No more `grunt watch`: Modern build workflows with Broccoli'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-03-25 14:15'
+    speakers:
+      -
+        name: 'Jo Liss'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PEb4BiXH4bE'
+    slides:
+      - 'http://www.slideshare.net/jo_liss/broccoli-32911567'
+  -
+    title: 'Modeling the App Store and iTunes with Ember Data'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-03-25 16:45'
+    speakers:
+      -
+        name: 'Jeremy Mack'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:i1_aBX8web4'
+    slides:
+      - /images/slides/2014_jmack.pdf
+  -
+    title: "Ember Components\r\nTransclude My Directives"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-03-25 16:00'
+    speakers:
+      -
+        name: 'John Paul'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SdMos6XdvWA'
+    slides:
+      - 'https://johnkpaul.github.io/presentations/emberconf/components-transclude-directives/#/'
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-03-26 17:30'
+    speakers:
+      -
+        name: 'Dave Herman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lKaTa5VSgro'
+    slides:
+      - 'https://speakerdeck.com/dherman/evolution-is-awesome'
+  -
+    title: 'HTMLBars—The Next-Generation of Templating in Ember.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-03-25 17:30'
+    speakers:
+      -
+        name: 'Kris Selden'
+        twitter: null
+        github: null
+      -
+        name: 'Erik Bryn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HY4d-0Kzp68'
+    slides:
+      - 'http://talks.erikbryn.com/htmlbars-emberconf'
+  -
+    title: 'Ember Data and the Way Forward'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-03-25 13:30'
+    speakers:
+      -
+        name: 'Igor Terzic'
+        twitter: terzicigor
+        github: null
+    videos:
+      - 'youtube:D3mC14NfJwc'
+    slides:
+      - 'http://terzicigor.com/talks/index.html#/'
+  -
+    title: Convergent/Divergent
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-03-26 15:00'
+    speakers:
+      -
+        name: 'Christopher Meiklejohn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qyVNG7fnubQ'
+    slides:
+      - 'https://speakerdeck.com/cmeiklejohn/divergent'
+  -
+    title: 'Ember CLI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-03-26 10:45'
+    speakers:
+      -
+        name: 'Stef Penner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4D8z3972h64'
+    slides:
+      - 'http://static.iamstef.net/ember_conf_2014.pdf'
+  -
+    title: "Using Ember to Make the\r\nSeemingly Impossible Easy"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-03-25 10:45'
+    speakers:
+      -
+        name: 'André Malan'
+        twitter: null
+        github: null
+      -
+        name: 'Heyjin Kim'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QF17qAKEujM'
+    slides:
+      - 'https://speakerdeck.com/simplereach/using-ember-to-make-the-seemingly-impossible-easy'
+  -
+    title: "Animations and Transitions\r\nin an Ember App"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-03-25 15:00'
+    speakers:
+      -
+        name: 'Edward Faulkner'
+        twitter: eaf4
+        github: null
+    videos:
+      - 'youtube:yq1eS6KgK5A'
+    slides:
+      - 'https://ef4.github.io/ember-animation-demo/#/title-slide'
+  -
+    title: 'Ember is for the Children'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-03-26 11:30'
+    speakers:
+      -
+        name: 'DeVaris Brown'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NCjlhOYD_bY'
+    slides:
+      - 'https://speakerdeck.com/devarispbrown/ember-is-for-the-children'
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-03-25 10:00'
+    speakers:
+      -
+        name: 'Tom Dale'
+        twitter: tomdale
+        github: tomdale
+      -
+        name: 'Yehuda Katz'
+        twitter: wycats
+        github: null
+    videos:
+      - 'youtube:pON2erqemDY'
+    slides:
+      - 'https://speakerdeck.com/tomdale/emberconf-2014-keynote'
+  -
+    title: 'Ember Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-03-26 13:30'
+    speakers:
+      -
+        name: 'Alex Matchneer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SdMos6XdvWA'
+    slides:
+      - 'https://speakerdeck.com/machty/emberconf-2014-mr-router-embraces-the-controller-alex-matchneer'
+  -
+    title: "Controlling Route\r\nTraversal with Flows"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-03-26 16:00'
+    speakers:
+      -
+        name: 'Nathan Hammond'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iFBOYMxDl40'
+    slides:
+      - 'https://www.dropbox.com/s/02peoxevqwjz1bu/Controlling%20Route%20Traversal.pdf'
+  -
+    title: "Contributing to Ember:\r\nThe Inside Scoop"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-03-25 11:30'
+    speakers:
+      -
+        name: 'Robert Jackson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RNuHN_iuV9Q'
+    slides:
+      - 'https://speakerdeck.com/rwjblue/contributing-to-ember'
+  -
+    title: 'The {{x-foo}} in You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-03-26 10:00'
+    speakers:
+      -
+        name: 'Ryan Florence'
+        twitter: ryanflorence
+        github: ryanflorence
+    videos:
+      - 'youtube:nVTXJyyBxQc'
+    slides:
+      - 'https://github.com/rpflorence/talk-emberconf-2014'
+  -
+    title: 'Snappy Means Happy: Performance in Ember Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-03-26 16:45'
+    speakers:
+      -
+        name: 'Matthew Beale'
+        twitter: mixonic
+        github: null
+    videos:
+      - 'youtube:cp1Jk92ve2s'
+    slides:
+      - 'http://madhatted.com/2014/3/28/via-emberconf-performance-in-ember-apps'

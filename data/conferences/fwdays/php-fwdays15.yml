@@ -1,0 +1,155 @@
+name: "PHP fwdays'15"
+description: ''
+location: Киев
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2015-10-17'
+to_date: '2015-10-17'
+tags: ''
+talks:
+  -
+    title: "Phalcon\r\n                        2 - стабилизация и производительность"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-17 00:00'
+    speakers:
+      -
+        name: 'Сергей Яковлев'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "The PPI\r\n                        Framework Engine"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-17 00:00'
+    speakers:
+      -
+        name: 'Paul Dragoonis'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Yii\r\n                        and PHP i18n & L10n"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-17 00:00'
+    speakers:
+      -
+        name: 'Александр Макаров'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Docker\r\n                        для PHP разработчиков"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-17 00:00'
+    speakers:
+      -
+        name: 'Михаил Боднарчук'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Управление\r\n                        зависимостями в больших проектах"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-17 00:00'
+    speakers:
+      -
+        name: 'Николай Паламарчук'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Многозадачность в PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-17 00:00'
+    speakers:
+      -
+        name: 'Владислав Грязнов'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Upwork\r\n                        PHP Architecture"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-17 00:00'
+    speakers:
+      -
+        name: 'Sep Nasiri'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Symfony2 &\r\n                        REST API"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-17 00:00'
+    speakers:
+      -
+        name: 'Алексей Веркеенко'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Feature Flags.\r\n                        Уменьшаем риски при выпуске изменений"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-17 00:00'
+    speakers:
+      -
+        name: 'Александр Махомет'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Dockerize\r\n                        Me: Distributed PHP applications with Symfony, Docker, Consul and Ansible"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-17 00:00'
+    speakers:
+      -
+        name: 'Алексей Петров'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Behind\r\n                        the Scenes of Maintaining an Open Source Project"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-17 00:00'
+    speakers:
+      -
+        name: 'Jordi Boggiano'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

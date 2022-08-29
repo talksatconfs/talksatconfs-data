@@ -1,0 +1,194 @@
+name: 'HalfStack Vienna 2019'
+description: ''
+location: ''
+venue: ''
+city: Vienna
+country: Austria
+link: 'https://halfstackconf.com/vienna/2019/'
+playlist: ''
+from_date: '2019-09-19'
+to_date: '2019-09-19'
+tags: ''
+talks:
+  -
+    title: 'INTO THE WEB MULTIVERSE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-19 10:15'
+    speakers:
+      -
+        name: 'Christian Heilmann'
+        twitter: codepo8
+        github: codepo8
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/68'
+    slides: null
+  -
+    title: 'LIVE CODING: AUGMENTED REALITY GAME WITH WEBXR'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-19 10:50'
+    speakers:
+      -
+        name: 'Christian Grail'
+        twitter: cgrail
+        github: cgrail
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/72'
+    slides: null
+  -
+    title: 'THE MAGIC OF RXJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-19 11:25'
+    speakers:
+      -
+        name: 'Natalia Tepluhina'
+        twitter: n_tepluhina
+        github: NataliaTepluhina
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/71'
+    slides: null
+  -
+    title: 'BEYOND 100% CSS MARIO KART'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-19 11:55'
+    speakers:
+      -
+        name: 'Stephen Cook'
+        twitter: null
+        github: null
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/62'
+    slides: null
+  -
+    title: 'JUST GO FOR IT: THE STORY OF DANCE-MAT.JS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-19 13:05'
+    speakers:
+      -
+        name: 'Ramon Huidobro'
+        twitter: null
+        github: null
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/64'
+    slides: null
+  -
+    title: 'DESIGN SYSTEMS ARE MORE THAN A COLLECTION OF COMPONENTS AND COLORS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-19 13:35'
+    speakers:
+      -
+        name: 'Katrin Freihofner'
+        twitter: Ka_TriN_F
+        github: null
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/65'
+    slides: null
+  -
+    title: "JAMSTACKIN'"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-19 14:00'
+    speakers:
+      -
+        name: 'Stefan Baumgartner'
+        twitter: ddprrt
+        github: null
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/61'
+    slides: null
+  -
+    title: 'JAVASCRIPT ON MICROCONTROLLERS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-19 14:55'
+    speakers:
+      -
+        name: 'Niels Leenheer'
+        twitter: html5test
+        github: NielsLeenheer
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/63'
+    slides: null
+  -
+    title: 'LIFE LESSONS LEARNED BY RUNNING A SUCCESSFUL SIDE PROJECT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-19 15:30'
+    speakers:
+      -
+        name: 'Eva Lettner'
+        twitter: null
+        github: null
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/69'
+    slides: null
+  -
+    title: 'SELF-PORTRAITS IN JAVASCRIPT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-19 16:00'
+    speakers:
+      -
+        name: 'George Mandis'
+        twitter: georgeMandis
+        github: georgemandis
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/70'
+    slides: null
+  -
+    title: 'LETS RECURSE!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-19 16:45'
+    speakers:
+      -
+        name: 'Rob Bateman'
+        twitter: robnet
+        github: rob-bateman
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/59'
+    slides: null
+  -
+    title: 'YODA, WEB, SPOCK'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-19 17:20'
+    speakers:
+      -
+        name: 'Dylan Schiemann'
+        twitter: dylans
+        github: dylans
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/66'
+    slides: null
+  -
+    title: 'BEATS, RHYMES, AND UNIT TESTS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-09-19 17:45'
+    speakers:
+      -
+        name: 'Tony Edwards'
+        twitter: tonyedwardspz
+        github: null
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/60'
+    slides: null

@@ -1,0 +1,176 @@
+name: 'Goruco 2014'
+description: ''
+location: 'New York'
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2014-06-20'
+to_date: '2014-06-20'
+tags: ''
+talks:
+  -
+    title: 'The Future of Ruby Performance Tooling'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-06-21 00:00'
+    speakers:
+      -
+        name: 'Aaron Quint'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Real-Time Communication for Everyone!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-06-21 00:00'
+    speakers:
+      -
+        name: 'Lisa Larson-Kelley'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ALmKhif7yo0'
+    slides: null
+  -
+    title: 'Edge Caching Dynamic Rails Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-06-21 00:00'
+    speakers:
+      -
+        name: 'Michael May'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Teaching Kids to Code on Raspberry Pi'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-06-21 00:00'
+    speakers:
+      -
+        name: 'Audrey Troutt'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Secrets of a World Memory Champion'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-06-21 00:00'
+    speakers:
+      -
+        name: 'Chris Hunt'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:k44oJ961eFM'
+    slides: null
+  -
+    title: 'Designing a Better Programmer Community'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-06-21 00:00'
+    speakers:
+      -
+        name: 'Samantha John'
+        twitter: null
+        github: null
+      -
+        name: 'Jason Brennan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Growing a Tech Community'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-06-21 00:00'
+    speakers:
+      -
+        name: 'Luke Melia'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'What We Can Learn From COBOL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-06-21 00:00'
+    speakers:
+      -
+        name: 'Andrew Turley'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sB9_hVO9Cik'
+    slides: null
+  -
+    title: 'BI Tooling with Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-06-21 00:00'
+    speakers:
+      -
+        name: 'Solomon Kahn'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'An Approach to Developing and Testing Third Party JavaScript Widgets'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-06-21 00:00'
+    speakers:
+      -
+        name: 'Nathan Artz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Know Your Types - Bringing Static Types to Dynamic Languages'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-06-21 00:00'
+    speakers:
+      -
+        name: 'Michael Bernstein'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How to Debug Anything'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-06-21 00:00'
+    speakers:
+      -
+        name: 'James Golick'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VV7b7fs4VI8'
+    slides: null

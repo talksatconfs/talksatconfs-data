@@ -1,0 +1,474 @@
+name: 'React Conf 2017'
+description: "React Conf 2017 is the official Facebook React event. This year's event will be held in Santa Clara, California."
+location: 'Santa Clara, CA, United States'
+venue: ''
+city: 'Santa Clara, CA'
+country: 'United States'
+link: 'http://conf2017.reactjs.org/'
+playlist: 'youtube:PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0'
+from_date: '2017-03-13'
+to_date: '2017-03-14'
+tags: ''
+talks:
+  -
+    title: 'Keynote Part 1'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Tom Occhino'
+        twitter: tomocchino
+        github: tomocchino
+    videos:
+      - 'youtube:7HSd1sk07uU'
+    slides: null
+  -
+    title: 'Keynote Part 2: Incrementally Adopting React Native at Facebook and not just Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Jing Chen'
+        twitter: jingc
+        github: jingc
+    videos:
+      - 'youtube:cSUxHv-kH7w'
+    slides: null
+  -
+    title: 'Keynote Part 3: React Performance End to End (React Fiber)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Sebastian Markbage'
+        twitter: sebmarkbage
+        github: sebmarkbage
+    videos:
+      - 'youtube:bvFpe5j9-zQ'
+    slides: null
+  -
+    title: 'A Cartoon Intro to Fiber'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Lin Clark'
+        twitter: linclark
+        github: linclark
+    videos:
+      - 'youtube:ZCuYPiUIONs'
+    slides: null
+  -
+    title: 'Next.js "Universal React Made Easy and Simple"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Guillermo Rauch'
+        twitter: rauchg
+        github: rauchg
+    videos:
+      - 'youtube:evaMpdSiZKk'
+    slides: null
+  -
+    title: 'React + ES.next = ♥'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Ben Ilegbodu'
+        twitter: benmvp
+        github: benmvp
+    videos:
+      - 'youtube:jh_Qzi-yHU0'
+    slides: null
+  -
+    title: 'MobX vs Redux: Comparing the Opposing Paradigms'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Preethi Kasireddy'
+        twitter: iam_preethi
+        github: peekay
+    videos:
+      - 'youtube:76FRrbY18Bs'
+    slides: null
+  -
+    title: 'Type Systems Will Make You a Better JavaScript Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Jared Forsyth'
+        twitter: jaredforsyth
+        github: jaredly
+    videos:
+      - 'youtube:V1po0BT7kac'
+    slides: null
+  -
+    title: 'React Native in the "Brown Field"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Leland Richardson'
+        twitter: intelligibabble
+        github: lelandrichardson
+    videos:
+      - 'youtube:tWitQoPgs8w'
+    slides: null
+  -
+    title: 'Moving Beyond Animations to User Interactions at 60 FPS in React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Tal Kol'
+        twitter: koltal
+        github: talkol
+    videos:
+      - 'youtube:mjsv8NJnt5k'
+    slides: null
+  -
+    title: 'Moving Fast with Nuclide and Flow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Andres Suarez'
+        twitter: zertosh
+        github: zertosh
+    videos:
+      - 'youtube:WRyk5ZVklFs'
+    slides: null
+  -
+    title: 'AWS Lambda + AWS Gateway + React = AWEsome'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Sophia Shoemaker'
+        twitter: wisecobbler
+        github: mrscobbler
+    videos:
+      - 'youtube:GuItxBkpIAQ'
+    slides: null
+  -
+    title: 'React to Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Merrick Christensen'
+        twitter: iammerrick
+        github: iammerrick
+    videos:
+      - 'youtube:HqMMj-5PxW0'
+    slides: null
+  -
+    title: 'The Road to Styled Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Max Stoiber'
+        twitter: mxstbr
+        github: mxstbr
+    videos:
+      - 'youtube:jjN2yURa_uM'
+    slides: null
+  -
+    title: 'Building Applications for a Studio in the Cloud at Netflix'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Feather Knee'
+        twitter: featherart
+        github: null
+    videos:
+      - 'youtube:7VV1HvVjrlU'
+    slides: null
+  -
+    title: "You Don't Need a Fancy Framework to Use GraphQL with React"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Samer Buna'
+        twitter: samerbuna
+        github: samerbuna
+    videos:
+      - 'youtube:M4JqfZ-WaI0'
+    slides: null
+  -
+    title: 'Cross-Platform Data Visualization with React and React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Peggy Rayzis'
+        twitter: peggyrayzis
+        github: peggyrayzis
+    videos:
+      - 'youtube:lF-ztmPVWmo'
+    slides: null
+  -
+    title: 'Using React for Anything but Websites'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Ken Wheeler'
+        twitter: ken_wheeler
+        github: kenwheeler
+    videos:
+      - 'youtube:-VC7o6wZ_a8'
+    slides: null
+  -
+    title: 'React Everything, Render Everywhere'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Dustan Kasten'
+        twitter: iamdustan
+        github: iamdustan
+    videos:
+      - 'youtube:4M1xQzAbesY'
+    slides: null
+  -
+    title: 'Create React Native App "5 Minutes to, Hello, World!"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-13 00:00'
+    speakers:
+      -
+        name: 'Adam Perry'
+        twitter: adam_n_p
+        github: dikaiosune
+    videos:
+      - 'youtube:9baaVjGdBqs'
+    slides: null
+  -
+    title: 'Goodbye Flatland! An introduction to ReactVR and what it means for web developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-14 00:00'
+    speakers:
+      -
+        name: 'Michaela Lehr'
+        twitter: fischaelameer
+        github: Fischaela
+    videos:
+      - 'youtube:CtVo3z_o9Rw'
+    slides: null
+  -
+    title: 'Realtime React Apps with GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-14 00:00'
+    speakers:
+      -
+        name: 'Robert Zhu'
+        twitter: robzhu
+        github: robzhu
+    videos:
+      - 'youtube:AYbVMNtO-ro'
+    slides: null
+  -
+    title: 'Jest Snapshots and Beyond'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-14 00:00'
+    speakers:
+      -
+        name: 'Rogelio Guzman'
+        twitter: rogeliog
+        github: rogeliog
+    videos:
+      - 'youtube:HAuXJVI_bUs'
+    slides: null
+  -
+    title: "A Beginner's Guide to Code Splitting Your React App"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-14 00:00'
+    speakers:
+      -
+        name: 'Neehar Venugopal'
+        twitter: neeharv
+        github: neeharv
+    videos:
+      - 'youtube:bb6RCrDaxhw'
+    slides: null
+  -
+    title: 'Web-Like Development and Release Agility for React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-14 00:00'
+    speakers:
+      -
+        name: 'Parashuram N'
+        twitter: nparashuram
+        github: axemclion
+    videos:
+      - 'youtube:iMLpUVZseEg'
+    slides: null
+  -
+    title: 'React-Storybook"Design, Develop, Document and Debug your React UI components"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-14 00:00'
+    speakers:
+      -
+        name: 'Marie-Laure Thuret'
+        twitter: mlthuret
+        github: mthuret
+    videos:
+      - 'youtube:PF0Vi-iIyoo'
+    slides: null
+  -
+    title: 'Extensible React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-14 00:00'
+    speakers:
+      -
+        name: 'Cameron Westland'
+        twitter: camwest
+        github: camwest
+    videos:
+      - 'youtube:395ou6k6C6k'
+    slides: null
+  -
+    title: 'Building React Communities Outside of Your Circle'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-14 00:00'
+    speakers:
+      -
+        name: 'Troy Connor'
+        twitter: Troy0820
+        github: troy0820
+    videos:
+      - 'youtube:Y2xXUlkF-UM'
+    slides: null
+  -
+    title: 'A Prettier Printer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-14 00:00'
+    speakers:
+      -
+        name: 'James Long'
+        twitter: jlongster
+        github: jlongster
+    videos:
+      - 'youtube:hkfBvpEfWdA'
+    slides: null
+  -
+    title: 'How to React in the Slow Lane'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-14 00:00'
+    speakers:
+      -
+        name: 'Nicole Chung'
+        twitter: redconservatory
+        github: nicolechung
+    videos:
+      - 'youtube:pSr6sTRDdi4'
+    slides: null
+  -
+    title: 'The Great Convergence with React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-14 00:00'
+    speakers:
+      -
+        name: 'Aditya Punjani'
+        twitter: adityapunjani
+        github: adityapunjani
+    videos:
+      - 'youtube:vsvyg0T40NU'
+    slides: null
+  -
+    title: 'Learn Once, Route Anywhere'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-14 00:00'
+    speakers:
+      -
+        name: 'Michael Jackson'
+        twitter: mjackson
+        github: mjackson
+    videos:
+      - 'youtube:Mf0Fy8iHp8k'
+    slides: null
+  -
+    title: 'Taming the Meta-Language'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-14 00:00'
+    speakers:
+      -
+        name: 'Cheng Lou'
+        twitter: _chenglou
+        github: chenglou
+    videos:
+      - 'youtube:_0T5OSSzxms'
+    slides: null

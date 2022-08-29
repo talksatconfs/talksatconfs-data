@@ -1,0 +1,192 @@
+name: 'AlterConf London, England - 2017'
+description: ''
+location: 'London, England'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2017/london-england'
+playlist: ''
+from_date: '2017-04-01'
+to_date: '2017-04-01'
+tags: ''
+talks:
+  -
+    title: 'Non-verbal Accessibility'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-01 00:00'
+    speakers:
+      -
+        name: Ariane
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hSR99LWyixM'
+    slides: null
+  -
+    title: 'Not one of the guys - finding myself in an industry dominated by cis men'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-01 00:00'
+    speakers:
+      -
+        name: 'Franziska Trabold'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mruZMbSZ0e4'
+    slides: null
+  -
+    title: 'Let’s get personal! (about games)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-01 00:00'
+    speakers:
+      -
+        name: 'Vaida Plankyte'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_ZL6-UGrfQA'
+    slides: null
+  -
+    title: 'What will a diverse tech industry look like?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-01 00:00'
+    speakers:
+      -
+        name: 'Jo Liss'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Started from the Margins now we here: our unfortunate empathy advantage'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-01 00:00'
+    speakers:
+      -
+        name: "Qa'id Jacobs"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LTnGvStg6gI'
+    slides: null
+  -
+    title: 'There are no safe spaces'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-01 00:00'
+    speakers:
+      -
+        name: 'Egga Hartung'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EnFnLp8lqAc'
+    slides: null
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Kronda Adair'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Learning How To Cook : A Call For DIY Recommendation Algorithms'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-01 00:00'
+    speakers:
+      -
+        name: 'Anna-Livia Gomart Cardin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Kcp6mG7lMd4'
+    slides: null
+  -
+    title: 'Choose your own business adventure'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-01 00:00'
+    speakers:
+      -
+        name: 'Nat Buckley'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vVxvWxmTIKc'
+    slides: null
+  -
+    title: 'Fantastic Bots and Where To Find Them'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-01 00:00'
+    speakers:
+      -
+        name: 'Aanand Prasad'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HB5lVUkwitw'
+    slides: null
+  -
+    title: 'Open Open Source'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-01 00:00'
+    speakers:
+      -
+        name: 'Charlotte Spencer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:K64T-fPOw0M'
+    slides: null
+  -
+    title: 'Music of changes: an autobiographical talk about transition and immigration in the tech community'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-01 00:00'
+    speakers:
+      -
+        name: 'Lia Nemeth'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:a5_YjPyY5ek'
+    slides: null
+  -
+    title: 'Trapped By The Trappings'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-01 00:00'
+    speakers:
+      -
+        name: 'Chad Gowler'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VRmlSsPA-VY'
+    slides: null

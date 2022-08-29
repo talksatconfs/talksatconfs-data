@@ -1,0 +1,128 @@
+name: 'FrontFest 2019'
+description: 'La conferencia para toda la comunidad frontend'
+location: ''
+venue: ''
+city: Madrid
+country: Spain
+link: 'https://2019.frontfest.es/'
+playlist: 'youtube.com:PLV_VSxFnAJKJUPVhb2XQCGkSVOeUh1k08'
+from_date: '2019-02-09'
+to_date: '2019-02-09'
+tags: ''
+talks:
+  -
+    title: 'Duendecillos en tu navegador: service workers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'PAQUI CALABRIA'
+        twitter: zurribulle
+        github: fcalabria
+      -
+        name: 'ISMAEL NAVARRO'
+        twitter: ismanapa
+        github: ismanapa
+    videos:
+      - 'youtube:e-yaGG53yWg'
+    slides: null
+  -
+    title: 'Road to Web Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'CRISTINA PONCE'
+        twitter: CristinaGrim
+        github: crisgrim
+    videos:
+      - 'youtube:y9RX6UjNQE4'
+    slides: null
+  -
+    title: '¿Cómo funciona un router SPA? Caso práctico con Vue Router'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'EDUARDO SAN MARTÍN'
+        twitter: posva
+        github: posva
+    videos:
+      - 'youtube:MXUeo-dUClo'
+    slides: null
+  -
+    title: 'La igualdad en los espacios laborales: retos y beneficios'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'JOSÉ ANTONIO VELA'
+        twitter: ecosdegenero
+        github: null
+    videos:
+      - 'youtube:640YazUAORU'
+    slides: null
+  -
+    title: 'Cómo te la "colamos" los diseñadores todos los días'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'JAMES HEDA WENG'
+        twitter: JamesHedaWeng
+        github: null
+    videos:
+      - 'youtube:srS8imBcAmc'
+    slides: null
+  -
+    title: 'Cómo programar un motor de animaciones cuidando el rendimiento'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'VICENTE LUCENDO'
+        twitter: vlucendo
+        github: null
+    videos:
+      - 'youtube:jkKs10HZQLA'
+    slides: null
+  -
+    title: 'Las reglas han cambiado, Custom Properties!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'JESÚS OLAZAGOITIA'
+        twitter: goiblas
+        github: goiblas
+    videos:
+      - 'youtube:NroY5YLLcVY'
+    slides: null
+  -
+    title: 'Testing sin dogmas'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-09 00:00'
+    speakers:
+      -
+        name: 'SERGIO ARBEO'
+        twitter: serabe
+        github: serabe
+    videos:
+      - 'youtube:WH3lva8J0IA'
+    slides: null

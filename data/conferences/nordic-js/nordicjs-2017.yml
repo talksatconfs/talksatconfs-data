@@ -1,0 +1,386 @@
+name: 'Nordic.js 2017'
+description: ''
+location: 'Nobelberget, Sweden'
+venue: ''
+city: ''
+country: ''
+link: 'http://web.archive.org/web/20171111050458/http://nordicjs.com:80/schedule'
+playlist: ''
+from_date: '2017-09-07'
+to_date: '2017-09-08'
+tags: ''
+talks:
+  -
+    title: 'Lightning talk: From citizen initiative to governmental agency process and back again'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-07 12:15'
+    speakers:
+      -
+        name: "Johan Öbrink -\_@johanobrink"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Fgq9_tXnkew'
+    slides: null
+  -
+    title: 'A Brief History of Prototypes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-07 14:00'
+    speakers:
+      -
+        name: 'Katerina Marchán'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ldMWuYcTaOI'
+    slides: null
+  -
+    title: 'Keynote: Building Inclusive Communities'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-08 16:40'
+    speakers:
+      -
+        name: 'Karolina Szczur'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Lightning talk: Use any Npm module as a distributed scalable microservice, as easy as NodeJS'' "require"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-08 15:25'
+    speakers:
+      -
+        name: 'Joakim Carlstein'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nfgNIysJTdI'
+    slides: null
+  -
+    title: 'Reactive Web Animations with RxJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-08 14:50'
+    speakers:
+      -
+        name: 'David Khourshid'
+        twitter: davidkpiano
+        github: davidkpiano
+    videos:
+      - 'youtube:lqzFSAY6Wog'
+    slides: null
+  -
+    title: 'Who Cares Why Undefined Is Not a Function'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-08 10:20'
+    speakers:
+      -
+        name: 'Tereza Sokol'
+        twitter: mishunov
+        github: null
+    videos:
+      - 'youtube:_oCzRuviBnM'
+    slides: null
+  -
+    title: 'Keynote: The State Of JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-07 09:40'
+    speakers:
+      -
+        name: 'Sacha Greif'
+        twitter: sachagreif
+        github: SachaG
+    videos:
+      - 'youtube:FZw1j_tTSag'
+    slides: null
+  -
+    title: 'Fun With Serverless Javascript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-08 11:05'
+    speakers:
+      -
+        name: 'Lorna Mitchell'
+        twitter: lornajane
+        github: lornajane
+    videos:
+      - 'youtube:JIeD5XV9Iqg'
+    slides: null
+  -
+    title: 'Lightning talk: BikeShed - JavaScript in and on tvOS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-08 15:20'
+    speakers:
+      -
+        name: 'Joel Arvidsson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NPuTEix-UUo'
+    slides: null
+  -
+    title: 'Keynote: The future of the web and the curious case of the unintended silo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-08 09:30'
+    speakers:
+      -
+        name: 'Paul Kinlan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Solving layout problems with CSS Grid and friends'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-07 16:40'
+    speakers:
+      -
+        name: 'Rachel Andrew'
+        twitter: rachelandrew
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Best Practices for reusable UI components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-07 15:00'
+    speakers:
+      -
+        name: 'Mars Jullian'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rMFI1HtuFv4'
+    slides: null
+  -
+    title: 'Best Practices for GraphQL and GraphQL Subscriptions at Sca'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-07 11:25'
+    speakers:
+      -
+        name: 'Laney Kuenzel Zamore & Adam Kramer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XfHOrfTyJJw'
+    slides: null
+  -
+    title: 'Down the Rabbit Hole: JS in Wonderland'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-08 11:35'
+    speakers:
+      -
+        name: 'Claudia Hernández'
+        twitter: koste4
+        github: claudiahdz
+    videos:
+      - 'youtube:Hr_K-3nBgmw'
+    slides: null
+  -
+    title: P2P
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-08 13:20'
+    speakers:
+      -
+        name: 'Feross Aboukhadijeh'
+        twitter: feross
+        github: feross
+    videos:
+      - 'youtube:8N_4Furztjo'
+    slides: null
+  -
+    title: 'Lightning talk: Renderless React Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-08 11:50'
+    speakers:
+      -
+        name: 'Findlay Hannam'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oG40DHySXm4'
+    slides: null
+  -
+    title: "You're only supposed to blow the bloody doors off!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-07 13:30'
+    speakers:
+      -
+        name: 'Léonie Watson'
+        twitter: LeonieWatson
+        github: null
+    videos:
+      - 'youtube:1DUBBWiY-o8'
+    slides: null
+  -
+    title: 'Lightning talk: Machine Learning Intuitions for DeepLearn.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-08 11:55'
+    speakers:
+      -
+        name: 'Amir Hossein Rahnama'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5bwlH0j5rQk'
+    slides: null
+  -
+    title: 'The Design and Evolution of Event-Driven Databases'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-07 15:30'
+    speakers:
+      -
+        name: 'Mark Nadal'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5fCPRY-9hkc'
+    slides: null
+  -
+    title: 'Lightning talk: Service Workers, use them'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-07 12:10'
+    speakers:
+      -
+        name: 'Pontus Lundin - @pontahontas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:o9JFhghXirc'
+    slides: null
+  -
+    title: 'Lightning talk: Payment Request API in a React high order componen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-07 16:05'
+    speakers:
+      -
+        name: 'Marco Lanaro'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OaQHPBeUZ8E'
+    slides: null
+  -
+    title: 'Keynote: The hilarious misadventures of being a platform downstream from your languag'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-07 17:10'
+    speakers:
+      -
+        name: 'Myles Borins'
+        twitter: 'Myles Borins'
+        github: MylesBorins
+    videos:
+      - 'youtube:kkHdhtzM0wk'
+    slides: null
+  -
+    title: '5 architectures of asynchronous JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-07 10:10'
+    speakers:
+      -
+        name: 'Tomasz Ducin'
+        twitter: tomasz_ducin
+        github: ducin
+    videos:
+      - 'youtube:YXo4YOLDK1k'
+    slides: null
+  -
+    title: 'Sociolinguistics and the Javascript community: a love story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-07 11:55'
+    speakers:
+      -
+        name: 'Harriet Lawrence'
+        twitter: harrietgl
+        github: harrietgrace
+    videos:
+      - 'youtube:ZrlIvclUBM0'
+    slides: null
+  -
+    title: 'Lightning talk: Writing cross-platform editor plugins'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-07 16:00'
+    speakers:
+      -
+        name: 'Henric Trotzig'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:eCkW85rMKlk'
+    slides: null
+  -
+    title: 'Beyond the bubble'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-08 13:50'
+    speakers:
+      -
+        name: 'Ben Schwarz'
+        twitter: benschwarz
+        github: benschwarz
+    videos:
+      - 'youtube:p5ctfOdAAM8'
+    slides: null
+  -
+    title: TBA.js
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-08 16:10'
+    speakers:
+      -
+        name: 'Guillermo Rauch'
+        twitter: rauchg
+        github: rauchg
+    videos: null
+    slides: null

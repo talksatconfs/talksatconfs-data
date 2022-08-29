@@ -1,0 +1,176 @@
+name: 'dotCSS 2018'
+description: 'Come see the best developers worldwide speak on the most beautiful stages Paris has to offer.'
+location: ''
+venue: ''
+city: Paris
+country: France
+link: 'https://www.dotcss.io/'
+playlist: 'youtube.com:PLMW8Xq7bXrG702XVNfv_zqfFdt-498iV_'
+from_date: '2018-11-08'
+to_date: '2018-11-08'
+tags: ''
+talks:
+  -
+    title: 'Breaking the norm with creative CSS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Aga Naplocha'
+        twitter: aganaplocha
+        github: aganaplocha
+    videos:
+      - 'youtube:UdvnuPs6_dk'
+    slides:
+      - 'https://www.slideshare.net/aganaplocha/breaking-the-norm-with-creative-css-124703506'
+  -
+    title: 'Make your website accessible for everyone'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Hugues Tennier'
+        twitter: huguestennier
+        github: null
+    videos:
+      - 'youtube:mRc5Dz6ymxs'
+    slides:
+      - 'https://noti.st/huguestennier/09Ww5r/make-your-website-accessible-for-everyone'
+  -
+    title: 'What CSS taught me'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Dan Cederholm'
+        twitter: simplebits
+        github: simplebits
+    videos:
+      - 'youtube:kBtDHWrRZ3Q'
+    slides: null
+  -
+    title: 'Variable Fonts and the Future of Web Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Mandy Michael'
+        twitter: mandy_kerr
+        github: mandymichael
+    videos:
+      - 'youtube:luAqYCd_TC8'
+    slides:
+      - 'https://drive.google.com/file/d/1o8v8IBKYSzNEymfgE1SzCSymudoPS4Uu/view'
+  -
+    title: "Don't write HTML the way George Lucas wrote Star Wars"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Fabien Zibi'
+        twitter: _faz
+        github: null
+    videos:
+      - 'youtube:f9DV0CRopJk'
+    slides:
+      - 'https://github.com/dahfazz/dotcss-2018-lightning/'
+  -
+    title: 'i18n: A Brief Primer of Web Internationalization'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Elika J. Etemad'
+        twitter: fantasai
+        github: fantasai
+    videos:
+      - 'youtube:3c9Ard9Ffxc'
+    slides:
+      - 'http://fantasai.inkedblade.net/style/talks/i18n-primer/'
+  -
+    title: 'CSS at the Intersection'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Natalya Shelburne'
+        twitter: natalyathree
+        github: tallys
+    videos:
+      - 'youtube:MJVRKmA83LU'
+    slides:
+      - 'https://docs.google.com/presentation/embed?id=1Cj67a-wU1xDIUiBSx9T5ojzMGXTskA8mvx1DslYBCjg&start=false&loop=false&'
+  -
+    title: 'Not your usual CSS counters'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Roman Komarov'
+        twitter: kizmarh
+        github: null
+    videos:
+      - 'youtube:9OH45755NKs'
+    slides:
+      - 'https://www.kizu.ru/counters/'
+  -
+    title: 'Line breaking'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Florian Rivoal'
+        twitter: frivoal
+        github: frivoal
+    videos:
+      - 'youtube:r5PLrAoyhv0'
+    slides:
+      - 'https://florian.rivoal.net/talks/line-breaking/'
+  -
+    title: 'Read color hex codes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'David DeSandro'
+        twitter: desandro
+        github: desandro
+    videos:
+      - 'youtube:eqZqx6lRPe0'
+    slides:
+      - 'https://speakerdeck.com/desandro/read-color-hex-codes'
+  -
+    title: 'SVG Filters: A Mini Crash Course'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Sara Soueidan'
+        twitter: SaraSoueidan
+        github: SaraSoueidan
+    videos:
+      - 'youtube:PHKLzpt-syI'
+    slides:
+      - 'https://sarasoueidan.com/slides/SVG-Filters-Crash-Course.pdf'

@@ -1,0 +1,286 @@
+name: 'React.js Conf 2015'
+description: 'This year’s conference features a mix of panels and talks set against the backdrop of beautiful Lake Las Vegas. In addition to a can’t-miss schedule, we’re organizing off-hour activities providing opportunities for relaxation, adventure, and getting to other React enthusiasts.'
+location: 'Facebook HQ, CA'
+venue: ''
+city: 'Menlo Park, CA'
+country: 'United States'
+link: 'https://conf2015.reactjs.org/schedule.html'
+playlist: 'youtube:PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr'
+from_date: '2015-01-28'
+to_date: '2015-01-29'
+tags: ''
+talks:
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-28 00:00'
+    speakers:
+      -
+        name: 'Tom Occhino'
+        twitter: tomocchino
+        github: tomocchino
+      -
+        name: 'Christopher Chedeau'
+        twitter: Vjeux
+        github: vjeux
+    videos:
+      - 'youtube:KVZ-P-ZI6W4'
+    slides: null
+  -
+    title: 'Tweak your page in real time, without leaving the comfort of your editor'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-28 00:00'
+    speakers:
+      -
+        name: 'Brenton Simpson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yaymfLj5tjA'
+    slides: null
+  -
+    title: 'Unlocking the structure of your React applications with the AST'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-28 00:00'
+    speakers:
+      -
+        name: 'Gurdas Nijor'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OZGgVxFxSIs'
+    slides: null
+  -
+    title: 'Data fetching for React applications at Facebook'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-28 00:00'
+    speakers:
+      -
+        name: 'Daniel Schafer'
+        twitter: null
+        github: null
+      -
+        name: 'Jing Chen'
+        twitter: jingc
+        github: jingc
+    videos:
+      - 'youtube:9sc8Pyc51uU'
+    slides: null
+  -
+    title: 'Communicating with channels'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-28 00:00'
+    speakers:
+      -
+        name: 'James Long'
+        twitter: jlongster
+        github: jlongster
+    videos:
+      - 'youtube:W2DgDNQZOwo'
+    slides: null
+  -
+    title: 'react-router increases your productivity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-28 00:00'
+    speakers:
+      -
+        name: 'Michael Jackson'
+        twitter: mjackson
+        github: mjackson
+    videos:
+      - 'youtube:XZfvW1a8Xac'
+    slides: null
+  -
+    title: 'Full Stack Flux (was" The future of JavaScript layout systems")'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-28 00:00'
+    speakers:
+      -
+        name: 'Pete Hunt'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:KtmjkCuV-EU'
+    slides: null
+  -
+    title: 'Making your app fast with high-performance components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-28 00:00'
+    speakers:
+      -
+        name: 'Jason Bonta'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:KYzlpRvWZ6c'
+    slides: null
+  -
+    title: 'Format data and strings in any language with FormatJS and react-intl'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-28 00:00'
+    speakers:
+      -
+        name: 'Eric Ferraiuolo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Sla-DkvmIHY'
+    slides: null
+  -
+    title: Hype!
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-28 00:00'
+    speakers:
+      -
+        name: 'Ryan Florence'
+        twitter: ryanflorence
+        github: ryanflorence
+    videos:
+      - 'youtube:z5e7kWSHWTg'
+    slides: null
+  -
+    title: 'React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-29 00:00'
+    speakers:
+      -
+        name: 'Christopher Chedeau'
+        twitter: Vjeux
+        github: vjeux
+    videos:
+      - 'youtube:7rDsRXj9-cU'
+    slides: null
+  -
+    title: 'The complementarity of React and Web Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-29 00:00'
+    speakers:
+      -
+        name: 'Andrew Rota'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:g0TD0efcwVg'
+    slides: null
+  -
+    title: 'Immutable Data and React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-29 00:00'
+    speakers:
+      -
+        name: 'Lee Byron'
+        twitter: leeb
+        github: leebyron
+    videos:
+      - 'youtube:I7IdS-PbEgI'
+    slides: null
+  -
+    title: 'Beyond the DOM "How Netflix plans to enhance your television experience"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-29 00:00'
+    speakers:
+      -
+        name: 'Jafar Husain'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:eNC0mRYGWgc'
+    slides: null
+  -
+    title: 'Scalable Data Visualization'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-29 00:00'
+    speakers:
+      -
+        name: 'Zach Nation'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2ii1lEkIv1s'
+    slides: null
+  -
+    title: 'Refracting React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-29 00:00'
+    speakers:
+      -
+        name: 'David Nolen'
+        twitter: swannodette
+        github: null
+    videos:
+      - 'youtube:5hGHdETNteE'
+    slides: null
+  -
+    title: 'Flux Panel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-29 00:00'
+    speakers:
+      -
+        name: 'Bill Fisher'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LTj4O7WJJ98'
+    slides: null
+  -
+    title: "Codecademy's approach to component communication"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-29 00:00'
+    speakers:
+      -
+        name: 'Bonnie Eisenman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZM6wXoFTY3o'
+    slides: null
+  -
+    title: 'Static typing with Flow and TypeScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-29 00:00'
+    speakers:
+      -
+        name: 'James Brantly'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9PTa9-PPVAc'
+    slides: null

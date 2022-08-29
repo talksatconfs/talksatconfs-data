@@ -1,0 +1,236 @@
+name: 'React Amsterdam 2018'
+description: 'A fullday, twotrack conference on all things React, gathering Front-end and Full-stack developers across the globe in the tech heart of Europe. Were coming back with a new gig on April 13, 2018. Mark your calendars for the biggest React community event.'
+location: 'Amsterdam, Netherlands'
+venue: ''
+city: Amsterdam
+country: Netherlands
+link: 'https://react.amsterdam/2018/'
+playlist: 'youtube.com:PLNBNS7NRGKMFi_glL49hsoyqu7dHTMnNm'
+from_date: '2018-04-12'
+to_date: '2018-04-14'
+tags: ''
+talks:
+  -
+    title: 'Reactive Programming Demystified: Drink the Kool-Aid'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-13 00:00'
+    speakers:
+      -
+        name: 'Tracy Lee'
+        twitter: ladyleet
+        github: ladyleet
+    videos:
+      - 'youtube:nlj3HkMpla4'
+    slides: null
+  -
+    title: 'Rethinking With React 16'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-13 00:00'
+    speakers:
+      -
+        name: 'Manjula Dube'
+        twitter: manjula_dube
+        github: manjula91
+    videos:
+      - 'youtube:gb2gXX7xiAM'
+    slides: null
+  -
+    title: 'React State Management In a GraphQL Era'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-13 00:00'
+    speakers:
+      -
+        name: 'Kristijan Ristovski'
+        twitter: thekitze
+        github: kitze
+    videos:
+      - 'youtube:Q54YDGC_t3Y'
+    slides: null
+  -
+    title: 'Wonky Game Physics in Reason and Lessons Learned'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-13 00:00'
+    speakers:
+      -
+        name: 'Phil Plückthun'
+        twitter: _philpl
+        github: kitten
+    videos:
+      - 'youtube:PUBJwiECPoc'
+    slides: null
+  -
+    title: 'Public Speaking: How Bad Can It Be'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-13 00:00'
+    speakers:
+      -
+        name: 'Sara Vieira'
+        twitter: NikkitaFTW
+        github: alexnm
+    videos:
+      - 'youtube:egU9Ey_tPF8'
+    slides: null
+  -
+    title: 'GraphQL at scale with AWS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-13 00:00'
+    speakers:
+      -
+        name: 'Richard Threlkeld'
+        twitter: undef_obj
+        github: null
+    videos:
+      - 'youtube:P_mGa91wZ4o'
+    slides: null
+  -
+    title: 'Inclusive React: A Survival Guide'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-13 00:00'
+    speakers:
+      -
+        name: 'Almero Steyn'
+        twitter: kryptos_rsa
+        github: AlmeroSteyn
+    videos:
+      - 'youtube:ahSyil5_Ghw'
+    slides: null
+  -
+    title: 'There and back again: grokking state and data'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-13 00:00'
+    speakers:
+      -
+        name: 'Michel Weststrate'
+        twitter: mweststrate
+        github: mweststrate
+    videos:
+      - 'youtube:Gyp2QDr7YkU'
+    slides: null
+  -
+    title: 'Music of React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-13 00:00'
+    speakers:
+      -
+        name: 'Wowa Barsukov'
+        twitter: null
+        github: barsukov
+    videos:
+      - 'youtube:mnMmSdtWQCs'
+    slides: null
+  -
+    title: 'How to “Reactify” Your Existing UI Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-13 00:00'
+    speakers:
+      -
+        name: 'Olga Petrova'
+        twitter: tyoushe
+        github: olga-petrova
+    videos:
+      - 'youtube:1w5ym9FOL7I'
+    slides: null
+  -
+    title: 'The Tell-Tale Metric: Replatforming with Edgar Allan Poe'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-13 00:00'
+    speakers:
+      -
+        name: 'David Carter & Simon Dudley'
+        twitter: SiLaDu
+        github: siladu
+    videos:
+      - 'youtube:p2vtqnBt_8U'
+    slides: null
+  -
+    title: "Structure Your App's Story With Sagas and Selectors"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-13 00:00'
+    speakers:
+      -
+        name: 'Rebecca Hill'
+        twitter: rebekaka
+        github: beerecca
+    videos:
+      - 'youtube:nLgHuxwIvQM'
+    slides: null
+  -
+    title: 'D3 and React, Together'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-13 00:00'
+    speakers:
+      -
+        name: 'Shirley Wu'
+        twitter: sxywu
+        github: null
+    videos:
+      - 'youtube:zXBdNDnqV2Q'
+    slides: null
+  -
+    title: 'setState Machine'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-13 00:00'
+    speakers:
+      -
+        name: 'Michele Bertoli'
+        twitter: MicheleBertoli
+        github: MicheleBertoli
+    videos:
+      - 'youtube:sZg3DoTfHLQ'
+    slides: null
+  -
+    title: 'How We DDoS Ourselves with SSR'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-13 00:00'
+    speakers:
+      -
+        name: 'Radoslav Stankov'
+        twitter: rstankov
+        github: rstankov
+    videos:
+      - 'youtube:fJpCpeyR1uY'
+    slides: null
+  -
+    title: 'Mixed Mode React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-13 00:00'
+    speakers:
+      -
+        name: 'Ken Wheeler'
+        twitter: ken_wheeler
+        github: kenwheeler
+    videos:
+      - 'youtube:PBpugV5l90c'
+    slides: null

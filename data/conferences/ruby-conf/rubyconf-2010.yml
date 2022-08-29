@@ -1,0 +1,897 @@
+name: 'RubyConf 2010'
+description: ''
+location: 'New Orleans'
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2010-11-11'
+to_date: '2010-11-13'
+tags: ''
+talks:
+  -
+    title: "Objects are Just Objects, Aren't they?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-11 00:00'
+    speakers:
+      -
+        name: 'Rick DeNatale'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qb82MEICfyU'
+    slides: null
+  -
+    title: 'The Enterprising Rubyist - Bootstrapping your Business with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'Paul Campbell'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:d1_Ylso-vM8'
+    slides: null
+  -
+    title: 'Debugging Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-11 00:00'
+    speakers:
+      -
+        name: 'Aman Gupta'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:y8oLjyxMlAs'
+    slides: null
+  -
+    title: 'Front End Testing Frontier'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'CJ Kihlborn'
+        twitter: null
+        github: null
+      -
+        name: 'Jonas Nicklas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Pjhkm60i-n0'
+    slides: null
+  -
+    title: 'Consuming Gherkin: One Byte at a Time'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'Mike Sassak'
+        twitter: null
+        github: null
+      -
+        name: 'Greg Hnatiuk'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oQXviFSY0d8'
+    slides: null
+  -
+    title: 'Sales for Geeks, or How to Frame Suggestions, Questions and Requests'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: "Joe O'Brien"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ESD91IcKPNU'
+    slides: null
+  -
+    title: 'The Grapes of Rapid'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'Michael Bleigh'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:C7beg3OzxC4'
+    slides: null
+  -
+    title: 'Git: the stupid NOSQL database'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'Rick Olson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8axPfg7Fw9s'
+    slides: null
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-11 00:00'
+    speakers:
+      -
+        name: 'Dave Thomas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nwG1Z_uh0sI'
+    slides: null
+  -
+    title: 'Putting On Your Birthday Suit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'Glenn Vanderburg'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9SumXnYc5N8'
+    slides: null
+  -
+    title: 'Rev, Revactor, Reia'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'Tony Arcieri'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LxBQvxWfi7w'
+    slides: null
+  -
+    title: "The Polite Programmer's Guide to Ruby Etiquette"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-11 00:00'
+    speakers:
+      -
+        name: 'Jim Weirich '
+        twitter: null
+        github: null
+      -
+        name: 'Chris Nelson'
+        twitter: null
+        github: null
+      -
+        name: 'Ed Sumerfield'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ugzZqcXgi-g'
+    slides: null
+  -
+    title: 'Faye: an Event Driven App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'James Coglan'
+        twitter: jcoglan
+        github: blog.jcoglan.com/
+    videos:
+      - 'youtube:-n-kAnBVrWc'
+    slides: null
+  -
+    title: 'Socialist Software Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'CJ Kihlborn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jrSjV243pTU'
+    slides: null
+  -
+    title: 'From Artist to Programmer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'Keavy McMinn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4HglRcZlMVg'
+    slides: null
+  -
+    title: 'Rubinius - What Have You Done For Me Today?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'Evan Phoenix'
+        twitter: evanphx
+        github: evanphx
+    videos:
+      - 'youtube:j8ZWajQOFHA'
+    slides: null
+  -
+    title: 'History of RDoc and Rubygems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-11 00:00'
+    speakers:
+      -
+        name: 'Eric Hodel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1Z3SQI_bodM'
+    slides: null
+  -
+    title: 'Keynote: Why Ruby?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'David Heinemeier Hansson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:V4yhAnI9w80'
+    slides: null
+  -
+    title: 'ZOMG WHY IS THIS CODE SO SLOW?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-11 00:00'
+    speakers:
+      -
+        name: 'Aaron Patterson'
+        twitter: tenderlove
+        github: tenderlove
+    videos:
+      - 'youtube:I8m6rY4JI1U'
+    slides: null
+  -
+    title: 'Anthropology of Ruby: Excavating its Gems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-11 00:00'
+    speakers:
+      -
+        name: 'Jeremy Hinegardner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AhCeK2WcF8Q'
+    slides: null
+  -
+    title: "It's Time for a Ruby Editor"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-11 00:00'
+    speakers:
+      -
+        name: 'Daniel Lucraft'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7OBJ5gx7yJU'
+    slides: null
+  -
+    title: 'Writing Games with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'Mike Moore'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Far and Away (A Tour of DistribRuted Programming with Ruby)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'Mark Bates'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nOvctKebc1s'
+    slides: null
+  -
+    title: 'Hotspots with Metric Fu'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-11 00:00'
+    speakers:
+      -
+        name: 'Jake Scruggs'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:d2ZP75LTCtw'
+    slides: null
+  -
+    title: 'Keynote #3'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: "Yukihiro 'Matz' Matsumoto"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:umyZp6DXdKA'
+    slides: null
+  -
+    title: 'The Road from Ruby Hacker to Entrepreneur'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'Tom Preston-Werner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:a2ucoz20mRk'
+    slides: null
+  -
+    title: 'Automated Acceptance Testing, The Vietnam of Test Driven Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'Paul Wilson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:c7WH2XIMs2Q'
+    slides: null
+  -
+    title: 'DSLs go Concrete'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'Martin Thiede'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mgzZzTrr_JU'
+    slides: null
+  -
+    title: 'Self-Contained, Source-Free, Executable Ruby Applications with Warbler'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-11 00:00'
+    speakers:
+      -
+        name: 'Nick Sieger'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:w2bzbuo10vo'
+    slides: null
+  -
+    title: 'Ruboto: Ruby in your Pocket'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-11 00:00'
+    speakers:
+      -
+        name: 'Daniel Jackoway'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:siYraYeMNBk'
+    slides: null
+  -
+    title: 'Each: A Brief History of Iteration'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-11 00:00'
+    speakers:
+      -
+        name: 'Rein Henrichs'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HWw0wXYQe1Q'
+    slides: null
+  -
+    title: Unblocked
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'James Edward Gray II'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1WK6v6NyE6o'
+    slides: null
+  -
+    title: 'RubyGems to All JVM Languages'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-11 00:00'
+    speakers:
+      -
+        name: 'Yoko Harada'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BWfH7YBvE9k'
+    slides: null
+  -
+    title: 'Programming and minimalism: lessons from Orwell and the Clash'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'Jonathan Dahl'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PyP33F9qfPo'
+    slides: null
+  -
+    title: "Knocking Ruby's Date and DateTime Performance Out of the Park with home_run"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'Jeremy Evans'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dVxza_5K1ks'
+    slides: null
+  -
+    title: 'Mustache in the Front, Mustache in the Back'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'Patrick Ewing'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CxT-IVdhIRU'
+    slides: null
+  -
+    title: 'Maintaining Balance While Reducing Duplication'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'David Chelimsky'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Is8ThG6Fetg'
+    slides: null
+  -
+    title: 'TANSTAAFL - Implementing Maglev Ruby on top of GemStone'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'Peter McLain'
+        twitter: null
+        github: null
+      -
+        name: 'Monty Williams'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fBZxTqLgUfk'
+    slides: null
+  -
+    title: 'India::Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'Sidu Ponnappa  '
+        twitter: null
+        github: null
+      -
+        name: ' Niranjan Paranjape'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cRjnNYa7evg'
+    slides: null
+  -
+    title: 'Concurrency: Rubies, plural'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'Eleanor McHugh'
+        twitter: null
+        github: null
+      -
+        name: 'Elise Huard'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gDi-SP43zqo'
+    slides: null
+  -
+    title: 'Poisoning Rubinius: The _why and how.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'Brian Ford'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3akJaqzCOnI'
+    slides: null
+  -
+    title: 'Classboxes, nested methods, and real private methods'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'Shugo Maeda'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4r-QUaOJlgA'
+    slides: null
+  -
+    title: 'Ruby Summer of Code - Rails 3 Mountable Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'Piotr Sarnacki'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7s_gmreDnmA'
+    slides: null
+  -
+    title: "AppEngine and Dubious and New Google API's Oh My!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-11 00:00'
+    speakers:
+      -
+        name: 'Bob Aman'
+        twitter: null
+        github: null
+      -
+        name: 'Nick Howard'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IUCb4TUKEjs'
+    slides: null
+  -
+    title: 'How to Jam in Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'Ron Evans'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_w459UJDdlE'
+    slides: null
+  -
+    title: 'RubyConf Decathlon'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-11 00:00'
+    speakers:
+      -
+        name: 'Nathaniel Talbott'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4vzUr8Xcss8'
+    slides: null
+  -
+    title: 'So You Think You Can Code?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'Yossef Mendelssohn'
+        twitter: null
+        github: null
+      -
+        name: 'Rein Henrichs'
+        twitter: null
+        github: null
+      -
+        name: 'Ben Bleything'
+        twitter: null
+        github: null
+      -
+        name: 'Evan Phoenix'
+        twitter: evanphx
+        github: evanphx
+      -
+        name: 'Aaron Patterson'
+        twitter: tenderlove
+        github: tenderlove
+      -
+        name: 'John Barnette'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zw8AYRWOjoE'
+    slides: null
+  -
+    title: 'Grammars, Parsers, and Interpreters, In Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'Michael J. I. Jackson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3Ih5QdT3z_k'
+    slides: null
+  -
+    title: 'Building Scalable Cloud Infrastructure with Ruby - How we built VMforce'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'Derek Collison'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sfsCZGj_va0'
+    slides: null
+  -
+    title: 'Ruby Mendicant University: A New Way to Learn'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'Gregory Brown'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:23Cj1eqpmEQ'
+    slides: null
+  -
+    title: 'Spatial Programming for the Rubyist'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'Peter Jackson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_rCO12oZ4S8'
+    slides: null
+  -
+    title: 'AMP: Cross-repo version control in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'Justin Love'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WVqv55zEC4s'
+    slides: null
+  -
+    title: 'LDAP: the Original "NoSQL"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'Michael Granger'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0p8HPryqqCI'
+    slides: null
+  -
+    title: 'Pwrake : a Distributed Workflow Engine for e-Science'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'Masahiro Tanaka'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8fOCG9h1Q6Y'
+    slides: null
+  -
+    title: 'Healthy Hackers!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'Ted Han'
+        twitter: null
+        github: null
+      -
+        name: 'Carolyn Rupar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nwtby7VTYEI'
+    slides: null
+  -
+    title: 'pie: the making of a DSL for simple games'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'Sarah Allen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hLujtKDbQa0'
+    slides: null
+  -
+    title: 'MacRuby - Why and How'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'Matt Aimonetti'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0KR5_J-u1JU'
+    slides: null
+  -
+    title: 'JRuby Hacking Guide'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-12 00:00'
+    speakers:
+      -
+        name: 'Thomas Enebo'
+        twitter: null
+        github: null
+      -
+        name: 'Charles Nutter'
+        twitter: headius
+        github: headius
+    videos:
+      - 'youtube:yyrFQQJzses'
+    slides: null
+  -
+    title: 'Classy Git'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-11-13 00:00'
+    speakers:
+      -
+        name: 'Scott Chacon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:KdxQIOHzABE'
+    slides: null

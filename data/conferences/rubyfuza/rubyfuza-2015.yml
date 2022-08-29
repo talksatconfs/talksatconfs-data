@@ -1,0 +1,288 @@
+name: 'Rubyfuza 2015'
+description: ''
+location: ''
+venue: ''
+city: 'Cape Town'
+country: 'South Africa'
+link: ''
+playlist: 'youtube:PLI113oIao_x63Ne1S8ObKYQwbPRcpb8kN'
+from_date: '2015-02-05'
+to_date: '2015-02-06'
+tags: ''
+talks:
+  -
+    title: 'The Joy of Programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-05 09:40'
+    speakers:
+      -
+        name: 'Aaron Patterson'
+        twitter: tenderlove
+        github: tenderlove
+    videos:
+      - 'youtube:4rRfOtnMDHk'
+    slides: null
+  -
+    title: 'Shattered dreams & broken promises'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-05 10:30'
+    speakers:
+      -
+        name: 'Kenneth Kalmer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GywMNRypEnI'
+    slides: null
+  -
+    title: 'Yet Another Technical Intimidation Talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-05 11:30'
+    speakers:
+      -
+        name: 'Jackline Mutua'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:KujXm_-HrE8'
+    slides: null
+  -
+    title: 'Extending Ruby by harnessing other languages'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-05 12:00'
+    speakers:
+      -
+        name: 'Brendon McLean'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:u8b8REULwGM'
+    slides: null
+  -
+    title: 'How not to rewrite your library: tips on stable APIs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-05 14:00'
+    speakers:
+      -
+        name: 'Loren Segal'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BLmCtehFMz8'
+    slides: null
+  -
+    title: 'I drank the Single Page App kool-aid'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-05 14:30'
+    speakers:
+      -
+        name: 'Ché Nxusani'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LES9Y5CK6TA'
+    slides: null
+  -
+    title: "Why I'm a polyglot and why you should care!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-05 15:00'
+    speakers:
+      -
+        name: 'Theo Bohnen '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The not so very Short Migration to Rails 3.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-05 16:00'
+    speakers:
+      -
+        name: 'Grant Speelman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:eCa_J-09vy4'
+    slides: null
+  -
+    title: 'Citizen Science With OpenROV'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-05 16:30'
+    speakers:
+      -
+        name: 'Ray Hightower'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Mentoring and being mentored - tips and tricks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-05 17:00'
+    speakers:
+      -
+        name: 'Steven McDonald'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Over 9000: JRuby in 2015'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 09:10'
+    speakers:
+      -
+        name: 'Charles Nutter'
+        twitter: headius
+        github: headius
+    videos:
+      - 'youtube:aZh9e7aFE4E'
+    slides: null
+  -
+    title: 'Introducing Couchdb 2.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 10:00'
+    speakers:
+      -
+        name: 'Garren Smith'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:X-3tNydQtf8'
+    slides: null
+  -
+    title: 'Riveting Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 11:30'
+    speakers:
+      -
+        name: 'Chris Stefano'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:plGKwfvTMiE'
+    slides: null
+  -
+    title: 'How to be an effective Freelancer by not learning from corporates'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 12:00'
+    speakers:
+      -
+        name: 'SIMON STEWART'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Rebranding the 3R’s: reading, reasoning and robotics'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 12:30'
+    speakers:
+      -
+        name: 'Lydia Abel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BGMxCmZ7ayc'
+    slides: null
+  -
+    title: 'Diagnosing cancer with Machine Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 14:40'
+    speakers:
+      -
+        name: 'Simon van Dyk'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:t4P74OJcg48'
+    slides: null
+  -
+    title: 'Should we care about accessibility?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 15:00'
+    speakers:
+      -
+        name: 'Pawel Janiak'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:05fGEPZOlJU'
+    slides: null
+  -
+    title: 'How I got started in Ruby & Rails after a RailsBridge Workshop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 16:00'
+    speakers:
+      -
+        name: 'Alyson La'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0NVgqyflcLA'
+    slides: null
+  -
+    title: 'Fixing the future of programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 16:30'
+    speakers:
+      -
+        name: ' Mandla Magagula'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:m4JPMSRf4hY'
+    slides: null
+  -
+    title: 'Sweet Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-06 17:00'
+    speakers:
+      -
+        name: 'Marc Heiligers'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qBDYqKpXa-I'
+    slides: null

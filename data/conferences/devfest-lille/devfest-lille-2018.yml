@@ -1,0 +1,482 @@
+name: 'Devfest Lille 2018'
+description: "Rejoignez nous pour une journée de conférences, de code labs, d' échanges sur les sujets du Web, du Mobile, du Cloud, des technologies Google et de leur utilisation par les acteurs locaux."
+location: ''
+venue: ''
+city: "Villeneuve-d'Ascq"
+country: France
+link: 'https://devfest-2018.gdglille.org/'
+playlist: 'youtube.com:PLuZ_sYdawLiUAmzsywNDAh_TPuBVylwjt'
+from_date: '2018-06-21'
+to_date: '2018-06-21'
+tags: ''
+talks:
+  -
+    title: "Keynote 'Keynote d,ouverture'"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Alexandra Nemery'
+        twitter: Nimuneale
+        github: null
+      -
+        name: 'Sarah Colmon'
+        twitter: SarahColmon
+        github: null
+    videos:
+      - 'youtube:vaXPyWfangg'
+    slides: null
+  -
+    title: 'gRPC, communiquons autrement'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Sébastien FRIESS'
+        twitter: sebastienfriess
+        github: sebastienfr
+    videos:
+      - 'youtube:6BcfghWezuU'
+    slides: null
+  -
+    title: 'Rendez vos applications Android instantanée avec les Instant Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Antoine Gerard'
+        twitter: null
+        github: ANGerz
+      -
+        name: 'Romain Pedepoy'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'ESM : EcmaScript Modules in browser and NodeJS. It,s about time !'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Sébastien Pertus'
+        twitter: sebastienpertus
+        github: mimetis
+    videos:
+      - 'youtube:9MbSR-dOug8'
+    slides: null
+  -
+    title: 'Métrologie et Alerting avec Prometheus et Grafana'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Christophe Furmaniak'
+        twitter: cfurmaniak
+        github: looztra
+      -
+        name: 'Yoan Rousseau'
+        twitter: y0anR
+        github: y0an
+    videos:
+      - 'youtube:OOPQpwJ7SSk'
+    slides: null
+  -
+    title: "L'UX a sauvé mon Devops"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Estelle Landry'
+        twitter: null
+        github: null
+      -
+        name: 'François Teychene'
+        twitter: fteychene
+        github: fteychene
+    videos:
+      - 'youtube:ovbw8U6NZxI'
+    slides: null
+  -
+    title: 'Le machine learning par un imp-op-steur'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Olivier Wulveryck'
+        twitter: owulveryck
+        github: owulveryck
+    videos:
+      - 'youtube:VQCkhlEHCfY'
+    slides: null
+  -
+    title: 'Tout le monde sait comment utiliser Angular / React / VueJs ... mais savez-vous comment utiliser JavaScript ?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Aurélien Loyer'
+        twitter: AurelienLoyer
+        github: T3kstiil3
+      -
+        name: 'Nathan Damie'
+        twitter: Nathan_damie
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A Kotlink between worlds'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Benjamin Monjoie'
+        twitter: Xzan
+        github: bmonjoie
+    videos:
+      - 'youtube:VIvZcAgaegs'
+    slides: null
+  -
+    title: 'À tables ! Router efficacement avec Iproute et Netfilter.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Julien Durillon'
+        twitter: juuduu
+        github: Soulou
+    videos:
+      - 'youtube:lny65kMKcJ0'
+    slides: null
+  -
+    title: 'Chatbots, et si on passait la seconde ?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Guillaume Laforge'
+        twitter: glaforge
+        github: glaforge
+      -
+        name: 'Wassim Chegham'
+        twitter: manekinekko
+        github: manekinekko
+    videos:
+      - 'youtube:tmqeBSAPBRk'
+    slides: null
+  -
+    title: 'HTTP2 en pratique'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Alexis Hassler'
+        twitter: AlexisHassler
+        github: hasalex
+    videos:
+      - 'youtube:OQiFCOYvwL0'
+    slides: null
+  -
+    title: 'Les Principes de Base du Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Angela Ricci'
+        twitter: gericci
+        github: null
+    videos:
+      - 'youtube:tzB86jteg0Q'
+    slides: null
+  -
+    title: 'Modern API Authentication 101'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Léo Unbekandt'
+        twitter: Soulou
+        github: Soulou
+    videos:
+      - 'youtube:259CYnDVHL0'
+    slides: null
+  -
+    title: '#RetourAuxSources : Les cookies HTTP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Hubert Sablonnière'
+        twitter: hsablonniere
+        github: hsablonniere
+    videos:
+      - 'youtube:dv7Ny4hr-AQ'
+    slides: null
+  -
+    title: 'Introduction à Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Guillaume Dubus'
+        twitter: suipotryot
+        github: suipotryot
+    videos:
+      - 'youtube:njq_pwva1v8'
+    slides: null
+  -
+    title: 'Istio, we have a problem! Understanding and fixing bugs with a service-mesh.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'David Gageot'
+        twitter: dgageot
+        github: dgageot
+    videos:
+      - 'youtube:8FkkOeZaCv4'
+    slides: null
+  -
+    title: 'De la domotique faite-maison avec Android Things et le Google Assistant'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Gautier Mechling'
+        twitter: Nilhcem
+        github: Nilhcem
+    videos:
+      - 'youtube:iOZV3uTr_h8'
+    slides: null
+  -
+    title: 'L,pen-source à la rescousse de mes APIS: comment les sécuriser grâce à Gravitee.io et Keycloak'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'David Brassely'
+        twitter: null
+        github: null
+      -
+        name: 'Guillaume Gillon'
+        twitter: gui_gillon
+        github: null
+    videos:
+      - 'youtube:Lkr3Hok-rfk'
+    slides: null
+  -
+    title: 'Data Stream avec Apache Beam / Cloud Dataflow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Geoffrey Garnotel'
+        twitter: ggarnotel
+        github: ggarnotel
+    videos:
+      - 'youtube:PBERz2GB1VM'
+    slides: null
+  -
+    title: 'De Java7 à la programmation fonctionnelle'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Julien Debon'
+        twitter: null
+        github: Sir4ur0n
+    videos:
+      - 'youtube:a3hq9vKTMVY'
+    slides: null
+  -
+    title: 'Git dammit!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Maxime Ghignet'
+        twitter: mghignet
+        github: mghignet
+    videos:
+      - 'youtube:QzlAEqqhrcY'
+    slides: null
+  -
+    title: 'Devenez un backend hero avec Kotlin'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-22 00:00'
+    speakers:
+      -
+        name: 'Grégory Bévan'
+        twitter: gr3gory_b3van
+        github: GregoryBevan
+      -
+        name: 'Thomas Betous'
+        twitter: tbetous
+        github: tbetous
+    videos: null
+    slides: null
+  -
+    title: 'Redécouvrir l’univers connu avec le dataset de la NASA'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-22 00:00'
+    speakers:
+      -
+        name: 'Aurelien Hebert'
+        twitter: null
+        github: null
+      -
+        name: 'Horacio Gonzalez'
+        twitter: LostInBrittany
+        github: LostInBrittany
+      -
+        name: 'Pierre Zemb'
+        twitter: PierreZ
+        github: PierreZ
+    videos: null
+    slides: null
+  -
+    title: 'Tout le monde parle de Kubernetes, et si vous vous y mettiez vous aussi?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-22 00:00'
+    speakers:
+      -
+        name: 'Christophe Furmaniak'
+        twitter: cfurmaniak
+        github: looztra
+      -
+        name: 'Nicolas Lassalle'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Scala pour ceux qui n'en ont jamais fait, par l'exemple, 2h pour être opérationnel(le)"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-22 00:00'
+    speakers:
+      -
+        name: 'Nicolas Leroux'
+        twitter: nicolasleroux
+        github: null
+      -
+        name: 'Philippe Charrière'
+        twitter: k33g_org
+        github: k33g
+    videos: null
+    slides: null
+  -
+    title: 'Le Pair Programming sous toutes ses formes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-22 00:00'
+    speakers:
+      -
+        name: 'Antoine Neveux'
+        twitter: antoineneveux
+        github: aneveux
+      -
+        name: 'Michel Daviot'
+        twitter: Michel_Daviot
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Propulsez votre application Angular avec GraphQL et Apollo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-22 00:00'
+    speakers:
+      -
+        name: 'Antoine Cellier'
+        twitter: AntoineCellier3
+        github: null
+      -
+        name: 'Thomas Betous'
+        twitter: tbetous
+        github: tbetous
+    videos: null
+    slides: null
+  -
+    title: 'Vos premiers pas en japonais'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-22 00:00'
+    speakers:
+      -
+        name: 'Ayako Fukushima'
+        twitter: AntoineCellier3
+        github: null
+      -
+        name: 'Siegfried Ehret'
+        twitter: SiegfriedEhret
+        github: SiegfriedEhret
+    videos: null
+    slides: null
+  -
+    title: 'Office Hours - DevOps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-22 00:00'
+    speakers:
+      -
+        name: 'Christophe Furmaniak'
+        twitter: cfurmaniak
+        github: looztra
+    videos: null
+    slides: null

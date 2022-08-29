@@ -1,0 +1,350 @@
+name: 'LOADays 2015'
+description: ''
+location: 'Antwerp, Belgium'
+venue: ''
+city: ''
+country: ''
+link: 'https://web.archive.org/web/20161101124906/http://www.loadays.org/pages/schedule-temp.html'
+playlist: ''
+from_date: '2015-04-11'
+to_date: '2015-04-12'
+tags: ''
+talks:
+  -
+    title: 'ZABBIX Tutoria'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-12 13:00'
+    speakers:
+      -
+        name: 'Patrick Uytterhoeven'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Configuration management from house-build to pulling strings with Puppet and beyond'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-12 14:00'
+    speakers:
+      -
+        name: 'Eric Seynave'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'JetFire, an ansible inventory managemen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-11 10:30'
+    speakers:
+      -
+        name: 'Vincent Van Der Kussen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Keep the lights burning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-11 09:45'
+    speakers:
+      -
+        name: 'Daniel Paulus'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Use MySQL? Got a Question? JOIN!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-11 11:30'
+    speakers:
+      -
+        name: 'Kenny Gryp'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Synchronous Replication For MySQL/MariaDB'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-11 10:30'
+    speakers:
+      -
+        name: 'Kenny Gryp'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'MQTT for monitoring'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-11 13:30'
+    speakers:
+      -
+        name: 'Jan-Piet Mens'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Puppet Enterpris'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-12 13:00'
+    speakers:
+      -
+        name: 'Johan De Wit'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'OpenHAB Intro'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-11 14:30'
+    speakers:
+      -
+        name: 'Jan-Piet Mens'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Service Discovery and config managemen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-11 11:30'
+    speakers:
+      -
+        name: 'Gareth Rushgrove'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Containers with systemd nspawn'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-12 11:00'
+    speakers:
+      -
+        name: 'Gábor Nyers'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'One more thing about MySQL - MySQL 5.7'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-11 09:45'
+    speakers:
+      -
+        name: 'Carsten Thalheimer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'syslog-ng: from log collecting to log processing and information extraction'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-11 17:00'
+    speakers:
+      -
+        name: 'Peter Czanik'
+        twitter: Pczanik
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'MySQL, MySQL Fabric and MySQL Cluster ... how to scale beyond the limits'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-11 13:30'
+    speakers:
+      -
+        name: 'Carsten Thalheimer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Running Docker and Containers without migrating to systemd by using Oracle Linux 6'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-11 14:30'
+    speakers:
+      -
+        name: 'Lucian Preoteasa'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'ELK Stack Tutoria'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-12 10:00'
+    speakers:
+      -
+        name: 'Lee Van Steerthem'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Propellor
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-12 10:00'
+    speakers:
+      -
+        name: 'Jelmer Vernooij'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building a Business Continuity Plan with Bareos and rear'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-12 13:00'
+    speakers:
+      -
+        name: "Gratien D'haese"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Coworking with G'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-11 10:30'
+    speakers:
+      -
+        name: 'Julien Pivotto'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Using Belgium EID under Linux'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-12 11:00'
+    speakers:
+      -
+        name: 'Wouter Verhelst'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Git Tutoria'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-11 14:30'
+    speakers:
+      -
+        name: 'Jeroen Budts'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'CentOS install methods'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-11 15:30'
+    speakers:
+      -
+        name: 'Fabian Arrotin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'open source monitoring with Icinga'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-12 10:00'
+    speakers:
+      -
+        name: 'Bernd Erk'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to the ansible inventory'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-11 09:45'
+    speakers:
+      -
+        name: 'Serge van Ginderachter'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Whats the new Sa'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-12 16:00'
+    speakers:
+      -
+        name: 'Maxim Burgerhout'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Microservices with CoreOS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-11 15:30'
+    speakers:
+      -
+        name: 'Timo Derstappen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

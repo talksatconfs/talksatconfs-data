@@ -1,0 +1,351 @@
+name: 'React Alicante 2018'
+description: "Do you want to learn about React and React Native? Then you shouldn't miss React Alicante next September! You will have the opportunity to improve your developer skills and meet people from around the world, while enjoying the food and warm weather from the southeast coast of Spain."
+location: ''
+venue: ''
+city: Alicante
+country: Spain
+link: 'http://reactalicante.es/'
+playlist: 'youtube.com:PLd7nkr8mN0sVTbT644oHYDfWF6G0GwhiX'
+from_date: '2018-09-13'
+to_date: '2018-09-15'
+tags: ''
+talks:
+  -
+    title: '2018 - The Year of Web Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 00:00'
+    speakers:
+      -
+        name: 'Dominik Kundel'
+        twitter: dkundel
+        github: kundel
+    videos:
+      - 'youtube:XccElbMiWto'
+    slides:
+      - 'https://speakerdeck.com/dkundel/react-alicante-18-2018-the-year-of-web-components'
+  -
+    title: 'The Lonely and Dark Road to Styling in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 00:00'
+    speakers:
+      -
+        name: 'Sara Vieira'
+        twitter: NikkitaFTW
+        github: alexnm
+    videos:
+      - 'youtube:zsU3l3IB3bE'
+    slides:
+      - 'https://dark-css.now.sh'
+  -
+    title: 'Next Generation Forms with React Final Form'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 00:00'
+    speakers:
+      -
+        name: 'Erik Rasmussen'
+        twitter: erikras
+        github: erikras
+    videos:
+      - 'youtube:WoSzy-4mviQ'
+    slides:
+      - 'https://speakerdeck.com/erikras/next-generation-forms-with-react-final-form'
+  -
+    title: 'The ABC of Coded Style Guides'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 00:00'
+    speakers:
+      -
+        name: 'Henning Muszynski'
+        twitter: henningmus
+        github: henningmu
+    videos:
+      - 'youtube:WA0Ki1sdSlk'
+    slides: null
+  -
+    title: 'Testing, Testing, 1, 2, NaN'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 00:00'
+    speakers:
+      -
+        name: 'Gant Laborde'
+        twitter: GantLaborde
+        github: gantman
+    videos:
+      - 'youtube:WId8uq1FFEU'
+    slides:
+      - 'https://slides.com/gantlaborde/testing-talk'
+  -
+    title: 'Lambdas, lambdas everywhere...'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 00:00'
+    speakers:
+      -
+        name: 'Flavio Corpa'
+        twitter: FlavioCorpa
+        github: kutyel
+    videos:
+      - 'youtube:VMH5fEg1NXQ'
+    slides:
+      - 'https://lambdas-everywhere.now.sh/'
+  -
+    title: 'Building a Chrome extension with React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 00:00'
+    speakers:
+      -
+        name: 'Olena Sovyn'
+        twitter: frontendgirl
+        github: Kiwka
+    videos:
+      - 'youtube:TIfKblsKq0c'
+    slides:
+      - 'https://speakerdeck.com/kiwka/building-a-chrome-extension-with-react'
+  -
+    title: 'Modeling errors in Now CLI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 00:00'
+    speakers:
+      -
+        name: 'Javi Velasco'
+        twitter: javivelasco
+        github: javivelasco
+    videos:
+      - 'youtube:LSGseAojiZk'
+    slides: null
+  -
+    title: 'Journey through VR and AR with React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 00:00'
+    speakers:
+      -
+        name: 'Tomasz Lakomy'
+        twitter: tlakomy
+        github: tlakomy
+    videos:
+      - 'youtube:p_64YMcLuN0'
+    slides:
+      - 'https://tlakomy.github.io/react-alicante/'
+  -
+    title: 'The new era of zero-config tools'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 00:00'
+    speakers:
+      -
+        name: 'Alex Jover'
+        twitter: alexjoverm
+        github: alexjoverm
+    videos:
+      - 'youtube:Zh8BAD418fI'
+    slides:
+      - 'https://docs.google.com/presentation/d/1gl-wzzYXVYXP5KDMyg22YdXmBbucj6P92lV6MnYgs34'
+  -
+    title: 'Help! My React app is slowwwww!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 00:00'
+    speakers:
+      -
+        name: 'Ben Ilegbodu'
+        twitter: benmvp
+        github: benmvp
+    videos:
+      - 'youtube:LBzJFcZsPBQ'
+    slides:
+      - 'http://www.benmvp.com/slides/2018/reactalicante/react-perf.html'
+  -
+    title: 'Pushing React Native outside the comfort zone'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 00:00'
+    speakers:
+      -
+        name: 'Raúl Gómez'
+        twitter: rgommezz
+        github: rgommezz
+    videos:
+      - 'youtube:P9Qn8nb6jf8'
+    slides:
+      - 'https://speakerdeck.com/rgommezz/pushing-react-native-outside-the-comfort-zone'
+  -
+    title: 'Components, patterns and sh.t it’s hard to deal with'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 00:00'
+    speakers:
+      -
+        name: 'Marco Cedaro'
+        twitter: cedmax
+        github: cedmax
+    videos:
+      - 'youtube:CQA6bUS9zaI'
+    slides:
+      - 'https://noti.st/cedmax/JwtWgq/components-patterns-and-sh-t-it-s-hard-to-deal-with'
+  -
+    title: 'GraphQL Boilerplates'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 00:00'
+    speakers:
+      -
+        name: 'Manjula Dube'
+        twitter: manjula_dube
+        github: manjula91
+    videos:
+      - 'youtube:AJzt-a2rtAE'
+    slides:
+      - 'https://docs.google.com/presentation/d/e/2PACX-1vTRuwWe1tparEPAr8Ttua1dyJfmaGt0tgQzXv2B2ejIuvf1HaZh67HYO_BPtn4asPKZubQwbs84snDW/pub?slide=id.g40d1b26cd3_1_466'
+  -
+    title: 'Taming Forms in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 00:00'
+    speakers:
+      -
+        name: 'Jared Palmer'
+        twitter: jaredpalmer
+        github: jaredpalmer
+    videos:
+      - 'youtube:oiNtnehlaTo'
+    slides:
+      - 'https://formik-alicante.now.sh/'
+  -
+    title: 'Mobile navigation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 00:00'
+    speakers:
+      -
+        name: 'Brent Vatne'
+        twitter: notbrent
+        github: brentvatne
+    videos:
+      - 'youtube:GBhdooVxX6Q'
+    slides:
+      - 'http://url.brentvatne.ca/ynlKqu'
+  -
+    title: 'Motion in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 00:00'
+    speakers:
+      -
+        name: 'Kaylie Kwon'
+        twitter: Kaylie_alexa
+        github: kaylieEB
+    videos:
+      - 'youtube:TbvsaQksJ2k'
+    slides: null
+  -
+    title: 'Better ReasonML Integration in Flow & TypeScript Codebases'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 00:00'
+    speakers:
+      -
+        name: 'Patrick Stapfer'
+        twitter: ryyppy
+        github: ryyppy
+    videos: null
+    slides:
+      - 'https://speakerdeck.com/ryyppy/better-reasonml-integration-in-flow-and-typescript-codebases'
+  -
+    title: 'Testing a Redux store'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 00:00'
+    speakers:
+      -
+        name: 'Anna Gruber'
+        twitter: futuranna
+        github: futuranna
+    videos:
+      - 'youtube:f56g6pS8HHc'
+    slides: null
+  -
+    title: 'Powering Code Reuse with Context and Render Props'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 00:00'
+    speakers:
+      -
+        name: 'Forbes Lindesay'
+        twitter: ForbesLindesay
+        github: ForbesLindesay
+    videos:
+      - 'youtube:QhJLosk1Tw0'
+    slides:
+      - 'https://gist.github.com/aarongarciah/97f3f592320ae521bbe29cde55cffc79'
+  -
+    title: 'React Native: The dark side of Background tasks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 00:00'
+    speakers:
+      -
+        name: 'Ferran Negre'
+        twitter: ferrannp
+        github: ferrannp
+    videos:
+      - 'youtube:8MBQr9cSdHc'
+    slides:
+      - 'https://speakerdeck.com/ferrannp/the-dark-side-of-background-tasks-in-react-native-react-alicante-2018'
+  -
+    title: 'An unknown land of creating libraries'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 00:00'
+    speakers:
+      -
+        name: 'Kamlesh Chandnani'
+        twitter: _kamlesh_
+        github: kamleshchandnani
+    videos:
+      - 'youtube:gyYqwFYz3vE'
+    slides:
+      - 'https://speakerdeck.com/kamleshchandnani/an-unknown-land-of-creating-libraries'
+  -
+    title: 'Navigating the hype-driven frontend development world without going insane'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 00:00'
+    speakers:
+      -
+        name: 'Kristijan Ristovski'
+        twitter: thekitze
+        github: kitze
+    videos:
+      - 'youtube:_kVxXV0TQ7M'
+    slides: null

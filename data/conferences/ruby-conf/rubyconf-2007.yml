@@ -1,0 +1,473 @@
+name: 'RubyConf 2007'
+description: ''
+location: 'Omni Charlotte Hotel in Charlotte, North Carolina, USA'
+venue: ''
+city: ''
+country: ''
+link: 'https://web.archive.org/web/20070724094154/http://rubyconf.org/'
+playlist: ''
+from_date: '2007-11-02'
+to_date: '2007-11-04'
+tags: ''
+talks:
+  -
+    title: 'Mac OS X Loves Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-03 00:00'
+    speakers:
+      -
+        name: 'Laurent Sansonetti'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:uHTNAj6V8fs'
+    slides: null
+  -
+    title: 'Cleanliness Is Next to Domain Specificity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-04 00:00'
+    speakers:
+      -
+        name: 'Ben Scofield'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QAThcdbrbVg'
+    slides: null
+  -
+    title: 'JRuby: Ruby for the JVM'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-03 00:00'
+    speakers:
+      -
+        name: 'Thomas Enebo, Charles Nutter'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:js5PEe0fM2o'
+    slides: null
+  -
+    title: 'Maximizing Productivity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-03 00:00'
+    speakers:
+      -
+        name: 'Eric Hodel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XNL4go72Eck'
+    slides: null
+  -
+    title: 'solr-ruby: The Best Open Source Search Engine + Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-04 00:00'
+    speakers:
+      -
+        name: 'Erik Hatcher'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:S7ZikKkLYWE'
+    slides: null
+  -
+    title: 'State of IronRuby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-03 00:00'
+    speakers:
+      -
+        name: 'John Lam'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GyJvUi2LejA'
+    slides: null
+  -
+    title: 'Hurting Code for Fun and Profit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-02 12:00'
+    speakers:
+      -
+        name: 'Ryan Davis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gYdqNNICyvI'
+    slides: null
+  -
+    title: 'Security and Identity: Ruby, CAS, and OpenID'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-04 00:00'
+    speakers:
+      -
+        name: 'Justin Gehtland'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DA3MIE4-u5M'
+    slides: null
+  -
+    title: 'Building Games with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-02 12:00'
+    speakers:
+      -
+        name: 'Andrea O. K. Wright'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_KCnl5EhcdA'
+    slides: null
+  -
+    title: Geocode/R
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-04 00:00'
+    speakers:
+      -
+        name: 'Andreas Erik Johan Launila'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VABC4Qvapw8'
+    slides: null
+  -
+    title: 'Deployable Ruby Runtimes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-03 00:00'
+    speakers:
+      -
+        name: 'Rich Kilmer, Bruce Williams'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jJ4d4UqX-Zc'
+    slides: null
+  -
+    title: 'Why Camping Matters'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-02 12:00'
+    speakers:
+      -
+        name: 'Nathaniel Talbott'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6rF2wJVRzio'
+    slides: null
+  -
+    title: 'Keynote Address: Does Language Matter?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-04 00:00'
+    speakers:
+      -
+        name: "Yukihiro 'Matz' Matsumoto"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:h44PeXXBfhk'
+    slides: null
+  -
+    title: 'Efficient Ruby to Javascript Compilation and Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-03 00:00'
+    speakers:
+      -
+        name: 'Michael Neumann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IXeBFUOJcSg'
+    slides: null
+  -
+    title: "Ropes: An Alternative to Ruby's Strings"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-02 12:00'
+    speakers:
+      -
+        name: 'Eric Ivancich'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5Xt6qN269Uo'
+    slides: null
+  -
+    title: 'JRuby in the Wild'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-04 00:00'
+    speakers:
+      -
+        name: 'Kyle Maxwell'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xRp7ER4FdBw'
+    slides: null
+  -
+    title: 'Behaviour Driven Development with RSpec'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-04 00:00'
+    speakers:
+      -
+        name: 'Dave Astels, David Chelimsky'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yoon3u6PEIw'
+    slides: null
+  -
+    title: 'Profiling and Tuning Ruby 1.8'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-03 00:00'
+    speakers:
+      -
+        name: 'Ed Borasky'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to AP4R'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-02 12:00'
+    speakers:
+      -
+        name: 'Shunichi Shinohara, Kiwamu Kato'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:v8eKVepQLic'
+    slides: null
+  -
+    title: 'Advanced Ruby Class Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-02 12:00'
+    speakers:
+      -
+        name: 'Jim Weirich '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vwBpTgdZBDk'
+    slides: null
+  -
+    title: 'Tightening the Feedback Loop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-03 00:00'
+    speakers:
+      -
+        name: 'Phil Hagelberg'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:V6tTt6PcX2U'
+    slides: null
+  -
+    title: 'Enhancing Embedded Development with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-04 00:00'
+    speakers:
+      -
+        name: 'William Bereza'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QRO65yzsFrs'
+    slides: null
+  -
+    title: 'Avoiding Pitfalls in C Extensions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-02 12:00'
+    speakers:
+      -
+        name: 'Paul Brannan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qqSY4O9Dnn8'
+    slides: null
+  -
+    title: 'Use Ruby to Generate More Ruby - RubiGen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-04 00:00'
+    speakers:
+      -
+        name: 'Dr. Nic Williams'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:l0JQ_xlSDc8'
+    slides: null
+  -
+    title: 'Controlling Electronics with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-02 12:00'
+    speakers:
+      -
+        name: 'Ben Bleything'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1UDwFvXlrXU'
+    slides: null
+  -
+    title: 'Town Meeting with Ruby Creator'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-03 00:00'
+    speakers:
+      -
+        name: "Yukihiro 'Matz' Matsumoto"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Zz0zAWTFbTQ'
+    slides: null
+  -
+    title: 'Essential Incompleteness in Program Modeling'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-03 00:00'
+    speakers:
+      -
+        name: 'Luke Kanies'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6UvwBfAwYWo'
+    slides: null
+  -
+    title: "Sploitin' with Ruby (Point, Click, Root)"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-04 00:00'
+    speakers:
+      -
+        name: 'Aaron Bedra'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:djtWGCaLFR0'
+    slides: null
+  -
+    title: 'Conversations vs. Laws'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-03 00:00'
+    speakers:
+      -
+        name: 'Francis Hwang'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zuSesuycrQo'
+    slides: null
+  -
+    title: 'Next-Gen VoIP Development with Adhearsion'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-04 00:00'
+    speakers:
+      -
+        name: 'Jay Phillips'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5ObIisW5bpU'
+    slides: null
+  -
+    title: 'Treetop: Syntactic Analysis with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-02 12:00'
+    speakers:
+      -
+        name: 'Nathan Sobo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:v5tTDZSIVrg'
+    slides: null
+  -
+    title: 'What Makes Code Beautiful?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-02 12:00'
+    speakers:
+      -
+        name: 'Marcel Molina'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:eutF6GbJohY'
+    slides: null
+  -
+    title: Rubinius
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2007-11-03 00:00'
+    speakers:
+      -
+        name: 'Evan Phoenix'
+        twitter: evanphx
+        github: evanphx
+    videos:
+      - 'youtube:aRM06lYsLyE'
+    slides: null

@@ -1,0 +1,138 @@
+name: 'FrontFest 2017'
+description: 'FrontFest is the event about web technologies (HTML, CSS, Javascript ... and whatever comes up!) In which you can meet other front-end developers like you and learn from them. We want to bring together the best professionals, evangelists and gurus of the front-end development of all Spain.FrontFest emerges as an initiative of a group of participants in four of the most active communities within the front-end world in our country: Angular Madrid , Front-end Developers Madrid , HTML5 Spain and MadridJS .'
+location: 'Madrid, Spain'
+venue: ''
+city: Madrid
+country: Spain
+link: 'https://2017.frontfest.es/'
+playlist: 'youtube:PLV_VSxFnAJKIQiOVUAccpkqXe_9rmVJTZ'
+from_date: '2017-02-18'
+to_date: '2017-02-18'
+tags: ''
+talks:
+  -
+    title: 'Máxima performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-18 00:00'
+    speakers:
+      -
+        name: 'Eduardo Sada'
+        twitter: aeroalquimia
+        github: null
+    videos:
+      - 'youtube:1AwIZS1sXQU'
+    slides: null
+  -
+    title: 'Animación avanzada con CSS en HTML y SVG para mejorar la UX'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-18 00:00'
+    speakers:
+      -
+        name: 'Ángel Corral'
+        twitter: ancoar
+        github: null
+    videos:
+      - 'youtube:FzKiaisTdeQ'
+    slides: null
+  -
+    title: "Let's code a game in JavaScript"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-18 00:00'
+    speakers:
+      -
+        name: 'Belen Albeza'
+        twitter: ladybenko
+        github: belen-albeza
+    videos:
+      - 'youtube:F2o4iwd4Blc'
+    slides: null
+  -
+    title: 'Accesibilidad web, ¿cómo hacer un front para todos?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-18 00:00'
+    speakers:
+      -
+        name: 'Juanjo Montiel'
+        twitter: kastwey
+        github: kastwey
+    videos:
+      - 'youtube:SlTDIQwa6EA'
+    slides: null
+  -
+    title: 'Workflows sanos y funcionales entre equipos (UX, UI, Front)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-18 00:00'
+    speakers:
+      -
+        name: 'Juan de la Cruz'
+        twitter: elhombretecla
+        github: elhombretecla
+    videos:
+      - 'youtube:zk2397IMPZU'
+    slides: null
+  -
+    title: 'Escribiendo estilos para componentes de React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-18 00:00'
+    speakers:
+      -
+        name: javivelasco
+        twitter: javivelasco
+        github: javivelasco
+    videos:
+      - 'youtube:oogpjRWfIsE'
+    slides: null
+  -
+    title: 'Aplicaciones offline en un mundo online'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-18 00:00'
+    speakers:
+      -
+        name: 'Sergio Zamarro'
+        twitter: zamarrowski
+        github: zamarrowski
+    videos:
+      - 'youtube:aoLAFNO5dkk'
+    slides: null
+  -
+    title: 'Cosas increíbles que puedes hacer con una web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-18 00:00'
+    speakers:
+      -
+        name: 'Ramón Guijarro'
+        twitter: ladybenko
+        github: belen-albeza
+    videos:
+      - 'youtube:yW5T3CrgZDU'
+    slides: null
+  -
+    title: 'Tecnología por el cambio climático'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-18 00:00'
+    speakers:
+      -
+        name: 'David Inga'
+        twitter: davidsingal
+        github: davidsingal
+    videos:
+      - 'youtube:S1T5GZjJsCo'
+    slides: null

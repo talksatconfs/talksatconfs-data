@@ -1,0 +1,278 @@
+name: 'FrontMania 2018'
+description: 'FrontMania is a group of people who are crazy about frontend development a.k.a. Frontend Maniacs. We as a group believe that Frontend development should be fun for everyone!Fun for us means creating cool, funny or crazy good quality software. That is the reason why we started to organise social meetings like a frontend pubquiz or a crazy cool conference. So we can all learn from each other while having a blast doing so!'
+location: ''
+venue: ''
+city: Utrecht
+country: Netherlands
+link: 'https://www.frontmania.com/conference'
+playlist: 'youtube.com:PLimdF0Nus9mauytlz0mvVoFxy8cgHAMcN'
+from_date: '2018-11-16'
+to_date: '2018-11-16'
+tags: ''
+talks:
+  -
+    title: 'BFF (Backend For Frontend)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Uri Goldshtein'
+        twitter: urigoldshtein
+        github: urigo
+    videos:
+      - 'youtube:g6Mhm9W76jY'
+    slides: null
+  -
+    title: 'Beyond alert(1); cross-site scripting attacks in 2018'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Niels Schweisshelm'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'EME? CDM? DRM? CENC? IDK!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Sebastian Golasch'
+        twitter: asciidisco
+        github: asciidisco
+    videos: null
+    slides: null
+  -
+    title: 'End-to-end testing from rookie to pro'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Domenico Gemoli'
+        twitter: aberonni
+        github: aberonni
+    videos: null
+    slides: null
+  -
+    title: 'How React Native, Appium and me made each other shine!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Wim Selles'
+        twitter: wswebcreation
+        github: wswebcreation
+    videos: null
+    slides: null
+  -
+    title: 'Even More CSS Secrets'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Lea Verou'
+        twitter: LeaVerou
+        github: LeaVerou
+    videos:
+      - 'youtube:J1J4oNcpcSM'
+    slides: null
+  -
+    title: 'Profunctor Optics for state management'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Andre Staltz'
+        twitter: andrestaltz
+        github: staltz
+    videos:
+      - 'youtube:VdiJ_vgVUgs'
+    slides: null
+  -
+    title: 'JavaScript for Artists'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'George Mandis'
+        twitter: georgeMandis
+        github: georgemandis
+    videos: null
+    slides: null
+  -
+    title: 'Browser APIs" the unknown Super Heroes"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Rowdy Rabouw'
+        twitter: RowdyRabouw
+        github: rowdyrabouw
+    videos: null
+    slides: null
+  -
+    title: 'Inside React"Then and Now"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Tianyu Pu'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Instant XR. Just add browser.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Ruben van der Leun'
+        twitter: rvdleun
+        github: null
+    videos:
+      - 'youtube:y5hKHI1EbkM'
+    slides: null
+  -
+    title: 'Crafting Web Comics with Ember'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Jessica Jordan'
+        twitter: jjordan_dev
+        github: jessica-jordan
+    videos: null
+    slides: null
+  -
+    title: 'Wait the web can do that'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Rafael Fernandes'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'CSS Fonts 4'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Chris Lilley'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UFmYAQZYDCY'
+    slides: null
+  -
+    title: 'Fun with Neural Networks using Tensorflow.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Piotr Ilczuk'
+        twitter: pilczuk
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'WTF Are Serverless Apps?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Beth Haubert'
+        twitter: haubertdashery
+        github: bethanyhaubert
+    videos: null
+    slides: null
+  -
+    title: 'Frontend transformation"leverage the power of serverless to become a fullstack developer"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Pavlik Kiselev'
+        twitter: null
+        github: paulcodiny
+    videos: null
+    slides: null
+  -
+    title: 'The Future of Work Begins with Us'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Bill Jensen'
+        twitter: simpletonbill
+        github: null
+    videos:
+      - 'youtube:Q-kYR1UuTU4'
+    slides: null
+  -
+    title: "Senses 2.0 - Rabobank's new platform for Frontend development"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Jouke Visser'
+        twitter: 'Jouke Visser'
+        github: jouke
+    videos: null
+    slides: null
+  -
+    title: 'Components and Styles Scoping'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Mikhail Bashkirov Web'
+        twitter: bashmish
+        github: bashmish
+    videos: null
+    slides: null

@@ -1,0 +1,420 @@
+name: 'Laracon EU 2017'
+description: 'Laracon EU is a unique international Laravel event with over 750 attendees. The conference has multiple tracks and is focusing on in-depth technical talks. Come learn about the state of the industry while networking with like-minded and diversely experienced developers.'
+location: Amsterdam
+venue: ''
+city: Amsterdam
+country: Netherlands
+link: 'https://laracon.eu/2017/'
+playlist: ''
+from_date: '2017-08-28'
+to_date: '2017-08-30'
+tags: ''
+talks:
+  -
+    title: 'Debugging Design: 5 simple design principles to make your UI "not look terrible".'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Laura Elizabeth'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9z61670MVQo'
+    slides: null
+  -
+    title: 'Symfony 4 Preview'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Nicolas Grekas'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Chat Bots'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-29 00:00'
+    speakers:
+      -
+        name: 'Christoph Rumpel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Write history, keep a diary'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-29 00:00'
+    speakers:
+      -
+        name: 'Jachim Coudenys'
+        twitter: coudenysj
+        github: null
+    videos:
+      - 'youtube:3Fn68v7JWKI'
+    slides: null
+  -
+    title: 'Stop listening to the internet'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Femke van Schoonhoven'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DCmX4ahF8sM'
+    slides: null
+  -
+    title: 'Denormalization With Eloquent: How, Why and When'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-29 00:00'
+    speakers:
+      -
+        name: 'Max Brokman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:eh2iXuzBbTc'
+    slides: null
+  -
+    title: 'Building a realtime dashboard with Laravel, Vue and Pusher'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Freek van der Herten'
+        twitter: freekmurze
+        github: freekmurze
+    videos:
+      - 'youtube:jtB_rTh61Zo'
+    slides: null
+  -
+    title: "Improve your developer's toolset"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Paweł Lewtak'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TajEHYYdXMo'
+    slides: null
+  -
+    title: 'Build an Airbnb-like search with Laravel, Algolia and Vue.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Julien Bourdeau'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '12 tried and tested top tips for better testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Amo Chohan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CF1UhUj9LG0'
+    slides: null
+  -
+    title: 'Laravel on ABOUT YOU: Philosophies of Development at Scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Robert Kilian and Pedro Nogueira'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Code review beyond code style'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Hannes Van De Vreken'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PwwnIBM8uec'
+    slides: null
+  -
+    title: 'How to find / manage remote developers.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Povilas Korop'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Agile Development in Education'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Alfie Carlisle'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'State of Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:2pLL00WR5iU'
+    slides: null
+  -
+    title: 'The introduction to Testing I wish I had.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Michiel Gerritsen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A Practical Intro into Snapshot Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Freek van der Herten'
+        twitter: freekmurze
+        github: freekmurze
+    videos: null
+    slides: null
+  -
+    title: 'Transforming PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Christopher Pitt'
+        twitter: assertchris
+        github: assertchris
+    videos:
+      - 'youtube:0AZRp_8TT0U'
+    slides: null
+  -
+    title: 'JWT - To authentication & beyond!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Luís Cobucci'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xRIBYkSrwWo'
+    slides: null
+  -
+    title: 'Building your API with Apiary & Dredd'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Dries Vints'
+        twitter: driesvints
+        github: driesvints
+    videos:
+      - 'youtube:bBxTGmF7kP4'
+    slides: null
+  -
+    title: 'Bruce Lee Driven Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Jeroen van der Gulik'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LV-qXn42o6g'
+    slides: null
+  -
+    title: 'Concept to Completion: Building a Lumen API handling in Excess of 10M requests per day'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Anna Fohlmeister'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Project Triage: What to Do When Everything Hits the Fan'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: "Eryn O'Neil"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:arE2x74-RK4'
+    slides: null
+  -
+    title: 'Bad UX is Not an Option: Intuitive Software by being a Better Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Rizqi Djamaluddin'
+        twitter: __rizqi
+        github: rizqidjamaluddin
+    videos:
+      - 'youtube:_kXgWRN7weM'
+    slides: null
+  -
+    title: 'From zero to multi-platform Chatbot with BotMan'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Marcel Pociot'
+        twitter: marcelpociot
+        github: mpociot
+    videos: null
+    slides: null
+  -
+    title: 'Monads in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Christopher Pitt'
+        twitter: assertchris
+        github: assertchris
+    videos:
+      - 'youtube:2th3L1RWvJk'
+    slides: null
+  -
+    title: 'Generate Laravel Code and Make Money.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Povilas Korop @DailyLaravel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Inside Vue Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Evan You'
+        twitter: youyuxi
+        github: yyx990803
+    videos:
+      - 'youtube:wZN_FtZRYC8'
+    slides: null
+  -
+    title: 'Beyond tedious meetings: A way to build a self-organized team.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Aaron Kunert'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Laravel Design Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-30 00:00'
+    speakers:
+      -
+        name: 'Bobby Bouwmann'
+        twitter: bobbybouwmann
+        github: bobbybouwmann
+    videos:
+      - 'youtube:mNl4cMLlplM'
+    slides: null

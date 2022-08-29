@@ -1,0 +1,190 @@
+name: 'Goruco 2015'
+description: ''
+location: 'New York'
+venue: ''
+city: ''
+country: ''
+link: 'http://2015.goruco.com/'
+playlist: ''
+from_date: '2015-06-20'
+to_date: '2015-06-20'
+tags: ''
+talks:
+  -
+    title: 'Rails 5, Turbolinks 3, and the future of View-Over-the-Wire'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-20 00:00'
+    speakers:
+      -
+        name: 'Nate Berkopec'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:eBccDerJPJE'
+    slides: null
+  -
+    title: 'Un-Artificial Intelligence'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-20 00:00'
+    speakers:
+      -
+        name: 'Melinda Seckington'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7Y1Bv2BJDLs'
+    slides: null
+  -
+    title: 'Common pitfalls of junior developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-20 00:00'
+    speakers:
+      -
+        name: 'Rachel Warbelow'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tYOx8mA5p2c'
+    slides: null
+  -
+    title: 'Of Mice and Metrics'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-20 00:00'
+    speakers:
+      -
+        name: 'Kara Bernert'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:j5ePxpIyLa0'
+    slides: null
+  -
+    title: 'Event sourcing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-20 00:00'
+    speakers:
+      -
+        name: 'Bryan Reinero'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dOlTRl8gJIs'
+    slides: null
+  -
+    title: 'How to Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-20 00:00'
+    speakers:
+      -
+        name: 'Eileen Uchitelle'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oT74HLvDo_A'
+    slides: null
+  -
+    title: 'Great Caching Disasters!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-20 00:00'
+    speakers:
+      -
+        name: 'Lisa Van Gelder'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tLS2z8ndDak'
+    slides: null
+  -
+    title: 'Building and testing resilient applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-20 00:00'
+    speakers:
+      -
+        name: 'Simon Eskildsen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ev0KpoACieo'
+    slides: null
+  -
+    title: 'Keynote: Playing games in the clouds'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-20 00:00'
+    speakers:
+      -
+        name: 'Nadia Odunayo'
+        twitter: nodunayo
+        github: null
+    videos:
+      - 'youtube:aHJEzIzhbf8'
+    slides: null
+  -
+    title: 'Home Automation with the Amazon Echo and Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-20 00:00'
+    speakers:
+      -
+        name: 'Zachary Feldman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:u1guHGWD1TU'
+    slides: null
+  -
+    title: 'Dropping down to The Metal™'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-20 00:00'
+    speakers:
+      -
+        name: 'Godfrey Chan'
+        twitter: chancancode
+        github: null
+    videos:
+      - 'youtube:90OytTY-xMo'
+    slides: null
+  -
+    title: 'Closing Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-20 12:00'
+    speakers: {  }
+    videos:
+      - 'youtube:kwkbrOwLsZY'
+    slides: null
+  -
+    title: 'Sweaters as a service'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-06-20 00:00'
+    speakers:
+      -
+        name: 'Amy Wibowo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Z16dVnewZVs'
+    slides: null

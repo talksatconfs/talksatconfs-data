@@ -1,0 +1,362 @@
+name: 'jsDay 2018'
+description: 'jsDay is a community conference intended for networking and collaboration in the developer community.We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by jsDay or not.'
+location: ''
+venue: ''
+city: Verona
+country: Italy
+link: 'https://2018.jsday.it/'
+playlist: 'youtube.com:PLWK9j6ps_unlSdVK68W5DROJFA7H13OCw'
+from_date: '2018-05-09'
+to_date: '2018-05-10'
+tags: ''
+talks:
+  -
+    title: 'My journey with WebGL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-09 00:00'
+    speakers:
+      -
+        name: 'Luigi De Rosa'
+        twitter: luruke
+        github: null
+    videos:
+      - 'youtube:iNMD8Vr1tKg'
+    slides: null
+  -
+    title: 'HTTP2, one frame at a time'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-09 00:00'
+    speakers:
+      -
+        name: 'Irina Shestak'
+        twitter: _lrlna
+        github: lrlna
+    videos:
+      - 'youtube:U6jyB2Zt1tw'
+    slides: null
+  -
+    title: 'ES Modules: The next revolution?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-09 00:00'
+    speakers:
+      -
+        name: 'Nir Noy'
+        twitter: noynir
+        github: null
+    videos:
+      - 'youtube:u_zCM_pSD3w'
+    slides: null
+  -
+    title: 'The future will be Serverless'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-09 00:00'
+    speakers:
+      -
+        name: 'Luciano Mammino'
+        twitter: loige
+        github: null
+    videos:
+      - 'youtube:nP6WX5Qs0qM'
+    slides: null
+  -
+    title: 'LDD PWA (Lighthouse Driven Development for Progressive Web Apps)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-09 00:00'
+    speakers:
+      -
+        name: 'Maurizio Mangione'
+        twitter: granze
+        github: null
+    videos:
+      - 'youtube:tDnUnas1tXw'
+    slides: null
+  -
+    title: 'Jest Testing Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-09 00:00'
+    speakers:
+      -
+        name: 'Liran Tal'
+        twitter: liran_tal
+        github: null
+    videos:
+      - 'youtube:zyvVRFxsg-Y'
+    slides: null
+  -
+    title: 'Creating an Enterprise Frontend Library in 2018'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-09 00:00'
+    speakers:
+      -
+        name: 'Chema Balsas'
+        twitter: jbalsas
+        github: null
+    videos:
+      - 'youtube:BgXO394N3wE'
+    slides: null
+  -
+    title: 'My node.js process is on fire'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-09 00:00'
+    speakers:
+      -
+        name: 'Matteo Collina'
+        twitter: matteocollina
+        github: null
+    videos:
+      - 'youtube:mR5AhImHjZU'
+    slides: null
+  -
+    title: 'The vanilla way'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-09 00:00'
+    speakers:
+      -
+        name: "Guido D'Orsi"
+        twitter: sockhatso
+        github: null
+    videos:
+      - 'youtube:kWfvVz_tGIM'
+    slides: null
+  -
+    title: 'Chatbots in JS: Overview and implementation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-09 00:00'
+    speakers:
+      -
+        name: 'Yann Leflour'
+        twitter: yleflour
+        github: null
+    videos:
+      - 'youtube:9kydEeYRnU8'
+    slides: null
+  -
+    title: 'Coding The Fork app in React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-09 00:00'
+    speakers:
+      -
+        name: 'Aurore Malherbes'
+        twitter: AuroreMa27
+        github: null
+    videos:
+      - 'youtube:tPJNPX2ARYk'
+    slides: null
+  -
+    title: 'TypeScript - JavaScript you are gonna love'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-09 00:00'
+    speakers:
+      -
+        name: 'Vitalii Bobrov'
+        twitter: bobrov1989
+        github: null
+    videos:
+      - 'youtube:VGAyA8eQ3o0'
+    slides: null
+  -
+    title: 'Everything is awesome: the Lego approach to being an awesome coworker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Paul Verbeek Mast'
+        twitter: paul_v_m
+        github: null
+    videos:
+      - 'youtube:zKhFD2R8Qvw'
+    slides: null
+  -
+    title: 'StranglerApplication pattern: a legacy frontend use case'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Francesco Strazzullo'
+        twitter: TheStrazz86
+        github: null
+    videos:
+      - 'youtube:cTSoFvAUUF8'
+    slides: null
+  -
+    title: 'Node Microservices - the definitive guide'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Ivan Jovanovic'
+        twitter: ivanjov96
+        github: ivanjov
+    videos:
+      - 'youtube:gFsA99Qo-q8'
+    slides: null
+  -
+    title: 'Web Payment APIs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Jonni Nakari'
+        twitter: JonniNakari
+        github: null
+    videos:
+      - 'youtube:CWlhgYvIO30'
+    slides: null
+  -
+    title: 'Finding Your Voice: Building Screenless Interfaces with Node.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Nara Kasbergen'
+        twitter: xiehan
+        github: xiehan
+    videos:
+      - 'youtube:oqGbyA847sU'
+    slides: null
+  -
+    title: 'Do the Right (to Left) Thing: Directional Content in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Maja Wichrowska'
+        twitter: majapw
+        github: majapw
+    videos:
+      - 'youtube:eqeSVT3dq6c'
+    slides: null
+  -
+    title: 'Node.js Security: Breaking The Loop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Liran Tal'
+        twitter: liran_tal
+        github: null
+    videos:
+      - 'youtube:zyvVRFxsg-Y'
+    slides: null
+  -
+    title: 'PWA as a new Cyber Attack Vector'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Vitalii Bobrov'
+        twitter: bobrov1989
+        github: null
+    videos:
+      - 'youtube:JGKyPVu9abo'
+    slides: null
+  -
+    title: 'IPFS and how to distribute the web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Fredrik Rubensson'
+        twitter: froderik
+        github: null
+    videos:
+      - 'youtube:25edElIeJJc'
+    slides: null
+  -
+    title: '“The Upside Down” of the web, Video'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Máté Nádasdi'
+        twitter: matenadasdi
+        github: null
+    videos:
+      - 'youtube:c9nhn5h14bM'
+    slides: null
+  -
+    title: 'Server Side Rendering from the trenches'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'William Durand'
+        twitter: couac
+        github: null
+    videos:
+      - 'youtube:SI7LBiYpFfs'
+    slides: null
+  -
+    title: '10KB or Bust: The Delicate Power of Webpack and Babel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Brian Holt'
+        twitter: holtbt
+        github: btholt
+    videos:
+      - 'youtube:SSymzmnk0ZA'
+    slides: null
+  -
+    title: 'Artificial Intelligence and Machine Learning in the browser'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-10 00:00'
+    speakers:
+      -
+        name: 'Keyfer Mathewson'
+        twitter: Keyfermath
+        github: null
+    videos:
+      - 'youtube:4x_JrLqtRVc'
+    slides: null

@@ -1,0 +1,320 @@
+name: 'FrontCon 2019'
+description: 'Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.'
+location: ''
+venue: ''
+city: Riga
+country: Latvia
+link: 'https://frontcon.lv/'
+playlist: 'youtube.com:PLZt0grAG6hC8QxIgVjzNCtT1uE_w2gKy_'
+from_date: '2019-04-03'
+to_date: '2019-04-05'
+tags: ''
+talks:
+  -
+    title: 'Building resilient frontend architecture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-04 00:00'
+    speakers:
+      -
+        name: 'Monica Lent'
+        twitter: monicalent
+        github: mlent
+    videos:
+      - 'youtube:P4wTkRCcpBs'
+    slides: null
+  -
+    title: 'Bridging the gap between UX and development – A Storybook'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-04 00:00'
+    speakers:
+      -
+        name: 'Marko Letic'
+        twitter: NisamProgramer
+        github: mletic
+    videos:
+      - 'youtube:QNYSCkLn4Oo'
+    slides: null
+  -
+    title: 'Modern JavaScript Frameworks & SEO'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-04 00:00'
+    speakers:
+      -
+        name: 'Jecelyn Yeen'
+        twitter: tylermcginnis
+        github: tylermcginnis
+    videos:
+      - 'youtube:-0DoYpj3SVc'
+    slides: null
+  -
+    title: 'AAA 3D graphics on the Web with ReactJS + BabylonJS + Unity3D'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-04 00:00'
+    speakers:
+      -
+        name: 'Denis Radin'
+        twitter: PixelsCommander
+        github: PixelsCommander
+    videos:
+      - 'youtube:e-avQTvjORI'
+    slides: null
+  -
+    title: 'React Advanced Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-04 00:00'
+    speakers:
+      -
+        name: 'Manjula Dube'
+        twitter: manjula_dube
+        github: manjula91
+    videos:
+      - 'youtube:lvndTUDNspw'
+    slides: null
+  -
+    title: 'How to nail your next (frontend) interview'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-04 00:00'
+    speakers:
+      -
+        name: 'Jānis Miezītis'
+        twitter: janjiss
+        github: janjiss
+    videos:
+      - 'youtube:VWx7peRBZsA'
+    slides: null
+  -
+    title: 'V8 by example: A journey through the compilation pipeline'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-04 00:00'
+    speakers:
+      -
+        name: 'Ujjwal Sharma'
+        twitter: zokuken
+        github: ryzokuken
+    videos:
+      - 'youtube:qeWQu2iii1U'
+    slides: null
+  -
+    title: 'Knock knock, who’s there? Authenticating your single page apps using JSON Web Tokens'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-04 00:00'
+    speakers:
+      -
+        name: 'Sam Bellen'
+        twitter: sambego
+        github: Sambego
+    videos:
+      - 'youtube:mor9QNhAkuY'
+    slides: null
+  -
+    title: 'In the Trenches During a Software Supply Chain Attack'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-04 00:00'
+    speakers:
+      -
+        name: 'Mitch Denny'
+        twitter: mitchdenny
+        github: mitchdenny
+    videos:
+      - 'youtube:cKus-f7AbC8'
+    slides: null
+  -
+    title: 'Things that every JavaScript developer should know'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-05 00:00'
+    speakers:
+      -
+        name: 'Rachel Appel'
+        twitter: RachelAppel
+        github: rachelappel
+    videos:
+      - 'youtube:pVMVqnVLyfM'
+    slides: null
+  -
+    title: 'Serverless: a backend thing that gives superpowers to frontend developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-05 00:00'
+    speakers:
+      -
+        name: 'Slobodan Stojanović'
+        twitter: slobodan_
+        github: stojanovic
+    videos:
+      - 'youtube:BvDXzyOP3NE'
+    slides: null
+  -
+    title: 'Painting with Data'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-05 00:00'
+    speakers:
+      -
+        name: 'Richard Westenra'
+        twitter: RichardWestenra
+        github: richardwestenra
+    videos:
+      - 'youtube:yJZEHW4i3fk'
+    slides: null
+  -
+    title: 'How to extend webpack with your own plugins'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-05 00:00'
+    speakers:
+      -
+        name: 'Viktor Razumov'
+        twitter: vicrazumov
+        github: vicrazumov
+    videos:
+      - 'youtube:zJ9BpVjS6O0'
+    slides: null
+  -
+    title: 'Managing State in React Apps with RxJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-05 00:00'
+    speakers:
+      -
+        name: 'James Wright'
+        twitter: jamesseanwright
+        github: jamesseanwright
+    videos:
+      - 'youtube:mGRbEdxPVrI'
+    slides: null
+  -
+    title: 'The Art of Obfuscation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-05 00:00'
+    speakers:
+      -
+        name: 'Martin Kleppe'
+        twitter: aemkei
+        github: aemkei
+    videos:
+      - 'youtube:UH-j0BudwXI'
+    slides: null
+  -
+    title: 'Algebraic Data Types'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-05 00:00'
+    speakers:
+      -
+        name: 'Marius Jurgelenas'
+        twitter: null
+        github: mariusju
+    videos:
+      - 'youtube:A9cB9VjZFTg'
+    slides: null
+  -
+    title: 'Software Decision Making in Terms of Uncertainty'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-05 00:00'
+    speakers:
+      -
+        name: 'Ziv Levu'
+        twitter: zivlevy1
+        github: zivl
+    videos:
+      - 'youtube:Qo9T9ruBxbs'
+    slides: null
+  -
+    title: 'Parcel – your next web application bundler?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-05 00:00'
+    speakers:
+      -
+        name: 'Janis Koselevs'
+        twitter: dzhonijs
+        github: null
+    videos:
+      - 'youtube:3l2q5HYWPyI'
+    slides: null
+  -
+    title: 'Building next generation PWA e-commerce frontend'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-05 00:00'
+    speakers:
+      -
+        name: 'Raivis Dejus'
+        twitter: RaivisDejus
+        github: raivisdejus
+    videos:
+      - 'youtube:rL5Gbn4hJws'
+    slides: null
+  -
+    title: 'GraphQL Will Do To REST What JSON Did To XML'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-05 00:00'
+    speakers:
+      -
+        name: 'Roy Derks'
+        twitter: gethackteam
+        github: royderks
+    videos:
+      - 'youtube:FsAxgju5QFM'
+    slides: null
+  -
+    title: 'Case-study: Frontend in Cybersecurity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-05 00:00'
+    speakers:
+      -
+        name: 'Ruslan Zavacky'
+        twitter: RuslanZavacky
+        github: RuslanZavacky
+    videos:
+      - 'youtube:AD5MtA7wQLU'
+    slides: null
+  -
+    title: 'Delivering Fast Video without the Buffering'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-05 00:00'
+    speakers:
+      -
+        name: 'Doug Sillars'
+        twitter: dougsillars
+        github: dougsillars
+    videos:
+      - 'youtube:KTElBkSmq3A'
+    slides: null

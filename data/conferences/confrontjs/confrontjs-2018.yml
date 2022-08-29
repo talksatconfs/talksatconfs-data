@@ -1,0 +1,161 @@
+name: 'ConfrontJS 2018'
+description: 'ConFront JS is a conference that focuses on JavaScript used in Front-end development. The target audience are mid-level and advanced JavaScript programmers.ConFrontJS is organised by WarsawJS team. We are running a community of over 4000 members, which is the biggest and most active JavaScript.Community of this type in Poland. We are experienced, dependable and open.'
+location: ''
+venue: ''
+city: Warszawa
+country: Poland
+link: 'https://confrontjs.com/'
+playlist: 'youtube.com:PL-NdCZbM-0-tBj_Vmh4BNJ87jFLgPFBeD'
+from_date: '2018-10-29'
+to_date: '2018-10-29'
+tags: ''
+talks:
+  -
+    title: 'Scalable Best Practices for Your Development Team'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-29 00:00'
+    speakers:
+      -
+        name: 'Tejas Kumar'
+        twitter: TejasKumar_
+        github: TejasQ
+    videos:
+      - 'youtube:rdiUFma8QJU'
+    slides: null
+  -
+    title: 'Algebraic Data Types'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-29 00:00'
+    speakers:
+      -
+        name: 'Marcin Wadoń'
+        twitter: Evojam
+        github: null
+    videos:
+      - 'youtube:H6jTbqnk4Ao'
+    slides:
+      - 'https://drive.google.com/file/d/0B6FkkQvZBxefXzREeGpnUklrNWRYX08za2xjeGVaX3RaR0JZ/view'
+  -
+    title: 'Build your own test runner'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-29 00:00'
+    speakers:
+      -
+        name: 'Ran Yitzhaki'
+        twitter: Wix
+        github: null
+    videos:
+      - 'youtube:lDrEYgTDSmo'
+    slides:
+      - 'https://slides.com/ranyitzhaki/build-your-own-test-runner#/'
+  -
+    title: 'Taste the Future with Functional Web Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-29 00:00'
+    speakers:
+      -
+        name: 'Dominik Lubański'
+        twitter: Shedul
+        github: null
+    videos:
+      - 'youtube:WZ1MEHuxHGg'
+    slides:
+      - 'https://slides.com/smalluban/future-with-web-components#/'
+  -
+    title: 'Migrating from Monolith to Microfrontends'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-29 00:00'
+    speakers:
+      -
+        name: 'Yaprak Ayazoğlu'
+        twitter: yaprakaya
+        github: ankakusu
+    videos:
+      - 'youtube:iA7sTBamg9Q'
+    slides:
+      - 'https://slides.com/yaprakayazoglu/monolith-to-microfrontend#/'
+  -
+    title: 'Making internets great again - a story of working with legacy code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-29 00:00'
+    speakers:
+      -
+        name: 'Miszo Radomski'
+        twitter: pan_miszo
+        github: null
+    videos:
+      - 'youtube:-Eelava1III'
+    slides:
+      - 'https://www.slideshare.net/MichaRadomski1/miszo-radomski-making-internets-great-again'
+  -
+    title: 'The Front-end TDD challenge'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-29 00:00'
+    speakers:
+      -
+        name: 'Yonatan Kra'
+        twitter: WalkMe
+        github: null
+    videos:
+      - 'youtube:TCrVRMI2c_U'
+    slides:
+      - 'https://docs.google.com/presentation/d/e/2PACX-1vQo-LaIDAfK0K3QflUlwwnR6bPvM-pYT2tGdadwcoSJY1w6dlkdEhFgk2PeEyWvy4gOFGc9SJqSS2fZ/pub#slide=id.g4652ebffb8_0_0'
+  -
+    title: 'When Push Comes to Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-29 00:00'
+    speakers:
+      -
+        name: 'Nadia Ginalska'
+        twitter: Visuality
+        github: null
+    videos:
+      - 'youtube:1XdwYWqyfOE'
+    slides:
+      - 'https://docs.google.com/presentation/d/1cOsxXSl5Z8B-L_jXsRoj1whaYd1azrP1f94Cbo0aHHQ/edit'
+  -
+    title: "You've been doing CSS wrong"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-29 00:00'
+    speakers:
+      -
+        name: 'Michał Warda'
+        twitter: michalwarda
+        github: null
+    videos:
+      - 'youtube:ucD1Wczf6w8'
+    slides:
+      - 'https://michalwarda.github.io/css-wrong/'
+  -
+    title: 'Moving from Anarchy to Sustainability'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-29 00:00'
+    speakers:
+      -
+        name: 'Peter Milne'
+        twitter: Adform
+        github: null
+    videos:
+      - 'youtube:weUrhuZHoUE'
+    slides:
+      - 'https://www.dropbox.com/s/opc0qnf5ebsjptq/Moving%20from%20Anarchy%20to%20Usability%20and%20Sustainability%20-%20ConFrontJS%20Oct%202018.pdf?dl=0'

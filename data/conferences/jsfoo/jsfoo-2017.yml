@@ -1,0 +1,260 @@
+name: 'JSFoo 2017'
+description: 'We launched JSFoo in 2011 as India’s first JavaScript conference. The JS community in India has grown phenomenally since then. JavaScript now pervades every aspect of web development – browsers, apps, front-end, backend, mobile and IoT, and there’s always scope to understand new ideas and solutions. The conference explores new ideas, implementing innovative solutions, and learning from experiences, especially negative ones!'
+location: 'Bengaluru, India'
+venue: ''
+city: Bangalore
+country: India
+link: 'https://jsfoo.in/2017/'
+playlist: ''
+from_date: '2017-09-15'
+to_date: '2017-09-16'
+tags: ''
+talks:
+  -
+    title: 'Tiny Computers, JavaScript and MIDI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-15 00:00'
+    speakers:
+      -
+        name: 'George Mandis'
+        twitter: georgeMandis
+        github: georgemandis
+    videos:
+      - 'youtube:R0-XLrr8icY'
+    slides: null
+  -
+    title: 'Framework Wars: Reactive web applications using Meteor'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-16 00:00'
+    speakers:
+      -
+        name: 'Sapna Upreti'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ynZ3mCe4ZAA'
+    slides:
+      - 'https://docs.google.com/presentation/d/1mLTXkUr0MkhvdN1WBUFhPiMBxH2ZZxbqD36Vr-z8JyU/edit?usp=sharing'
+  -
+    title: 'Scaling NodeJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-16 00:00'
+    speakers:
+      -
+        name: 'Abhinav Rastogi'
+        twitter: _abhinavrastogi
+        github: abhinavrastogi
+    videos:
+      - 'youtube:OsHvD6EUAWM'
+    slides: null
+  -
+    title: 'Sponsored session: Web and PWA OTR'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-15 00:00'
+    speakers:
+      -
+        name: Google
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TypeScript all the things!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-16 00:00'
+    speakers:
+      -
+        name: 'Prashant Tiwari'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YW1FAGBo05o'
+    slides: null
+  -
+    title: 'Framework wars: Great Developer Experience with Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-16 00:00'
+    speakers:
+      -
+        name: 'Vinci Rufus'
+        twitter: vinci
+        github: areai51
+    videos:
+      - 'youtube:ynZ3mCe4ZAA'
+    slides: null
+  -
+    title: 'Building a PWA using Polymer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-15 00:00'
+    speakers:
+      -
+        name: 'Ashrith Kulai'
+        twitter: ashrith_kulai
+        github: ashrithkulai
+    videos:
+      - 'youtube:AS9CMVU4XhI'
+    slides: null
+  -
+    title: 'Flash Talks on PWAs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-15 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:JVBrZmm7mgk'
+    slides: null
+  -
+    title: 'Scheduling background tasks in JavaScript to boost performance and DOM interactivity at large scale.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-16 00:00'
+    speakers:
+      -
+        name: 'Vivek Jagtap'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Framework wars: choosing Vue.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-16 00:00'
+    speakers:
+      -
+        name: 'Rahul Kadyan'
+        twitter: znck0
+        github: null
+    videos:
+      - 'youtube:ynZ3mCe4ZAA'
+    slides:
+      - 'https://www.icloud.com/keynote/0A_6vPUhG253TeikT0euyhmjQ#JSFoo17_-_Choosing_Vue'
+  -
+    title: 'Safety not Guaranteed'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-15 00:00'
+    speakers:
+      -
+        name: 'Riyaz Walikar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XBraYHhqT-M'
+    slides: null
+  -
+    title: 'Demand Driven Applications with GraphQL by Vinci Rufus'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-15 00:00'
+    speakers:
+      -
+        name: 'Vinci Rufus'
+        twitter: vinci
+        github: areai51
+    videos:
+      - 'youtube:MagKisjCpsw'
+    slides: null
+  -
+    title: 'Modular-services in a Nodejs Monolith'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-16 00:00'
+    speakers:
+      -
+        name: 'Naval Saini'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XELSRLTk66o'
+    slides: null
+  -
+    title: 'And The Reason Is You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-16 00:00'
+    speakers:
+      -
+        name: 'Neehar Venugopal'
+        twitter: neeharv
+        github: neeharv
+    videos:
+      - 'youtube:sK2S3p1FwDI'
+    slides: null
+  -
+    title: 'Demystifying Web Components as the Weapon for Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-15 00:00'
+    speakers:
+      -
+        name: 'Rahat Khanna'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:71JdaRofCgA'
+    slides: null
+  -
+    title: 'Dark Art of Webpack Bundle Tuning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-16 00:00'
+    speakers:
+      -
+        name: 'Vijay Dharap'
+        twitter: dharapvj
+        github: dharapvj
+    videos:
+      - 'youtube:HchYsbCWMbg'
+    slides: null
+  -
+    title: '10x Faster Mobile App Dev with PureScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-16 00:00'
+    speakers:
+      -
+        name: 'Vimal Kumar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6XAc5nCm7oc'
+    slides: null
+  -
+    title: 'Sponsored session: Progressive Web Games'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-15 00:00'
+    speakers:
+      -
+        name: 'Prateek Bhatnagar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bjAFS88UJEo'
+    slides: null

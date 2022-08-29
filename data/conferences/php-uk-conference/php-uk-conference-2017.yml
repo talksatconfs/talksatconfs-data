@@ -1,0 +1,474 @@
+name: 'PHP UK Conference 2017'
+description: ''
+location: London
+venue: ''
+city: ''
+country: ''
+link: 'https://joind.in/event/php-uk-2017/schedule/list'
+playlist: ''
+from_date: '2017-02-16'
+to_date: '2017-02-17'
+tags: ''
+talks:
+  -
+    title: 'Progressive Web Apps in the wild'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-16 00:00'
+    speakers:
+      -
+        name: 'Rowan Merewood'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VBMjPp4J8fk'
+    slides: null
+  -
+    title: 'Kicking off with Zend Expressive and Doctrine ORM'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'James Titcumb'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fhUG7JexO7U'
+    slides: null
+  -
+    title: 'Introduction to SOLID'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-16 00:00'
+    speakers:
+      -
+        name: 'Gareth Ellis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:86Tt2pW9pv4'
+    slides: null
+  -
+    title: 'Docker, Kubernetes, and OpenShift for PHP Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Marek Jelen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dEj5iKM55U0'
+    slides: null
+  -
+    title: 'Unit Testing by Example'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-16 00:00'
+    speakers:
+      -
+        name: 'Anna Filina'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ESl-ncXA4G0'
+    slides: null
+  -
+    title: 'Code review beyond code style'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Hannes Van De Vreken'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:C087UCUkVLc'
+    slides: null
+  -
+    title: 'Using Open Source for Fun and Profit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-16 00:00'
+    speakers:
+      -
+        name: 'Gary Hockin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RH74_sFjqzs'
+    slides: null
+  -
+    title: 'Demystifying Object-Oriented Programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Alena Holligan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nyQYvSZM0tM'
+    slides: null
+  -
+    title: 'Speak to your computer - Build a Trivia game using Amazon Alexa and AWS Lambda'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Rouven Weßling'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AB-U--e1ltc'
+    slides: null
+  -
+    title: "It's all about the goto"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-16 00:00'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos:
+      - 'youtube:JAB8-8gW1UU'
+    slides: null
+  -
+    title: 'Silo-Based Architectures for High Availability Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Georgiana Gligor'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yAKsdrNKWgw'
+    slides: null
+  -
+    title: 'State of the PHP Community'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-16 00:00'
+    speakers:
+      -
+        name: 'Eli White'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1vFycFnVhaw'
+    slides: null
+  -
+    title: 'How the real-time communication between things can simplify our everyday life'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-16 00:00'
+    speakers:
+      -
+        name: 'Karina Popova'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:n1kO44tW20Y'
+    slides: null
+  -
+    title: 'Serving 30,000,000 Requests an Hour in the Cloud'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-16 00:00'
+    speakers:
+      -
+        name: 'Terrence Ryan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xbVWbWo31pk'
+    slides: null
+  -
+    title: 'Websockets and Torrents: A match made in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'James Mallison'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rKzjnB7wy3Q'
+    slides: null
+  -
+    title: 'Building RESTful APIs with Symfony components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-16 00:00'
+    speakers:
+      -
+        name: 'Victoria Quirante'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8KAgvjxcmDY'
+    slides: null
+  -
+    title: 'Driving Design Through Examples'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Ciaran McNulty'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:83GbyDpJDI4'
+    slides: null
+  -
+    title: 'Debugging Effectively'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: "Colin O'Dell"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nr-eV603-UA'
+    slides: null
+  -
+    title: 'JWT - To authentication & beyond!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Luís Cobucci'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:p2tItlr_3QI'
+    slides: null
+  -
+    title: 'WordPress for the Modern PHP Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-16 00:00'
+    speakers:
+      -
+        name: 'Chris Sherry'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:v57UWTXla3M'
+    slides: null
+  -
+    title: 'Drupal8 for Symfony developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Antonio Peric'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZKAjkCb7MZ0'
+    slides: null
+  -
+    title: 'I saw the future, and its web servers were written in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-16 00:00'
+    speakers:
+      -
+        name: 'David Zuelke'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VjJBR8YAxoE'
+    slides: null
+  -
+    title: 'The Road to Continuous Deployment: a case study'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-16 00:00'
+    speakers:
+      -
+        name: 'Michiel Rook'
+        twitter: michieltcs
+        github: null
+    videos:
+      - 'youtube:5vcsP_cyk4Q'
+    slides: null
+  -
+    title: 'I Think I Know What You’re Talking About, But I’m Not Sure'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Jennifer Wong'
+        twitter: mybluewristband
+        github: jennz0r
+    videos:
+      - 'youtube:iNrmKyA1vig'
+    slides: null
+  -
+    title: 'Don’t Lose Sleep - Secure Your REST'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-16 00:00'
+    speakers:
+      -
+        name: 'Adam Englander'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3T3M7sPIUG0'
+    slides: null
+  -
+    title: 'Integrating React.js with PHP projects'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-16 00:00'
+    speakers:
+      -
+        name: 'Nacho Martín'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:byYd1ag4iKw'
+    slides: null
+  -
+    title: 'Static analysis saved my code tonight'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-16 00:00'
+    speakers:
+      -
+        name: 'Damien Seguy'
+        twitter: faguo
+        github: dseguy
+    videos:
+      - 'youtube:TelqURPdQmQ'
+    slides: null
+  -
+    title: 'Towards a framework less world'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Michael Cullum'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:aFhwnjFF96I'
+    slides: null
+  -
+    title: 'Preparing your Dockerised Application for Production Deployment'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Dave Ward'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:quoM__Gg3zI'
+    slides: null
+  -
+    title: 'Smoke Tests - Why you should try to burn down your production environment'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-16 00:00'
+    speakers:
+      -
+        name: 'Sebastian Thoss'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:snDOv9J_vTY'
+    slides: null
+  -
+    title: 'Testing Complex Applications for PHP7'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Adam Baratz'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qKE3Pwkbhrc'
+    slides: null
+  -
+    title: 'Hopping in clouds: a tale of migration from one cloud provider to another'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-16 00:00'
+    speakers:
+      -
+        name: 'Michele Orselli'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:09TKbvBtmD4'
+    slides: null
+  -
+    title: 'Taking care of backups with Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-17 00:00'
+    speakers:
+      -
+        name: 'Freek van der Herten'
+        twitter: freekmurze
+        github: freekmurze
+    videos:
+      - 'youtube:klPNJypmIWQ'
+    slides: null

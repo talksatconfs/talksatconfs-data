@@ -1,0 +1,207 @@
+name: 'HalfStack Phoenix 2020'
+description: ''
+location: ''
+venue: ''
+city: 'Chandler, Arizona'
+country: 'United States'
+link: 'https://halfstackconf.com/phoenix/2020/'
+playlist: ''
+from_date: '2020-01-17'
+to_date: '2020-01-17'
+tags: ''
+talks:
+  -
+    title: 'HACKING LOOPS AND PROGRAMATIC PATTERNS INTO AGE OF EMPIRES'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-01-17 10:15'
+    speakers:
+      -
+        name: 'Alex Blom'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'COMMUNICATING THROUGH CODE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-01-17 10:45'
+    speakers:
+      -
+        name: 'Emma Brillhart'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'GETTING SASSY WITH PIXEL ART'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-01-17 11:10'
+    speakers:
+      -
+        name: 'Jacque Schrag'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'EXPLORING THE HIDDEN POTENTIAL OF SOUND DATA'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-01-17 11:30'
+    speakers:
+      -
+        name: 'Charlie Gerard'
+        twitter: devdevcharlie
+        github: charliegerard
+    videos: null
+    slides: null
+  -
+    title: 'RAISE YOUR VOICE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-01-17 12:40'
+    speakers:
+      -
+        name: 'Christian Heilmann'
+        twitter: codepo8
+        github: codepo8
+    videos: null
+    slides: null
+  -
+    title: 'CODING ACCESSIBILITY: BEST PRACTICES FROM THE FRONT LINES'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-01-17 13:10'
+    speakers:
+      -
+        name: 'Bekah Rice'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'WHAT DEVELOPERS CAN LEARN FROM SOVIET SPACE PROGRAM FAILURES'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-01-17 13:45'
+    speakers:
+      -
+        name: 'Andrey Sitnik'
+        twitter: andreysitnik
+        github: ai
+    videos: null
+    slides: null
+  -
+    title: 'MAKING ART WITH WEBASSEMBLY & WEBXR'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-01-17 14:10'
+    speakers:
+      -
+        name: 'Andrés Cuervo'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A STEP INTO VIRTUAL REALITY'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-01-17 14:50'
+    speakers:
+      -
+        name: 'Paul Shannon'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'ISTHEREAGAME.TODAY: HOW A DECADE OLD JOKE BECAME A SERVERLESS INCONVENIENT BASEBALL EMPIRE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-01-17 15:20'
+    speakers:
+      -
+        name: 'Mica Alaniz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'RETHINKING GAME CONTROLLERS IN AUGMENTED REALITY - NO TOUCHING!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-01-17 15:55'
+    speakers:
+      -
+        name: 'Jyoti Bishnoi'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'STRANGER THINGS THAN WEB BLUETOOTH'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-01-17 16:20'
+    speakers:
+      -
+        name: 'Luis Montes'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'JAVASCRIPT ON MICROCONTROLLERS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-01-17 17:10'
+    speakers:
+      -
+        name: 'Niels Leenheer'
+        twitter: html5test
+        github: NielsLeenheer
+    videos: null
+    slides: null
+  -
+    title: 'LISTENING TO MAPS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-01-17 17:45'
+    speakers:
+      -
+        name: 'Rene Rubalcava'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'ACID BURN. WEB. TRINITY'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-01-17 18:10'
+    speakers:
+      -
+        name: 'Dylan Schiemann'
+        twitter: dylans
+        github: dylans
+    videos: null
+    slides: null

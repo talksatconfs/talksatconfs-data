@@ -1,0 +1,184 @@
+name: 'JSHeroes 2019'
+description: 'JSHeroes is mostly focused on technical talks, the JavaScript ecosystem and the wonders of the Web. But each year, we pick a couple of extra topics we want to raise awareness of. In 2019, we tackle a major theme which impacts all of us one way or another: open source software. We are also committed to bringing on stage speakers that explore areas often overlooked by the community, namely: Web Accessibility, Mental Health and Balance.'
+location: ''
+venue: ''
+city: Cluj
+country: Romania
+link: 'https://jsheroes.io/2019'
+playlist: 'youtube.com:PLB9NqTp0uKrR8WFXitMvLMGd-kGGZ4RkX'
+from_date: '2019-04-11'
+to_date: '2019-04-12'
+tags: ''
+talks:
+  -
+    title: 'The Future of Web Animation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Sarah Drasner'
+        twitter: sarah_edo
+        github: sdras
+    videos:
+      - 'youtube:hjgni3dXcVE'
+    slides: null
+  -
+    title: 'Machine learning for front-end developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Charlie Gerard'
+        twitter: devdevcharlie
+        github: charliegerard
+    videos:
+      - 'youtube:cp0KdK3He48'
+    slides: null
+  -
+    title: 'Serverless can do that?!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Simona Cotin'
+        twitter: simona_cotin
+        github: simonaco
+    videos:
+      - 'youtube:fNKT6GMUxBY'
+    slides: null
+  -
+    title: 'How to build a house in 3D – A short introduction to BabylonJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Anna Backs'
+        twitter: merelyAnna/
+        github: an-na-b
+      -
+        name: 'Christina Zenzes'
+        twitter: merelyChristina
+        github: chrizzzz
+    videos:
+      - 'youtube:ZZ3uj-2H6-w'
+    slides: null
+  -
+    title: "WebAssembly's Post-MVP Future"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Lin Clark'
+        twitter: linclark
+        github: linclark
+      -
+        name: 'Till Schneidereit'
+        twitter: tschneidereit/
+        github: null
+    videos:
+      - 'youtube:ZZ3uj-2H6-w'
+    slides: null
+  -
+    title: 'You Belong Here: How to Make Open Source More Open'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Jason Lengstorf'
+        twitter: jlengstorf
+        github: jlengstorf
+    videos:
+      - 'youtube:8ARA7AD4yPs'
+    slides: null
+  -
+    title: 'Maintainers Anonymous'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Henry Zhu'
+        twitter: left_pad
+        github: hzoo
+    videos:
+      - 'youtube:-BPUPNz5H70'
+    slides: null
+  -
+    title: "Blowing Bubbles on Mental Health - Hacking a Kid's Toy in JavaScript"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Peggy RayzisDaisy Smith'
+        twitter: daisysmells
+        github: daisymarie128
+    videos:
+      - 'youtube:1vkziw8UpQQ'
+    slides: null
+  -
+    title: "You Don't Know Your Dependencies"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Alejandro Oviedo'
+        twitter: a0viedo/
+        github: a0viedo
+    videos:
+      - 'youtube:WsUIVlc3MCs'
+    slides: null
+  -
+    title: 'It’s My (Third) Party, and I’ll Cry if I Want To'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Harry Roberts'
+        twitter: csswizardry
+        github: null
+    videos:
+      - 'youtube:cOXl_q8JgjI'
+    slides: null
+  -
+    title: 'Oh, the Management Mistakes You Will Make!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-11 00:00'
+    speakers:
+      -
+        name: 'Jeffrey Lembeck'
+        twitter: jefflembeck
+        github: jefflembeck
+    videos:
+      - 'youtube:lEQfKWdUHXY'
+    slides: null
+  -
+    title: 'Sleeping well at night with cypress.io'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-12 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:S4hcRcJLIGo'
+    slides: null

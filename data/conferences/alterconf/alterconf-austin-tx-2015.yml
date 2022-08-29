@@ -1,0 +1,155 @@
+name: 'AlterConf Austin, TX - 2015'
+description: ''
+location: 'Austin, TX'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2015/austin-tx'
+playlist: ''
+from_date: '2015-04-25'
+to_date: '2015-04-25'
+tags: ''
+talks:
+  -
+    title: 'Industry Pains: Signs and Symptoms Not to Ignore'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-25 00:00'
+    speakers:
+      -
+        name: 'Mario Jara'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Erasure from Within: Building a Better MOGII Gaming Community'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-25 00:00'
+    speakers:
+      -
+        name: 'Catherine [Kiran/Rin] Oliver'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Toward Structure and Disambiguation: Supporting Diversity in Development Teams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-25 00:00'
+    speakers:
+      -
+        name: 'Elze Hamilton'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Tech Diversity is not just Black or White: Where's the Love for Latinos?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-25 00:00'
+    speakers:
+      -
+        name: 'Alberto Roca'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Discussing Practical Inclusivity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-25 00:00'
+    speakers:
+      -
+        name: 'Kojo Idrissa'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Job Candidates: Handling Problematic Interviews and Unethical Questions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-25 00:00'
+    speakers:
+      -
+        name: 'Rachel Gollay'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Unconscious Biases: Addressing Stealth Barriers to Gender Diversity in Tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-25 00:00'
+    speakers:
+      -
+        name: 'Shelly Carpenter'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Ashe Dryden'
+        twitter: ashedryden
+        github: ashedryden
+    videos: null
+    slides: null
+  -
+    title: 'We need to get beyond shock and denial when hearing about harassment'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-25 00:00'
+    speakers:
+      -
+        name: 'Kassandra Perch'
+        twitter: nodebotanist
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Crop Tops in Boardrooms: Viewing Youth, Expression, and Achievement through Gender'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-25 00:00'
+    speakers:
+      -
+        name: 'Chelsea Maxwell'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Our Internet, Ourselves'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-04-25 00:00'
+    speakers:
+      -
+        name: 'Andrea Grimes'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

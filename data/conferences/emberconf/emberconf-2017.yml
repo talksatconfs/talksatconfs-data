@@ -1,0 +1,266 @@
+name: 'EmberConf 2017'
+description: 'Ember is growing every day, and EmberConf is the best place to meet the folks behind the magic. You’ll hear from members of the Ember Core Team, top community contributors and users, and be the first to know what to expect for the future of Ember.'
+location: 'Portland OR, United States'
+venue: ''
+city: 'Portland OR'
+country: 'United States'
+link: 'https://2017.emberconf.com/'
+playlist: 'youtube:PLE7tQUdRKcybcmn3haSNio6p7rKrdNqTF'
+from_date: '2017-03-28'
+to_date: '2017-03-29'
+tags: ''
+talks:
+  -
+    title: 'EmberConf MiniTalks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Leah Silber'
+        twitter: wifelette
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Opening Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-28 00:00'
+    speakers:
+      -
+        name: 'Tom Dale'
+        twitter: tomdale
+        github: tomdale
+      -
+        name: 'Yehuda Katz'
+        twitter: wycats
+        github: null
+    videos:
+      - 'youtube:TEuY4GqwrUE'
+    slides: null
+  -
+    title: 'Confessions of an Ember Addon Author'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Lauren Elizabeth Tan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ln_DvmQsvis'
+    slides: null
+  -
+    title: 'Ember in a Large Organization'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Fisayo Oluwadiya'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Mastering Ember from the Perspective of a N00b'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Madison Kerndt'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lfdkFNfIkks'
+    slides: null
+  -
+    title: 'Counter-spells and the Art of Keeping Your Application Safe'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-28 00:00'
+    speakers:
+      -
+        name: 'Ingrid Epure'
+        twitter: ingridepure
+        github: ingride
+    videos:
+      - 'youtube:kPar8n9zaHo'
+    slides: null
+  -
+    title: 'State, Time, and Concurrency'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Alex Matchneer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VEzVDOmY-dc'
+    slides: null
+  -
+    title: 'Rebuilding Tumblr as a Single Page App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-28 00:00'
+    speakers:
+      -
+        name: 'Oli Griffiths'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tIfyQ12zfqs'
+    slides: null
+  -
+    title: 'Data Loading Patterns with JSON API'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-28 00:00'
+    speakers:
+      -
+        name: 'Balint Erdi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kPxiiAGMSzE'
+    slides: null
+  -
+    title: 'SVG Animation and Interaction in Ember'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Jen Weber'
+        twitter: jwwweber
+        github: null
+    videos:
+      - 'youtube:ZC3lD_DFlkc'
+    slides: null
+  -
+    title: 'Empowering the Next Million Creators'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-29 00:00'
+    speakers:
+      -
+        name: 'Edward Faulkner'
+        twitter: eaf4
+        github: null
+    videos:
+      - 'youtube:9DsBHKj90EY'
+    slides: null
+  -
+    title: 'Closing Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Sarah Mei'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UDp6eDCi1Vo'
+    slides: null
+  -
+    title: 'Going Progressive with Ember'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-28 00:00'
+    speakers:
+      -
+        name: 'Samanta De Barros'
+        twitter: sami_dbc
+        github: null
+    videos:
+      - 'youtube:OR1Tk_bwmZo'
+    slides: null
+  -
+    title: 'Understanding JavaScript Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-28 00:00'
+    speakers:
+      -
+        name: 'Godfrey Chan'
+        twitter: chancancode
+        github: null
+    videos:
+      - 'youtube:7ylQThr3EeQ'
+    slides: null
+  -
+    title: "A Neurobiologist's Guide to Mind Manipulation"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-28 00:00'
+    speakers:
+      -
+        name: 'Casey Watts'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AtefvXagutM'
+    slides: null
+  -
+    title: 'Higher Order Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-28 00:00'
+    speakers:
+      -
+        name: 'Miguel Camba'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MpFudGJn2J0'
+    slides: null
+  -
+    title: 'An Animated Guide to Ember Internals'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-30 00:00'
+    speakers:
+      -
+        name: 'Gavin Joyce'
+        twitter: gavinjoyce
+        github: gavinjoyce
+    videos:
+      - 'youtube:A5k2u7AZf6g'
+    slides: null
+  -
+    title: 'Animate the Web with Ember.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-28 00:00'
+    speakers:
+      -
+        name: 'Jessica Jordan'
+        twitter: jjordan_dev
+        github: jessica-jordan
+    videos:
+      - 'youtube:wFJPIjRTIVU'
+    slides: null

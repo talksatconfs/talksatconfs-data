@@ -1,0 +1,244 @@
+name: 'HalfStack London 2018'
+description: "Started in 2010, London HalfStack has events at least once a month to discuss all things interesting in the desktop and mobile web world. The format includes meetups, panels, and conferences, and always a pub after each event.For seven years, we've had regular JavaScript meetup events. And then we spend time discussing JavaScript at a pub and/or CodeNode. For the fourth time, we're flipping this around and bringing the talks to a pub in the Shoreditch area.Talks will include a variety of modern front-end development topics (2017's conference covered ES6, TypeScript, frameworks, WebGL, web audio/video, WebVR, speech recognition, JS poetry, and much more) from leading speakers based primarily in London. The Call for Papers will be open from March through mid July. We will let all potential speakers know our answer by mid-August."
+location: ''
+venue: ''
+city: London
+country: 'United Kingdom'
+link: 'https://halfstackconf.com/london/2018/'
+playlist: 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com'
+from_date: '2018-11-16'
+to_date: '2018-11-16'
+tags: ''
+talks:
+  -
+    title: 'Bringing best practices front and centre'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-16 00:00'
+    speakers:
+      -
+        name: 'Chris Heilmann'
+        twitter: codepo8
+        github: codepo8
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/26'
+    slides: null
+  -
+    title: 'The present and future of VR on the Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-16 00:00'
+    speakers:
+      -
+        name: 'Ada Rose Cannon'
+        twitter: Lady_Ada_King
+        github: AdaRoseCannon
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/25'
+    slides: null
+  -
+    title: 'Building Bots with JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-16 00:00'
+    speakers:
+      -
+        name: 'Alex Lakatos'
+        twitter: lakatos88
+        github: AlexLakatos
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/31'
+    slides: null
+  -
+    title: 'Fast But Not Furious"Debugging User Interaction Performance Issues"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-16 00:00'
+    speakers:
+      -
+        name: 'Anna Migas'
+        twitter: szynszyliszys
+        github: szynszyliszys
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/27'
+    slides: null
+  -
+    title: 'npm install disaster-waiting-to-happen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-16 00:00'
+    speakers:
+      -
+        name: 'Liliana Kastilio'
+        twitter: lilianakastilio
+        github: null
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/28'
+    slides: null
+  -
+    title: 'Enter ES2018'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-16 00:00'
+    speakers:
+      -
+        name: 'Andrico Karoulla'
+        twitter: AndricoKaroulla
+        github: null
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/24'
+    slides: null
+  -
+    title: '100% CSS Mario Kart'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-16 00:00'
+    speakers:
+      -
+        name: 'Stephen Cook'
+        twitter: null
+        github: null
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/29'
+    slides: null
+  -
+    title: 'Buying a House with JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-16 00:00'
+    speakers:
+      -
+        name: 'Sean McGee'
+        twitter: HertsWestUK
+        github: smcgee2
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/18'
+    slides: null
+  -
+    title: 'Home Automation with JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-16 00:00'
+    speakers:
+      -
+        name: 'Jonathan Fielding'
+        twitter: JonthanFielding
+        github: jonathan-fielding
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/22'
+    slides: null
+  -
+    title: 'Reanimating the Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-16 00:00'
+    speakers:
+      -
+        name: 'Rob Bateman'
+        twitter: robnet
+        github: rob-bateman
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/23'
+    slides: null
+  -
+    title: 'The Most Important UI,You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-16 00:00'
+    speakers:
+      -
+        name: 'Carolyn Stransky'
+        twitter: carolstran
+        github: carolstran
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/21'
+    slides: null
+  -
+    title: 'Cats vs. Dogs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-16 00:00'
+    speakers:
+      -
+        name: 'Tom Dye'
+        twitter: tmdye
+        github: tomdye
+      -
+        name: 'Dylan Schiemann'
+        twitter: dylans
+        github: dylans
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/30'
+    slides: null
+  -
+    title: 'JavaScript at the edge'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-16 00:00'
+    speakers:
+      -
+        name: 'Cameron Diver'
+        twitter: Cameron_Diver
+        github: CameronDiver
+      -
+        name: 'Theodor Gherzan'
+        twitter: telphan
+        github: telphan
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/19'
+    slides: null
+  -
+    title: 'This Talk Is About You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-16 00:00'
+    speakers:
+      -
+        name: 'Jani Eväkallio'
+        twitter: jevakallio
+        github: jevakallio
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/20'
+    slides: null
+  -
+    title: 'Beats, Rhymes & Unit Tests'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-16 00:00'
+    speakers:
+      -
+        name: 'Tony Edwards'
+        twitter: tonyedwardspz
+        github: null
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/33'
+    slides: null
+  -
+    title: 'Alpha, Beta, Gamer"Dev Mode"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-16 00:00'
+    speakers:
+      -
+        name: 'Joe Hart'
+        twitter: null
+        github: null
+    videos:
+      - 'halfstackconf2017.streameventlive.com:https://halfstackconf2017.streameventlive.com/archive/32'
+    slides: null

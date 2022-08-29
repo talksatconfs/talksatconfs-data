@@ -1,0 +1,389 @@
+name: 'JSConf Iceland 2018'
+description: 'JSConf is coming to Iceland, again! This time, the conference takes place on March 1-2, 2018. That’s from Thursday through Friday. Perfect for catching up on talks, and with friends from the JavaScript community.Those two days will be jam-packed. Expect two tracks of inspiring, motivational and educational talks, from over 30 speakers from around the world. The speaker selection will comprise curated speakers and audience volunteers. The curated speakers submit proposals and make it through the selection process, whereas the audience volunteer speakers are “first-come, first-speak“.'
+location: ''
+venue: ''
+city: Reykjavik
+country: Iceland
+link: 'https://2018.jsconf.is/'
+playlist: 'youtube:PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO'
+from_date: '2018-03-01'
+to_date: '2018-03-02'
+tags: ''
+talks:
+  -
+    title: 'Node.js: Where are we now, where are we going?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 09:30'
+    speakers:
+      -
+        name: 'Anna Henningsen'
+        twitter: addaleax
+        github: addaleax
+    videos:
+      - 'youtube:O3MYg3Tp36s'
+    slides: null
+  -
+    title: 'Beyond React 16'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 10:00'
+    speakers:
+      -
+        name: 'Dan Abramov'
+        twitter: dan_abramov
+        github: gaearon
+    videos:
+      - 'youtube:nLF0n9SACd4'
+    slides: null
+  -
+    title: 'Speech Recognition as a Progressive Enhancement'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 11:10'
+    speakers:
+      -
+        name: 'Michael Henretty'
+        twitter: mikehenrty
+        github: mikehenrty
+    videos:
+      - 'youtube:rka9y6yJyX4'
+    slides: null
+  -
+    title: 'Simplifying Complex UIs with Finite Automata & Statecharts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 11:10'
+    speakers:
+      -
+        name: 'David Khourshid'
+        twitter: davidkpiano
+        github: davidkpiano
+    videos:
+      - 'youtube:RqTxtOXcv8Y'
+    slides: null
+  -
+    title: '“Works for Me”'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 11:50'
+    speakers:
+      -
+        name: 'Bryan Hughes'
+        twitter: nebrius
+        github: nebrius
+    videos:
+      - 'youtube:M5jb2eEWr0A'
+    slides: null
+  -
+    title: 'End to End Testing: The Game Has Changed'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 11:50'
+    speakers:
+      -
+        name: 'Will Klein'
+        twitter: willslab
+        github: willklein
+    videos:
+      - 'youtube:C1D94jWy8uE'
+    slides: null
+  -
+    title: 'Sharing is Caring: build a peer-to-peer network with WebRTC'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 13:30'
+    speakers:
+      -
+        name: 'Nicole Chung'
+        twitter: redconservatory
+        github: nicolechung
+    videos:
+      - 'youtube:ZGPOQOLv1p0'
+    slides: null
+  -
+    title: 'Augmented Reality: Past, Present, Future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 13:30'
+    speakers:
+      -
+        name: 'Raisa Cuevas'
+        twitter: raisaveuc
+        github: raisaveuc
+    videos:
+      - 'youtube:vOy8Qaml5yY'
+    slides: null
+  -
+    title: 'Humanizing Your Documentation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 14:10'
+    speakers:
+      -
+        name: 'Carolyn Stransky'
+        twitter: carolstran
+        github: carolstran
+    videos:
+      - 'youtube:FvPXMUuUCS4'
+    slides: null
+  -
+    title: 'Paint Splatter: The making of an interactive artwork'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 14:10'
+    speakers:
+      -
+        name: 'Halldór Eldjárn & Þórður Hans Baldursson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5CljHnVQWUQ'
+    slides: null
+  -
+    title: 'Creating generative art with Javascript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 14:50'
+    speakers:
+      -
+        name: 'Kate Compton'
+        twitter: galaxykate
+        github: galaxykate
+    videos:
+      - 'youtube:tJ49bTJ6fbs'
+    slides: null
+  -
+    title: 'XSS, CSRF, CSP, JWT, WTF? IDK'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 14:50'
+    speakers:
+      -
+        name: 'Dominik Kundel'
+        twitter: dkundel
+        github: kundel
+    videos:
+      - 'youtube:c6mqdsfWdmE'
+    slides: null
+  -
+    title: 'Give Apps Online Superpowers by Optimizing them for Offline'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 15:50'
+    speakers:
+      -
+        name: 'Dan Gebhardt'
+        twitter: dgeb
+        github: dgeb
+    videos:
+      - 'youtube:hr135pFCLU8'
+    slides: null
+  -
+    title: 'Directional Content in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-01 16:30'
+    speakers:
+      -
+        name: 'Maja Wichrowska'
+        twitter: majapw
+        github: majapw
+    videos:
+      - 'youtube:A_3BfONFRUc'
+    slides: null
+  -
+    title: 'How to style in React and not lose friends'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-02 10:00'
+    speakers:
+      -
+        name: 'Sarrah Vesselov'
+        twitter: svesselov
+        github: null
+    videos:
+      - 'youtube:V-flI7ui52M'
+    slides: null
+  -
+    title: 'Wait, you can do that with JavaScript…!?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-02 10:00'
+    speakers:
+      -
+        name: 'Opher Vishnia'
+        twitter: opherv
+        github: opherv
+    videos:
+      - 'youtube:JCATu2WkOq8'
+    slides: null
+  -
+    title: 'GitHub Pull Requests for Everyone'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-02 10:40'
+    speakers:
+      -
+        name: 'Catherine Meade'
+        twitter: catheraaine
+        github: catheraaine
+    videos:
+      - 'youtube:LqOcx-CtN0w'
+    slides: null
+  -
+    title: 'Building with Blockchains: Better Distributed Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-02 10:40'
+    speakers:
+      -
+        name: 'John Feminella'
+        twitter: jxxf
+        github: fj
+    videos: null
+    slides: null
+  -
+    title: 'Houdini - What lies ahead'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-02 11:20'
+    speakers:
+      -
+        name: 'Arun Michael Dsouza'
+        twitter: amdsouza92
+        github: arunmichaeldsouza
+    videos:
+      - 'youtube:BalUlHBwwlM'
+    slides: null
+  -
+    title: 'Scaling NodeJS beyond the ordinary'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-02 11:20'
+    speakers:
+      -
+        name: 'Abhinav Rastogi'
+        twitter: _abhinavrastogi
+        github: abhinavrastogi
+    videos:
+      - 'youtube:K8spO4hHMhg'
+    slides: null
+  -
+    title: 'Today: Making a browser fast, the story of Firefox Quantum.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-02 13:00'
+    speakers:
+      -
+        name: 'Jean-Yves Perrier'
+        twitter: Teoli2003
+        github: null
+    videos:
+      - 'youtube:Frwe3x8HfwE'
+    slides: null
+  -
+    title: "Code, Play & Rock 'n' Roll: A WebAudio Experiment"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-02 13:00'
+    speakers:
+      -
+        name: 'Armagan Amcalar'
+        twitter: dashersw
+        github: dashersw
+    videos:
+      - 'youtube:VE0kjwvuw7c'
+    slides: null
+  -
+    title: 'Building a raytracing engine with JS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-02 13:40'
+    speakers:
+      -
+        name: 'Madlaina Kalunder'
+        twitter: anialdam
+        github: aadjou
+    videos:
+      - 'youtube:s9-BqS32cF8'
+    slides: null
+  -
+    title: 'Empathy as a Service: Supporting Mental Health in Tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-02 13:40'
+    speakers:
+      -
+        name: 'Nara Kasbergen'
+        twitter: xiehan
+        github: xiehan
+    videos:
+      - 'youtube:nRMJMRdquJA'
+    slides: null
+  -
+    title: 'Daedalus – Though the Maze of Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-02 14:50'
+    speakers:
+      -
+        name: 'Martin Kleppe'
+        twitter: aemkei
+        github: aemkei
+    videos:
+      - 'youtube:SeAbvjM5Fhw'
+    slides: null
+  -
+    title: 'Webpack 4: The State of the Art'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-02 15:20'
+    speakers:
+      -
+        name: 'Sean Thomas Larkin'
+        twitter: thelarkinn
+        github: thelarkinn
+    videos:
+      - 'youtube:jUTE7lmrS70'
+    slides: null
+  -
+    title: 'Live and Machine Learn'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-02 15:50'
+    speakers:
+      -
+        name: 'Sarah Drasner'
+        twitter: sarah_edo
+        github: sdras
+    videos:
+      - 'youtube:i2iCyulbnus'
+    slides: null

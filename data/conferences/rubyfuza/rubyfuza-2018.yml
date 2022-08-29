@@ -1,0 +1,263 @@
+name: 'Rubyfuza 2018'
+description: ''
+location: ''
+venue: ''
+city: 'Cape Town'
+country: 'South Africa'
+link: ''
+playlist: 'youtube:PLI113oIao_x4i51ynrHhhNz3UpEDs0qxy'
+from_date: '2018-02-01'
+to_date: '2018-02-03'
+tags: ''
+talks:
+  -
+    title: Welcome
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 09:30'
+    speakers:
+      -
+        name: 'RubyFuza Organizers'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Orbital Rocket Guidance with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 09:40'
+    speakers:
+      -
+        name: 'Nate Berkopec'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1fKcXsSR_U0'
+    slides: null
+  -
+    title: 'Fantastic chatbots and where to find them'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 10:30'
+    speakers:
+      -
+        name: 'Simon and Arrie'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zg8FIVALywc'
+    slides: null
+  -
+    title: 'Make it SPECtacular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 11:30'
+    speakers:
+      -
+        name: "Megan O'Neill Oneill38"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WPkMcmj6igE'
+    slides: null
+  -
+    title: 'Sticky Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 12:00'
+    speakers:
+      -
+        name: 'Ben Janecke'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:q3MP4vSG3yI'
+    slides: null
+  -
+    title: 'Ouch! That Code Hurts My Brain'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 12:30'
+    speakers:
+      -
+        name: 'Sihui Huang'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Fd0zR7bEEnM'
+    slides: null
+  -
+    title: 'Building Ruby in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 14:00'
+    speakers:
+      -
+        name: 'Jacques Visser'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fV3F9H4vDUM'
+    slides: null
+  -
+    title: 'Mongo: An unexpected journey'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 14:30'
+    speakers:
+      -
+        name: 'Gys Muller '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DiiSO_KjhwQ'
+    slides: null
+  -
+    title: 'Fun with an Amazon Echo, Ruby and Recipes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 15:30'
+    speakers:
+      -
+        name: 'Miles Woodroffe'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dUcnEU5JQJI'
+    slides: null
+  -
+    title: 'Lessons learnt in pursuit of growth'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-01 16:00'
+    speakers:
+      -
+        name: 'Ridhwana Khan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AVQ84RkQyms'
+    slides: null
+  -
+    title: 'Around the Ruby Block'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 09:40'
+    speakers:
+      -
+        name: 'Eliza de Jager'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oXue93cyEP0'
+    slides: null
+  -
+    title: 'Using GraphQL and Relay for hybrid Ruby on Rails applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 10:30'
+    speakers:
+      -
+        name: 'Caio Almeida'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DWOIeHUnJ44'
+    slides: null
+  -
+    title: 'Growing data in a Ruby world'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 11:30'
+    speakers:
+      -
+        name: 'Tamar Rucham'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yhaem3_Gm9w'
+    slides: null
+  -
+    title: 'Simulating and Testing Third Party Service Integrations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 12:00'
+    speakers:
+      -
+        name: 'Konstantin Tennhard'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nc1FjIyisMM'
+    slides: null
+  -
+    title: 'DIY projects with Ruby & Pi'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 12:30'
+    speakers:
+      -
+        name: 'Helio Cola'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:G9BrqlzokS0'
+    slides: null
+  -
+    title: "Tomorrow's UI Architecture — Structuring UI applications Around Features & Why You Might Want To"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 14:30'
+    speakers:
+      -
+        name: 'Rob Fall'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Kc9zfL9NuuI'
+    slides: null
+  -
+    title: 'Fast Code Without Breaking Things'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 15:30'
+    speakers:
+      -
+        name: 'Richard Ellingson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cGRYwLqUSBk'
+    slides: null
+  -
+    title: 'Dockerizing Ruby apps and moving off Engine Yard'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 16:00'
+    speakers:
+      -
+        name: 'Cobus Bernard'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iF6pfsmlAQA'
+    slides: null

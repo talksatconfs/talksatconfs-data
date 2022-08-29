@@ -1,0 +1,692 @@
+name: 'JSConf EU 2017'
+description: 'This was probably one of the best weekends of my life, meeting great people, listening to talented developers share their experiences with us and getting inspired by a lot of them'
+location: 'Berlin, Germany'
+venue: ''
+city: Berlin
+country: Germany
+link: 'https://2017.jsconf.eu/'
+playlist: ''
+from_date: '2017-05-06'
+to_date: '2017-05-07'
+tags: ''
+talks:
+  -
+    title: 'The Browser Hackers Guide To Instantly Loading Everything'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Addy Osmani'
+        twitter: addyosmani
+        github: addyosmani
+    videos:
+      - 'youtube:7vUs5yOuv-o'
+    slides: null
+  -
+    title: "What's new in Netscape Navigator 2.0"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Marcin Szczepanski'
+        twitter: 'Marcin Szczepanski'
+        github: null
+    videos:
+      - 'youtube:Z-nXRZkge2U'
+    slides: null
+  -
+    title: 'Immutable data structures for functional JS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Anjana Vakil'
+        twitter: AnjanaVakil
+        github: vakila
+    videos:
+      - 'youtube:Wo0qiGPSV-s'
+    slides: null
+  -
+    title: 'NESpectre: The Massively Multi-Haunted NES'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Zachary Johnson'
+        twitter: zacharyjohnson
+        github: zachstronaut
+      -
+        name: 'Andrew Reitano'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:KSVYCV66sQQ'
+    slides: null
+  -
+    title: 'YES, your site too can (and should) be accessible. Lessons learned from building FT.com'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Laura Carvajal'
+        twitter: lc512k
+        github: lc512k
+    videos:
+      - 'youtube:H4FzW9oFObs'
+    slides: null
+  -
+    title: 'Maintaining an OSS Project (Babel)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Henry Zhu'
+        twitter: left_pad
+        github: hzoo
+    videos:
+      - 'youtube:_iToM2KC0QE'
+    slides:
+      - 'https://www.youtube.com/watch?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&v=_iToM2KC0QE'
+  -
+    title: 'How To Be A Web A/V Artist'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Ruth John'
+        twitter: Rumyra
+        github: Rumyra
+    videos:
+      - 'youtube:Lby6fk5gC4k'
+    slides: null
+  -
+    title: 'Pavlov’s Dog & Foucault’s Panopticon: Hacking My Anxiety With Open-Source Technology'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Jessica Tran'
+        twitter: jalafel
+        github: null
+    videos:
+      - 'youtube:MRxw0hG8DTM'
+    slides: null
+  -
+    title: 'Building High-Quality JavaScript Tools'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Chris Pojer'
+        twitter: cpojer
+        github: cpojer
+    videos:
+      - 'youtube:PvabBs_utr8'
+    slides: null
+  -
+    title: knock-knock-who-there-file-compression-TALK-FINAL-4.tar.trz.bz2.gz
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Irina Shestak'
+        twitter: _lrlna
+        github: lrlna
+    videos:
+      - 'youtube:IgP6BFLyQuw'
+    slides: null
+  -
+    title: 'Dynamic video in the browser'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Matthew Shotton'
+        twitter: MatthewShotton
+        github: MatthewShotton
+    videos:
+      - 'youtube:GsvAdTyXN8o'
+    slides: null
+  -
+    title: 'Keeping passwords safe in 2017'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Emil Bay'
+        twitter: emilbayes
+        github: emilbayes
+    videos:
+      - 'youtube:EAaweXzUVh4'
+    slides: null
+  -
+    title: "You don't need AMP for that"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Chen Shay'
+        twitter: null
+        github: chenshay
+    videos:
+      - 'youtube:EcG5ll_6fJk'
+    slides: null
+  -
+    title: 'Weakest Link'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Meno Abels'
+        twitter: fastandfearless
+        github: mabels
+    videos:
+      - 'youtube:JUTTqausxTQ'
+    slides: null
+  -
+    title: 'Sequential Art, Comics & SVGs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Zahra Jabini'
+        twitter: ZeeJab
+        github: ZeeJab
+    videos:
+      - 'youtube:LXgmD6kGkmI'
+    slides: null
+  -
+    title: 'Sociolinguistics and the Javascript community, a love story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Harriet Lawrence'
+        twitter: harrietgl
+        github: harrietgrace
+    videos:
+      - 'youtube:WGE3-aBR4i8'
+    slides: null
+  -
+    title: 'Emoji, Web Components, and Art'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Monica Dinculescu'
+        twitter: notwaldorf
+        github: notwaldorf
+    videos:
+      - 'youtube:_H1s9wBOqp8'
+    slides: null
+  -
+    title: 'Barriers to Entry in the JavaScript Community'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: Khalid
+        twitter: null
+        github: Khaleed
+    videos: null
+    slides: null
+  -
+    title: 'Can You Read Me? Creative JavaScript to Make Computer Science Fun'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Mariko Kosaka'
+        twitter: kosamari
+        github: kosamari
+      -
+        name: 'Suz Hinton'
+        twitter: noopkat
+        github: noopkat
+    videos:
+      - 'youtube:6qd2RZsRNUE'
+    slides: null
+  -
+    title: 'How to Break an API: How Community Values Influence Practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Christian Kästner'
+        twitter: p0nk
+        github: ckaestne
+    videos:
+      - 'youtube:xJHeHCZtmAU'
+    slides: null
+  -
+    title: 'A Brief History of Modularity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Ashley Williams'
+        twitter: ag_dubs
+        github: ashleygwilliams
+    videos:
+      - 'youtube:vypCsVm5z28'
+    slides:
+      - 'https://ashleygwilliams.github.io/jsconfeu-2017/#1'
+  -
+    title: 'How Does Javascript Math?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Meara Charnetzki'
+        twitter: m34ra
+        github: meara
+    videos: null
+    slides: null
+  -
+    title: 'Making the Jump: How Desktop-Era Frameworks Can Thrive on Mobile'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Tom Dale'
+        twitter: tomdale
+        github: tomdale
+    videos:
+      - 'youtube:PU94cgLuw9I'
+    slides: null
+  -
+    title: 'Keep the Internet Weird'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Rachel White'
+        twitter: ohhoe
+        github: rachelnicole
+    videos:
+      - 'youtube:vji_6ofE5Wg'
+    slides: null
+  -
+    title: "How It's Made, opening jsconf.eu"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-06 00:00'
+    speakers:
+      -
+        name: 'Kahlil,Boris, Jan, Martin'
+        twitter: nested_loops
+        github: null
+    videos:
+      - 'youtube:NpKLt_YO3o8'
+    slides: null
+  -
+    title: 'Applying NASA coding standards to JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Denis Radin'
+        twitter: PixelsCommander
+        github: PixelsCommander
+    videos:
+      - 'youtube:z8hG-3Ak_b4'
+    slides: null
+  -
+    title: 'From Advocacy to Innovation: How JS Developers will shape the future of Internet Security, Privacy, and Trust'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Amelia Abreu'
+        twitter: 'Amelia Abreu'
+        github: ameliaabreu
+    videos:
+      - 'youtube:VUWZAaXiL8M'
+    slides: null
+  -
+    title: 'JavaScript engines how do they even?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Franziska Hinkelmann'
+        twitter: fhinkel
+        github: fhinkel
+    videos:
+      - 'youtube:p-iiEDtpy6I'
+    slides: null
+  -
+    title: 'The Past, Present, and Future of JavaScript Date and Time APIs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Matt Johnson'
+        twitter: 'Matt Johnson'
+        github: mj1856
+    videos:
+      - 'youtube:aVuor-VAWTI'
+    slides: null
+  -
+    title: 'Parsing JavaScript - better lazy than eager?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Marja Hölttä'
+        twitter: 'Marja Hölttä'
+        github: null
+    videos:
+      - 'youtube:Fg7niTmNNLg'
+    slides: null
+  -
+    title: 'Source maps through the looking glass'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Ben Vinegar'
+        twitter: bentlegen
+        github: benvinegar
+    videos:
+      - 'youtube:NkVes0UMe9Y'
+    slides: null
+  -
+    title: 'The Ethics of the Internet of Things'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Emily Gorcenski'
+        twitter: EmilyGorcenski
+        github: Gorcenski
+    videos:
+      - 'youtube:xLL7Fo_em2E'
+    slides: null
+  -
+    title: "Let's go big"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Alexander Reardon'
+        twitter: alexandereardon
+        github: alexreardon
+    videos:
+      - 'youtube:9SHOfZI_SsM'
+    slides: null
+  -
+    title: 'A Cartoon Intro to WebAssembly'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Lin Clark'
+        twitter: linclark
+        github: linclark
+    videos:
+      - 'youtube:HktWin_LPf4'
+    slides: null
+  -
+    title: 'My gender is emoji pizza unicorn: shipping expanded gender options'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Tilde Ann Thurium'
+        twitter: annthurium
+        github: annthurium
+    videos:
+      - 'youtube:luppEiB4Peg'
+    slides: null
+  -
+    title: 'Down the Rabbit Hole: Javascript in Wonderland'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Claudia Hernández'
+        twitter: koste4
+        github: claudiahdz
+    videos:
+      - 'youtube:gE9xn-KOp1I'
+    slides: null
+  -
+    title: 'Sharing is Caring - Patterns for JavaScript Library Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Maggie Pint'
+        twitter: maggiepint
+        github: maggiepint
+    videos:
+      - 'youtube:RdKT70ktaeo'
+    slides: null
+  -
+    title: 'Preact: Into the void 0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Jason Miller'
+        twitter: _developit
+        github: developit
+    videos:
+      - 'youtube:LY6y3HbDVmg'
+    slides: null
+  -
+    title: 'Invisible Code: Building JavaScript Libraries For Non-Technical People'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'John Fawcett'
+        twitter: null
+        github: jrf0110
+    videos:
+      - 'youtube:CPTNEPvSMZs'
+    slides: null
+  -
+    title: 'Real world connectivity: Beyond the bubble'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Ben Schwarz'
+        twitter: benschwarz
+        github: benschwarz
+    videos:
+      - 'youtube:rwyZc1keSew'
+    slides: null
+  -
+    title: 'Two Problems: Regular Expressions for Revolutionaries'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Sarah Saltrick Meyer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4dv53Ft4s9c'
+    slides: null
+  -
+    title: 'Go Offline First to Save The World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Maureen McElaney'
+        twitter: Mo_Mack
+        github: mmcelaney
+    videos:
+      - 'youtube:GOdmPaBJqwA'
+    slides: null
+  -
+    title: 'Aesthetics of code.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Jan Krutisch'
+        twitter: halfbyte
+        github: halfbyte
+    videos:
+      - 'youtube:tfn3dsIQUzY'
+    slides: null
+  -
+    title: 'Calendar / Kalender / تقويم (aka, the fun of locali[zs]ation)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Paul Verbeek Mast'
+        twitter: paul_v_m
+        github: null
+    videos:
+      - 'youtube:0I4BNqfVLFI'
+    slides: null
+  -
+    title: 'Shared Memory & Parallel Programming with JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Nidin Vinayakan'
+        twitter: 01alchemist
+        github: nidin
+    videos:
+      - 'youtube:vvqfmskTIjE'
+    slides: null
+  -
+    title: 'Outbreak: index-sw-9a4c43b4b4778e7d1ca619eaaf5ac1db.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Alexander Pope'
+        twitter: popeindustries
+        github: popeindustries
+    videos:
+      - 'youtube:CPP9ew4Co0M'
+    slides: null
+  -
+    title: 'Bringing Back the 1990s: The Revenge of JavaScript Style Sheets'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Steve Kinney'
+        twitter: stevekinney
+        github: stevekinney
+    videos:
+      - 'youtube:XTvWOQSWS48'
+    slides: null
+  -
+    title: 'The Legacy of the JavaScript Community'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-07 00:00'
+    speakers:
+      -
+        name: 'Whitney Williams'
+        twitter: whitneyhacks
+        github: wweliz
+    videos:
+      - 'youtube:h-QPx0sMvLQ'
+    slides: null

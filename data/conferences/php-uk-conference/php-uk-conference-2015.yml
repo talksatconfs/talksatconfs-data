@@ -1,0 +1,513 @@
+name: 'PHP UK Conference 2015'
+description: ''
+location: London
+venue: ''
+city: ''
+country: ''
+link: 'http://web.archive.org/web/20150315120000/http://phpconference.co.uk/schedule/'
+playlist: ''
+from_date: '2015-02-19'
+to_date: '2015-02-20'
+tags: ''
+talks:
+  -
+    title: 'Hexagonal Architecture in DDD'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-20 00:00'
+    speakers:
+      -
+        name: 'Gordon Skinner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:u6oTg5oRH24'
+    slides: null
+  -
+    title: 'Welcome to PHP UK 2015'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-20 00:00'
+    speakers:
+      -
+        name: 'Johanna Cherry & Sam Bell'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Continuously delivering PHP projects'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-19 00:00'
+    speakers:
+      -
+        name: 'Javier Lopez'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HOwPJg-F4h0'
+    slides: null
+  -
+    title: 'Reverse caching proxies: Varnish or Nginx?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-19 00:00'
+    speakers:
+      -
+        name: 'Thijs Feryn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:KldPhbWqy2U'
+    slides: null
+  -
+    title: "PHP's biggest bottleneck - MySQL"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-19 00:00'
+    speakers:
+      -
+        name: 'Liam Wiltshire'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:drYy2T23eII'
+    slides: null
+  -
+    title: 'Your API is a UI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-20 00:00'
+    speakers:
+      -
+        name: 'Christopher Hoult'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OhVZBTm-vEk'
+    slides: null
+  -
+    title: 'Welcome to PHP UK Conferece'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-19 00:00'
+    speakers:
+      -
+        name: 'Johanna Cherry & Sam Bell'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Understanding the OWASP Top 10'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-20 00:00'
+    speakers:
+      -
+        name: 'Gary Hockin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qMkiZ3Ehv5M'
+    slides: null
+  -
+    title: 'Naming things'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-20 00:00'
+    speakers:
+      -
+        name: 'Anne-Julia Scheuermann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:--L0bS8n5ow'
+    slides: null
+  -
+    title: 'The Future of Programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-19 00:00'
+    speakers:
+      -
+        name: 'Nate Abele'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tq7wKcwbUN8'
+    slides: null
+  -
+    title: 'Devops for PHP Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-19 00:00'
+    speakers:
+      -
+        name: 'Jeremy Quinton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SL9FEDaXutE'
+    slides: null
+  -
+    title: "MVVM and Silex - It's the future"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-20 00:00'
+    speakers:
+      -
+        name: 'Billie Thompson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jL9nfIiX6G0'
+    slides: null
+  -
+    title: "What's new in PHP"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-19 00:00'
+    speakers:
+      -
+        name: 'Lorna Mitchell'
+        twitter: lornajane
+        github: lornajane
+    videos:
+      - 'youtube:MgkON_RR8ic'
+    slides: null
+  -
+    title: 'Open Source, Love, and Social Responsibility'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-20 00:00'
+    speakers:
+      -
+        name: 'Davey Shafik'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VS0kG3O9Ro0'
+    slides: null
+  -
+    title: 'Adding 1.21 Gigawatts to Applications with RabbitMQ'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-19 00:00'
+    speakers:
+      -
+        name: 'James Titcumb'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0cWcCQSAY5o'
+    slides: null
+  -
+    title: 'HHVM at Etsy: Harder, Better, Faster, Stronger'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-20 00:00'
+    speakers:
+      -
+        name: 'Dan Miller'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:75j1RRxxARI'
+    slides: null
+  -
+    title: 'Build RESTful APIs easily with Symfony'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-20 00:00'
+    speakers:
+      -
+        name: 'Sarah Khalil'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MPQrNuwdpMU'
+    slides: null
+  -
+    title: 'Integrating Communities'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-20 00:00'
+    speakers:
+      -
+        name: 'Jenny Wong'
+        twitter: miss_jwo
+        github: null
+    videos:
+      - 'youtube:KcVrdaPe80Y'
+    slides: null
+  -
+    title: 'My Debugging And Performance Toolbox'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-20 00:00'
+    speakers:
+      -
+        name: 'Ben Waine'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_JIFvGYsyxo'
+    slides: null
+  -
+    title: 'Are you out of memory, or have plenty to spare?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-20 00:00'
+    speakers:
+      -
+        name: 'Joshua Thijssen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Power of Modern Version Control'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-20 00:00'
+    speakers:
+      -
+        name: 'Chris Levy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EBxfXgUHVRI'
+    slides: null
+  -
+    title: 'Why Your Test Suite Sucks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-20 00:00'
+    speakers:
+      -
+        name: 'Ciaran McNulty'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DlgadZLOK-M'
+    slides: null
+  -
+    title: 'Accessibility done right'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-19 00:00'
+    speakers:
+      -
+        name: 'Michelle Sanver'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:g3snB6Kev-A'
+    slides: null
+  -
+    title: 'Bring your PHP application to the next level with React.JS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-19 00:00'
+    speakers:
+      -
+        name: 'Bastian Hofmann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YYt9u4uUetU'
+    slides: null
+  -
+    title: 'Database Wizardry for Legacy Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-19 00:00'
+    speakers:
+      -
+        name: "Gabriela D'avila"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:85E0hNWKIi0'
+    slides: null
+  -
+    title: 'Composer Best Practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-19 00:00'
+    speakers:
+      -
+        name: 'Jordi Boggiano'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mNFKZeYRdto'
+    slides: null
+  -
+    title: "Building RESTful APIs with Laravel 5's Doc Block-based Controller Annotations"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-19 00:00'
+    speakers:
+      -
+        name: 'Christopher Pecoraro'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:X3SxkS9iwhM'
+    slides: null
+  -
+    title: 'Everything That I Really Needed to Know, I Learned in Rabbinical School'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-19 00:00'
+    speakers:
+      -
+        name: 'Yitzchok Willroth'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Fta49J9_rF4'
+    slides: null
+  -
+    title: 'Barely Enough Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-19 00:00'
+    speakers:
+      -
+        name: 'Marcello Duarte'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NQN72Big8ww'
+    slides: null
+  -
+    title: 'Be a Bold Coder'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-20 00:00'
+    speakers:
+      -
+        name: 'Beth Tucker Long'
+        twitter: e3betht
+        github: e3betht
+    videos:
+      - 'youtube:qkKpel77fI4'
+    slides: null
+  -
+    title: 'Debugging: past, present and future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-20 00:00'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos:
+      - 'youtube:6kA4ORD9ruA'
+    slides: null
+  -
+    title: 'Application Logging & Logstash'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-19 00:00'
+    speakers:
+      -
+        name: 'Ben Waine'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9dni1D4QQOk'
+    slides: null
+  -
+    title: 'Building an API with Apigility'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-20 00:00'
+    speakers:
+      -
+        name: 'Rob Allen'
+        twitter: akrabat
+        github: akrabat
+    videos:
+      - 'youtube:D_mcntk4tXI'
+    slides: null
+  -
+    title: 'Modern Software Architectures'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-19 00:00'
+    speakers:
+      -
+        name: 'Ricard Clau'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qj4xZZYltI4'
+    slides: null
+  -
+    title: 'The NoSQL Store everyone ignores: PostgreSQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-20 00:00'
+    speakers:
+      -
+        name: 'Stephan Hochdorfer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:os1-plBMaKU'
+    slides: null
+  -
+    title: 'Modernizing The WordPress Toolbox'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-19 00:00'
+    speakers:
+      -
+        name: 'Aaron Jorbin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8CyeaQzwn-A'
+    slides: null

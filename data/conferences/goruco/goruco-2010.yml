@@ -1,0 +1,103 @@
+name: 'Goruco 2010'
+description: ''
+location: '1 Pace Plaza, Pace University Campus, Lower Manhattan'
+venue: ''
+city: ''
+country: ''
+link: 'http://2010.goruco.com/'
+playlist: ''
+from_date: '2010-05-22'
+to_date: '2010-05-22'
+tags: ''
+talks:
+  -
+    title: 'Scaling to Hundreds of Millions of Requests: What Worked and What Didn’t'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-05-22 00:00'
+    speakers:
+      -
+        name: 'James Golick'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Rails’ Best Caching Method is JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-05-22 00:00'
+    speakers:
+      -
+        name: 'Chris Williams'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Managing Ruby Teams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-05-22 00:00'
+    speakers:
+      -
+        name: 'Luke Melia'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Grease your Suite: Tips and Tricks for Faster Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-05-22 00:00'
+    speakers:
+      -
+        name: 'Nick Gauthier'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'memprof: the ruby level memory profiler'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-05-22 00:00'
+    speakers:
+      -
+        name: 'Aman Gupta'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Bowline - Ruby Desktop Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-05-22 00:00'
+    speakers:
+      -
+        name: 'Alex MacCaw'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building Web Service Clients with ActiveModel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-05-22 00:00'
+    speakers:
+      -
+        name: 'Paul Dix'
+        twitter: pauldix
+        github: pauldix
+    videos: null
+    slides: null

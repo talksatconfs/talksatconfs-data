@@ -1,0 +1,226 @@
+name: 'ScotlandPHP 2018'
+description: ''
+location: 'EICC, Edinburgh'
+venue: ''
+city: ''
+country: ''
+link: 'https://conference.scotlandphp.co.uk/2018/'
+playlist: PLUYKgcymLlHjOdNxy2UJWl6CD6BSVgLu-
+from_date: '2018-10-05'
+to_date: '2018-10-06'
+tags: ''
+talks:
+  -
+    title: 'Application Metrics (with Prometheus examples)'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2018/speakers#dohms'
+    talk_date: '2018-10-06 15:10'
+    speakers:
+      -
+        name: 'Rafael Dohms'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:C0yituwFkuU'
+    slides:
+      - ''
+  -
+    title: 'Git Legit'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2018/speakers#vos'
+    talk_date: '2018-10-06 14:15'
+    speakers:
+      -
+        name: 'Pauline Vos'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_e5oq4JT4_8'
+    slides:
+      - ''
+  -
+    title: 'We need a bigger boat - Introduction to application scaling'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2018/speakers#wiltshire'
+    talk_date: '2018-10-06 10:25'
+    speakers:
+      -
+        name: 'Liam Wiltshire'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:zKKvuHkJqoc'
+    slides:
+      - ''
+  -
+    title: 'Climbing the Abstract Syntax Tree'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2018/speakers#titcumb'
+    talk_date: '2018-10-06 11:30'
+    speakers:
+      -
+        name: 'James Titcumb'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:KwuE-qVsBMQ'
+    slides:
+      - ''
+  -
+    title: 'Get GOing with a new language'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2018/speakers#zien'
+    talk_date: '2018-10-06 11:30'
+    speakers:
+      -
+        name: 'Kat Zień'
+        twitter: kasiazien
+        github: null
+    videos:
+      - 'youtube:fN9vzt2Gg34'
+    slides:
+      - ''
+  -
+    title: 'Starting your Serverless journey with OpenFaaS'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2018/speakers#mccabe'
+    talk_date: '2018-10-06 09:30'
+    speakers:
+      -
+        name: 'John McCabe'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:mw2J5E0cclY'
+    slides:
+      - ''
+  -
+    title: 'Dungeons, Dragons & Developers'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2018/speakers#brunt'
+    talk_date: '2018-10-06 10:25'
+    speakers:
+      -
+        name: 'Matt Brunt'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:ikToxGGrIbQ'
+    slides:
+      - ''
+  -
+    title: 'Open Source for Closed Source Companies'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2018/speakers#folson'
+    talk_date: '2018-10-06 12:25'
+    speakers:
+      -
+        name: 'Amanda Folson'
+        twitter: AmbassadorAwsum
+        github: afolson
+    videos:
+      - 'www.youtube.com:9O_e4P0DCa0'
+    slides:
+      - ''
+  -
+    title: 'Looking after your Mental Health, a guide for software developers'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2018/speakers#railton'
+    talk_date: '2018-10-06 12:25'
+    speakers:
+      -
+        name: 'Mark Railton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1T85SmEmLfA'
+    slides:
+      - ''
+  -
+    title: 'Composer Best Practices 2018'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2018/speakers#adermann'
+    talk_date: '2018-10-06 14:15'
+    speakers:
+      -
+        name: 'Nils Adermann'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:eQkFjMfyqFY'
+    slides:
+      - ''
+  -
+    title: "Don't Wait, Generate!"
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2018/speakers#littman'
+    talk_date: '2018-10-06 15:10'
+    speakers:
+      -
+        name: 'Ian Littman'
+        twitter: iansltx
+        github: iansltx
+    videos:
+      - 'www.youtube.com:3Mru1NHZ4vc'
+    slides:
+      - ''
+  -
+    title: 'Optimizing PHP-FPM for Production'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2018/speakers#heuer'
+    talk_date: '2018-10-06 16:15'
+    speakers:
+      -
+        name: 'Sebastian Heuer'
+        twitter: null
+        github: null
+      -
+        name: 'Arne Blankerts'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_8TvRQhQ8rE'
+    slides:
+      - ''
+  -
+    title: 'Improve your team synergy w/ The Attitude Model'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2018/speakers#lammerts'
+    talk_date: '2018-10-06 16:15'
+    speakers:
+      -
+        name: 'Joop Lammerts'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:skxmaWSaO6s'
+    slides:
+      - ''
+  -
+    title: 'Developing for privacy and user protection'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2018/speakers#burns'
+    talk_date: '2018-10-06 17:10'
+    speakers:
+      -
+        name: 'Heather Burns'
+        twitter: WebDevLaw
+        github: null
+    videos:
+      - 'www.youtube.com:wMSb51IkiW0'
+    slides:
+      - ''

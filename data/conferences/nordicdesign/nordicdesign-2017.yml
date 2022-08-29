@@ -1,0 +1,181 @@
+name: 'Nordic.design - 2017'
+description: ''
+location: Stockholm
+venue: ''
+city: ''
+country: ''
+link: 'https://nordic.design/2017/schedule'
+playlist: ''
+from_date: '2017-09-06'
+to_date: '2017-09-06'
+tags: ''
+talks:
+  -
+    title: 'Making enemies and gaining fans'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-06 18:00'
+    speakers:
+      -
+        name: 'Fredrik Öst'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '5 things to avoid when designing for AI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-06 11:40'
+    speakers:
+      -
+        name: 'Tove Blomgren'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Lessons learned in building bots at Intercom'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-06 17:00'
+    speakers:
+      -
+        name: 'Kostya Gorskiy'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Interacting with People'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-06 11:10'
+    speakers:
+      -
+        name: 'Carly Ayres'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Designing a highly-collaborative application for collaborative designers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-06 09:40'
+    speakers:
+      -
+        name: 'Tim Van Damme'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Irresponsible Designer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-06 15:30'
+    speakers:
+      -
+        name: '​Cat Noone'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Lettering - Designing Analog Letterforms'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-06 11:55'
+    speakers:
+      -
+        name: 'Sofie Björkgren-Näse'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Scaling design with systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-06 16:00'
+    speakers:
+      -
+        name: 'Karri Saarinen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Where’d all the feelings go?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-06 10:10'
+    speakers:
+      -
+        name: 'Tobias Ahlin'
+        twitter: tobiasahlin
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Designing for Television'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-06 17:15'
+    speakers:
+      -
+        name: 'Molly Lafferty'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Why is the future of your Product global?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-06 16:30'
+    speakers:
+      -
+        name: 'Alexia Ohannessian'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Power of Play'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-06 14:00'
+    speakers:
+      -
+        name: 'Willow Mellbratt & Petter Karlsson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Creating a unified design tool for the modern designer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-06 14:30'
+    speakers:
+      -
+        name: 'Krijn Rijshouwer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

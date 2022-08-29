@@ -1,0 +1,347 @@
+name: 'Amsterdam JSNation Conference 2018'
+description: "Amsterdam JSNation is a 2-day event focusing exclusively on JavaScript development. At our conference, inspiring talks meet fresh ideas and good people - you’ll hear all you need to know about the latest trends in JS tech, see stellar speakers, meet new friends and colleagues, and connect with key people in the industry. Plus, all of that in one of Europe's top destinations."
+location: ''
+venue: ''
+city: Amsterdam
+country: Netherlands
+link: 'https://amsterdamjs.com/2018/'
+playlist: 'youtube.com:PLfIM4SvaiIywIr04DZs6NHNq_G4S_2hro'
+from_date: '2018-06-01'
+to_date: '2018-06-02'
+tags: ''
+talks:
+  -
+    title: 'Keynote: The Power of the Paradigm'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 09:30'
+    speakers:
+      -
+        name: 'Douglas Crockford'
+        twitter: null
+        github: douglascrockford
+    videos:
+      - 'youtube:OzWpYkLcwcQ'
+    slides: null
+  -
+    title: 'Bringing Mobile Web back to Life'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 10:00'
+    speakers:
+      -
+        name: 'Imad Elyafi'
+        twitter: eelyafi
+        github: eelyafi
+    videos:
+      - 'youtube:vQU6dnj1WXU'
+    slides: null
+  -
+    title: 'Vue JS Best Practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 10:30'
+    speakers:
+      -
+        name: 'Fatih Acet'
+        twitter: fatihacet
+        github: fatihacet
+    videos:
+      - 'youtube:DmgAIaTjy1w'
+    slides: null
+  -
+    title: console.log(brain)
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 11:30'
+    speakers:
+      -
+        name: 'Armagan Amcalar'
+        twitter: dashersw
+        github: dashersw
+    videos:
+      - 'youtube:WD50QfDX0TI'
+    slides: null
+  -
+    title: 'TypeScript Ruined My Life (In a Good Way)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 12:00'
+    speakers:
+      -
+        name: 'Andy Mockler'
+        twitter: asmockler
+        github: asmockler
+    videos:
+      - 'youtube:-BGxJn3c7NA'
+    slides: null
+  -
+    title: 'How to sort your socks using Javascript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 12:30'
+    speakers:
+      -
+        name: 'Claudia Hernández'
+        twitter: koste4
+        github: claudiahdz
+    videos:
+      - 'youtube:78SExzLhSK4'
+    slides: null
+  -
+    title: 'Look ma! No hands!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 14:40'
+    speakers:
+      -
+        name: 'Diego González'
+        twitter: diekus
+        github: diekus
+    videos:
+      - 'youtube:Aa6G1b5TbSE'
+    slides: null
+  -
+    title: 'Callback heaven'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 15:10'
+    speakers:
+      -
+        name: 'Andre Staltz'
+        twitter: andrestaltz
+        github: staltz
+    videos:
+      - 'youtube:HssczgaY9BM'
+    slides: null
+  -
+    title: 'How to scale an SPA?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 15:40'
+    speakers:
+      -
+        name: 'Asim Hussain'
+        twitter: jawache
+        github: jawache
+    videos:
+      - 'youtube:VaIbkXyqWsc'
+    slides: null
+  -
+    title: 'Persistence Cycle - A Successful Structure for Isomorphic Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 16:10'
+    speakers:
+      -
+        name: 'Oliver Spindler'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6an5nEV96rM'
+    slides: null
+  -
+    title: 'The dark ages of IoT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 16:40'
+    speakers:
+      -
+        name: 'Sebastian Golasch'
+        twitter: asciidisco
+        github: asciidisco
+    videos:
+      - 'youtube:0t9FERJRShQ'
+    slides: null
+  -
+    title: 'Tales from the QA crypt'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 17:10'
+    speakers:
+      -
+        name: 'Jennifer Voss'
+        twitter: VossJenn
+        github: jennvoss
+    videos:
+      - 'youtube:fB4nWp4SJ6Q'
+    slides: null
+  -
+    title: 'Fun with Bluetooth'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 17:40'
+    speakers:
+      -
+        name: 'Niels Leenheer'
+        twitter: html5test
+        github: NielsLeenheer
+    videos:
+      - 'youtube:rm1XAa0Ii1Q'
+    slides: null
+  -
+    title: 'Embrace Reactive Programming in React and Vue with RxJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 10:00'
+    speakers:
+      -
+        name: 'Fahad Ibnay Heylaal'
+        twitter: fahad19
+        github: fahad19
+    videos:
+      - 'youtube:rr4z4e83-Og'
+    slides: null
+  -
+    title: 'Webpack + WebAssembly the future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 10:30'
+    speakers:
+      -
+        name: 'Sendil Kumar'
+        twitter: sendilkumarn
+        github: sendilkumarn
+    videos:
+      - 'youtube:V8tXLos5UKg'
+    slides: null
+  -
+    title: 'Accelerating Ethereum Development with Node.js and Docker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 11:30'
+    speakers:
+      -
+        name: 'Johannes Bertens'
+        twitter: OneUpCompany
+        github: JohannesBertens
+    videos:
+      - 'youtube:jO59pCojHD0'
+    slides: null
+  -
+    title: 'Dart: the return'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 12:00'
+    speakers:
+      -
+        name: 'Evgeny Kot'
+        twitter: bunopus
+        github: bunopus
+    videos:
+      - 'youtube:pxFpqBhX7ow'
+    slides: null
+  -
+    title: 'Legalize JavaScript for the Enterprise Now!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 12:30'
+    speakers:
+      -
+        name: 'Paulo Lopes'
+        twitter: pml0pes
+        github: pmlopes
+    videos: null
+    slides: null
+  -
+    title: 'ECMAScript Modules: Past, Present, and Future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 14:40'
+    speakers:
+      -
+        name: 'Georg Neis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:F0K9jbw1T08'
+    slides: null
+  -
+    title: 'Optimized Angular apps: smaller, faster, better'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 15:10'
+    speakers:
+      -
+        name: 'Maxim Salnikov'
+        twitter: webmaxru
+        github: webmaxru
+    videos:
+      - 'youtube:K0IhJ99D_vw'
+    slides: null
+  -
+    title: 'Building functional Front-ends with ClojureScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 15:40'
+    speakers:
+      -
+        name: 'Isa Silveira'
+        twitter: silveira_bells
+        github: bella-silveira
+    videos:
+      - 'youtube:Xt2KifhjUL0'
+    slides: null
+  -
+    title: 'In the Ocean of Angular Web Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 16:40'
+    speakers:
+      -
+        name: 'Yaprak Ayazoğlu'
+        twitter: yaprakaya
+        github: ankakusu
+    videos:
+      - 'youtube:1eH9-cLMXQg'
+    slides: null
+  -
+    title: 'Mock to start'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 17:10'
+    speakers:
+      -
+        name: 'Murat Çorlu'
+        twitter: muratcorlu
+        github: muratcorlu
+    videos:
+      - 'youtube:yF_8O4l-Ybc'
+    slides: null
+  -
+    title: 'Optimizing assets for graphics heavy Web Applicatoins: tips and tricks from the game dev background'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-01 17:40'
+    speakers:
+      -
+        name: 'Varya Dubinina'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9pRBFGrhpvE'
+    slides: null

@@ -1,0 +1,205 @@
+name: 'dotSwift 2018'
+description: 'Come see the best developers worldwide speak on the most beautiful stages Paris has to offer.'
+location: ''
+venue: ''
+city: Paris
+country: France
+link: 'https://2018.dotswift.io/'
+playlist: 'youtube:PLMW8Xq7bXrG4OC1CZW7m-davg4p4ZCBmZ'
+from_date: '2018-01-29'
+to_date: '2018-01-29'
+tags: ''
+talks:
+  -
+    title: 'End to End Encryption for Mobile Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-29 00:00'
+    speakers:
+      -
+        name: 'Hugues Bernet-Rollande'
+        twitter: rompelstilchen
+        github: huguesbr
+    videos:
+      - 'youtube:CKzCFI6iNv0'
+    slides:
+      - 'https://speakerdeck.com/huguesbr/end-to-end-encryption-for-mobile-developers'
+  -
+    title: 'Accessibility: A line of code can be many things'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-29 00:00'
+    speakers:
+      -
+        name: 'Sally Shepard'
+        twitter: mostgood
+        github: null
+    videos:
+      - 'youtube:KUl3BxcvF-Q'
+    slides: null
+  -
+    title: 'Intro to ARKit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-29 00:00'
+    speakers:
+      -
+        name: 'Bruno Muniz'
+        twitter: null
+        github: brunomunizaf
+    videos:
+      - 'youtube:37i1TEYE59g'
+    slides:
+      - 'https://www.slideshare.net/BrunoMuniz11/intro-to-arkit-bruno-muniz-dotswift-18'
+  -
+    title: 'Protocols All The Way Down'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-29 00:00'
+    speakers:
+      -
+        name: 'Ellen Shapiro'
+        twitter: designatednerd
+        github: designatednerd
+    videos:
+      - 'youtube:a0m0acpM8II'
+    slides:
+      - 'https://speakerdeck.com/designatednerd/protocols-all-the-way-down-dotswift-paris-january-2018'
+  -
+    title: 'Extending the Standard Library'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-29 00:00'
+    speakers:
+      -
+        name: 'Ben Cohen'
+        twitter: AirspeedSwift
+        github: airspeedswift
+    videos:
+      - 'youtube:e18uipMmEoo'
+    slides: null
+  -
+    title: 'Object-Oriented Programming in Functional Programming in Swift'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-29 00:00'
+    speakers:
+      -
+        name: 'Graham Lee'
+        twitter: iwasleeg
+        github: iamleeg
+    videos:
+      - 'youtube:IQl1EmR9Hus'
+    slides:
+      - 'https://www.slideshare.net/iamleeg/objectoriented-programming-in-functional-programming-in-swift'
+  -
+    title: 'Finally Solving the Expression Problem'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-29 00:00'
+    speakers:
+      -
+        name: 'Brandon Kase'
+        twitter: bkase_
+        github: bkase
+    videos:
+      - 'youtube:EsanJ7_U89A'
+    slides:
+      - 'https://bkase.github.io/slides/no-problemo/#/'
+  -
+    title: 'How to make a successful ARKit app?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-29 00:00'
+    speakers:
+      -
+        name: 'Oscar Falmer'
+        twitter: osfalmer
+        github: null
+    videos:
+      - 'youtube:JSUj3wbHil8'
+    slides:
+      - 'https://www.slideshare.net/OscarFalmer/how-to-make-a-successful-arkit-app'
+  -
+    title: 'Supporting Objective-C in a Swift codebase'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-29 00:00'
+    speakers:
+      -
+        name: 'Guy Daher'
+        twitter: guydaher
+        github: spinach
+    videos:
+      - 'youtube:h4z7VZY34p0'
+    slides:
+      - 'https://drive.google.com/file/d/1AIz-r_bTng726TYmwsNFQHycAFN9REfO/view'
+  -
+    title: 'Binary Frameworks in Swift'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-29 00:00'
+    speakers:
+      -
+        name: 'Peter Steinberger'
+        twitter: steipete
+        github: steipete
+    videos:
+      - 'youtube:jWaO3rsNZU0'
+    slides:
+      - 'https://speakerdeck.com/steipete/binary-frameworks-in-swift'
+  -
+    title: 'How to turn an onion into a snake?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-29 00:00'
+    speakers:
+      -
+        name: 'Grégoire Lhotellier'
+        twitter: greg3z
+        github: greg3z
+    videos:
+      - 'youtube:F_A4ES3Lew0'
+    slides:
+      - 'https://speakerdeck.com/greg3z/how-to-turn-an-onion-into-a-snake'
+  -
+    title: 'Elements of Functional Programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-29 00:00'
+    speakers:
+      -
+        name: 'Paul Hudson'
+        twitter: twostraws
+        github: twostraws
+    videos:
+      - 'youtube:OgU8d_E1K14'
+    slides:
+      - 'https://speakerdeck.com/twostraws/elements-of-functional-programming'
+  -
+    title: 'Buckets of Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-29 00:00'
+    speakers:
+      -
+        name: 'Ben Scheirman'
+        twitter: subdigital
+        github: subdigital
+    videos:
+      - 'youtube:GUwjlWx7ud8'
+    slides:
+      - 'https://speakerdeck.com/subdigital/buckets-of-code'

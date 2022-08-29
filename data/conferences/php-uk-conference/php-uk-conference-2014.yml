@@ -1,0 +1,414 @@
+name: 'PHP UK Conference 2014'
+description: ''
+location: London
+venue: ''
+city: ''
+country: ''
+link: 'http://web.archive.org/web/20140123000408/http://phpconference.co.uk/'
+playlist: ''
+from_date: '2014-02-21'
+to_date: '2014-02-22'
+tags: ''
+talks:
+  -
+    title: 'Building scalable PHP applications using Google’s App Engine'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-22 00:00'
+    speakers:
+      -
+        name: 'Ian Barber and Mandy Waite'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5Ligesk23ys'
+    slides: null
+  -
+    title: "RPM'ing your apps and tools"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-22 00:00'
+    speakers:
+      -
+        name: 'Joshua Thijssen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IzX3U4U3eok'
+    slides: null
+  -
+    title: "'ProTalking' your way into Open Source"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-21 00:00'
+    speakers:
+      -
+        name: 'Michelle Sanver'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wI5AEHPvYms'
+    slides: null
+  -
+    title: '(Re)discovering the SPL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-21 00:00'
+    speakers:
+      -
+        name: 'Joshua Thijssen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Z4piH7PTjVc'
+    slides: null
+  -
+    title: 'Caching Best Practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-21 00:00'
+    speakers:
+      -
+        name: 'Eli White'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bsZQcbBcXuQ'
+    slides: null
+  -
+    title: 'PHP in Space'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-22 00:00'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos:
+      - 'youtube:eeeBAle_uAw'
+    slides: null
+  -
+    title: 'Locking and Concurrency Control'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-21 00:00'
+    speakers:
+      -
+        name: 'Morgan Tocker'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:aGQZtBy9J5I'
+    slides: null
+  -
+    title: 'Maximising Performance in ZF2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-22 00:00'
+    speakers:
+      -
+        name: 'Gary Hockin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QwpGPlL8oZc'
+    slides: null
+  -
+    title: 'Service Orientated Architecture for Robust and Scalable Systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-21 00:00'
+    speakers:
+      -
+        name: 'Ole Michaelis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZcHV4nc_DTM'
+    slides: null
+  -
+    title: 'Wield AngularJS like a Pro'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-21 00:00'
+    speakers:
+      -
+        name: 'Nate Abele'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP Performance: Under The Hood'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-22 00:00'
+    speakers:
+      -
+        name: 'Davey Shafik'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: TBA
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-21 00:00'
+    speakers:
+      -
+        name: TBA
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Normalisation: Friend or Foe'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-21 00:00'
+    speakers:
+      -
+        name: 'Beth Tucker Long'
+        twitter: e3betht
+        github: e3betht
+    videos:
+      - 'youtube:g6cPTEB7D58'
+    slides: null
+  -
+    title: 'Gathering Metrics with Statsd and Graphite'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-21 00:00'
+    speakers:
+      -
+        name: 'Jeremy Quinton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:parmTnIr3gE'
+    slides: null
+  -
+    title: 'Vagrant Provisioners in a Nutshell'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-22 00:00'
+    speakers:
+      -
+        name: 'Erika Heidi'
+        twitter: erikaheidi
+        github: erikaheidi
+    videos:
+      - 'youtube:x7iA4yzDsAg'
+    slides: null
+  -
+    title: 'PHP At The Firehose Scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-21 00:00'
+    speakers:
+      -
+        name: 'Stuart Herbert'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:90EkomYUq9Y'
+    slides: null
+  -
+    title: 'PHP 5.NEXT: The New Bits'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-21 00:00'
+    speakers:
+      -
+        name: 'Davey Shafik'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zX_U5mymWAg'
+    slides: null
+  -
+    title: 'Test, Transform, Refactor'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-22 00:00'
+    speakers:
+      -
+        name: 'Marcello Duarte'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yPX3gZ7xgN8'
+    slides: null
+  -
+    title: 'Web Security and You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-22 00:00'
+    speakers:
+      -
+        name: 'Eli White'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ROlhsYQH3qY'
+    slides: null
+  -
+    title: 'Algorithm, Review, Sorting'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-22 00:00'
+    speakers:
+      -
+        name: 'Rowan Merewood'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:J-DJPfjmF2I'
+    slides: null
+  -
+    title: 'Scaling with Symfony2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-21 00:00'
+    speakers:
+      -
+        name: 'Ricard Clau'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FpeAPnmFs_w'
+    slides: null
+  -
+    title: 'Profiling PHP Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-22 00:00'
+    speakers:
+      -
+        name: 'Bastian Hofmann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4TbxHDSDkiw'
+    slides: null
+  -
+    title: 'intl me this, intl me that'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-22 00:00'
+    speakers:
+      -
+        name: 'Andrei Zmievski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:g3M6YzzBEI4'
+    slides: null
+  -
+    title: 'Unbreakable Domain Models'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-21 00:00'
+    speakers:
+      -
+        name: 'Mathias Verraes'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZJ63ltuwMaE'
+    slides: null
+  -
+    title: 'Debugging HTTP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-22 00:00'
+    speakers:
+      -
+        name: 'Lorna Mitchell'
+        twitter: lornajane
+        github: lornajane
+    videos:
+      - 'youtube:1hfDMrsdO80'
+    slides: null
+  -
+    title: OPCache!
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-22 00:00'
+    speakers:
+      -
+        name: 'Julien Pauli'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pxW5WdKmprs'
+    slides: null
+  -
+    title: "Facebook's Approach to Common Web Vulnerabilities"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-21 00:00'
+    speakers:
+      -
+        name: 'Ben Mathews'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:z53RgVINzK8'
+    slides: null
+  -
+    title: "I've Been Hacked, Now What?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-22 00:00'
+    speakers:
+      -
+        name: 'Beth Tucker Long'
+        twitter: e3betht
+        github: e3betht
+    videos:
+      - 'youtube:PIligSGxAA8'
+    slides: null
+  -
+    title: 'The Seven Deadly Sins of Dependency Injection'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-21 00:00'
+    speakers:
+      -
+        name: 'Stephan Hochdorfer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

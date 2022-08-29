@@ -1,0 +1,545 @@
+name: 'SunshinePHP 2013'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2013-02-08'
+to_date: '2013-02-09'
+tags: ''
+talks:
+  -
+    title: 'Twig Tips and Tricks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 11:30'
+    speakers:
+      -
+        name: 'Javier Eguiluz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introducing Tests in Legacy PHP Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 13:30'
+    speakers:
+      -
+        name: 'Jeff Carouth'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Functional PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 10:15'
+    speakers:
+      -
+        name: 'Larry Garfield'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Cryptography for the Average Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 16:00'
+    speakers:
+      -
+        name: 'Anthony Ferrara'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Silex, the Microframework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 16:00'
+    speakers:
+      -
+        name: 'Ben Longden'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '!Normal===Awesome!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 09:00'
+    speakers:
+      -
+        name: 'Cal Evans'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Symfony and Javascript Combining the Best of Two Worlds'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 16:00'
+    speakers:
+      -
+        name: 'Nacho Martín'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Opening
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 09:00'
+    speakers:
+      -
+        name: 'Adam Culp'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Lightning Talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 18:00'
+    speakers:
+      -
+        name: 'Jeremy Mikola'
+        twitter: jmikola
+        github: jmikola
+    videos: null
+    slides: null
+  -
+    title: 'The business of being a software developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 20:00'
+    speakers:
+      -
+        name: 'Jacob Mather'
+        twitter: thejmather
+        github: jmather
+    videos: null
+    slides: null
+  -
+    title: 'Symfony2 + EmberJS for fun and profit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 16:00'
+    speakers:
+      -
+        name: 'Dustin Whittle'
+        twitter: dustinwhittle
+        github: dustinwhittle
+    videos: null
+    slides: null
+  -
+    title: 'Creating Realtime Applications with PHP and Websockets'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 11:30'
+    speakers:
+      -
+        name: 'Corey Ballou'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How to start a user group'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 19:00'
+    speakers:
+      -
+        name: 'Beth Tucker Long'
+        twitter: e3betht
+        github: e3betht
+    videos: null
+    slides: null
+  -
+    title: 'Dependency Management with Composer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 16:45'
+    speakers:
+      -
+        name: 'Jordi Boggiano'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to the Symfony Content Management Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 19:00'
+    speakers:
+      -
+        name: 'David Buchmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Continuous Integration in Real Life'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 10:15'
+    speakers:
+      -
+        name: 'Beth Tucker Long'
+        twitter: e3betht
+        github: e3betht
+    videos: null
+    slides: null
+  -
+    title: 'Overview of Windows Azure for PHP Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 16:00'
+    speakers:
+      -
+        name: 'Mark Brown'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'DOs and DON’Ts of MongoDB'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 13:30'
+    speakers:
+      -
+        name: 'Jeremy Mikola'
+        twitter: jmikola
+        github: jmikola
+    videos: null
+    slides: null
+  -
+    title: "From POX to HATEOAS, Our Company's Journey to Build a Hypermedia API"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 16:00'
+    speakers:
+      -
+        name: 'Luke Stokes'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How Kris Writes Symfony Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 14:45'
+    speakers:
+      -
+        name: 'Kris Wallsmith'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Dream, Experiment, Create, and Share'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 11:30'
+    speakers:
+      -
+        name: 'Fabien Potencier'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Bringing Symfony Components into Your Legacy Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 10:15'
+    speakers:
+      -
+        name: 'Hugo Hamon'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Agent of Change'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 20:00'
+    speakers:
+      -
+        name: 'Matt Frost'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'It Was Like That When I Got Here: Steps Toward Modernizing a Legacy Codebase'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 11:30'
+    speakers:
+      -
+        name: 'Paul M. Jones'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to Modules in Zend Framework 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 11:30'
+    speakers:
+      -
+        name: 'Evan Coury'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Handling Forms Like a Ninja with Symfony2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 13:30'
+    speakers:
+      -
+        name: 'Bernhard Schussek'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'From the Ground Up – Coding, Deploying, and Scaling with AWS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 14:45'
+    speakers:
+      -
+        name: 'Rowan Merewood'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Opening Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 09:00'
+    speakers:
+      -
+        name: 'Rasmus Lerdorf'
+        twitter: rasmus
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP Jeopardy (Happy Hour)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 17:30'
+    speakers:
+      -
+        name: 'Jeremy Mikola'
+        twitter: jmikola
+        github: jmikola
+    videos: null
+    slides: null
+  -
+    title: 'Replication with MySQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 10:15'
+    speakers:
+      -
+        name: 'Ligaya Turmelle'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Quickly Building and Deploying PHP Applications in the Cloud'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 13:30'
+    speakers:
+      -
+        name: 'Cory Fowler'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP 5.5: The New Bits'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 13:30'
+    speakers:
+      -
+        name: 'Davey Shafik'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Step By Step: Making a Website Fly with Assetic, Varnish and ESI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 10:15'
+    speakers:
+      -
+        name: 'David Buchmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Virtualized Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 11:30'
+    speakers:
+      -
+        name: 'Juozas Kaziukenas'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building OpenSky with Symfony2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 14:45'
+    speakers:
+      -
+        name: 'Jonathan H. Wage'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHPUnit Best Practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 13:30'
+    speakers:
+      -
+        name: 'Sebastian Bergmann  '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'IBM i: Fertile Ground for PHP Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 21:00'
+    speakers:
+      -
+        name: 'Alan Seiden'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Symfony2 Intro'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 10:15'
+    speakers:
+      -
+        name: 'David Buchmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Outside the Bubble'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 17:00'
+    speakers:
+      -
+        name: 'Keith Casey'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Bringing Good Design to the Table'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-09 14:45'
+    speakers:
+      -
+        name: 'Brian Fenton'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Database Testing for Fun and Profit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 14:45'
+    speakers:
+      -
+        name: 'Matthew Turland'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

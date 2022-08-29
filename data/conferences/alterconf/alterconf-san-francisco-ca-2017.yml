@@ -1,0 +1,195 @@
+name: 'AlterConf San Francisco, CA - 2017'
+description: ''
+location: 'San Francisco, CA'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2017/san-francisco-ca'
+playlist: ''
+from_date: '2017-12-10'
+to_date: '2017-12-10'
+tags: ''
+talks:
+  -
+    title: 'Creating Apps to Benefit Marginalized Communities'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Kaya Thomas'
+        twitter: kthomas901
+        github: kmt901
+    videos:
+      - 'youtube:V0b9AAe7OPo'
+    slides: null
+  -
+    title: "Always Go Down Fighting: The Case for Failure as a Tech Community's Strength"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Josh Lim'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Identity impostors: surviving self-erasure'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Mikayla Hutchinson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Unicorns Are Actually Terrifying: Diversity for Diversity's Sake"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Nishat Anjum'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Advocating for the Imposter'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Elizabeth Posadas'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The unexamined bytes are not worth coding'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Emma Pierson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Now more than ever'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Susan Lin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Host
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: liz
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Creating New Security Standards for Marginalized Users'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Morgen Bromell'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Getting over the fear of technical interviews: My experiences as a college woman in Tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Sneha Rajana'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building Inclusive Products for Users Everywhere'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Vinamrata Singal'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Why We Need to Organize Tech Workers for Diversity, Inclusion and Justice in our Communities'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Kana Hammon'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Unlearning Toxic Behaviors in a Code Review Culture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Sandya Sankarram'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Why Open Source Fails to Protect Under-Represented Minorities'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-12-10 00:00'
+    speakers:
+      -
+        name: 'Bryan Hughes'
+        twitter: nebrius
+        github: nebrius
+    videos: null
+    slides: null

@@ -1,0 +1,193 @@
+name: 'AlterConf Atlanta, GA - 2015'
+description: ''
+location: 'Atlanta, GA'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2015/atlanta-ga'
+playlist: ''
+from_date: '2015-02-28'
+to_date: '2015-02-28'
+tags: ''
+talks:
+  -
+    title: 'What They Didn’t Tell You About Being a Techie and New Mom (Parent)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-28 00:00'
+    speakers:
+      -
+        name: 'Alexandra Bowers Schoen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6kNMNhrRJhw'
+    slides: null
+  -
+    title: 'Context for People of Color'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-28 00:00'
+    speakers:
+      -
+        name: 'Juwan Platt'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VSyluCwm3UY'
+    slides: null
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Ashe Dryden'
+        twitter: ashedryden
+        github: ashedryden
+    videos: null
+    slides: null
+  -
+    title: 'Job Listing Minesweeper'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-28 00:00'
+    speakers:
+      -
+        name: 'Pamela Vickers'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CddCcofWAng'
+    slides: null
+  -
+    title: 'Fake Geek Girl: Trans Microaggressions in Tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-28 00:00'
+    speakers:
+      -
+        name: 'Bree Stanwyck'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jgx6XiKmKsE'
+    slides: null
+  -
+    title: 'Why Diversity in Video Games Matters'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-28 00:00'
+    speakers:
+      -
+        name: 'Imran Khan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xqCXZjKXj7s'
+    slides: null
+  -
+    title: 'The 12 Year Old I.T. Guy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-28 00:00'
+    speakers:
+      -
+        name: 'Nicholas Black'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:f4snieCzQwE'
+    slides: null
+  -
+    title: 'A Non-Traditional Tech Degree'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-28 00:00'
+    speakers:
+      -
+        name: 'Michael Westbrooks II'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kmFvigFQo60'
+    slides: null
+  -
+    title: 'The Experience of Access'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-28 00:00'
+    speakers:
+      -
+        name: 'Laurel Lawson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:X6IKfcVzymM'
+    slides: null
+  -
+    title: 'Computer Literacy for Every Kid in the World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-28 00:00'
+    speakers:
+      -
+        name: 'Natasha Dobson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BI1TCzYg6Js'
+    slides: null
+  -
+    title: 'Professionally Prepared but Not Pioneer Prepared'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-28 00:00'
+    speakers:
+      -
+        name: 'Monica F. Cox'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tgIIKxrrjbk'
+    slides: null
+  -
+    title: 'The Labors of Inclusivity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-28 00:00'
+    speakers:
+      -
+        name: 'Mariam Asad'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:x6gCqIKr220'
+    slides: null
+  -
+    title: 'Low MISC: Why encouraging Minority Involvement in Scientific Computing is a Good Idea'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-02-28 00:00'
+    speakers:
+      -
+        name: 'Marvin K. Turner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jAqOkKH-Jq0'
+    slides: null

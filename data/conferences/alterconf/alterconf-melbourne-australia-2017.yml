@@ -1,0 +1,129 @@
+name: 'AlterConf Melbourne, Australia - 2017'
+description: ''
+location: 'Melbourne, Australia'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2017/melbourne-australia'
+playlist: ''
+from_date: '2017-09-23'
+to_date: '2017-09-23'
+tags: ''
+talks:
+  -
+    title: 'Word power: inclusion through language'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Danya Azzopardi'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Who advocates for people? The need for technology in grassroots movements'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Lyndsey Jackson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Gaming against Domestic Violence'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Susannah Emery'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Visas, Immigration, and Trying to Work in Tech/Games'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Creatrix Tiara'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Playersexuality and Plurisexuality in Videogames'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Alayna Cole'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Ashe Dryden'
+        twitter: ashedryden
+        github: ashedryden
+    videos: null
+    slides: null
+  -
+    title: 'Feedback matters'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Elle Meredith'
+        twitter: aemeredith
+        github: elle
+    videos: null
+    slides: null
+  -
+    title: 'Using the Resiliency learned from Games to Learn Anything'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Julie Wotzko'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The difference of a diagnosis: the before and after impact of marginalisation on my UX career'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Ashlea McKay'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

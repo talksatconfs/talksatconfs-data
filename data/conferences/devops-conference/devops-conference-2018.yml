@@ -1,0 +1,715 @@
+name: 'DevOps Conference 2018'
+description: 'The Conference for Continuous Delivery, Microservices, Containers, Cloud & Lean Business'
+location: ''
+venue: ''
+city: Munich
+country: Germany
+link: 'https://devopsconference.de/'
+playlist: 'youtube.com:PLcCcZh4f8l1MQ6xiBFMjlDBm6JRUmVeWB'
+from_date: '2018-12-03'
+to_date: '2018-12-06'
+tags: ''
+talks:
+  -
+    title: 'Staying Alive: Patterns for Failure Management from the Bottom of the Ocean'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Ronnie Chen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kW5_wkJJf3A'
+    slides: null
+  -
+    title: 'Kubernetes 101 (for Devs)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Erkan Yanar'
+        twitter: erkuleswastaken
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Effective Leadership in Agile and DevOps Environments'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Michiel Rook'
+        twitter: michieltcs
+        github: null
+    videos:
+      - 'youtube:tT35LvL1ks4'
+    slides: null
+  -
+    title: 'Cloud Security Made Easy: Best Practices and Solutions to harden your Cloud Infrastructure'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Andreas Mohrhard'
+        twitter: amohrhard
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Running Kubernetes in Production at Scale: Centralizing Operations and Governance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Oleg Chunikhin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Improve your Product Roadmap with DevOps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Kristen Womack'
+        twitter: kristen_womack
+        github: null
+    videos:
+      - 'youtube:pw1h-q686N8'
+    slides: null
+  -
+    title: 'Kata Container: More security for developers without extra effort for ops'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Nils Magnus'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Shell Ninja: Mastering the Art of Shell Scripting #slideless'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Roland Huss'
+        twitter: ro14nd
+        github: null
+    videos:
+      - 'youtube:1mt2-LbKuvY'
+    slides: null
+  -
+    title: 'Continuous Improvement: How to make sure that Failures happen only once'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Tomasz Koczorowski'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '“Hey, HELM, can you scale…??”'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Baruch Sadogursky'
+        twitter: jbaruch
+        github: jbaruch
+    videos:
+      - 'youtube:Zq6R_8tnSOY'
+    slides: null
+  -
+    title: 'Seeding and Growing – Large Scale Cloud Transformation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Dirk Lehmann'
+        twitter: doergn
+        github: null
+      -
+        name: 'Heiko Schüßler'
+        twitter: _heikoS
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Get Application Security in sync with Application Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Roman Borovits'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Continuous Delivery requires Release Orchestration'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Peter Caron'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'KISS it: Continuous Delivery Pipeline Architecture & Design.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Ambreen Sheikh'
+        twitter: anbreensh
+        github: null
+    videos:
+      - 'youtube:JJm3lp68KuM'
+    slides: null
+  -
+    title: 'We live in a hybrid world – a Digital Transformation Journey – making transformation projects a success with security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Hannes Steiner'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A one year DevOps revolution in healthcare: from zero to Continuous Delivery'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Darío Blanco'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Open Source Software Flood: Learning to swim'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Stanislav Sivak'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Application Security in Continuous Delivery Pipelines'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Christian Treutler'
+        twitter: null
+        github: null
+      -
+        name: 'Tim Arenz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Open Source Pentesting and Security Analysis Tools: the DevOps way… #slideless'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Christian Schneider'
+        twitter: cschneider4711
+        github: null
+    videos:
+      - 'youtube:xfcnt6hSXvo'
+    slides: null
+  -
+    title: 'Agile & DevOps transformations require a truly agile ecosystem'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Sabine Fontanive Michael'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Off the beaten track – Gaining situational awareness of our network at work'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Marc Burgauer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Seven Security Sins: the seven biggest Security Problems of agile Projects'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Christian Schneider'
+        twitter: cschneider4711
+        github: null
+    videos:
+      - 'youtube:BQOV3rm0X8Q'
+    slides: null
+  -
+    title: 'Build your own production kubernetes cluster on a workstation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Stefan Walker'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Puppet Pipelines: A true CI/CD Solution for modern Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Walter Gildersleeve'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Service Mesh – Kilometer 30 in a Microservices Marathon'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Michael Hofmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Continuous Integration/Continuous Delivery for Microservices: Rule them all'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Nir Koren'
+        twitter: korennir
+        github: null
+    videos:
+      - 'youtube:Qm4uDFPCyiY'
+    slides: null
+  -
+    title: 'Whispers in the Chaos Monitoring Weak Signals'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'J. Paul Reed'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'User-Management in Kubernetes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Erkan Yanar'
+        twitter: erkuleswastaken
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Dev + Ops = Go'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Christoph Petrausch'
+        twitter: null
+        github: null
+      -
+        name: 'Igor Lankin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Using Go in DevOps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Natalie Pistunovich'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PZkx4Ai55s0'
+    slides: null
+  -
+    title: 'What’s new for Java in the Cloud?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Sebastian Daschner'
+        twitter: DaschnerS
+        github: null
+    videos:
+      - 'youtube:M5YU9YYDs08'
+    slides: null
+  -
+    title: 'Defending against CDD: Chaos-Driven Delivery'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Julia Wester'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lhtKyJqbKQQ'
+    slides: null
+  -
+    title: '0800-I don’t care … better ask your ChatBot'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Till Huslik'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Projects and Workings of the Cloud Native Computing Foundation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Iago López Galeiras'
+        twitter: null
+        github: null
+      -
+        name: 'Chris Kühl'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Kubernetes in a grown environment and integration into existing Continuous Delivery processes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Stephan Fudeus'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '7 Principles for Production Ready Kubernetes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Ovidiu Hutuleac'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Beyond Cloud: A road trip into AWS and back to bare metal'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Torsten Köster'
+        twitter: tboeghk
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The five dirty Words of CI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'J. Paul Reed'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Distributed Monitoring: How to understand the Chaos'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Gianluca Arbezzano'
+        twitter: gianarb
+        github: null
+    videos:
+      - 'youtube:9vbB0SxVFxs'
+    slides: null
+  -
+    title: 'I deploy on Fridays (and maybe you should too)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Michiel Rook'
+        twitter: michieltcs
+        github: null
+    videos:
+      - 'youtube:cEKKf_XFkxg'
+    slides: null
+  -
+    title: 'Democratizing Serverless: the Fn Project'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'David Delabassee'
+        twitter: delabassee
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'DevOps – Release your flow brakes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Bernd Rederlechner'
+        twitter: null
+        github: null
+      -
+        name: 'Boris Folgmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Azure Container Registry – a Serverless Docker Registry-as-a-Service'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Rainer Stropek'
+        twitter: rstropek
+        github: rstropek
+    videos:
+      - 'youtube:o1K5F1HJd2c'
+    slides: null
+  -
+    title: 'Running Kubernetes in Production: A Million Ways to Crash Your Cluster'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Henning Jacobs'
+        twitter: try_except_
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Continuously keeping an eye on quality goals'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Steffen Schluff'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Enabling Communication across Dimensions – Top down, Bottom up, across Silos'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Markus Andrezak'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'DevOps simulation – feel and release your flow brakes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Bernd Rederlechner'
+        twitter: null
+        github: null
+      -
+        name: 'Boris Folgmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'From Legacy To Cloud'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Roland Huss'
+        twitter: ro14nd
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'When Performance matters – Effective Performance Testing from the Ground up'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Hassy Veldstra'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'OpenDevStack – An introduction to rapid, CI driven Openshift development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Clemens Utschig-Utschig'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Majestic Modular Monoliths'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Axel Fontaine'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Iz23skp-apM'
+    slides: null

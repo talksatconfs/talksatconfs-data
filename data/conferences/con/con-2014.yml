@@ -1,0 +1,375 @@
+name: '!!Con 2014'
+description: ''
+location: Manhattan
+venue: ''
+city: ''
+country: ''
+link: 'http://bangbangcon.com/2014/'
+playlist: ''
+from_date: '2014-05-17'
+to_date: '2014-05-18'
+tags: ''
+talks:
+  -
+    title: "L'Artiste et Le Programmeur!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Emily Reese'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RQjxVAhzUzg'
+    slides: null
+  -
+    title: 'Scrabble sucks! Toward higher-order word games'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Allison Parrish'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:N9FRaxbiR_8'
+    slides: null
+  -
+    title: 'Weaving and Programming: More Related Than You (Probably) Realize!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Allie Jones'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8TfKeoxtq2c'
+    slides: null
+  -
+    title: 'Understanding Garbage Collection, through Visualizing a One Pass Real-Time Generational Mark-Sweep Garbage Collector!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Andrew Gwozdziewycz'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QLzhB6c8uCg'
+    slides: null
+  -
+    title: 'Continuations; or, how to travel through time!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Michael Arntzenius'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cnhb4M8-J5M'
+    slides: null
+  -
+    title: "Now you're thinking with PCMPISTRI!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'David Turner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:U3gsPgryfKs'
+    slides: null
+  -
+    title: 'A 1,500 line (!!) switch statement powers your Python!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Allison Kaptur'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4s9MkZATWY4'
+    slides: null
+  -
+    title: 'Making music with floppy drives! An exercise in yak shaving'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Rafik Draoui'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Hbdhh0fWbfM'
+    slides: null
+  -
+    title: 'The Art of Obsession'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Michael Bernstein'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yJgwrk6_zGY'
+    slides: null
+  -
+    title: 'Nantucket! Hacking at verse'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Darius Bacon and Danielle Sucher'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Rn97kZNZ278'
+    slides: null
+  -
+    title: 'LZ77 refactors program traces!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Paul Khuong'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Z-Aeg-9WcMQ'
+    slides: null
+  -
+    title: 'How to Stay in Love with Programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Camille Fournier'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sc8sc-ELMhA'
+    slides: null
+  -
+    title: 'Spying on your programs with strace!!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Julia Evans'
+        twitter: b0rk
+        github: null
+    videos:
+      - 'youtube:4pEHfGKB-OE'
+    slides: null
+  -
+    title: "Serial! It's what's for breakfast"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Lisa Neigut'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:J1CQz8XyWoo'
+    slides: null
+  -
+    title: 'We found chat in a hostile place!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Omar Rizwan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UBop5kbqDMo'
+    slides: null
+  -
+    title: 'The Sound of Segfaults!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Travis McDemus'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XnsnHS-YGXM'
+    slides: null
+  -
+    title: 'How I used my knowledge of code (and music!) to help fight fires!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Bjorn Roche'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jHu9cCijCZc'
+    slides: null
+  -
+    title: 'Brainwaves! On your computer!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Daniel Luxemberg'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:B4EO4gei4fc'
+    slides: null
+  -
+    title: 'Map, Reduce, Awk!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Mark Wunsch'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jw-3Ufd_u4c'
+    slides: null
+  -
+    title: 'Tasty Stacks!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Chloe Weil'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8218rXTggWk'
+    slides: null
+  -
+    title: 'Just LOOK at the humongous type that Hindley-Milner infers for this tiny program!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Aki Yamada'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PoWtBY-Ex1A'
+    slides: null
+  -
+    title: 'Computer vision and archeology!: Can computers assemble ceramic artifacts?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Kamelia Aryafar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The terrible Yook monster! Slayed by the grandson of Master Prolog!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Guillaume Marceau'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Q663XyxmGUk'
+    slides: null
+  -
+    title: 'Proofs about programs, proofs as programs, and programs as proofs!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Katherine Ye'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ghIGfwmosSc'
+    slides: null
+  -
+    title: 'Help! Help!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Mark Jason Dominus'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:uvcd5sIw96U'
+    slides: null
+  -
+    title: 'High Schoolers vs. Robots!!!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jennifer Shin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mZ1ZRAxUjfY'
+    slides: null

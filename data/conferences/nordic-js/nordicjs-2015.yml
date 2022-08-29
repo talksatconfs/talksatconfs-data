@@ -1,0 +1,217 @@
+name: 'Nordic.js 2015'
+description: ''
+location: Stockholm
+venue: ''
+city: ''
+country: ''
+link: 'http://web.archive.org/web/20151110054406/http://nordicjs.com/schedule'
+playlist: ''
+from_date: '2015-09-10'
+to_date: '2015-09-11'
+tags: ''
+talks:
+  -
+    title: 'Performance on RAILs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-09-11 13:30'
+    speakers:
+      -
+        name: 'Paul Lewis'
+        twitter: aerotwist
+        github: null
+    videos:
+      - 'youtube:uJMA2n4RL6s'
+    slides: null
+  -
+    title: 'Advanced front-end automation with npm scripts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-09-10 15:00'
+    speakers:
+      -
+        name: 'Kate Hudson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0RYETb9YVrk'
+    slides: null
+  -
+    title: 'Through the looking glass - programming on the GPU using WebGL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-09-10 15:30'
+    speakers:
+      -
+        name: 'Felix Palmer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2O3-DoClY-Y'
+    slides: null
+  -
+    title: 'Forgotten Funky Functions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-09-10 11:30'
+    speakers:
+      -
+        name: 'Jakob Mattson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gJOQIZiRFYc'
+    slides: null
+  -
+    title: 'Keynote: There are no promises in node.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-09-10 09:40'
+    speakers:
+      -
+        name: 'Bert Belder'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UGt2gTD04-k'
+    slides: null
+  -
+    title: "Async and Streaming Programming in JS - We're All Wrong"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-09-11 11:00'
+    speakers:
+      -
+        name: 'Matthew Podwysocki'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wF6lRTrhO5I'
+    slides: null
+  -
+    title: 'Hands on Web Audio'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-09-11 11:30'
+    speakers:
+      -
+        name: 'Soledad Penadés'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UEbzTgHs5L0'
+    slides: null
+  -
+    title: 'Building native applications with JavaScript and Atom Sh'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-09-11 14:00'
+    speakers:
+      -
+        name: 'Amy Palamountain'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OHOPSvTltPI'
+    slides: null
+  -
+    title: 'Creating Expressive UI with ReactJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-09-10 11:00'
+    speakers:
+      -
+        name: 'Tara Jane Feener'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qM6XaNlJo10'
+    slides: null
+  -
+    title: 'Modern progressive enhancemen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-09-11 15:00'
+    speakers:
+      -
+        name: 'Jake Archibald'
+        twitter: jaffathecake
+        github: null
+    videos:
+      - 'youtube:EVEiIlJSx_Y'
+    slides: null
+  -
+    title: 'Lightning talks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-09-10 16:00'
+    speakers: {  }
+    videos: null
+    slides: null
+  -
+    title: 'Augmented reality with JavaScrip'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-09-10 14:00'
+    speakers:
+      -
+        name: 'Zeno Rocha'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2NWssETxsPw'
+    slides: null
+  -
+    title: 'Bin your <select> tags'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-09-10 13:30'
+    speakers:
+      -
+        name: 'Alice Bartlett'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-dH6a6eMdXE'
+    slides: null
+  -
+    title: 'Deploying JS apps, 1,000 (or so) at a tim'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-09-11 15:30'
+    speakers:
+      -
+        name: 'Rebecca Murphey'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_L600dzfFcg'
+    slides: null
+  -
+    title: 'A Trip to the Zoo: SpiderMonkey, SquirrelFish, Nashorn, and V8'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-09-11 10:00'
+    speakers:
+      -
+        name: 'Franziska Hinkelmann'
+        twitter: fhinkel
+        github: fhinkel
+    videos:
+      - 'youtube:1kAkGWJZ6Zo'
+    slides: null

@@ -1,0 +1,411 @@
+name: 'LOADays 2019'
+description: ''
+location: 'Antwerp, Belgium'
+venue: ''
+city: ''
+country: ''
+link: 'https://loadays.org/2019/'
+playlist: ''
+from_date: '2020-05-04'
+to_date: '2020-05-05'
+tags: ''
+talks:
+  -
+    title: 'IT Consultant / Zabbix Trainer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-04 15:00'
+    speakers:
+      -
+        name: 'Patrik uytterhoeven'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'What you most likely did not know about sudo…'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-04 06:30'
+    speakers:
+      -
+        name: 'Peter Czanik'
+        twitter: Pczanik
+        github: null
+    videos: null
+    slides:
+      - 'https://cfp.loadays.org/media/CzP_LOADays_v3.pdf'
+  -
+    title: 'Come listen to me, I’m a fraud; a story on impostor syndrom'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-05 10:00'
+    speakers:
+      -
+        name: 'Joep Piscaer'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://cfp.loadays.org/media/20190505_Loadays_-_Joep_Piscaer_-_Impostor_Syndrome.pdf'
+  -
+    title: 'Containers on RHEL 8'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-05 12:00'
+    speakers:
+      -
+        name: 'Christopher Peeters'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'What not to puppetize and how to do it anyway'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-04 17:30'
+    speakers:
+      -
+        name: 'Bart Janssens'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Zabbix loadable C modules and Low-Level Discovery (LLD)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-04 16:00'
+    speakers:
+      -
+        name: 'Jan-Piet Mens'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Linux curriculum at HOGENT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-04 04:30'
+    speakers:
+      -
+        name: 'Bert Van Vreckem'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://gitpitch.com/bertvv/presentation-linux-hogent'
+  -
+    title: 'What did you InSpec?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-04 05:30'
+    speakers:
+      -
+        name: "Gratien D'haese"
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://cfp.loadays.org/media/WhatDidYouInSpec-loadays-2019.pdf'
+  -
+    title: 'MetalK8s: An opinionated Kubernetes distribution with a focus on long-term on-prem deployments'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-05 16:00'
+    speakers:
+      -
+        name: 'Nicolas Trangez'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Bootstrap your Cloud Infrastructure using puppet and HashiCorp stack'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-05 11:00'
+    speakers:
+      -
+        name: 'Bram Vogelaar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Clean Bash - Leveling up your shell scripting skills'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-04 05:30'
+    speakers:
+      -
+        name: 'Bert Van Vreckem'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://gitpitch.com/bertvv/presentation-clean-bash'
+  -
+    title: '(Re)discovering the ssh tips for Ansible (CentOS infra use case)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-04 14:00'
+    speakers:
+      -
+        name: 'Fabian Arrotin'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://people.centos.org/arrfab/Events/Loadays-2019/loadays-2019-ssh-tips.html'
+  -
+    title: 'Leveraging Prometheus service discovery'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-05 12:00'
+    speakers:
+      -
+        name: 'Lander Van den Bulcke'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Running a mainframe on your laptop (for fun and profit)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-05 17:00'
+    speakers:
+      -
+        name: 'Jeroen Baten'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Running containers and Operating System images with systemd-nspawn'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-04 06:30'
+    speakers:
+      -
+        name: 'Pieter Lexis'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://cfp.loadays.org/media/LOADays-systemd-nspawn.pdf'
+  -
+    title: 'molecule test ansib'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-04 15:00'
+    speakers:
+      -
+        name: 'Fabrice @themr0c Flore-Thébault'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Open Source databases and HA'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-05 15:00'
+    speakers:
+      -
+        name: 'Dimitri Vanoverbeke'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Ansible in a real world situation. The One Role to Rule Them All!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-04 16:00'
+    speakers:
+      -
+        name: 'Ton Kersten'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Ignite Karaok'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-04 17:00'
+    speakers:
+      -
+        name: 'Kris Buytaert'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Using Prometheus to monitor your deployment pipelines'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-04 17:35'
+    speakers:
+      -
+        name: 'Lander Van den Bulcke'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Tying shoe laces'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-04 17:15'
+    speakers:
+      -
+        name: 'Tim Speetjens'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Look mom without containers!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-05 16:00'
+    speakers:
+      -
+        name: 'Matteo Valentini'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://cfp.loadays.org/media/Look_mom_without_containers_8mMEuX9.pdf'
+  -
+    title: 'CI/CD with OpenShif'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-05 15:00'
+    speakers:
+      -
+        name: 'Tim Speetjens'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "How I accidentally became an electronics engineer (actually I didn't)"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-04 14:00'
+    speakers:
+      -
+        name: 'Pieter Hollants'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'From Tesla Hacking to the FreedomEV Projec'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-05 17:00'
+    speakers:
+      -
+        name: 'Jasper Nuyens'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How to write efficient and correct MySQL recipes for you configuration management system in 2019'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-05 14:00'
+    speakers:
+      -
+        name: lefred
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Scaling Ansib'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-04 17:00'
+    speakers:
+      -
+        name: 'Andrea Tosatto'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Scale Your Metrics with Elasticsearch'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-05 11:00'
+    speakers:
+      -
+        name: 'Philipp Krenn'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'OSS diversity is good (aka why we run various DNS servers flavors in CentOS.org infra)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-05 10:00'
+    speakers:
+      -
+        name: 'Fabian Arrotin'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://people.centos.org/arrfab/Events/Loadays-2019/loadays-2019-dns-diversity.html'
+  -
+    title: 'Chaos security engineering in Kubernetes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-05 14:00'
+    speakers:
+      -
+        name: 'Evis Barbullushi'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

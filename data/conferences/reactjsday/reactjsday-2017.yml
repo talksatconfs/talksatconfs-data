@@ -1,0 +1,168 @@
+name: 'reactjsday 2017'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2017-10-06'
+to_date: '2017-10-06'
+tags: ''
+talks:
+  -
+    title: 'Introduction to ReactVR - because 2D is not good enough!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-06 14:20'
+    speakers:
+      -
+        name: 'Tomasz Lakomy'
+        twitter: tlakomy
+        github: tlakomy
+    videos: null
+    slides: null
+  -
+    title: 'React state management in a GraphQL era'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-06 16:55'
+    speakers:
+      -
+        name: 'Kristijan Ristovski'
+        twitter: thekitze
+        github: kitze
+    videos: null
+    slides: null
+  -
+    title: 'Mutable or Immutable? Why not both!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-06 17:55'
+    speakers:
+      -
+        name: 'Michel Weststrate'
+        twitter: mweststrate
+        github: mweststrate
+    videos: null
+    slides: null
+  -
+    title: 'Build Your React Application with StyledComponents and FlexBox'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-06 15:55'
+    speakers:
+      -
+        name: 'Katarzyna Jastrzębska'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Shared Element Transition with React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-06 15:25'
+    speakers:
+      -
+        name: 'Narendra Shetty'
+        twitter: narendra_shetty
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Why you should (not) build a reusable components library for your company'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-06 10:25'
+    speakers:
+      -
+        name: 'Mariano Vazquez'
+        twitter: nanovazquez87
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introduction To Elm For React Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-06 11:15'
+    speakers:
+      -
+        name: 'Erik Wendel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'setState ftw'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-06 09:40'
+    speakers:
+      -
+        name: 'Michele Bertoli'
+        twitter: MicheleBertoli
+        github: MicheleBertoli
+    videos: null
+    slides: null
+  -
+    title: 'The story of storybook'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-06 14:55'
+    speakers:
+      -
+        name: 'Norbert de Langen'
+        twitter: NorbertdeLangen
+        github: ndelangen
+    videos: null
+    slides: null
+  -
+    title: 'On the way to making the React components more reusable'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-06 11:45'
+    speakers:
+      -
+        name: 'Olena Sovyn'
+        twitter: frontendgirl
+        github: Kiwka
+    videos: null
+    slides: null
+  -
+    title: 'Styling Components for React UI Kits'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-06 17:25'
+    speakers:
+      -
+        name: 'Javi Velasco'
+        twitter: javivelasco
+        github: javivelasco
+    videos: null
+    slides: null
+  -
+    title: 'If it quacks like React and renders like React, is it React?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-06 12:15'
+    speakers:
+      -
+        name: 'Massimiliano Mantione'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

@@ -1,0 +1,166 @@
+name: 'Laracon EU 2014'
+description: ''
+location: Amsterdam
+venue: ''
+city: ''
+country: ''
+link: 'https://laracon.eu/2014/'
+playlist: ''
+from_date: '2014-08-28'
+to_date: '2014-08-30'
+tags: ''
+talks:
+  -
+    title: 'Comprehensive Validation with Laravel 4'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-08-29 00:00'
+    speakers:
+      -
+        name: 'Kirk Bushell'
+        twitter: kirkbushell
+        github: null
+    videos:
+      - 'youtube:XfXcnjgM6Aw'
+    slides: null
+  -
+    title: "Things I Believe Now That I'm Old"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-08-30 00:00'
+    speakers:
+      -
+        name: 'Ross Tuck'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZBiexI2mv-k'
+    slides: null
+  -
+    title: 'Decoupling the Model from the Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-08-30 00:00'
+    speakers:
+      -
+        name: 'Mathias Verraes'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QaIGN_cTcc8'
+    slides: null
+  -
+    title: 'Design How Your Objects Talk Through Mocking'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-08-30 00:00'
+    speakers:
+      -
+        name: 'Konstantin Kudryashov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:X6y-OyMPqfw'
+    slides: null
+  -
+    title: Lisp
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-08-30 00:00'
+    speakers:
+      -
+        name: 'Igor Wiedler'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FRaNUsiD_BA'
+    slides: null
+  -
+    title: 'Portable Environments with Vagrant'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-08-29 00:00'
+    speakers:
+      -
+        name: 'Erika Heidi'
+        twitter: erikaheidi
+        github: erikaheidi
+    videos:
+      - 'youtube:rUn8XwLhxY4'
+    slides: null
+  -
+    title: 'Discovering ElasticSearch'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-08-29 00:00'
+    speakers:
+      -
+        name: 'Ben Corlett'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:waTWeJeFp4A'
+    slides: null
+  -
+    title: 'PHP Annotations: They exist!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-08-30 00:00'
+    speakers:
+      -
+        name: 'Rafael Dohms'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oDVspbFgDCo'
+    slides: null
+  -
+    title: 'Sharing Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-08-29 00:00'
+    speakers:
+      -
+        name: 'Matt Stauffer'
+        twitter: stauffermatt
+        github: null
+    videos:
+      - 'youtube:Qu6o4wTMo38'
+    slides: null
+  -
+    title: 'The Code Manifesto: Empowering our Community'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-08-30 00:00'
+    speakers:
+      -
+        name: 'Kayla Daniels'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mS0dW2ux3qo'
+    slides: null
+  -
+    title: 'The State of Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-08-29 00:00'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:eyDFr7wCIdE'
+    slides: null

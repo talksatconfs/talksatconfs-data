@@ -1,0 +1,701 @@
+name: 'SunshinePHP 2014'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2014-02-06'
+to_date: '2014-02-08'
+tags: ''
+talks:
+  -
+    title: 'Browser Eyeballing != Javascript Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 16:00'
+    speakers:
+      -
+        name: 'Jordan Kasper'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Thank you and Prizes!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 19:15'
+    speakers:
+      -
+        name: 'Adam Culp'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Doctrine, Object Persistence, and You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 16:00'
+    speakers:
+      -
+        name: 'Jeremy Mikola'
+        twitter: jmikola
+        github: jmikola
+    videos: null
+    slides: null
+  -
+    title: 'Clean Code: Refactoring'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 17:15'
+    speakers:
+      -
+        name: 'Jeff Carouth'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Community works!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 17:15'
+    speakers:
+      -
+        name: 'Michelle Sanver'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Unit testing + functional programming = <3'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 10:15'
+    speakers:
+      -
+        name: 'Alvaro Videla'
+        twitter: old_sound
+        github: videlalvaro
+    videos: null
+    slides: null
+  -
+    title: 'Redis Everywhere'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 17:15'
+    speakers:
+      -
+        name: 'Ricard Clau'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Namespaces + Autoloading (PSR-0 + PSR-4)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 16:00'
+    speakers:
+      -
+        name: 'Beau Simensen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: PHP
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 13:30'
+    speakers:
+      -
+        name: 'Rasmus Lerdorf'
+        twitter: rasmus
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Design Patterns Workshop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 13:00'
+    speakers:
+      -
+        name: 'Brandon Savage'
+        twitter: brandonsavage
+        github: brandonsavage
+    videos: null
+    slides: null
+  -
+    title: 'Hacking Wordpress, a Crash Course in Writing Plugins and Widgets'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 17:15'
+    speakers:
+      -
+        name: 'Eli White'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Workshop: Improving QA and PHP Development Projects'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 13:00'
+    speakers:
+      -
+        name: 'Michelangelo van Dam'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Continuous Integration in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 09:00'
+    speakers:
+      -
+        name: 'Keith Casey'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Code Review for Security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 09:00'
+    speakers:
+      -
+        name: 'Anthony Ferrara'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'IBM i: Fertile Ground for PHP developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 17:15'
+    speakers:
+      -
+        name: 'Alan Seiden'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Modern PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 10:15'
+    speakers:
+      -
+        name: 'Ben Ramsey'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Sticks, Spit, and Duct Tape: Advanced Responsive Layout Techniques'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 11:30'
+    speakers:
+      -
+        name: 'Josh Broton'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Profiling PHP with XHProf'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 16:00'
+    speakers:
+      -
+        name: 'Jonathan Klein'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Essential Design Patterns for PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 11:30'
+    speakers:
+      -
+        name: 'Brandon Savage'
+        twitter: brandonsavage
+        github: brandonsavage
+    videos: null
+    slides: null
+  -
+    title: 'Using Github for more than code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 10:15'
+    speakers:
+      -
+        name: 'Elizabeth Naramore Barron'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Behat, BDD and Selenium in your App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 09:00'
+    speakers:
+      -
+        name: 'Ryan Weaver'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'MySQL HA, Recovery and Load Balancing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 14:45'
+    speakers:
+      -
+        name: 'Davey Shafik'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Writing Maintainable ZF2 Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 10:15'
+    speakers:
+      -
+        name: 'Evan Coury'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Development, By The Numbers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 10:15'
+    speakers:
+      -
+        name: 'Anthony Ferrara'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Advanced Date/Time Handling with PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 14:45'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos: null
+    slides: null
+  -
+    title: 'Get Started, Move Fast and Break Things with Symfony2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 11:30'
+    speakers:
+      -
+        name: 'Ryan Weaver'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Decoupled Library Packages for PHP 5.4'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 14:45'
+    speakers:
+      -
+        name: 'Paul M. Jones'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building a REST API w/ ZF2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 16:00'
+    speakers:
+      -
+        name: 'Mike Stowe'
+        twitter: mikestowe
+        github: mikestowe
+    videos: null
+    slides: null
+  -
+    title: 'Building Testable PHP Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 11:30'
+    speakers:
+      -
+        name: 'Chris Hartjes'
+        twitter: grmpyprogrammer
+        github: chartjes
+    videos: null
+    slides: null
+  -
+    title: 'Anatomy of a Freelancer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 11:30'
+    speakers:
+      -
+        name: 'David Rogers'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Open Source, PHP, and PIE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 09:00'
+    speakers:
+      -
+        name: 'Larry Garfield'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'UA Testing with Selenium and PHPUnit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 14:45'
+    speakers:
+      -
+        name: 'Michelangelo van Dam'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Journey to the Enterprise'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 09:00'
+    speakers:
+      -
+        name: 'Mark Brown'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Iterators in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 11:30'
+    speakers:
+      -
+        name: 'Jake Smith'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Breaking into freelance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 10:15'
+    speakers:
+      -
+        name: 'Melissa Billias'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'RESTing with Symfony2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 13:00'
+    speakers:
+      -
+        name: 'Lukas Kahwe Smith'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Scaling PHP in the real world'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 14:45'
+    speakers:
+      -
+        name: 'Dustin Whittle'
+        twitter: dustinwhittle
+        github: dustinwhittle
+    videos: null
+    slides: null
+  -
+    title: "Don't trust your users"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 14:45'
+    speakers:
+      -
+        name: 'Chris Tankersley'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Foundations of PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 10:15'
+    speakers:
+      -
+        name: 'Beth Tucker Long'
+        twitter: e3betht
+        github: e3betht
+    videos: null
+    slides: null
+  -
+    title: 'ZF2 Modules Workshop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-06 13:00'
+    speakers:
+      -
+        name: 'Evan Coury'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'ZF1 - ZF2 migrations "Lessons from the field"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 11:30'
+    speakers:
+      -
+        name: 'Clark Everetts'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '&lt;?php echo "Hello Worl...Ooo Shiny! How to deal with distractions.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 14:45'
+    speakers:
+      -
+        name: 'Sean Prunka'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Going Pro'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 18:15'
+    speakers:
+      -
+        name: 'Cal Evans'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Git Educated About Git'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 16:00'
+    speakers:
+      -
+        name: 'Jeremy Lindblom'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Application Logic Security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 14:45'
+    speakers:
+      -
+        name: 'Ilia Alshanetsky'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Decoupled CMS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 17:15'
+    speakers:
+      -
+        name: 'Lukas Kahwe Smith'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'APIs: Dead Reckoning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 13:30'
+    speakers:
+      -
+        name: "Matthew Weier O'Phinney"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Vagrant, Puppet and Chef FTW'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 16:00'
+    speakers:
+      -
+        name: 'Thijs Feryn'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Algorithm, Review, Sorting'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 17:15'
+    speakers:
+      -
+        name: 'Rowan Merewood'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Scaling Applications with RabbitMQ'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 16:00'
+    speakers:
+      -
+        name: 'Alvaro Videla'
+        twitter: old_sound
+        github: videlalvaro
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to Zend Framework 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-07 10:15'
+    speakers:
+      -
+        name: 'John Coggeshall'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building better developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 11:30'
+    speakers:
+      -
+        name: 'Rowan Merewood'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Managing Dependencies with Composer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-08 17:15'
+    speakers:
+      -
+        name: 'Beau Simensen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

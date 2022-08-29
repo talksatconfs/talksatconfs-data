@@ -1,0 +1,193 @@
+name: 'HalfStack New York 2019'
+description: ''
+location: ''
+venue: ''
+city: 'New York'
+country: 'United States'
+link: 'https://halfstackconf.com/newyork/2019/'
+playlist: ''
+from_date: '2019-08-23'
+to_date: '2019-08-23'
+tags: ''
+talks:
+  -
+    title: 'TO BE ANNOUNCED'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 10:20'
+    speakers:
+      -
+        name: 'Una Kravets'
+        twitter: una
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'WEIRD `DISPLAY: FLEX`, BUT OK?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 10:55'
+    speakers:
+      -
+        name: 'Christopher Ng'
+        twitter: null
+        github: null
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/46'
+    slides: null
+  -
+    title: 'CODING ACCESSIBILITY: BEST PRACTICES FROM THE FRONT LINES'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 11:25'
+    speakers:
+      -
+        name: 'Bekah Rice'
+        twitter: null
+        github: null
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/47'
+    slides: null
+  -
+    title: 'TIME-TRAVELING REACTIVE JAVASCRIPT APPS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 12:00'
+    speakers:
+      -
+        name: 'Brian Platz'
+        twitter: null
+        github: null
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/48'
+    slides: null
+  -
+    title: 'AUTOMATING YOUR VULNERABILITIES AWAY'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 13:15'
+    speakers:
+      -
+        name: 'Tierney Cyren'
+        twitter: bitandbang
+        github: null
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/49'
+    slides: null
+  -
+    title: 'STORYTELLING WITH HAND PUPPETS IN AR, ON THE WEB!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 13:50'
+    speakers:
+      -
+        name: 'Jyoti Bishnoi'
+        twitter: null
+        github: null
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/50'
+    slides: null
+  -
+    title: 'USING MACHINE LEARNING TO IMPROVE UI/UX'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 14:25'
+    speakers:
+      -
+        name: 'Milecia McGregor'
+        twitter: null
+        github: null
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/51'
+    slides: null
+  -
+    title: 'SURVIVING THE APOCALYPSE WITH PWAS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 15:10'
+    speakers:
+      -
+        name: 'Luis Montes'
+        twitter: null
+        github: null
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/52'
+    slides: null
+  -
+    title: 'MACHINE LEARNING FOR POETS: THE EMILY APP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 15:40'
+    speakers:
+      -
+        name: 'Jen Looper'
+        twitter: jenlooper
+        github: jlooper
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/53'
+    slides: null
+  -
+    title: 'YOUR BROWSER IS YOUR STUDIO'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 16:15'
+    speakers:
+      -
+        name: 'Ruth John'
+        twitter: Rumyra
+        github: Rumyra
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/54'
+    slides: null
+  -
+    title: 'JAVASCRIPT ON MICROCONTROLLERS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 16:55'
+    speakers:
+      -
+        name: 'Niels Leenheer'
+        twitter: html5test
+        github: NielsLeenheer
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/55'
+    slides: null
+  -
+    title: 'LISTENING TO MAPS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 17:30'
+    speakers:
+      -
+        name: 'Rene Rubalcava'
+        twitter: null
+        github: null
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/56'
+    slides: null
+  -
+    title: 'YODA, WEB, SPOCK'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-23 17:50'
+    speakers:
+      -
+        name: 'Dylan Schiemann'
+        twitter: dylans
+        github: dylans
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/57'
+    slides: null

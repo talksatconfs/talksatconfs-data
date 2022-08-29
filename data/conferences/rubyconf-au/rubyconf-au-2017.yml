@@ -1,0 +1,374 @@
+name: 'RubyConf AU 2017'
+description: "Melbourne's award winning convention and exhibition centre plays host to the 2017 Australian Ruby Conference. Situated on the picturesque South Wharf, MCEC provides a stunning location to learn, meet, and share with like minded Ruby enthusiasts from all around the world.RubyConf Australia is an inclusive conference and as such strives to be welcoming and accessible to as many people as possible."
+location: 'Melbourne, Australia'
+venue: ''
+city: Melbourne
+country: Australia
+link: 'https://rubyconf.org.au/2017'
+playlist: 'youtube:PL9_jjLrTYxc3hxsmj3AnPFf3RD4f3zfUl'
+from_date: '2017-02-09'
+to_date: '2017-02-10'
+tags: ''
+talks:
+  -
+    title: 'Reinvesting in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-09 00:00'
+    speakers:
+      -
+        name: 'Tim Riley'
+        twitter: timriley
+        github: timriley
+    videos:
+      - 'youtube:V8Sdg25eKlM'
+    slides: null
+  -
+    title: 'So you want to become a software engineer?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-09 00:00'
+    speakers:
+      -
+        name: 'Shana Moore'
+        twitter: null
+        github: ShanaLMoore
+    videos:
+      - 'youtube:v8kAD9XTFwU'
+    slides: null
+  -
+    title: 'Ruby, HTTP/2 and You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-09 00:00'
+    speakers:
+      -
+        name: 'Hiro Asari'
+        twitter: hiro_asari
+        github: null
+    videos:
+      - 'youtube:_KFxWyJrzso'
+    slides: null
+  -
+    title: 'Writing a Gameboy emulator in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-09 00:00'
+    speakers:
+      -
+        name: 'Colby Swandale'
+        twitter: oceanicpanda
+        github: colby-swandale
+    videos:
+      - 'youtube:WbO2FEpNPvQ'
+    slides: null
+  -
+    title: 'Open Source Power and the Passion'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-09 00:00'
+    speakers:
+      -
+        name: 'Pat Allan'
+        twitter: Pat
+        github: Pat
+    videos:
+      - 'youtube:uIqcGzQO01k'
+    slides: null
+  -
+    title: 'Functional Programming For The Anxious Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-09 00:00'
+    speakers:
+      -
+        name: 'Julian Doherty'
+        twitter: madlep
+        github: madlep
+    videos:
+      - 'youtube:3b1YhdP2fis'
+    slides: null
+  -
+    title: 'Actors in Ruby! Why let Elixir have all the fun?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-09 00:00'
+    speakers:
+      -
+        name: 'Marcos Matos'
+        twitter: marcosccm
+        github: null
+    videos:
+      - 'youtube:wveC2bbFYgA'
+    slides: null
+  -
+    title: 'The Power and Responsibility  of Unicode Adoption'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-09 00:00'
+    speakers:
+      -
+        name: 'Katie McLaughlin'
+        twitter: glasnt
+        github: glasnt
+    videos:
+      - 'youtube:Acf14xTjnFA'
+    slides: null
+  -
+    title: 'Persistence pays off: a new look at rom-rb'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-09 00:00'
+    speakers:
+      -
+        name: 'PIOTR SOLNICA'
+        twitter: _solnic_
+        github: solnic
+    videos:
+      - 'youtube:9TBvWRgll64'
+    slides: null
+  -
+    title: 'Defragging Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-10 00:00'
+    speakers:
+      -
+        name: 'Aaron Patterson'
+        twitter: tenderlove
+        github: tenderlove
+    videos:
+      - 'youtube:nAEt36XNtAE'
+    slides: null
+  -
+    title: 'Simple and Awesome Database Tricks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-10 00:00'
+    speakers:
+      -
+        name: 'Barrett Clark'
+        twitter: barrettclark
+        github: tenderlove
+    videos:
+      - 'youtube:N08NHsyaoKM'
+    slides: null
+  -
+    title: 'Taking Refinery off the Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-10 00:00'
+    speakers:
+      -
+        name: 'Philip Arndt'
+        twitter: parndt
+        github: parndt
+      -
+        name: 'Samuel Seay'
+        twitter: samseay
+        github: samueljseay
+    videos:
+      - 'youtube:aVxJ0GyD3vw'
+    slides: null
+  -
+    title: 'VR backend rails vs serverless: froth or future?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-10 00:00'
+    speakers:
+      -
+        name: 'Ram Ramakrishnan'
+        twitter: null
+        github: null
+      -
+        name: 'Janet Brown'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:E0wPImDxSt8'
+    slides: null
+  -
+    title: 'How does Bundler work anyway?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-10 00:00'
+    speakers:
+      -
+        name: 'André Arko'
+        twitter: indirect
+        github: indirect
+    videos:
+      - 'youtube:j2V-A8vvLP0'
+    slides: null
+  -
+    title: 'Impactful Refactors: Refactoring for Readability'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-10 00:00'
+    speakers:
+      -
+        name: 'Kinsey Ann Durham'
+        twitter: KinseyAnnDurham
+        github: durhamka
+    videos:
+      - 'youtube:CHaKY8tTY6E'
+    slides: null
+  -
+    title: 'Finding translations, localisation and internationalisation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-10 00:00'
+    speakers:
+      -
+        name: 'Valerie Woolard'
+        twitter: valeriecodes
+        github: valeriecodes
+    videos:
+      - 'youtube:mN6lynGNzxs'
+    slides: null
+  -
+    title: 'The little server that could'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-10 00:00'
+    speakers:
+      -
+        name: 'Stella Cotton'
+        twitter: practice_cactus
+        github: stellacotton
+    videos:
+      - 'youtube:Wh88DZyTiK8'
+    slides: null
+  -
+    title: 'Functional in the front rails in the back'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-10 00:00'
+    speakers:
+      -
+        name: 'Louis Simoneau'
+        twitter: louis_simoneau
+        github: lsimoneau
+      -
+        name: 'Rahul Trikha'
+        twitter: rahult
+        github: rahult
+    videos:
+      - 'youtube:Bd6DTg1uNe0'
+    slides: null
+  -
+    title: 'Self learning is a marathon not a sprint'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-10 00:00'
+    speakers:
+      -
+        name: 'Elle Meredith'
+        twitter: aemeredith
+        github: elle
+    videos:
+      - 'youtube:bU9QprllR3s'
+    slides: null
+  -
+    title: "You and your type[s] aren't welcome here"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-10 00:00'
+    speakers:
+      -
+        name: 'Andy Nicholson'
+        twitter: andrewdotnich
+        github: anicholson
+    videos:
+      - 'youtube:gzXjqfPydFo'
+    slides: null
+  -
+    title: 'how a language affects its people'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-10 00:00'
+    speakers:
+      -
+        name: 'Alex Coles'
+        twitter: myabc
+        github: myabc
+    videos:
+      - 'youtube:ybrsMpLA6u8'
+    slides: null
+  -
+    title: 'Performance Optimization in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-10 00:00'
+    speakers:
+      -
+        name: 'Prathmesh Ranaut'
+        twitter: PrathmeshRanaut
+        github: prathmeshranaut
+    videos:
+      - 'youtube:HHRTSpFGCGg'
+    slides: null
+  -
+    title: 'A Common Taxonomy of Bugs and How to Catch Them'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-10 00:00'
+    speakers:
+      -
+        name: 'Kylie Stradley'
+        twitter: KyFaSt
+        github: null
+    videos:
+      - 'youtube:0J5OWi65rTI'
+    slides: null
+  -
+    title: 'Automation Run Rampant'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-10 00:00'
+    speakers:
+      -
+        name: 'Kate Deutscher'
+        twitter: kate_deutscher
+        github: null
+    videos:
+      - 'youtube:vK6qbMnl1xQ'
+    slides: null
+  -
+    title: "Datacenter Fires and Other 'Minor' Disasters"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-02-10 00:00'
+    speakers:
+      -
+        name: 'Aja Hammerly'
+        twitter: the_thagomizer
+        github: null
+    videos:
+      - 'youtube:WoTemqfZiHE'
+    slides: null

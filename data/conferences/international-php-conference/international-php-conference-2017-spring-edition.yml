@@ -1,0 +1,680 @@
+name: 'International PHP Conference 2017 (Spring Edition)'
+description: "International PHP Conference is the world's first PHP conference for top-notch expertise in PHP and web technologies."
+location: ''
+venue: ''
+city: Berlin
+country: Germany
+link: 'https://phpconference.com/archive/archiv-2017-se/'
+playlist: PLjODKYi0WiE7rVvbfUF1l1LUHmqCk0NcS
+from_date: '2017-05-29'
+to_date: '2017-06-02'
+tags: ''
+talks:
+  -
+    title: 'Welcome and Opening'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/welcome-opening/'
+    talk_date: '2017-05-30 09:30'
+    speakers:
+      -
+        name: 'Sebastian Meyen  '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'UX in Motion: Principles for creating meaningful Animation in Interfaces'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/ux-in-motion-principles-for-creating-meaningful-animation-in-interfaces/'
+    talk_date: '2017-05-30 10:00'
+    speakers:
+      -
+        name: 'Val Head'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Large-scale Website Performance Optimization Tricks – Airline Case Study'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/large-scale-website-performance-optimization-tricks-airline-case-study/'
+    talk_date: '2017-05-30 10:45'
+    speakers:
+      -
+        name: 'Georgiana Gligor'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Mein Scrum ist kaputt!'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/mein-scrum-ist-kaputt/'
+    talk_date: '2017-05-30 10:45'
+    speakers:
+      -
+        name: 'Sebastian Bauer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'From Legacy to Event-driven'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/from-legacy-to-event-driven/'
+    talk_date: '2017-05-30 10:45'
+    speakers:
+      -
+        name: ' Stefan Priebsch  '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'I saw the Future, and its Web Servers were written in PHP'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/i-saw-the-future-and-its-web-servers-were-written-in-php/'
+    talk_date: '2017-05-30 12:00'
+    speakers:
+      -
+        name: 'David Zuelke'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Understanding Dependency Injection in Symfony'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/understanding-dependency-injection-in-symfony/'
+    talk_date: '2017-05-30 12:00'
+    speakers:
+      -
+        name: 'Victoria Quirante'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Foundations for the perfect Technology Stream'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/foundations-for-the-perfect-technology-stream/'
+    talk_date: '2017-05-30 12:00'
+    speakers:
+      -
+        name: 'Bernd Alter'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'When to abstract'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/when-to-abstract/'
+    talk_date: '2017-05-30 14:15'
+    speakers:
+      -
+        name: ' Kore Nordmann'
+        twitter: null
+        github: null
+      -
+        name: ' Tobias Schlitt'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Wie viele Köche verderben den Brei?'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/wie-viele-koche-verderben-den-brei/'
+    talk_date: '2017-05-30 14:15'
+    speakers:
+      -
+        name: 'Fuat Taneri'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Beyond OCD: Transforming your Agency's Delivery Pipeline with orchestrated, consistent, and deterministic Deployment"
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/beyond-ocd-transforming-your-agencys-delivery-pipeline-with-orchestrated-consistent-and-deterministic-deployment/'
+    talk_date: '2017-05-30 14:15'
+    speakers:
+      -
+        name: 'Robert Douglass'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Myth of untestable Code'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/the-myth-of-untestable-code/'
+    talk_date: '2017-05-30 15:45'
+    speakers:
+      -
+        name: 'Sebastian Bergmann  '
+        twitter: null
+        github: null
+      -
+        name: 'Sebastian Heuer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Den falschen Plan perfekt ausführen'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/den-falschen-plan-perfekt-ausfuhren/'
+    talk_date: '2017-05-30 15:45'
+    speakers:
+      -
+        name: 'Nils Langner  '
+        twitter: null
+        github: null
+      -
+        name: 'Mike Lohmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Der Contentmanager mag den Baum'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/der-content-manager-mag-den-baum/'
+    talk_date: '2017-05-30 15:45'
+    speakers:
+      -
+        name: 'Maximilian Berghoff'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Rewriting fifteen Year old Code'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/rewriting-fifteen-year-old-code/'
+    talk_date: '2017-05-30 17:00'
+    speakers:
+      -
+        name: 'Anna Filina'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building RESTful APIs with Symfony Components'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/building-restful-apis-with-symfony-components/'
+    talk_date: '2017-05-30 17:00'
+    speakers:
+      -
+        name: 'Victoria Quirante'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9252m9sdRTQ'
+    slides: null
+  -
+    title: 'Introduction to the Fearless Change Patterns of Linda Rising and Mary Lynn Manns'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/introduction-to-the-fearless-change-patterns-of-linda-rising-and-mary-lynn-manns/'
+    talk_date: '2017-05-30 17:00'
+    speakers:
+      -
+        name: 'Ina El-Kadhi'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: webinale-Start-up-Award
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/webinale-startup-award/'
+    talk_date: '2017-05-30 18:30'
+    speakers:
+      -
+        name: 'Tim Vogelsang'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Understanding the Container Revolution'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/understanding-the-container-revolution/'
+    talk_date: '2017-05-30 19:00'
+    speakers:
+      -
+        name: 'Robert Lemke'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8M05sipFJq8'
+    slides: null
+  -
+    title: 'API Tips from the Frontline'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/architecture/api-tips-from-the-frontline/'
+    talk_date: '2017-05-31 09:30'
+    speakers:
+      -
+        name: 'Anna Filina'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cFeuZJNmkI0'
+    slides: null
+  -
+    title: 'PHP 7: Reality Check'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/php-7-reality-check/'
+    talk_date: '2017-05-31 09:30'
+    speakers:
+      -
+        name: 'Sebastian Bergmann  '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'State of Web APIs'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/state-of-web-apis/'
+    talk_date: '2017-05-31 09:30'
+    speakers:
+      -
+        name: 'Carsten Sandtner'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Divide and Conquer – Microservices mit Node.js'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/divide-and-conquer-microservices-mit-node-js/'
+    talk_date: '2017-05-31 10:45'
+    speakers:
+      -
+        name: 'Sebastian Springer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9Y0AroFQB94'
+    slides: null
+  -
+    title: 'Monolith First'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/monolith-first/'
+    talk_date: '2017-05-31 10:45'
+    speakers:
+      -
+        name: 'Benjamin Eberlei  '
+        twitter: null
+        github: null
+      -
+        name: ' Tobias Schlitt'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Pragmatically Scaling to the zillionth Level'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/architecture/pragmatically-scaling-to-the-zillionth-level/'
+    talk_date: '2017-05-31 10:45'
+    speakers:
+      -
+        name: 'Thiago Carvalho'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'CQRS and Event Sourcing in the Wild'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/cqrs-and-event-sourcing-in-the-wild/'
+    talk_date: '2017-05-31 12:15'
+    speakers:
+      -
+        name: 'Michiel Rook'
+        twitter: michieltcs
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Application Load Testing with Open Source and the Cloud'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/testing-and-test-driven-development/application-load-testing-with-open-source-and-the-cloud/'
+    talk_date: '2017-05-31 12:15'
+    speakers:
+      -
+        name: 'Patrik Karisch'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Get started writing TypeScript today'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/get-started-writing-typescript-today/'
+    talk_date: '2017-05-31 12:15'
+    speakers:
+      -
+        name: 'Dominik Kundel'
+        twitter: dkundel
+        github: kundel
+    videos: null
+    slides: null
+  -
+    title: 'Die Kunst digitaler Verführung'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/architecture/die-kunst-digitaler-verfuhrung/'
+    talk_date: '2017-05-31 14:30'
+    speakers:
+      -
+        name: 'Karl Kratz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Road to Continuous Deployment: a Case Study'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/the-road-to-continuous-deployment-a-case-study/'
+    talk_date: '2017-05-31 15:30'
+    speakers:
+      -
+        name: 'Michiel Rook'
+        twitter: michieltcs
+        github: null
+    videos:
+      - 'youtube:W5KX99sOrXE'
+    slides: null
+  -
+    title: 'Monitoring at FLYERALARM, daily Business of DevOps'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/monitoring-at-flyeralarm-daily-business-of-devops/'
+    talk_date: '2017-05-31 15:30'
+    speakers:
+      -
+        name: 'Denies-Nikolai Wagner'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Setting up HTTPS is easy – what are you waiting for?'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/setting-up-https-is-easy-what-are-you-waiting-for/'
+    talk_date: '2017-05-31 17:00'
+    speakers:
+      -
+        name: 'Arne Blankerts'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A Developer’s Survival Guide for the Microservices Era'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/architecture/a-developers-survival-guide-for-the-microservices-era/'
+    talk_date: '2017-05-31 17:00'
+    speakers:
+      -
+        name: 'Sebastian Heuer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:76klsIBDlww'
+    slides: null
+  -
+    title: 'Audio Recognition and Connected Living'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/audio-recognition-and-connected-living/'
+    talk_date: '2017-05-31 18:00'
+    speakers:
+      -
+        name: 'Richard Harless'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JslIVTpyc_E'
+    slides: null
+  -
+    title: 'Was User wollen – A/B-Testing mit Node.js'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/was-user-wollen-ab-testing-mit-node-js/'
+    talk_date: '2017-06-01 09:30'
+    speakers:
+      -
+        name: 'Sebastian Springer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Refactoring Legacy Code'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/testing-and-test-driven-development/refactoring-legacy-code/'
+    talk_date: '2017-06-01 09:30'
+    speakers:
+      -
+        name: 'Benjamin Eberlei  '
+        twitter: null
+        github: null
+      -
+        name: ' Kore Nordmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'JWT – To Authentication and beyond'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/architecture/jwt-to-authentication-and-beyond/'
+    talk_date: '2017-06-01 09:30'
+    speakers:
+      -
+        name: 'Luís Cobucci'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Pushing the Limits of PHP with ReactPHP – why ReactPHP is awesome and why you should care'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/pushing-the-limits-of-php-with-react-php-why-react-php-is-awesome-and-why-you-should-care/'
+    talk_date: '2017-06-01 10:45'
+    speakers:
+      -
+        name: 'Christian Lück'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: React
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/react-js/'
+    talk_date: '2017-06-01 10:45'
+    speakers:
+      -
+        name: 'Jakob Westhoff'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GBE0aJtddY0'
+    slides: null
+  -
+    title: 'Test-driven Refactoring'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/test-driven-refactoring/'
+    talk_date: '2017-06-01 10:45'
+    speakers:
+      -
+        name: ' Stefan Priebsch  '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Discovering Graph Structures'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/discovering-graph-structures/'
+    talk_date: '2017-06-01 11:45'
+    speakers:
+      -
+        name: 'Mariusz Gil'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A practical Introduction to Kubernetes'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/a-practical-introduction-to-kubernetes/'
+    talk_date: '2017-06-01 11:45'
+    speakers:
+      -
+        name: 'Robert Lemke'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MW5ol1C13as'
+    slides: null
+  -
+    title: 'The dark Age of IoT'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/the-dark-age-of-iot/'
+    talk_date: '2017-06-01 11:45'
+    speakers:
+      -
+        name: 'Sebastian Golasch'
+        twitter: asciidisco
+        github: asciidisco
+    videos:
+      - 'youtube:cWSgTgqSnCY'
+    slides: null
+  -
+    title: 'Doing Everything with Nothing: Architecture, Ephemeralization, and the Law of Accelerating Returns'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/doing-everything-with-nothing-architecture-ephemeralization-and-the-law-of-accelerating-returns/'
+    talk_date: '2017-06-01 13:30'
+    speakers:
+      -
+        name: 'David Zuelke'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Rapid Prototyping with Domain-driven Design'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/rapid-prototyping-with-domain-driven-design/'
+    talk_date: '2017-06-01 14:30'
+    speakers:
+      -
+        name: 'Nikolas Martens'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Desktopapplikationen mit Electron entwickeln'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/javascript/desktopapplikationen-mit-electron-entwickeln/'
+    talk_date: '2017-06-01 14:30'
+    speakers:
+      -
+        name: 'Jakob Westhoff'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Taming agile Architecture'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/architecture/taming-agile-architecture/'
+    talk_date: '2017-06-01 14:30'
+    speakers:
+      -
+        name: 'Michael Haeuslmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Go micro with Microservices'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/php-core-technology/go-micro-with-microservices/'
+    talk_date: '2017-06-01 15:45'
+    speakers:
+      -
+        name: 'Mariusz Gil'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tewgo5zrHXA'
+    slides: null
+  -
+    title: 'Erfolgreich mit Kanban starten'
+    description: ''
+    tags: ''
+    link: 'https://phpconference.com/agile-culture/erfolgreich-mit-kanban-starten/'
+    talk_date: '2017-06-01 15:45'
+    speakers:
+      -
+        name: 'Martin Ruprecht'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

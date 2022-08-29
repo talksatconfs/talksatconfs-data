@@ -1,0 +1,571 @@
+name: 'Longhorn PHP 2018'
+description: 'A 3-day conference to help PHP developers level up their craft and connect with the larger PHP community.'
+location: ''
+venue: 'The Commons Learning Center'
+city: 'Austin, Texas'
+country: USA
+link: 'https://2018.longhornphp.com/'
+playlist: ''
+from_date: '2018-04-19'
+to_date: '2018-04-21'
+tags: ''
+talks:
+  -
+    title: 'Pentesting for Developers'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#pentesting-for-developers'
+    talk_date: '2018-04-19 09:00'
+    speakers:
+      -
+        name: 'Chris Cornutt'
+        twitter: enygma
+        github: enygma
+    videos: null
+    slides: null
+  -
+    title: 'Better and Faster: TDD-ing a Ride-Hailing Application w/ PHPUnit, Symfony and Doctrine'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#better-and-faster-tdd-ing-a-ride-hailing-application-w-phpunit-symfony-and-doctrine'
+    talk_date: '2018-04-19 09:00'
+    speakers:
+      -
+        name: 'Chris Holland'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Start Testing Your PHP Code'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#start-testing-your-php-code'
+    talk_date: '2018-04-19 09:00'
+    speakers:
+      -
+        name: 'Jason McCreary'
+        twitter: jasonmccreary
+        github: jasonmccreary
+    videos: null
+    slides: null
+  -
+    title: 'Hands On API Design'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#hands-on-api-design'
+    talk_date: '2018-04-19 13:00'
+    speakers:
+      -
+        name: 'Tim Lytle'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Deep Dive into Codeception Testing'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#deep-dive-into-codeception-testing'
+    talk_date: '2018-04-19 13:00'
+    speakers:
+      -
+        name: 'Michael Bodnarchuk'
+        twitter: null
+        github: DavertMik
+    videos: null
+    slides: null
+  -
+    title: 'Practical Hands-On Accessibility Testing'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#practical-hands-on-accessibility-testing'
+    talk_date: '2018-04-19 13:00'
+    speakers:
+      -
+        name: 'Nicolas Steenhout'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Stop Doing it Wrong'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#stop-doing-it-wrong'
+    talk_date: '2018-04-20 09:00'
+    speakers:
+      -
+        name: 'Boyd Hemphill'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Understanding Docker for Development'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#understanding-docker-for-development'
+    talk_date: '2018-04-20 10:00'
+    speakers:
+      -
+        name: 'Jessica Mauerhan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Essential AWS for PHP Applications'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#essential-aws-for-php-applications'
+    talk_date: '2018-04-20 10:00'
+    speakers:
+      -
+        name: 'Michael Moussa'
+        twitter: michaelmoussa
+        github: michaelmoussa
+    videos: null
+    slides: null
+  -
+    title: 'Open Source Commerce Melee'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#open-source-commerce-melee'
+    talk_date: '2018-04-20 10:00'
+    speakers:
+      -
+        name: 'Ben Marks'
+        twitter: benmarks
+        github: benmarks
+    videos: null
+    slides: null
+  -
+    title: 'Yak Free API Tip & Tricks You Can Use Right Now'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#yak-free-api-tip-tricks-can-use-right-now'
+    talk_date: '2018-04-20 11:00'
+    speakers:
+      -
+        name: 'Tim Lytle'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to PHP Extensions'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#introduction-to-php-extensions'
+    talk_date: '2018-04-20 11:00'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos: null
+    slides: null
+  -
+    title: 'The Container is a Lie!'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#the-container-is-a-lie'
+    talk_date: '2018-04-20 11:00'
+    speakers:
+      -
+        name: 'Larry Garfield'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Lessons Learned Building the Composer Internals'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#lessons-learned-building-the-composer-internals'
+    talk_date: '2018-04-20 14:00'
+    speakers:
+      -
+        name: 'Jordi Boggiano'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Go Fast with PHP Prepared Statements'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#go-fast-with-php-prepared-statements'
+    talk_date: '2018-04-20 14:00'
+    speakers:
+      -
+        name: 'Edward Barnard'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'MySQL Without The SQL -- Oh My!'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#mysql-without-the-sql-oh-my'
+    talk_date: '2018-04-20 14:00'
+    speakers:
+      -
+        name: 'Dave Stokes'
+        twitter: iansltx
+        github: mysqlmentor
+    videos: null
+    slides: null
+  -
+    title: 'Writing Code That Lasts…'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#writing-code-that-lasts'
+    talk_date: '2018-04-20 15:00'
+    speakers:
+      -
+        name: 'Jason McCreary'
+        twitter: jasonmccreary
+        github: jasonmccreary
+    videos: null
+    slides: null
+  -
+    title: 'Succeeding as a Freelance Programmer'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#succeeding-as-a-freelance-programmer'
+    talk_date: '2018-04-20 15:00'
+    speakers:
+      -
+        name: 'Stefany Newman'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Securing Legacy Applications'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#securing-legacy-applications'
+    talk_date: '2018-04-20 15:00'
+    speakers:
+      -
+        name: 'Chris Cornutt'
+        twitter: enygma
+        github: enygma
+    videos: null
+    slides: null
+  -
+    title: 'Listen to the Difference: Using a Screenreader to Compare Before/After Code of 5 Top a11y Barriers'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#listen-to-the-difference-using-a-screenreader-to-compare-before-after-code-of-5-top-a11y-barriers'
+    talk_date: '2018-04-20 16:15'
+    speakers:
+      -
+        name: 'Nicolas Steenhout'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Move Over Graphite, Prometheus is Here'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#move-over-graphite-prometheus-is-here'
+    talk_date: '2018-04-20 16:15'
+    speakers:
+      -
+        name: 'Michael Heap'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Immutability to Save an Ever-Changing World'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#immutability-to-save-an-ever-changing-world'
+    talk_date: '2018-04-20 16:15'
+    speakers:
+      -
+        name: 'Andrew Cassell'
+        twitter: null
+        github: cassell
+    videos: null
+    slides: null
+  -
+    title: 'Empathy as a Service: Supporting Mental Health in the Tech Workplace'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#empathy-as-a-service-supporting-mental-health-in-the-tech-workplace'
+    talk_date: '2018-04-20 17:15'
+    speakers:
+      -
+        name: 'Nara Kasbergen'
+        twitter: xiehan
+        github: xiehan
+    videos: null
+    slides: null
+  -
+    title: 'Testing Your APIs with Postman'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#testing-your-apis-with-postman'
+    talk_date: '2018-04-20 17:15'
+    speakers:
+      -
+        name: 'Terry Matula'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'I Didn’t Know Laravel Could Do That!'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#i-didnt-know-laravel-could-do-that'
+    talk_date: '2018-04-20 17:15'
+    speakers:
+      -
+        name: 'Josh Butts'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Extreme Team Building: Surviving an Ocean Crossing'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#extreme-team-building-surviving-ocean-crossing'
+    talk_date: '2018-04-21 09:00'
+    speakers:
+      -
+        name: 'Stephanie Evans'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '(Mis)using and Abusing APIs'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#misusing-and-abusing-apis'
+    talk_date: '2018-04-21 10:00'
+    speakers:
+      -
+        name: 'Keith Casey'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Meet Terraform'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#meet-terraform'
+    talk_date: '2018-04-21 10:00'
+    speakers:
+      -
+        name: 'Michael Heap'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'CI/CD for PHP on AWS'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#ci-cd-for-php-on-aws'
+    talk_date: '2018-04-21 10:00'
+    speakers:
+      -
+        name: 'Michael Moussa'
+        twitter: michaelmoussa
+        github: michaelmoussa
+    videos: null
+    slides: null
+  -
+    title: 'Time Zones and Calendars are a PITA'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#time-zones-and-calendars-are-a-pita'
+    talk_date: '2018-04-21 11:00'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos: null
+    slides: null
+  -
+    title: 'The Many Layers of OAuth'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#the-many-layers-of-oauth'
+    talk_date: '2018-04-21 11:00'
+    speakers:
+      -
+        name: 'Keith Casey'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Basics with a Side of Crypto: Shifting and Masking in PHP'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#the-basics-with-a-side-of-crypto-shifting-and-masking-in-php'
+    talk_date: '2018-04-21 11:00'
+    speakers:
+      -
+        name: 'Edward Barnard'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Using Our Superpowers for Good'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#using-superpowers-good'
+    talk_date: '2018-04-21 13:00'
+    speakers:
+      -
+        name: "Eryn O'Neil"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Designing Test Architecture That Does Not Suck'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#designing-test-architecture-that-does-not-suck'
+    talk_date: '2018-04-21 14:00'
+    speakers:
+      -
+        name: 'Michael Bodnarchuk'
+        twitter: null
+        github: DavertMik
+    videos: null
+    slides: null
+  -
+    title: 'Simplified Continuous Deployment with Laravel and Jenkins'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#simplified-continuous-deployment-with-laravel-and-jenkins'
+    talk_date: '2018-04-21 14:00'
+    speakers:
+      -
+        name: 'Margaret Staples'
+        twitter: dead_lugosi
+        github: mstaples
+    videos: null
+    slides: null
+  -
+    title: 'Go for PHP Developers'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#go-for-php-developers'
+    talk_date: '2018-04-21 14:00'
+    speakers:
+      -
+        name: 'Terrence Ryan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Event Sourcing a Small Library'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#event-sourcing-a-small-library'
+    talk_date: '2018-04-21 15:00'
+    speakers:
+      -
+        name: 'Emily Stamey'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Kubernetes for PHP Practitioners'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#kubernetes-for-php-practitioners'
+    talk_date: '2018-04-21 15:00'
+    speakers:
+      -
+        name: 'Paul Czarkowski'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Papers, Please! Authentication with Laravel Passport'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#papers-please-authentication-with-laravel-passport'
+    talk_date: '2018-04-21 15:00'
+    speakers:
+      -
+        name: 'Hunter Skrasek'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Becoming a Polyglot: Lessons from Natural Language Learning'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#becoming-polyglot-lessons-natural-language-learning'
+    talk_date: '2018-04-21 16:15'
+    speakers:
+      -
+        name: 'Rebekah Post'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Hands-on Kubernetes with OpenShift'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#hands-on-kubernetes-with-openshift'
+    talk_date: '2018-04-21 16:15'
+    speakers:
+      -
+        name: 'Grant Shipley'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Making a Sports Car From a Horse-Drawn Carriage'
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#making-a-sports-car-from-a-horse-drawn-carriage'
+    talk_date: '2018-04-21 16:15'
+    speakers:
+      -
+        name: 'Patrick Guevara'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Uncle Cal's Career Advice for Developers"
+    description: ''
+    tags: ''
+    link: 'https://2018.longhornphp.com/sessions/#uncle-cals-career-advice-developers'
+    talk_date: '2018-04-21 17:15'
+    speakers:
+      -
+        name: 'Cal Evans'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

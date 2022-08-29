@@ -1,0 +1,320 @@
+name: 'Chain React 2018'
+description: 'Chain React was started in 2017 by the team at Infinite Red, who wanted nothing more than to learn from other React Native enthusiasts, eat great food, and nerd out about Redux vs MobX.'
+location: ''
+venue: ''
+city: 'Portland, OR'
+country: 'United States'
+link: 'https://infinite.red/ChainReactConf/2018'
+playlist: 'youtube.com:PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u'
+from_date: '2018-07-11'
+to_date: '2018-07-13'
+tags: ''
+talks:
+  -
+    title: 'Keynote Simply React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-12 00:00'
+    speakers:
+      -
+        name: 'Kent C. Dodds'
+        twitter: kentcdodds
+        github: kentcdodds
+    videos:
+      - 'youtube:M9X2qGddHkU'
+    slides: null
+  -
+    title: 'All Together Now'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-12 00:00'
+    speakers:
+      -
+        name: 'TC Davis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:p5ONpgb_e5w'
+    slides: null
+  -
+    title: 'Debugging and Beyond with Reactotron'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-12 00:00'
+    speakers:
+      -
+        name: 'Darin Wilson'
+        twitter: darinwilson
+        github: darinwilson
+    videos:
+      - 'youtube:UiPo9A9k7xc'
+    slides: null
+  -
+    title: 'From Sketch to Code Designing a Component Kit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-12 00:00'
+    speakers:
+      -
+        name: 'Samantha Bretous'
+        twitter: samanthabretous
+        github: samanthabretous
+    videos:
+      - 'youtube:C6fqRieYRVw'
+    slides: null
+  -
+    title: 'Detox A year in. Building it, Testing with it'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-12 00:00'
+    speakers:
+      -
+        name: 'Rotem Mizrachi-Meidan'
+        twitter: rotemmiz
+        github: rotemmiz
+    videos:
+      - 'youtube:aMheT1qL5Lk'
+    slides: null
+  -
+    title: 'Learning React Native as a Junior Engineer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-12 00:00'
+    speakers:
+      -
+        name: 'Erin Fox'
+        twitter: erinfoox
+        github: erinfox
+    videos:
+      - 'youtube:N9QAbH0JaD0'
+    slides: null
+  -
+    title: 'Machine Learning And React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-12 00:00'
+    speakers:
+      -
+        name: 'Ray Deck'
+        twitter: ray_deck
+        github: rhdeck
+    videos:
+      - 'youtube:LbcuLfrt8XA'
+    slides: null
+  -
+    title: 'Customize Your Boilerplate to Speed Up Development with Ignite'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-12 00:00'
+    speakers:
+      -
+        name: 'Adrien Thiery'
+        twitter: adrien0
+        github: adrienthiery
+    videos:
+      - 'youtube:d822empRP6o'
+    slides: null
+  -
+    title: 'React Native at Eaze Marijuana Delivered'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-12 00:00'
+    speakers:
+      -
+        name: 'Erica Cooksey'
+        twitter: ericacooksey
+        github: null
+    videos:
+      - 'youtube:wdRacNKZs7g'
+    slides: null
+  -
+    title: 'How TypeScript Ruined My Life (In a Good Way)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-12 00:00'
+    speakers:
+      -
+        name: 'Andy Mockler'
+        twitter: asmockler
+        github: asmockler
+    videos:
+      - 'youtube:P_oXHZvooCo'
+    slides: null
+  -
+    title: 'ReasonML and You - A Fireside Chat with Mike'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-12 00:00'
+    speakers:
+      -
+        name: 'Mike Grabowski'
+        twitter: grabbou
+        github: grabbou
+    videos:
+      - 'youtube:HDIuUd52cmY'
+    slides: null
+  -
+    title: 'Be a React Native A11'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-12 00:00'
+    speakers:
+      -
+        name: 'Jen Luker'
+        twitter: knitcodemonkey
+        github: knitcodemonkey
+    videos:
+      - 'youtube:cfzFZIouydY'
+    slides: null
+  -
+    title: 'Organizing Code for Cross-Platform Web and Mobile Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-12 00:00'
+    speakers:
+      -
+        name: 'Robert Scarano'
+        twitter: scarano
+        github: null
+    videos:
+      - 'youtube:kZGaWefWVBs'
+    slides: null
+  -
+    title: 'Reactive Programming Demystified Drink the Kool-Aid'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-13 00:00'
+    speakers:
+      -
+        name: 'Tracy Lee'
+        twitter: ladyleet
+        github: ladyleet
+    videos:
+      - 'youtube:Hl8d8-aKWGI'
+    slides: null
+  -
+    title: 'The State of React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-13 00:00'
+    speakers:
+      -
+        name: 'Ram N'
+        twitter: nparashuram
+        github: axemclion
+    videos:
+      - 'youtube:83ffAY-CmL4'
+    slides: null
+  -
+    title: 'GraphQL State Management for React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-13 00:00'
+    speakers:
+      -
+        name: 'Peggy Rayzis'
+        twitter: peggyrayzis
+        github: peggyrayzis
+    videos:
+      - 'youtube:Lso6HbYNaLA'
+    slides: null
+  -
+    title: 'Strategies For Using React Native In A Brownfield App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-13 00:00'
+    speakers:
+      -
+        name: 'Harry Tormey'
+        twitter: htormey
+        github: null
+    videos:
+      - 'youtube:44YdvFAwQwA'
+    slides: null
+  -
+    title: 'WebXR A New Dimension For The Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-13 00:00'
+    speakers:
+      -
+        name: 'Michaela Lehr'
+        twitter: fischaelameer
+        github: Fischaela
+    videos:
+      - 'youtube:C9UdKyX1Si0'
+    slides: null
+  -
+    title: Panel
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-13 00:00'
+    speakers:
+      -
+        name: 'Nadir Babit'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iV-1gYCNhkQ'
+    slides: null
+  -
+    title: 'Building AR Apps with React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-13 00:00'
+    speakers:
+      -
+        name: 'Vladimir Novick'
+        twitter: VladimirNovick
+        github: vnovick
+    videos:
+      - 'youtube:WYCZgWEnHkg'
+    slides: null
+  -
+    title: 'Using SVG in React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-13 00:00'
+    speakers:
+      -
+        name: 'Ori Harel'
+        twitter: oriharel
+        github: oriharel
+    videos:
+      - 'youtube:IU44A0Z4Yrw'
+    slides: null
+  -
+    title: "Good Enough Still Isn't Good Enough"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-13 00:00'
+    speakers:
+      -
+        name: 'Jani Eväkallio'
+        twitter: jevakallio
+        github: jevakallio
+    videos:
+      - 'youtube:ZHARREDCwwo'
+    slides: null

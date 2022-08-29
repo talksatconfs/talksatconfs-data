@@ -1,0 +1,208 @@
+name: 'Kilter 2017'
+description: ''
+location: 'Bangalore, India'
+venue: ''
+city: ''
+country: ''
+link: 'https://kilter.in/2017/'
+playlist: ''
+from_date: '2017-04-01'
+to_date: '2017-04-02'
+tags: ''
+talks:
+  -
+    title: "Meal Plans Don't Work: Why Diets are Doomed to Fail"
+    description: ''
+    tags: ''
+    link: 'https://hasgeek.com/kilter/2017/schedule/full-talk-1-4gawySCnDq7skmtk9yZMHu'
+    talk_date: '2017-04-01 09:15'
+    speakers:
+      -
+        name: 'Aniruddha Shankar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tc7-dIzN3sI'
+    slides: null
+  -
+    title: 'Data-driven Food Pairings'
+    description: ''
+    tags: ''
+    link: 'https://hasgeek.com/kilter/2017/schedule/leveraging-food-for-better-health-through-data-driven-approaches-FfLwE5MUotSjQPZ6QmsKKz'
+    talk_date: '2017-04-01 10:00'
+    speakers:
+      -
+        name: 'Ganesh Bagler'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qeQLUe1tuuo'
+    slides: null
+  -
+    title: 'Keto and Cancer: Fact Check'
+    description: ''
+    tags: ''
+    link: 'https://hasgeek.com/kilter/2017/schedule/keto-and-cancer-fact-check-6CM9C15BWrjwY111kKnPeL'
+    talk_date: '2017-04-01 12:15'
+    speakers:
+      -
+        name: 'Dr Anushree Vartak'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:idI7DGa1adM'
+    slides: null
+  -
+    title: 'Deciphering Nutrition Labels'
+    description: ''
+    tags: ''
+    link: 'https://hasgeek.com/kilter/2017/schedule/deciphering-labels-ingredients-nutrition-and-loopholes-VR66B4mWnDmmaTZg6DZYHv'
+    talk_date: '2017-04-01 15:30'
+    speakers:
+      -
+        name: 'Huda Masood'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:phWbhZZR4Hk'
+    slides: null
+  -
+    title: 'Insulin Resistance'
+    description: ''
+    tags: ''
+    link: 'https://hasgeek.com/kilter/2017/schedule/crisp-talk-9NNkNG7kQ8R7YtypPBLLkB'
+    talk_date: '2017-04-01 15:55'
+    speakers:
+      -
+        name: 'Vinay Bhardwaj'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7Q75HdBMbAE'
+    slides: null
+  -
+    title: 'Catalyze your Consistency'
+    description: ''
+    tags: ''
+    link: 'https://hasgeek.com/kilter/2017/schedule/using-catalysts-to-stay-consistent-AGpCMhue2WAbPNUkt6qN3h'
+    talk_date: '2017-04-01 16:45'
+    speakers:
+      -
+        name: 'Ashwin Hariharan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3Prg_tnn0Kc'
+    slides: null
+  -
+    title: 'Running as a Way of Life'
+    description: ''
+    tags: ''
+    link: 'https://hasgeek.com/kilter/2017/schedule/running-as-a-way-of-life-oWRWZS53XgboKsDVm5bY5'
+    talk_date: '2017-04-02 09:15'
+    speakers:
+      -
+        name: 'Santhosh Padmanabhan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:c-sSMHHzWDk'
+    slides: null
+  -
+    title: 'Make It Or Break It: How To Get Habit Right'
+    description: ''
+    tags: ''
+    link: 'https://hasgeek.com/kilter/2017/schedule/make-it-or-break-it-how-to-get-habit-right-by-suman-bolar-4XXTv4V6eeRWeNxgLRfrtU'
+    talk_date: '2017-04-02 09:40'
+    speakers:
+      -
+        name: 'Suman Bolar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YBqcBOVWH5c'
+    slides: null
+  -
+    title: 'TwitterGetsFitter - creating a community'
+    description: ''
+    tags: ''
+    link: 'https://hasgeek.com/kilter/2017/schedule/twittergetsfitter-how-community-can-boost-your-fitness-journey-5ufgWRifd4g6Ewz8NGdaJG'
+    talk_date: '2017-04-02 10:00'
+    speakers:
+      -
+        name: 'Chitra Balachandran'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:C-_U0hj0_sU'
+    slides: null
+  -
+    title: 'Functional Training'
+    description: ''
+    tags: ''
+    link: 'https://hasgeek.com/kilter/2017/schedule/crisp-talk-96gSANAG9zhK5L4UszF9EC'
+    talk_date: '2017-04-02 10:25'
+    speakers:
+      -
+        name: 'Zaffar Khan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:km55owMUfU0'
+    slides: null
+  -
+    title: 'Lift Heavy and Eat Clean'
+    description: ''
+    tags: ''
+    link: 'https://hasgeek.com/kilter/2017/schedule/lift-heavy-and-eat-clean-BdUCZenHhy56GxqFJZFBeN'
+    talk_date: '2017-04-02 12:15'
+    speakers:
+      -
+        name: 'Sharoon Sunny'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:N4finXTVZ3A'
+    slides: null
+  -
+    title: 'Microbiome, Gut Function and Immunity'
+    description: ''
+    tags: ''
+    link: 'https://hasgeek.com/kilter/2017/schedule/microbiome-gut-function-and-immunity-Mfyz1Ke8nW53MGPU2zoq88'
+    talk_date: '2017-04-02 14:00'
+    speakers:
+      -
+        name: 'Ella Allred'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ADkJsPrwKo4'
+    slides: null
+  -
+    title: 'Neurobiology of Addiction'
+    description: ''
+    tags: ''
+    link: 'https://hasgeek.com/kilter/2017/schedule/neurobiology-of-addiction-9coT4asSiyBjs9w29ivA2m'
+    talk_date: '2017-04-02 15:30'
+    speakers:
+      -
+        name: 'Savitr Sastri'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fYV6vULosD0'
+    slides: null
+  -
+    title: 'Functional Training Workout'
+    description: ''
+    tags: ''
+    link: 'https://hasgeek.com/kilter/2017/schedule/tbd-special-secret-session-98xy2CYR888KSpMAUPoF6k'
+    talk_date: '2017-04-02 16:45'
+    speakers:
+      -
+        name: 'Zaffar Khan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:km55owMUfU0'
+    slides: null

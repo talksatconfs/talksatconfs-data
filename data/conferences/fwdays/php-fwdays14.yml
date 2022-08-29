@@ -1,0 +1,129 @@
+name: "PHP fwdays'14"
+description: ''
+location: Киев
+venue: ''
+city: ''
+country: ''
+link: 'https://fwdays.com/en/event/php-frameworks-day-2014'
+playlist: ''
+from_date: '2014-11-15'
+to_date: '2014-11-15'
+tags: ''
+talks:
+  -
+    title: 'Past, Present, and Future: The Evolution of PHP Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-15 00:00'
+    speakers:
+      -
+        name: 'Nate Abele'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Laravel 4: простота во всем'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-15 00:00'
+    speakers:
+      -
+        name: 'Евгений Косинский'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Видео-интервью с Zeev Suraski'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-15 00:00'
+    speakers:
+      -
+        name: 'Zeev Suraski'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Yii2 - на пути от Alpha до GA. Взгляд с практической стороны'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-15 00:00'
+    speakers:
+      -
+        name: 'Александр Бордун'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Маленькая библиотека для большой компании'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-15 00:00'
+    speakers:
+      -
+        name: 'Антон Шевчук'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Выбираем поисковик умом головы'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-15 00:00'
+    speakers:
+      -
+        name: 'Андрей Аксенов'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Symfony best practices и не только'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-15 00:00'
+    speakers:
+      -
+        name: 'Олег Зинченко'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Beyond Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-15 00:00'
+    speakers:
+      -
+        name: 'Михаил Боднарчук'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Phalcon. Что нового?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-11-15 00:00'
+    speakers:
+      -
+        name: 'Александр Торош'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

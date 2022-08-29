@@ -1,0 +1,124 @@
+name: 'Pixel Pioneers Bristol 2017'
+description: "Pixel Pioneers Bristol is a one-day conference of practical and inspiring presentations, featuring some of the brightest international experts our industry has to offer. Also don't miss our side events for even more fun and networking!"
+location: 'Bristol, England'
+venue: ''
+city: Bristol
+country: England
+link: 'https://pixelpioneers.co/events/bristol-2017'
+playlist: ''
+from_date: '2017-06-22'
+to_date: '2017-06-22'
+tags: ''
+talks:
+  -
+    title: 'Evaluating Technology'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-22 00:00'
+    speakers:
+      -
+        name: 'Jeremy Keith'
+        twitter: adactio
+        github: null
+    videos:
+      - 'youtube:K0GLVn3qGj8'
+    slides: null
+  -
+    title: 'Email Code Can Be Cool, Honest'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-22 00:00'
+    speakers:
+      -
+        name: 'MARK ROBBINS'
+        twitter: M_J_Robbins
+        github: null
+    videos:
+      - 'youtube:qLUWR93TZj8'
+    slides: null
+  -
+    title: 'How to Present Ideas So That Your Client Will Listen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-22 00:00'
+    speakers:
+      -
+        name: 'Tobias Ahlin'
+        twitter: tobiasahlin
+        github: null
+    videos:
+      - 'youtube:-IuuOPR0gw0'
+    slides: null
+  -
+    title: 'What Can User Experience Learn from Service Design?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-22 00:00'
+    speakers:
+      -
+        name: 'Lily Dart'
+        twitter: lily_dart
+        github: null
+    videos:
+      - 'youtube:7CdtDN1J0ok'
+    slides: null
+  -
+    title: 'UX, Psychology, and the Power of 100'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-22 00:00'
+    speakers:
+      -
+        name: 'Joe Leech'
+        twitter: mrJoe
+        github: null
+    videos:
+      - 'youtube:wvSNGuEbPzg'
+    slides: null
+  -
+    title: 'Automating Access to Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-22 00:00'
+    speakers:
+      -
+        name: 'Jessica Rose'
+        twitter: jesslynnrose
+        github: null
+    videos:
+      - 'youtube:KqkmjQcuhhY'
+    slides: null
+  -
+    title: 'Hacking the Visual Norm'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-22 00:00'
+    speakers:
+      -
+        name: 'Nadieh Bremer'
+        twitter: NadiehBremer
+        github: null
+    videos:
+      - 'youtube:4xH3F8iUmoY'
+    slides: null
+  -
+    title: 'Meaningful Motion in Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-22 00:00'
+    speakers:
+      -
+        name: 'ADRIAN ZUMBRUNNEN'
+        twitter: azumbrunnen_
+        github: null
+    videos:
+      - 'youtube:PynmLxNZYZw'
+    slides: null

@@ -1,0 +1,220 @@
+name: 'AlterConf SF/Oakland, CA - 2015'
+description: ''
+location: 'SF/Oakland, CA'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2015/sfoakland-ca'
+playlist: ''
+from_date: '2015-01-31'
+to_date: '2015-01-31'
+tags: ''
+talks:
+  -
+    title: 'Increasing Diversity - The Billion Dollar Opportunity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-31 00:00'
+    speakers:
+      -
+        name: 'Shola Oyedele'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Ziq5cJ1ucaM'
+    slides: null
+  -
+    title: 'Disability in Games'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-31 00:00'
+    speakers:
+      -
+        name: 'Kevin Simpson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jVirwAz8fvg'
+    slides: null
+  -
+    title: 'Trash Fem Games'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-31 00:00'
+    speakers:
+      -
+        name: Porpentine
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NLYI-VWfnNE'
+    slides: null
+  -
+    title: 'How Unconscious Racism Keeps Culturally Marginalized Black People out of Tech Organizations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-31 00:00'
+    speakers:
+      -
+        name: 'Davida Small'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BJQaVDQYfEk'
+    slides: null
+  -
+    title: 'Coding Like a Girl'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-31 00:00'
+    speakers:
+      -
+        name: 'Amy Wibowo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:V0_1ZoV8umI'
+    slides: null
+  -
+    title: 'Queer Mechanics in Competitive Videogames'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-31 00:00'
+    speakers:
+      -
+        name: 'Izzy Iqbal'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:q0DBgMyfPzI'
+    slides: null
+  -
+    title: 'Overcoming Mental Health Hurdles at Work'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-31 00:00'
+    speakers:
+      -
+        name: 'Madalyn Rose Parker'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:K24VaK1UATE'
+    slides: null
+  -
+    title: 'Trans_: An Anthology of Trans People & the Internet'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-31 00:00'
+    speakers:
+      -
+        name: 'Harlan Kellaway'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0c4qCjH4BOk'
+    slides: null
+  -
+    title: 'Why There Is No Such Thing As Tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-31 00:00'
+    speakers:
+      -
+        name: 'Carvell Wallace'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:x0xvvf9346w'
+    slides: null
+  -
+    title: 'diva ex machina - a perspective on games'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-31 00:00'
+    speakers:
+      -
+        name: 'Mattie Brice'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PUV4rxtzyio'
+    slides: null
+  -
+    title: 'Conforming to Succeed and What it Means for People of Color'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-31 00:00'
+    speakers:
+      -
+        name: 'Marco Rogers'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZCuvp4b9Ips'
+    slides: null
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Ashe Dryden'
+        twitter: ashedryden
+        github: ashedryden
+    videos: null
+    slides: null
+  -
+    title: 'The System Boundary - What the software industry misses when favoring computer systems over social systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-31 00:00'
+    speakers:
+      -
+        name: 'Dimas Guardado'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Ua7lKQp4Tu4'
+    slides: null
+  -
+    title: "We Can't See You, So You Don't See Us: The Accessibility Conundrum and Why You're Unlikely to Have Blind Coworkers"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-31 00:00'
+    speakers:
+      -
+        name: 'Mia Lipner'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Branded: Sex Workers on Social Media'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-31 00:00'
+    speakers:
+      -
+        name: 'Kitty Stryker'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xA9ePv7BcHI'
+    slides: null

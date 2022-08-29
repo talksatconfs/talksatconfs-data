@@ -1,0 +1,650 @@
+name: 'DevFestMN 2019'
+description: 'Google Developer Group DevFests are the largest Google related events in the world! Each DevFest is carefully crafted for you by your local GDG community to bring in awesome speakers, great topics, and lots of fun! While no two events will be exactly alike, each GDG DevFest will, at its core, be powered by a shared belief that when developers come together to exchange ideas, amazing things can happen!'
+location: ''
+venue: ''
+city: Minneapolis
+country: 'United States'
+link: 'https://devfest.mn/'
+playlist: 'youtube.com:PL_aEqNu9qjpN7nmPHadEJs8B9_Q0EvXHB'
+from_date: '2019-02-02'
+to_date: '2019-02-02'
+tags: ''
+talks:
+  -
+    title: "Mastering Your Company's Brand Image"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Jessi Gurr'
+        twitter: jessigurr
+        github: null
+    videos:
+      - 'youtube:8K0sLlFeiwQ'
+    slides: null
+  -
+    title: 'How non-violent communication can help keep the peace on your team.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Casie Siekman'
+        twitter: CassandraDanger
+        github: null
+    videos:
+      - 'youtube:AdvHpAiLRG8'
+    slides: null
+  -
+    title: 'Get Flapping with Flutter'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Abraham Williams'
+        twitter: abraham
+        github: null
+      -
+        name: 'Pearl Latteier'
+        twitter: pblatteier
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Wanna get rid of UI Jank in Android apps?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Sunitha Burri'
+        twitter: sunithaburri
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Dissecting the stdlib'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Huyen Tue Dao'
+        twitter: queencodemonkey
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building a robot with Android Things by Etienne Caron'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Etienne Caron'
+        twitter: kanawish
+        github: kanawish
+    videos: null
+    slides: null
+  -
+    title: 'Adding Jetpack to your Android app'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Tiem Song'
+        twitter: tiembo
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Bridging the Gap : Exploring Collaborative Product Design and Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Jon Rexeisen'
+        twitter: rexeisen
+        github: null
+      -
+        name: 'Sonja Rostad'
+        twitter: SonjaRostad
+        github: null
+      -
+        name: 'Mike Haeg'
+        twitter: null
+        github: null
+      -
+        name: 'Patrick Fuentes'
+        twitter: pfue
+        github: null
+      -
+        name: 'Lacey Kobriger'
+        twitter: laceykobriger
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Future State Of Diversity and Inclusion In Engineering'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Brianna McCullough'
+        twitter: brilimitless
+        github: null
+    videos:
+      - 'youtube:hhD6ppvUkLA'
+    slides: null
+  -
+    title: "Building a Reusable UI Component Library with Components You'll Actually Reuse?!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Amy Gebhardt'
+        twitter: amlyhamm
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Intro to Reinforcement Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Theo Kanning'
+        twitter: theokanning
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'WorkManager the workshop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Lyla Fujiwara'
+        twitter: CeruleanOtter
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Let's start using Firebase"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Sweety Bertilla Francis Xavier'
+        twitter: fxsweety
+        github: null
+    videos:
+      - 'youtube:cQDS_RLPgec'
+    slides: null
+  -
+    title: 'AMP and PWA can be friends!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Ben Morss'
+        twitter: benmorss
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'UX Meets MBA: A designer goes to business school'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'McLean Donnelly'
+        twitter: mcleandonnelly
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Build and scale mobile apps with Firebase and Google Cloud'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Doug Stevenson'
+        twitter: CodingDoug
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Progressive Web Apps: Future of web development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Maciej Treder'
+        twitter: maciejtreder
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Designing With Constraints'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Sean McQuillan'
+        twitter: objcode
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Science Behind Product Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Margaret Janssen'
+        twitter: maggiecjanssen
+        github: null
+    videos:
+      - 'youtube:HhaiLHPHp_k'
+    slides: null
+  -
+    title: 'Resilient UI System Testing with Puppeteer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Mike Eastes'
+        twitter: FalahShazib
+        github: FalahShazib
+    videos: null
+    slides: null
+  -
+    title: 'lightning talks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Collin Flynn'
+        twitter: null
+        github: null
+      -
+        name: 'Paula S Merns'
+        twitter: doryllis
+        github: null
+      -
+        name: 'Jakeh Clark'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Achieving World Class Results w/ Less Code than TensorFlow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Kyle Smaagard'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Focus on your code, not infrastructure, with Cloud Functions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Martin Omander'
+        twitter: martinomander
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Get moving with MotionLayout'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Bryan Herbst'
+        twitter: bryancherbst
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Android Navigation Architecture Component - Take the Expressway'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Steve Peterson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '3 Laws of ROBOT Interface: What the robots of Sci-Fi wish we knew about VUI but won,t tell us'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Bryce Howitson'
+        twitter: howitson
+        github: null
+    videos:
+      - 'youtube:aiZ-SBuTJ4g'
+    slides: null
+  -
+    title: "Don't Just Write Code, Design It"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Tyler Johnson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Modern Web Testing: Going Beyond Selenium'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Dmitry Vinnik'
+        twitter: DmitryVinnik
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Google Android Things: Adding Intelligence to the Network Edge'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Timothy J. Salo'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Cloud IoT Core for Android Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Chris Davis'
+        twitter: rpgobjects
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Adventures in Navigation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Lyla Fujiwara'
+        twitter: CeruleanOtter
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Android Persistence Layer Playbook'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Jeff Huston'
+        twitter: rpgobjects
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Iterative Triggers - Developing First Sight and Second Thoughts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Christopher Stephan'
+        twitter: christephan
+        github: null
+    videos:
+      - 'youtube:4ykNn6U-sf4'
+    slides:
+      - 'https://miro.com/app/board/o9J_kyHRau8=/'
+  -
+    title: 'Using Mind Maps to Visually Get Your Point Across'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Jennifer L Bonine'
+        twitter: rpgobjects
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The "R" in AR means data and Augmented Images makes it happen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Noble Ackerson'
+        twitter: nobleackerson
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Machine learning 101'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Mark Kalal'
+        twitter: MarkKalal
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '“PrismaPizza”, your GraphQL backend delivered home in 30min'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Thibaud Courtoison'
+        twitter: Errorname_
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Mastering Motion with AnimatedVectorDrawable'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'James Williams'
+        twitter: ecspike
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Intro to Android Things'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Jonathan Petit-Frere'
+        twitter: ecspike
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How to use design to trick people into thinking your app is faster than it is'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Mike Bollinger'
+        twitter: mikebollinger
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'It’s a Wonderful Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Pearl Latteier'
+        twitter: pblatteier
+        github: null
+      -
+        name: 'Abraham Williams'
+        twitter: abraham
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Curb Cuts: Pragmatic Accessibility First Steps for Design and Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Caitlin Collins'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Demystifying deployment complexity with terraform or:'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Levi Tomes'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Pushing IoT to the Edge'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'David Anderson'
+        twitter: draspawn
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Crazy Fancy Android Text'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Dan Lew'
+        twitter: danlew42
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Android with Intent: Acing Architecture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-02 00:00'
+    speakers:
+      -
+        name: 'Colin Lee'
+        twitter: colinmlee
+        github: null
+    videos: null
+    slides: null

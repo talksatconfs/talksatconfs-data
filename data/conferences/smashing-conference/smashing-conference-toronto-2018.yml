@@ -1,0 +1,218 @@
+name: 'Smashing Conference Toronto 2018'
+description: 'Learn how others failed, so that you won’thave to make the same mistakes. You willalso discover techniques, strategies andtooling to get to better results, faster.'
+location: ''
+venue: ''
+city: Toronto
+country: Canada
+link: 'https://archive.smashingconf.com/toronto-2018/'
+playlist: 'vimeo.com:5451191'
+from_date: '2018-06-26'
+to_date: '2018-06-27'
+tags: ''
+talks:
+  -
+    title: 'The First Minutes of Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-26 09:50'
+    speakers:
+      -
+        name: 'Dan Mall'
+        twitter: danmall
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'CSS (Variable) Secrets'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-26 10:40'
+    speakers:
+      -
+        name: 'Lea Verou'
+        twitter: LeaVerou
+        github: LeaVerou
+    videos:
+      - 'vimeo.com:https://vimeo.com/292466625'
+    slides: null
+  -
+    title: 'Building an SVG Animation from Start to Finish'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-26 12:00'
+    speakers:
+      -
+        name: 'Sarah Drasner'
+        twitter: sarah_edo
+        github: sdras
+    videos:
+      - 'vimeo.com:https://vimeo.com/292473138'
+    slides: null
+  -
+    title: 'Performance Audit (Live)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-26 12:50'
+    speakers:
+      -
+        name: 'Tim Kadlec'
+        twitter: tkadlec
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/292482492'
+    slides: null
+  -
+    title: 'Applying Psychology And 13 Years Of UX To Get The Details Right And Leapfrog The Competition'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-26 15:10'
+    speakers:
+      -
+        name: 'Joe Leech'
+        twitter: mrJoe
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/292465151'
+    slides: null
+  -
+    title: 'on You can sketch. (You might just not know it yet.)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-26 16:00'
+    speakers:
+      -
+        name: 'Eva-Lotta Lamm'
+        twitter: evalottchen
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/292461456'
+    slides: null
+  -
+    title: 'Designing Across Cultures'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-26 17:20'
+    speakers:
+      -
+        name: 'Yiying Lu'
+        twitter: YiyingLu
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/292607502'
+    slides: null
+  -
+    title: "Things That Don't Have A Thing To Do With Graphic Design"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-26 18:10'
+    speakers:
+      -
+        name: 'Aaron Draplin'
+        twitter: draplin
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Third-Party Performance Auditing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-27 09:40'
+    speakers:
+      -
+        name: 'Harry Roberts'
+        twitter: csswizardry
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/292463696'
+    slides: null
+  -
+    title: 'From Icon Fonts To SVG; Workflow, Tools, Techniques And Everything In Between'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-27 10:30'
+    speakers:
+      -
+        name: 'Sara Soueidan'
+        twitter: SaraSoueidan
+        github: SaraSoueidan
+    videos: null
+    slides: null
+  -
+    title: 'Accessibility Audit (Live)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-27 11:50'
+    speakers:
+      -
+        name: 'Marcy Sutton'
+        twitter: marcysutton
+        github: marcysutton
+    videos:
+      - 'vimeo.com:https://vimeo.com/292467043'
+    slides: null
+  -
+    title: 'Beyond Fonts, Elevating Lettering to Art'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-27 12:40'
+    speakers:
+      -
+        name: 'Gemma O’Brien'
+        twitter: mrseaves
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Creating An Effective & Beautiful Data Visualization From Scratch'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-27 15:00'
+    speakers:
+      -
+        name: 'Nadieh Bremer'
+        twitter: NadiehBremer
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/292468897'
+    slides: null
+  -
+    title: 'Pattern Library First, An Approach For Managing CSS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-27 15:50'
+    speakers:
+      -
+        name: 'Rachel Andrew'
+        twitter: rachelandrew
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/292470224'
+    slides: null
+  -
+    title: 'JavaScript Graphics and Animation (live)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-27 17:10'
+    speakers:
+      -
+        name: 'Seb Lee-Delisle'
+        twitter: seb_ly
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/292474228'
+    slides: null

@@ -1,0 +1,223 @@
+name: 'ScotlandPHP 2019'
+description: ''
+location: 'EICC, Edinburgh'
+venue: ''
+city: ''
+country: ''
+link: 'https://conference.scotlandphp.co.uk/2019/schedule'
+playlist: PLUYKgcymLlHhtiC_h3sRD4hc5CGn3FlIo
+from_date: '2019-11-08'
+to_date: '2019-11-09'
+tags: ''
+talks:
+  -
+    title: 'Xdebug 3.0'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2019/speakers#rethans'
+    talk_date: '2019-11-09 10:25'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos:
+      - 'youtube:114XVdpV4ow'
+    slides:
+      - ''
+  -
+    title: 'Writing Effective PHP'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2019/speakers#maduro'
+    talk_date: '2019-11-09 16:15'
+    speakers:
+      -
+        name: 'Nuno Maduro'
+        twitter: enunomaduro
+        github: nunomaduro
+    videos:
+      - 'www.youtube.com:4vNEIIgvvzQ'
+    slides:
+      - ''
+  -
+    title: 'Serverless PHP applications with Bref'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2019/speakers#napoli'
+    talk_date: '2019-11-09 11:30'
+    speakers:
+      -
+        name: 'Matthieu Napoli'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:oIOJulJlCb4'
+    slides:
+      - 'https://mnapoli.fr/presentations/serverless-php/serverless-php-2020.pdf'
+      - ''
+  -
+    title: 'Accessibility for Everyone'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2019/speakers#tucker-long'
+    talk_date: '2019-11-09 16:15'
+    speakers:
+      -
+        name: 'Beth Tucker Long'
+        twitter: e3betht
+        github: e3betht
+    videos:
+      - 'www.youtube.com:ldjWo0NA0UA'
+    slides:
+      - ''
+  -
+    title: 'GraphQL API in PHP'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2019/speakers#jain'
+    talk_date: '2019-11-09 11:30'
+    speakers:
+      -
+        name: 'Drishti Jain'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:uIXdI_QiPJc'
+    slides:
+      - ''
+  -
+    title: 'Taming Change'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2019/speakers#holland'
+    talk_date: '2019-11-09 09:30'
+    speakers:
+      -
+        name: 'Chris Holland'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:DmchquRsj-k'
+    slides:
+      - ''
+  -
+    title: 'Progressive Web Apps & Offline Development'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2019/speakers#oram'
+    talk_date: '2019-11-09 10:25'
+    speakers:
+      -
+        name: 'Mike Oram'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:E9GUDXL8qXY'
+    slides:
+      - ''
+  -
+    title: 'Shipping Better Software Faster & Having Fun Doing It'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2019/speakers#holland'
+    talk_date: '2019-11-09 12:25'
+    speakers:
+      -
+        name: 'Chris Holland'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:pFQDCSwd6OQ'
+    slides:
+      - ''
+  -
+    title: 'The Future of Authentication - WebAuthn with PHP'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2019/speakers#blankerts'
+    talk_date: '2019-11-09 12:25'
+    speakers:
+      -
+        name: 'Arne Blankerts'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:diwu9NtzKUY'
+    slides:
+      - ''
+  -
+    title: 'DevCorp: choose your own adventure'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2019/speakers#vos'
+    talk_date: '2019-11-09 14:15'
+    speakers:
+      -
+        name: 'Pauline Vos'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:OAN3IxnqaVU'
+    slides:
+      - ''
+  -
+    title: 'Legacy Code - Testing and Safe Refactoring'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2019/speakers#ereira'
+    talk_date: '2019-11-09 14:15'
+    speakers:
+      -
+        name: 'Katy Ereira'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:2yzRTQ5IeiE'
+    slides:
+      - ''
+  -
+    title: "Contributing to PHP's Core"
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2019/speakers#caruso'
+    talk_date: '2019-11-09 15:10'
+    speakers:
+      -
+        name: 'Gabriel Caruso'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:oY-vIgxHtvU'
+    slides:
+      - ''
+  -
+    title: 'Imposter Syndrome: Am I Faking It?'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2019/speakers#bradley'
+    talk_date: '2019-11-09 15:10'
+    speakers:
+      -
+        name: 'Mark Bradley'
+        twitter: null
+        github: null
+    videos:
+      - 'www.youtube.com:lXtoKVfVvvk'
+    slides:
+      - ''
+  -
+    title: '13 years in the life of ElePHPant'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2019/speakers#seguy'
+    talk_date: '2019-11-09 17:10'
+    speakers:
+      -
+        name: 'Damien Seguy'
+        twitter: faguo
+        github: dseguy
+    videos:
+      - 'www.youtube.com:freeCK3gcDE'
+    slides:
+      - ''

@@ -1,0 +1,297 @@
+name: 'ReactEurope 2018'
+description: 'After changing the way we think about state management in JavaScript applications, the way we write native mobile apps with React Native, how we interact with remote data with GraphQL or even how we manage CSS, the React community keeps innovating and its ecosystem growing.At this conference, you will learn how new projects such as ReasonML will bring web and mobile React Native apps to the next level and how projects such as React Native Web, React Primitive and Expo make it easy to write, deploy and share code on all platforms quickly. The conference aims to give talks that inspire and explore new futuristic ideas dealing with all the techs we enjoy from the React ecosystem such as React.js, React Native, GraphQL, Relay, Universal apps, ReasonML, Webpack, inline CSS and more.'
+location: 'Paris, France'
+venue: ''
+city: Paris
+country: France
+link: 'https://2018.react-europe.org/'
+playlist: 'youtube.com:PLCC436JpVnK3xH_ArpIjdkYDGwWNkVa73'
+from_date: '2018-05-17'
+to_date: '2018-05-18'
+tags: ''
+talks:
+  -
+    title: 'Immutable Application Architecture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-18 00:00'
+    speakers:
+      -
+        name: 'Lee Byron'
+        twitter: leeb
+        github: leebyron
+    videos:
+      - 'youtube:oTcDmnAXZ4E'
+    slides: null
+  -
+    title: 'WebAssembly becoming the biggest platform'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-18 00:00'
+    speakers:
+      -
+        name: 'Sven Sauleau'
+        twitter: svensauleau
+        github: xtuc
+    videos:
+      - 'youtube:zc31ES1KZtY'
+    slides: null
+  -
+    title: 'The state of React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-17 00:00'
+    speakers:
+      -
+        name: 'Ken Wheeler'
+        twitter: ken_wheeler
+        github: kenwheeler
+    videos:
+      - 'youtube:QFk6YwMz8nc'
+    slides: null
+  -
+    title: 'A year of CodeSandbox'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-18 00:00'
+    speakers:
+      -
+        name: 'Ives van Hoorne'
+        twitter: CompuIves
+        github: CompuIves
+    videos:
+      - 'youtube:qURPenhndYA'
+    slides: null
+  -
+    title: 'Full Stack React Navigation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-18 00:00'
+    speakers:
+      -
+        name: 'Eric Vicenti'
+        twitter: EricVicenti
+        github: ericvicenti
+    videos:
+      - 'youtube:GzbravzRrBM'
+    slides: null
+  -
+    title: 'Subtyping is Overrated'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-17 00:00'
+    speakers:
+      -
+        name: 'Caleb Meredith'
+        twitter: calebmer
+        github: calebmer
+    videos:
+      - 'youtube:M6MsDBFwa6Y'
+    slides: null
+  -
+    title: 'Bridging React Native Back to its Roots'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-17 00:00'
+    speakers:
+      -
+        name: 'Vincent Riemer'
+        twitter: vincentriemer
+        github: vincentriemer
+    videos:
+      - 'youtube:aOWIJ4Mgb2k'
+    slides: null
+  -
+    title: 'Do the Right (to Left) Thing Directional Content in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-17 00:00'
+    speakers:
+      -
+        name: 'Maja Wichrowska'
+        twitter: majapw
+        github: majapw
+    videos:
+      - 'youtube:dZ9vQYSNVyo'
+    slides: null
+  -
+    title: 'Beyond React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-18 00:00'
+    speakers:
+      -
+        name: 'Devin Abbott'
+        twitter: dvnabbott
+        github: dabbott
+    videos:
+      - 'youtube:HVwLOcllTfI'
+    slides: null
+  -
+    title: 'SVGR or how a simple problem became a 2K stars library'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-18 00:00'
+    speakers:
+      -
+        name: 'Greg Berge'
+        twitter: neoziro
+        github: neoziro
+    videos:
+      - 'youtube:geKCzi7ZPkA'
+    slides: null
+  -
+    title: 'Replicated Redux'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-17 00:00'
+    speakers:
+      -
+        name: 'Jim Purbrick'
+        twitter: JimPurbrick
+        github: jimpurbrick
+    videos:
+      - 'youtube:Fr3vp0C22H0'
+    slides: null
+  -
+    title: 'Using lit APIs to make dope games with Expo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-18 00:00'
+    speakers:
+      -
+        name: 'Evan Bacon'
+        twitter: Baconbrix
+        github: EvanBacon
+    videos:
+      - 'youtube:oHBGhHlVOI0'
+    slides: null
+  -
+    title: 'ReasonReact and local state'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-18 00:00'
+    speakers:
+      -
+        name: 'Cristiano Calcagno'
+        twitter: ccrisccris
+        github: cristianoc
+    videos:
+      - 'youtube:qJnP-Vatp3M'
+    slides: null
+  -
+    title: 'The fun of runtime type systems (Or "Funtime type systems")'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-17 00:00'
+    speakers:
+      -
+        name: 'Michel Weststrate'
+        twitter: mweststrate
+        github: mweststrate
+    videos:
+      - 'youtube:010daBQPFmw'
+    slides: null
+  -
+    title: 'Declarative future of gestures and animations in React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-17 00:00'
+    speakers:
+      -
+        name: 'Krzysztof Magiera'
+        twitter: kzzzf
+        github: kmagiera
+    videos:
+      - 'youtube:kdq4z2708VM'
+    slides: null
+  -
+    title: 'A Journey Through React Apollo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-17 00:00'
+    speakers:
+      -
+        name: 'Peggy Rayzis'
+        twitter: peggyrayzis
+        github: peggyrayzis
+    videos:
+      - 'youtube:fCXYA3lZTbo'
+    slides: null
+  -
+    title: 'Type-safe React Native with ReasonML'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-18 00:00'
+    speakers:
+      -
+        name: 'Jared Forsyth'
+        twitter: jaredforsyth
+        github: jaredly
+    videos:
+      - 'youtube:mXvgZpgRJ6Y'
+    slides: null
+  -
+    title: 'Up and Running with Universal Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-17 00:00'
+    speakers:
+      -
+        name: 'Samantha Bretous'
+        twitter: samanthabretous
+        github: samanthabretous
+      -
+        name: 'Kurtis Kemple'
+        twitter: kurtiskemple
+        github: kkemple
+    videos:
+      - 'youtube:D1NkyO-J6B0'
+    slides: null
+  -
+    title: 'The Case for Whimsy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-17 00:00'
+    speakers:
+      -
+        name: 'Joshua Comeau'
+        twitter: joshWComeau
+        github: joshwcomeau
+    videos:
+      - 'youtube:Z2d9rw9RwyE'
+    slides:
+      - 'https://github.com/joshwcomeau/react-europe-talk-2018'
+  -
+    title: 'Stop writing code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-18 00:00'
+    speakers:
+      -
+        name: 'Sunil Pai'
+        twitter: threepointone
+        github: threepointone
+    videos:
+      - 'youtube:WYWVGQKnz5M'
+    slides: null

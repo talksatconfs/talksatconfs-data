@@ -1,0 +1,236 @@
+name: 'ng-europe 2018'
+description: 'ng-europe, the original European Angular conference, brings you the most awesome people from the Angular community. On top of great content, ng-europe also aims to be a great place for people to socialize, make new friends and meet old ones, learn through great workshops and amazing keynotes, share ideas and of course hack on Angular in the heart of the beautiful city of Paris.'
+location: ''
+venue: ''
+city: Paris
+country: France
+link: 'https://ngeurope.org/'
+playlist: 'youtube:PLhc_bKwZngxVQZtyPzGY9dRJOnGP1xVVX'
+from_date: '2018-02-01'
+to_date: '2018-02-02'
+tags: ''
+talks:
+  -
+    title: 'webpack 4: The most important update for Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Sean Larkin'
+        twitter: TheLarkInn
+        github: thelarkinn
+    videos:
+      - 'youtube:NbJonysf45Q'
+    slides: null
+  -
+    title: 'Through the Sound Barrier: High-Performance Apps with Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos:
+      - 'youtube:oOnKcPpqOxs'
+    slides: null
+  -
+    title: 'Angular Architecture: From Patterns to Implementation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Todd Motto'
+        twitter: toddmotto
+        github: toddmotto
+    videos:
+      - 'youtube:CbZ14jSrFZs'
+    slides: null
+  -
+    title: 'Rapid prototyping using Angular and Firebase'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Mashhood Rastgar'
+        twitter: mashhoodr
+        github: mashhoodr
+    videos:
+      - 'youtube:9ienVyg2Vnk'
+    slides: null
+  -
+    title: 'On the road to PWAs: building real cross-platform ng apps with Cordova & Electron'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Christian Liebel'
+        twitter: ChristianLiebel
+        github: chliebel
+    videos:
+      - 'youtube:OcC-RJ1-joo'
+    slides: null
+  -
+    title: 'Progressive Web Apps with Angular and Firebase'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Erik Haddad'
+        twitter: erikhaddad
+        github: erikhaddad
+    videos:
+      - 'youtube:aTMTjusHv9o'
+    slides: null
+  -
+    title: 'How to hack an Angular app?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Asim Hussain'
+        twitter: jawache
+        github: jawache
+    videos:
+      - 'youtube:2WhlK-GXQLM'
+    slides: null
+  -
+    title: "Boost Your App's Emotional Intelligence w/ NativeScript, Angular & Machine Learning"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Jen Looper'
+        twitter: jenlooper
+        github: jlooper
+    videos:
+      - 'youtube:We-yohLeSUY'
+    slides: null
+  -
+    title: "Let's compose JavaScript and Reason"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Sven Sauleau'
+        twitter: svensauleau
+        github: xtuc
+    videos:
+      - 'youtube:wN2gKbZl9I4'
+    slides: null
+  -
+    title: 'Creating Beautiful Experiences Fast with Angular Material'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Stefanie Trimble Fluin'
+        twitter: StefanieFluin
+        github: sjtrimble
+    videos:
+      - 'youtube:g9zuLHHT2Z4'
+    slides: null
+  -
+    title: 'A look into the future: Angular Elements'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Antal Andrei'
+        twitter: andrei_antal
+        github: andrei-antal
+    videos:
+      - 'youtube:-pS8M_RBf84'
+    slides: null
+  -
+    title: 'Next Generation Ionic: Built for PWAs and interoperability'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Adam Bradley'
+        twitter: adamdbradley
+        github: adamdbradley
+    videos:
+      - 'youtube:v15N8Ztp6Hs'
+    slides: null
+  -
+    title: "Why I'm Excited About Angular for 2018 and 2038"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Stephen Fluin'
+        twitter: stephenfluin
+        github: null
+    videos:
+      - 'youtube:JlY8jXw7eZY'
+    slides: null
+  -
+    title: 'When small is better: Brotli compression in a real case'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Tiago Temporin'
+        twitter: _ttemporin
+        github: null
+    videos:
+      - 'youtube:sB1R4NHp4MU'
+    slides: null
+  -
+    title: 'To Vue or not Vue, that is the question'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'GERARD SANS'
+        twitter: gerardsans
+        github: gsans
+    videos:
+      - 'youtube:xprPOPZR2Vg'
+    slides: null
+  -
+    title: '@angular/cli to install 3rd-party libraries'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-02 00:00'
+    speakers:
+      -
+        name: 'Stepan Suvorov'
+        twitter: stevermeister
+        github: null
+    videos:
+      - 'youtube:futBmo7AQsI'
+    slides: null

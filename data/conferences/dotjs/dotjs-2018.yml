@@ -1,0 +1,296 @@
+name: 'dotJS 2018'
+description: 'Come see the best developers worldwide speak on the most beautiful stages Paris has to offer.'
+location: ''
+venue: ''
+city: Paris
+country: France
+link: 'https://www.dotjs.io/'
+playlist: 'youtube.com:PLMW8Xq7bXrG7LL-bLSweRFmFw7y2HhypC'
+from_date: '2018-11-09'
+to_date: '2018-11-09'
+tags: ''
+talks:
+  -
+    title: 'Robot Rock'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Devon Lindsey'
+        twitter: devonbl
+        github: devonbl
+    videos:
+      - 'youtube:UvgY7WlTd_c'
+    slides: null
+  -
+    title: 'Top-level Awaiting for Godot'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Myles Borins'
+        twitter: 'Myles Borins'
+        github: MylesBorins
+    videos:
+      - 'youtube:EERzGWgkU2o'
+    slides:
+      - 'https://kni.sh/dotjs-2018/'
+  -
+    title: 'Building a JavaScript runtime'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Kurt Mackey'
+        twitter: mrkurt
+        github: mrkurt
+    videos:
+      - 'youtube:r-1hXDvOoHA'
+    slides:
+      - 'https://speakerdeck.com/mrkurt/we-built-a-runtime'
+  -
+    title: 'Give me your content, punk!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Jeremias Menichelli'
+        twitter: jeremenichelli
+        github: null
+    videos:
+      - 'youtube:TFWTVwgdNPA'
+    slides:
+      - 'https://slides.com/jeremenichelli/gimme-your-content-punk'
+  -
+    title: 'Debugging, a step away from the console'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Adam Weeks'
+        twitter: AdamWeeks
+        github: null
+    videos:
+      - 'youtube:Ymam3-i4ChE'
+    slides:
+      - 'https://www.slideshare.net/AdamWeeks11/debugging-a-step-away-from-the-console'
+  -
+    title: 'WOAH! Is that OffscreenCanvas?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Sam Wray'
+        twitter: _2xaa
+        github: null
+    videos:
+      - 'youtube:6FhGZ50XRz4'
+    slides:
+      - 'https://slides.com/twoxaa/woah-is-that-offscreencanvas'
+  -
+    title: 'Command Query Responsibility Segregation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Olivier Loverde'
+        twitter: loverdeolivier
+        github: null
+    videos:
+      - 'youtube:7IOFPqdUArQ'
+    slides:
+      - 'https://www.slideshare.net/oliviermoule123/command-query-responsibility-segregation-cqrs'
+  -
+    title: 'Revisiting Node modules'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Maël Nison'
+        twitter: arcanis
+        github: arcanis
+    videos:
+      - 'youtube:4lUzKhq3C-M'
+    slides:
+      - 'https://speakerdeck.com/arcanis/dotjs-revisiting-node-modules'
+  -
+    title: 'The State of JavaScript 2018'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Sacha Greif'
+        twitter: sachagreif
+        github: SachaG
+    videos:
+      - 'youtube:ShHsshcTOJo'
+    slides:
+      - 'https://speakerdeck.com/sachag/the-state-of-javascript-2018'
+  -
+    title: 'HTTP/2 For Me & You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Tara Z. Manicsic'
+        twitter: tzmanics
+        github: tzmanics
+    videos:
+      - 'youtube:Srb-dmnVbYY'
+    slides:
+      - 'https://github.com/tzmanics/talk-slides/blob/master/2018_dot-js.pdf'
+  -
+    title: 'Promises & Composition'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Kashyap Kondamudi'
+        twitter: kgrz
+        github: null
+    videos:
+      - 'youtube:_MKshJLrNIU'
+    slides:
+      - 'https://www.dropbox.com/s/fh05zwmeuzzb6v8/dotjs%2018%20promises%20composition.pdf?dl=0'
+  -
+    title: 'Boilerplates Are The New Copy-Paste'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Roy Derks'
+        twitter: gethackteam
+        github: royderks
+    videos:
+      - 'youtube:ZGxoT37eees'
+    slides:
+      - 'https://www.slideshare.net/RoyDerks1/boilerplates-are-the-new-copypaste-123660247'
+  -
+    title: 'A Quick Recap on WebAssembly'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Tejas Kumar'
+        twitter: TejasKumar_
+        github: TejasQ
+    videos:
+      - 'youtube:IPEzwWt4adY'
+    slides:
+      - 'https://speakerdeck.com/tejasq/lets-talk-about-webassembly'
+  -
+    title: 'WebUSB for Digital Artists'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Tim Pietrusky'
+        twitter: timpietrusky
+        github: null
+    videos:
+      - 'youtube:V3nMF1JKuN0'
+    slides:
+      - 'https://timpietrusky.github.io/dotJS2018-WebUSB-for-Digital-Artists/'
+  -
+    title: 'Choosing Your JavaScript Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'John Papa'
+        twitter: john_papa
+        github: johnpapa
+    videos:
+      - 'youtube:dHptnyroFNA'
+    slides:
+      - 'https://slides.com/johnpapa/choosing-your-framework-dotjs2018'
+  -
+    title: 'Asynchronous hamburgers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Joost Lubach'
+        twitter: joostlubach
+        github: null
+    videos:
+      - 'youtube:_o1kv13E2LA'
+    slides:
+      - 'http://slow-burgers.joostlubach.com/'
+  -
+    title: 'JavaScript on the Desktop, Fast and Slow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Felix Rieseberg'
+        twitter: felixrieseberg
+        github: felixrieseberg
+    videos:
+      - 'youtube:VHJxBr0WKGg'
+    slides:
+      - 'https://slides.com/felixrieseberg/js-desktop-fast-and-slow'
+  -
+    title: 'Learning to Love Type Systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Lauren Tan'
+        twitter: sugarpirate_
+        github: poteto
+    videos:
+      - 'youtube:cj07Fwzamy0'
+    slides:
+      - 'https://speakerdeck.com/poteto/dotjs-2018-learning-to-love-type-systems'
+  -
+    title: 'TypeScript: Static types for JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-09 00:00'
+    speakers:
+      -
+        name: 'Anders Hejlsberg'
+        twitter: ahejlsberg
+        github: ahejlsberg
+    videos:
+      - 'youtube:ET4kT88JRXs'
+    slides:
+      - 'https://onedrive.live.com/view.aspx?resid=22B201251A3280DF!156769&ithint=file%2cpptx&app=PowerPoint&authkey=!AJ8_m2OuUH1Dvm8'

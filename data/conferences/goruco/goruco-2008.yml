@@ -1,0 +1,96 @@
+name: 'Goruco 2008'
+description: ''
+location: 'Pace Plaza, Pace University Campu, Lower Manhattan'
+venue: ''
+city: ''
+country: ''
+link: 'http://2008.goruco.com/'
+playlist: ''
+from_date: '2008-04-26'
+to_date: '2008-04-26'
+tags: ''
+talks:
+  -
+    title: 'Merb, All you need, None you don’t'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-04-26 10:30'
+    speakers:
+      -
+        name: 'Ezra Zygmuntowicz'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BqjPOC_ckG4'
+    slides: null
+  -
+    title: 'Collective Intelligence: Leveraging User Data to Create Intelligent Rails Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-04-26 09:30'
+    speakers:
+      -
+        name: 'Paul Dix'
+        twitter: pauldix
+        github: pauldix
+    videos:
+      - 'youtube:dNzA5Yygm5U'
+    slides: null
+  -
+    title: 'Hurting Code for Fun and Profit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-04-26 08:30'
+    speakers:
+      -
+        name: 'Ryan Davis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:L_z5oqPrDWY'
+    slides: null
+  -
+    title: 'Story Driven Development: The Next Generation of Rails Functional Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-04-26 10:00'
+    speakers:
+      -
+        name: 'Bryan Helmkamp'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ApD-F65Vv-Q'
+    slides: null
+  -
+    title: 'Archaeopteryx: A Ruby MIDI Generator'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-04-26 05:30'
+    speakers:
+      -
+        name: 'Giles Bowkett'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0XDawYp9mKY'
+    slides: null
+  -
+    title: 'Forbidden Fruit: A Taste of Ruby’s Parse Tree'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-04-26 12:00'
+    speakers:
+      -
+        name: 'Chris Wanstrath'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DAoYufIKebU'
+    slides: null

@@ -1,0 +1,181 @@
+name: 'AlterConf Portland, OR - 2017'
+description: ''
+location: 'Portland, OR'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2017/portland-or'
+playlist: ''
+from_date: '2017-11-04'
+to_date: '2017-11-04'
+tags: ''
+talks:
+  -
+    title: 'Surviving on the fringe of the tech industry'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Dawn Parzych'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Inclusivity 360: Including Diverse Voices Through the Project Lifecycle'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Ambika Samarthya-Howard'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Eliminating Unconscious Biases in Technology Through UX Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Marcus Finley'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Not All Alike: East Asian and Transmasculine in Tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Aiden Yang'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'a11y: Designing an Accessible User Experience for All'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Malina Tran'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Decolonizing Unicode: Can We Type Every Word That Has Ever Been Written?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Aditya Mukerjee'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'When to Stop Teaching Others and Start Caring for Ourselves'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Haile Canton'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Transcoding self worth into elegant software'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Kris Nova'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Challenges of Company Diversity Programs: Life Within the Overton Window'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Kara Sowles'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Styling for Inclusion: How Shaping a Style Guide Shapes Our Discussions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Thursday Bram'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Kronda Adair'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Privacy & Anonymity may be ruining your Diversity and Inclusion'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Miki Demeter'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Social Responsibility of Coding'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Liz Abinante'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

@@ -1,0 +1,264 @@
+name: 'Laracon US 2016'
+description: ''
+location: 'Louisville, Kentucky'
+venue: ''
+city: ''
+country: ''
+link: 'https://web.archive.org/web/20160731192836/http://laracon.us/#schedule'
+playlist: ''
+from_date: '2016-07-27'
+to_date: '2016-07-29'
+tags: ''
+talks:
+  -
+    title: 'APIs With Lumen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-28 00:00'
+    speakers:
+      -
+        name: 'Amanda Folson'
+        twitter: AmbassadorAwsum
+        github: afolson
+    videos:
+      - 'youtube:BmPTaMS2NLY'
+    slides: null
+  -
+    title: 'PHP 7'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-28 00:00'
+    speakers:
+      -
+        name: 'Zeev Suraski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ryAbo92mXV0'
+    slides: null
+  -
+    title: 'Practical Software Estimation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-29 00:00'
+    speakers:
+      -
+        name: 'Chuck Reeves'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:uEkagvaR4yw'
+    slides: null
+  -
+    title: 'Servers For Hackers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-27 00:00'
+    speakers:
+      -
+        name: 'Chris Fidao'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xfkSzUEtJY8'
+    slides: null
+  -
+    title: 'Lumen, Guzzle, & Swagger'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-29 00:00'
+    speakers:
+      -
+        name: 'Jeremy Lindblom'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_kphOSfZj6s'
+    slides: null
+  -
+    title: 'Design: Case Study'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-29 00:00'
+    speakers:
+      -
+        name: 'Ryan Singer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dFoLwGNWl98'
+    slides: null
+  -
+    title: 'Laravel 5.3 Overview'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-27 00:00'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:StYZhNKti_M'
+    slides: null
+  -
+    title: Zollections
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-29 00:00'
+    speakers:
+      -
+        name: 'Adam Wathan'
+        twitter: adamwathan
+        github: null
+    videos:
+      - 'youtube:ZzrVH65aIg0'
+    slides: null
+  -
+    title: 'Test Driven Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-27 00:00'
+    speakers:
+      -
+        name: 'Adam Wathan'
+        twitter: adamwathan
+        github: null
+    videos:
+      - 'youtube:FOSpYr7jDog'
+    slides: null
+  -
+    title: 'Tests Should Tell A Story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-28 00:00'
+    speakers:
+      -
+        name: 'Matthew Machuga'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LbPx8gdgLFc'
+    slides: null
+  -
+    title: 'Wizards, Lawnmowers, and Hovercrafts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-28 00:00'
+    speakers:
+      -
+        name: 'Jack McDade'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hq8OQZGi3ec'
+    slides: null
+  -
+    title: 'Keeping Eloquent Eloquent'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-29 00:00'
+    speakers:
+      -
+        name: 'Colin DeCarlo'
+        twitter: colindecarlo
+        github: null
+    videos:
+      - 'youtube:RTFMQKQgV-Y'
+    slides: null
+  -
+    title: 'PHP Performance Tuning With Blackfire'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-29 00:00'
+    speakers:
+      -
+        name: 'Fabien Potencier'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:aGb8PwbnGpY'
+    slides: null
+  -
+    title: 'Vue Router & Vuex'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-28 00:00'
+    speakers:
+      -
+        name: 'Evan You'
+        twitter: youyuxi
+        github: yyx990803
+    videos:
+      - 'youtube:BvLHOnOc_BQ'
+    slides: null
+  -
+    title: 'YAGNI With Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-29 00:00'
+    speakers:
+      -
+        name: 'Jason McCreary'
+        twitter: jasonmccreary
+        github: jasonmccreary
+    videos:
+      - 'youtube:zIh43Vlp2LQ'
+    slides: null
+  -
+    title: 'Get A Whiff Of This'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-28 00:00'
+    speakers:
+      -
+        name: 'Sandi Metz'
+        twitter: sendimetz
+        github: skmetz
+    videos:
+      - 'youtube:MksJTtt7jS4'
+    slides: null
+  -
+    title: 'Vue.js Workshop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-27 00:00'
+    speakers:
+      -
+        name: 'Evan You'
+        twitter: youyuxi
+        github: yyx990803
+    videos:
+      - 'youtube:ZYpvdLs3yRk'
+    slides: null
+  -
+    title: 'Long Live HTTP/2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-28 00:00'
+    speakers:
+      -
+        name: 'Ben Ramsey'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:eq14CaVAjk8'
+    slides: null

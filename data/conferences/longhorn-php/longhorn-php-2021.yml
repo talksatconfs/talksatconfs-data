@@ -1,0 +1,510 @@
+name: 'Longhorn PHP 2021'
+description: 'A 3-day conference to help PHP developers level up their craft and connect with the larger PHP community.'
+location: ''
+venue: 'Holiday Inn Austin Midtown'
+city: 'Austin, Texas'
+country: USA
+link: 'https://www.longhornphp.com/'
+playlist: ''
+from_date: '2021-10-14'
+to_date: '2021-10-16'
+tags: ''
+talks:
+  -
+    title: 'Passing the Technical Interview'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#passing-the-technical-interview'
+    talk_date: '2021-10-14 09:00'
+    speakers:
+      -
+        name: 'Ben Edmunds'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building AWS ECS Stacks with Terraform & GitHub Actions'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#building-aws-ecs-stacks-with-terraform-github-actions'
+    talk_date: '2021-10-14 09:00'
+    speakers:
+      -
+        name: 'Joshua Ray Copeland'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Git Legit'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#git-legit'
+    talk_date: '2021-10-14 09:00'
+    speakers:
+      -
+        name: 'Pauline Vos'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Powering Your API Development with OpenAPI'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#powering-your-api-development-with-openapi'
+    talk_date: '2021-10-14 13:00'
+    speakers:
+      -
+        name: 'Daniel Abernathy'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The OOP In PHP'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#the-oop-in-php'
+    talk_date: '2021-10-14 13:00'
+    speakers:
+      -
+        name: 'Matthew Turland'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'MySQL Indexes, Histograms, Locking Options, and Other Ways to Speed Up Your Queries'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#mysql-indexes-histograms-locking-options-and-other-ways-to-speed-up-your-queries'
+    talk_date: '2021-10-14 13:00'
+    speakers:
+      -
+        name: 'Dave Stokes'
+        twitter: iansltx
+        github: mysqlmentor
+    videos: null
+    slides: null
+  -
+    title: "The grass isn't greener, it's complicated"
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#the-grass-isnt-greener-its-complicated'
+    talk_date: '2021-10-15 09:10'
+    speakers:
+      -
+        name: 'Adam Culp'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Automating Business Rules with JIRA, Gherkin and Behat'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#automating-business-rules-with-jira-gherkin-and-behat'
+    talk_date: '2021-10-15 10:15'
+    speakers:
+      -
+        name: 'Kelley Campbell '
+        twitter: null
+        github: null
+      -
+        name: ' Kelly Hitchcock Hochanadel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Becoming a Bug Exterminator!'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#becoming-a-bug-exterminator'
+    talk_date: '2021-10-15 10:15'
+    speakers:
+      -
+        name: 'Joshua Ray Copeland'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Refactoring with Patterns and Automation'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#refactoring-with-patterns-and-automation'
+    talk_date: '2021-10-15 10:15'
+    speakers:
+      -
+        name: 'Christian Thomas'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Releasing High-Quality PHP Packages'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#releasing-high-quality-php-packages'
+    talk_date: '2021-10-15 11:30'
+    speakers:
+      -
+        name: "Colin O'Dell"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Fiendish Functions: Filtering Fact From Fiction'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#fiendish-functions-filtering-fact-from-fiction'
+    talk_date: '2021-10-15 11:30'
+    speakers:
+      -
+        name: 'Camilo Payan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'DevCorp: an interactive adventure'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#devcorp-an-interactive-adventure'
+    talk_date: '2021-10-15 11:30'
+    speakers:
+      -
+        name: 'Pauline Vos'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'What Makes a Great Developer?'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#what-makes-a-great-developer'
+    talk_date: '2021-10-15 13:30'
+    speakers:
+      -
+        name: 'Matthew Turland'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Fantastic Bugs and How to Avoid Them'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#fantastic-bugs-and-how-to-avoid-them'
+    talk_date: '2021-10-15 14:30'
+    speakers:
+      -
+        name: 'Anna Filina'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Practical Security in Web Applications'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#practical-security-in-web-applications'
+    talk_date: '2021-10-15 14:30'
+    speakers:
+      -
+        name: 'Chris Holland'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP & MySQL -- How do PDO, MySQLi, and X DevAPI do what they do'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#php-mysql-how-do-pdo-mysqli-and-x-devapi-do-what-they-do'
+    talk_date: '2021-10-15 14:30'
+    speakers:
+      -
+        name: 'Dave Stokes'
+        twitter: iansltx
+        github: mysqlmentor
+    videos: null
+    slides: null
+  -
+    title: 'Is Eight Enough?'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#is-eight-enough'
+    talk_date: '2021-10-15 15:45'
+    speakers:
+      -
+        name: 'Sara Golemon'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'I never thought I''d be the "test person"'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#i-never-thought-id-be-the-test-person'
+    talk_date: '2021-10-15 15:45'
+    speakers:
+      -
+        name: 'Michael Kimsal'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Attackers want your data and they're getting it from your API"
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#attackers-want-your-data-and-theyre-getting-it-from-your-api'
+    talk_date: '2021-10-15 15:45'
+    speakers:
+      -
+        name: 'Tim Bond'
+        twitter: null
+        github: cookieguru
+    videos: null
+    slides: null
+  -
+    title: 'Observability will Kill the Monitoring Star'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#observability-will-kill-the-monitoring-star'
+    talk_date: '2021-10-15 17:00'
+    speakers:
+      -
+        name: 'Scott Ernst'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Migrating a monolith to Cloud-Native and the stumbling blocks that you don’t know about'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#migrating-a-monolith-to-cloud-native-and-the-stumbling-blocks-that-you-dont-know-about'
+    talk_date: '2021-10-15 17:00'
+    speakers:
+      -
+        name: 'JJ Asghar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Keep it Secret, Keep it Safe - Docker Secrets and DI'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#keep-it-secret-keep-it-safe-docker-secrets-and-di'
+    talk_date: '2021-10-15 17:00'
+    speakers:
+      -
+        name: 'Dana Luther'
+        twitter: danaluther
+        github: DanaLuther
+    videos: null
+    slides: null
+  -
+    title: 'Keynote: Taylor Otwell'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#keynote-taylor-otwell'
+    talk_date: '2021-10-16 09:00'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos: null
+    slides: null
+  -
+    title: 'The Web is Inherently Accessible'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#the-web-is-inherently-accessible'
+    talk_date: '2021-10-16 10:15'
+    speakers:
+      -
+        name: 'Rachele DiTullio'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Bend Time to Your Will with git'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#bend-time-to-your-will-with-git'
+    talk_date: '2021-10-16 10:15'
+    speakers:
+      -
+        name: 'Chris Tankersley'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Demystifying Unicode'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#demystifying-unicode'
+    talk_date: '2021-10-16 10:15'
+    speakers:
+      -
+        name: "Colin O'Dell"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How to analyze your codebase with Exakat using Docker'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#how-to-analyze-your-codebase-with-exakat-using-docker'
+    talk_date: '2021-10-16 11:30'
+    speakers:
+      -
+        name: 'Dana Luther'
+        twitter: danaluther
+        github: DanaLuther
+    videos: null
+    slides: null
+  -
+    title: 'More Than Just a Cache: Redis Data Structures'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#more-than-just-a-cache-redis-data-structures'
+    talk_date: '2021-10-16 11:30'
+    speakers:
+      -
+        name: 'Andy Snell'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Level Up Your Code Quality'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#level-up-your-code-quality'
+    talk_date: '2021-10-16 11:30'
+    speakers:
+      -
+        name: 'Joel Clermont'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Search for Better Glue'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#the-search-for-better-glue'
+    talk_date: '2021-10-16 13:30'
+    speakers:
+      -
+        name: 'Taylor Barnett'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Strategies for testing complex (or legacy) code'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#strategies-for-testing-complex-or-legacy-code'
+    talk_date: '2021-10-16 14:30'
+    speakers:
+      -
+        name: 'Jason McCreary'
+        twitter: jasonmccreary
+        github: jasonmccreary
+    videos: null
+    slides: null
+  -
+    title: 'How the Sausage Is Made'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#how-the-sausage-is-made'
+    talk_date: '2021-10-16 14:30'
+    speakers:
+      -
+        name: 'Sara Golemon'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Design First APIs with OpenAPI'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#design-first-apis-with-openapi'
+    talk_date: '2021-10-16 14:30'
+    speakers:
+      -
+        name: 'Matt Trask'
+        twitter: matthewtrask
+        github: matthewtrask
+    videos: null
+    slides: null
+  -
+    title: 'Avoid Costly Framework Upgrades'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#avoid-costly-framework-upgrades'
+    talk_date: '2021-10-16 15:45'
+    speakers:
+      -
+        name: 'Anna Filina'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Bootstrapping a Million dollar PHP SaaS business for a buck a month (per customer)'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#bootstrapping-a-million-dollar-php-saas-business-for-a-buck-a-month-per-customer'
+    talk_date: '2021-10-16 15:45'
+    speakers:
+      -
+        name: 'Brady Wetherington'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Leading a Neurodiverse Team'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#leading-a-neurodiverse-team'
+    talk_date: '2021-10-16 15:45'
+    speakers:
+      -
+        name: 'Bryce Embry'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Socially Engineering Your Pathway to a Better Team'
+    description: ''
+    tags: ''
+    link: 'https://www.longhornphp.com/sessions#socially-engineering-your-pathway-to-a-better-team'
+    talk_date: '2021-10-16 17:00'
+    speakers:
+      -
+        name: 'Olivia Liddell'
+        twitter: oliravi
+        github: null
+    videos: null
+    slides: null

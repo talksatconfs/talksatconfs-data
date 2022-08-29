@@ -1,0 +1,459 @@
+name: '!!Con 2018'
+description: ''
+location: 'New York City'
+venue: ''
+city: ''
+country: ''
+link: 'http://bangbangcon.com/2018/'
+playlist: ''
+from_date: '2018-05-12'
+to_date: '2018-05-13'
+tags: ''
+talks:
+  -
+    title: 'Creating an Arabic Programming Language!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Ahmed Abdalla'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:eCxqAr7LjW8'
+    slides: null
+  -
+    title: 'Using Postgres to watch Star Wars!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Will Leinweber'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Lf--bckgEFo'
+    slides: null
+  -
+    title: 'Pseudofractals! Accidental aesthetics where math meets pixels'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jes Wolfe!'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NoqQQwP1Duo'
+    slides: null
+  -
+    title: 'Tales of ! Can You Tell Your Story When Your Character Is Undefined?!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Persa Zula'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fADc9lHwSMc'
+    slides: null
+  -
+    title: 'Moving towards dialogue: collaborating with your computer using typed holes!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Vaibhav Sagar'
+        twitter: vbhvsgr
+        github: vaibhavsagar
+    videos:
+      - 'youtube:0oo8wIi2qBE'
+    slides: null
+  -
+    title: 'Estimating the Value of Pi with a Dartboard and (Not so Much) Luck!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Stephen Tu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wUM6o7EhTjw'
+    slides: null
+  -
+    title: 'The itty, bitty, tiny bytes that make up a Pokemon!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jan Mitsuko Cash'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:D2clyLm8o2Y'
+    slides: null
+  -
+    title: 'The Man Comes Around: and so does his sound!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Vince Allen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ShEl-nDJCb8'
+    slides: null
+  -
+    title: 'Evil Twins and the Secret Lives of Linkers!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Josh Bowman-Matthews'
+        twitter: null
+        github: lastontheboat
+    videos:
+      - 'youtube:fBsH44y9Pz4'
+    slides: null
+  -
+    title: 'Fast, but not too fast! What 17th century windmills can teach us about database migrations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Wander Hillen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ddnxCCh4Zz8'
+    slides: null
+  -
+    title: 'Undo all the things!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Thomas Ballinger'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Zcg1Ku4YB4g'
+    slides: null
+  -
+    title: 'Build skills through hobbies! Bring them to work!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Liz Fong-Jones'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:L3CsxLU0jC0'
+    slides: null
+  -
+    title: 'Four fake filesystems!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Omar Rizwan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pfHpDDXJQVg'
+    slides: null
+  -
+    title: 'Ray-tracing and special relativity: Rendering objects near the speed of light!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Lucy Zhang'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oFaSLIsJELY'
+    slides: null
+  -
+    title: 'Talking to my past self (without introducing temporal paradoxes!)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Andrew Louis'
+        twitter: hyfen
+        github: hyfen
+    videos:
+      - 'youtube:FnFYs5BdI0E'
+    slides: null
+  -
+    title: "It's super effective! Solving Pokemon Blue with a single, huge regular expression"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Alex Clemmer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:n-HTvjIueX0'
+    slides: null
+  -
+    title: "Relativistic Software Calendars: It's About Time!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'John Feminella'
+        twitter: jxxf
+        github: fj
+    videos:
+      - 'youtube:6hfYl52tSMU'
+    slides: null
+  -
+    title: 'Compressing the Library of Babel!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'David Turner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TUcGCAp2xWw'
+    slides: null
+  -
+    title: "Satellites are talking to us! Let's hear them out!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Ed Medvedev'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dqf_dwDzxpo'
+    slides: null
+  -
+    title: 'Transform live video streams with code and a REPL!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Mark Wunsch'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2aOqaE6oByA'
+    slides: null
+  -
+    title: 'Opening Keynote by Mimi Onuoha'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Mimi Onuoha'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zYpXdtWj7BY'
+    slides: null
+  -
+    title: "If you could solve this word tile puzzle, you could solve the halting problem! (Too bad you can't!)"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Kamal Marhubi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wzZsv6KAMsw'
+    slides: null
+  -
+    title: "If at first you don't succeed at beating HQ Trivia, try cheating!!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Hung Truong'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3PL-EPC2cwU'
+    slides: null
+  -
+    title: 'The joys of PICO-8 token crunching!! Or: what I learned about programming from being restricted on every side!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Ayla Myers'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QnDRmPx8yLY'
+    slides: null
+  -
+    title: 'Step by Step: Algorithms that teach you math!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Evy Kassirer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CuZVwTnffbI'
+    slides: null
+  -
+    title: 'Turning Google Earth into SimCity 2000! (From Light to Pixels to Impossible Perspectives!)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Logan Williams'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:X2HAYaPdhWI'
+    slides: null
+  -
+    title: 'How (and why) your CPU re-orders instructions!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Dan Luu'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "So THAT'S how my phone knows where I am!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Em Lazer-Walker'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NvShiF4tnMM'
+    slides: null
+  -
+    title: 'Whoa, pictures! A visual history of visual programming languages!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Emily Nakashima'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mU1aPvvQbqk'
+    slides: null
+  -
+    title: 'UX for Cats and Dogs!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Joel Potischman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yRFQV4O0c48'
+    slides: null
+  -
+    title: 'We built a map to aggregate real-time flood data in under two days!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Aruna Sankaranarayanan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hfatYo2J8gY'
+    slides: null
+  -
+    title: 'Telling stories with traceroute!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Karla Burnett'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NgKI7-3j2hc'
+    slides: null

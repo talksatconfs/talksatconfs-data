@@ -1,0 +1,205 @@
+name: 'AlterConf Portland, OR - 2016'
+description: ''
+location: 'Portland, OR'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2016/portland-or'
+playlist: ''
+from_date: '2016-10-01'
+to_date: '2016-10-01'
+tags: ''
+talks:
+  -
+    title: 'Using Privilege Arbitrage to Increase Inclusion'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-01 00:00'
+    speakers:
+      -
+        name: 'Kojo Idrissa'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZlRgU9AZ-ek'
+    slides: null
+  -
+    title: 'Mid-career Survival for People Who Don’t Want to Be an Attrition Statistic When They Grow Up'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-01 00:00'
+    speakers:
+      -
+        name: 'Julie Pagano'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'So You Want Diversity In Tech?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-01 00:00'
+    speakers:
+      -
+        name: 'Emily Bookstein'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:j9tczqTOL2E'
+    slides: null
+  -
+    title: 'The Invisible Imposter'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-01 00:00'
+    speakers:
+      -
+        name: 'Kathryn Storm'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:E__EPimAyjY'
+    slides: null
+  -
+    title: 'Year 0: The Lies They Tell You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-01 00:00'
+    speakers:
+      -
+        name: 'Chris Dobbins'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-04 00:00'
+    speakers:
+      -
+        name: 'Kronda Adair'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Truth About Mentoring Minorities'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-01 00:00'
+    speakers:
+      -
+        name: 'Byron Woodfork'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0hkUX5TjD7E'
+    slides: null
+  -
+    title: 'Low Power Mode: Managing Your Emotional and Creative Energy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-01 00:00'
+    speakers:
+      -
+        name: 'Marie Chatfield'
+        twitter: mariechatfield
+        github: null
+    videos:
+      - 'youtube:cFYsKX83gis'
+    slides: null
+  -
+    title: 'Generations of Trans Women in Tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-01 00:00'
+    speakers:
+      -
+        name: 'Lynn Cyrin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LLiRvVjKZCg'
+    slides: null
+  -
+    title: 'Unraveling the Masculinization of Technology'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-01 00:00'
+    speakers:
+      -
+        name: 'Audrey Eschright'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4hU5NNOgEdQ'
+    slides: null
+  -
+    title: 'Female to Male, a different trans perspective'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-01 00:00'
+    speakers:
+      -
+        name: 'Sev Leonard'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_j9pf5DabwM'
+    slides: null
+  -
+    title: 'Reflective, Not Objective: Intentionality in AI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-01 00:00'
+    speakers:
+      -
+        name: 'Li Zilles'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XiCuKCJI2Ec'
+    slides: null
+  -
+    title: 'Positive Selfiesteem'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-01 00:00'
+    speakers:
+      -
+        name: liz
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kImZqJfOLyQ'
+    slides: null
+  -
+    title: 'The Power of Secrets'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-01 00:00'
+    speakers:
+      -
+        name: 'Sarah Withee'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DowgJEA0z7k'
+    slides: null

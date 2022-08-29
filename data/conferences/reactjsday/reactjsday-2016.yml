@@ -1,0 +1,142 @@
+name: 'reactjsday 2016'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2016-10-06'
+to_date: '2016-10-07'
+tags: ''
+talks:
+  -
+    title: 'Frontend At Scale: Experiences Using React In A Large Organization'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-07 15:15'
+    speakers:
+      -
+        name: 'Erik Wendel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How to push a ReactJS application in production and sleep better'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-07 11:30'
+    speakers:
+      -
+        name: 'Emanuele Rampichini'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Individual paint for your React components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-07 09:55'
+    speakers:
+      -
+        name: 'Johannes Stein'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Stay (React)ive with MobX'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-07 14:05'
+    speakers:
+      -
+        name: 'Francesco Strazzullo'
+        twitter: TheStrazz86
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'CSS is dead, long live CSS (but in modules, please)!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-07 10:30'
+    speakers:
+      -
+        name: 'Kevin Mees'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'What the hell is graphQL and why should I care?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-07 16:00'
+    speakers:
+      -
+        name: 'Fatos Hoti'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '(in Italian) Introduzione all’ecosistema React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-06 14:00'
+    speakers:
+      -
+        name: 'Fabio Biondi'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Reactive Reality'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-07 12:05'
+    speakers:
+      -
+        name: 'Massimiliano Mantione'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Proper Error Handling with React/Redux'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-07 16:55'
+    speakers:
+      -
+        name: 'Michele Bertoli'
+        twitter: MicheleBertoli
+        github: MicheleBertoli
+    videos: null
+    slides: null
+  -
+    title: 'Building Modular Redux Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-07 14:40'
+    speakers:
+      -
+        name: 'Gian Marco Toso'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

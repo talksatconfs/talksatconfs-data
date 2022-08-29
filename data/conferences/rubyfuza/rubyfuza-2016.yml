@@ -1,0 +1,277 @@
+name: 'Rubyfuza 2016'
+description: ''
+location: ''
+venue: ''
+city: 'Cape Town'
+country: 'South Africa'
+link: ''
+playlist: 'youtube:PLI113oIao_x4323pftT_Huv0XJvaIsDgm'
+from_date: '2016-02-04'
+to_date: '2016-02-05'
+tags: ''
+talks:
+  -
+    title: 'Factory, Workshop, Stage'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-04 09:40'
+    speakers:
+      -
+        name: 'Sarah Mei'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:50pDnHYCOD4'
+    slides: null
+  -
+    title: 'Beating Poker With The Help Of Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-04 10:30'
+    speakers:
+      -
+        name: 'Assaf Gerber'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building a better programming interface for your application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-04 11:30'
+    speakers:
+      -
+        name: 'Ridhwana Khan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Developer Design Thinking'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-04 12:00'
+    speakers:
+      -
+        name: 'Rishal Hurbans'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Freelancing rates ... without using a random number generator'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-04 14:00'
+    speakers:
+      -
+        name: 'SIMON STEWART'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Elixir. Much distributed. Such reliable.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-04 14:30'
+    speakers:
+      -
+        name: 'Simon van Dyk'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Reactive Programming Principles'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-04 15:00'
+    speakers:
+      -
+        name: 'Nelson Pascoal'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Improving your Craft through Communication'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-04 16:00'
+    speakers:
+      -
+        name: 'Steven McDonald'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Using LocalStorage for Progressive Saving'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-04 16:30'
+    speakers:
+      -
+        name: 'Daphne Calitz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Stupid Ideas For Many Computers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 09:30'
+    speakers:
+      -
+        name: 'Aja Hammerly'
+        twitter: the_thagomizer
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '(M)Ruby, Robots, and how to control the World.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 10:00'
+    speakers:
+      -
+        name: 'Julian Cheal'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Literate Programming in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 11:30'
+    speakers:
+      -
+        name: 'Brendon McLean'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Teaching Kids to Programme with Gosu and Sonic Pi'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 12:00'
+    speakers:
+      -
+        name: 'Kelvin Smith'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Kiddibot
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 12:30'
+    speakers:
+      -
+        name: 'Siwaphiwe Tshona '
+        twitter: null
+        github: null
+      -
+        name: ' Ciam a Mbay Tony'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: RubyGL
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 14:00'
+    speakers:
+      -
+        name: 'Daniel Smith'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Going Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 14:30'
+    speakers:
+      -
+        name: 'Kevin McKelvin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Assumption is the mother of all fuck-ups'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 15:00'
+    speakers:
+      -
+        name: 'Austin Fagan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Eigenclasses and other Meta-programming Concepts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 16:00'
+    speakers:
+      -
+        name: 'Eliza de Jager'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'What defines quality software?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 16:30'
+    speakers:
+      -
+        name: 'Rory McKinley'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Next level release management using feature flags'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-02-05 17:00'
+    speakers:
+      -
+        name: 'GABRIEL FORTUNA'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

@@ -1,0 +1,116 @@
+name: "PHP fwdays'13"
+description: ''
+location: Киев
+venue: ''
+city: ''
+country: ''
+link: 'https://fwdays.com/en/event/php-frameworks-day-2013'
+playlist: ''
+from_date: '2013-10-12'
+to_date: '2013-10-12'
+tags: ''
+talks:
+  -
+    title: 'PHP, фреймворки, Yii2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-10-12 00:00'
+    speakers:
+      -
+        name: 'Александр Макаров'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP in Windows Azure Cloud – hosting scalable and reliable solutions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-10-12 00:00'
+    speakers:
+      -
+        name: 'Виктор Цикунов'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Как превратить проект на symfony в боль. Набор практических советов на основе реальных проектов'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-10-12 00:00'
+    speakers:
+      -
+        name: 'Роман Лапин'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Микрофреймворк Silex. Берем в дорогу только необходимое'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-10-12 00:00'
+    speakers:
+      -
+        name: 'Владимир Дубина'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Phalcon - cамый быстрый PHP Framework. Разработка highload проекта'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-10-12 00:00'
+    speakers:
+      -
+        name: 'Александр Торош'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Bluz - наш код как музыка.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-10-12 00:00'
+    speakers:
+      -
+        name: 'Антон Шевчук'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TulaCo PHP Framework или построение корпоративного фреймворка на базе ZF2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-10-12 00:00'
+    speakers:
+      -
+        name: 'Даниил Кожемяко'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Йоптыть, а как же мы будем это тестировать? Обзор фреймворков и библиотек для тестирования в PHP.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-10-12 00:00'
+    speakers:
+      -
+        name: 'Михаил Боднарчук'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

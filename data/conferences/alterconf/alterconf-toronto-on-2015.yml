@@ -1,0 +1,179 @@
+name: 'AlterConf Toronto, ON - 2015'
+description: ''
+location: 'Toronto, ON'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2015/toronto'
+playlist: ''
+from_date: '2015-07-11'
+to_date: '2015-07-11'
+tags: ''
+talks:
+  -
+    title: "Let's Talk About Pay"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-11 00:00'
+    speakers:
+      -
+        name: 'Lauren Voswinkel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:KILpsf1N0Us'
+    slides: null
+  -
+    title: 'Y/N?: binary for humans'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-11 00:00'
+    speakers:
+      -
+        name: 'Haleigh Sheehan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HkJZHZiCVeM'
+    slides: null
+  -
+    title: "It's Hard Out Here For a Dyke: Being a Lesbian in Games"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-11 00:00'
+    speakers:
+      -
+        name: 'merritt kopas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LwXsEksSWXw'
+    slides: null
+  -
+    title: "Don't just talk about it, be about it"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-11 00:00'
+    speakers:
+      -
+        name: 'Christina Truong'
+        twitter: christinatruong
+        github: christinatruong
+    videos:
+      - 'youtube:i49K_1KlXYQ'
+    slides: null
+  -
+    title: 'Feelings and Videogames'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-11 00:00'
+    speakers:
+      -
+        name: 'Kara Stone'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FBxQdOwKrjQ'
+    slides: null
+  -
+    title: 'Barriers to Access: Web illiteracy and resulting fears amongst gatekeepers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-11 00:00'
+    speakers:
+      -
+        name: 'Hinna Yusuf'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xsaeW9RL73s'
+    slides: null
+  -
+    title: 'Preserving culture through the power of games'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-11 00:00'
+    speakers:
+      -
+        name: 'Gabriela Aveiro-Ojeda'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oBNWIigtCeU'
+    slides: null
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Ashe Dryden'
+        twitter: ashedryden
+        github: ashedryden
+    videos: null
+    slides: null
+  -
+    title: 'How NOT to Lose Friends and Alienate People: Generating Physical and Language Awareness in the Workplace'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-11 00:00'
+    speakers:
+      -
+        name: 'Elizabeth Ferrao'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2T29KN22mKo'
+    slides: null
+  -
+    title: 'Creating Characters based on Ethnic Dysphoria'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-11 00:00'
+    speakers:
+      -
+        name: 'Leisha Riddel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ihMFZUsvXRA'
+    slides: null
+  -
+    title: 'Inclusion Before Diversity: Putting Self-Care First'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-11 00:00'
+    speakers:
+      -
+        name: 'Ivana McConnell'
+        twitter: IvanaMcConnell
+        github: null
+    videos:
+      - 'youtube:3Br6uLMs514'
+    slides: null
+  -
+    title: 'Loving Your Job and Why It (Actually) Matters'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-11 00:00'
+    speakers:
+      -
+        name: 'Omosola Odetunde'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:U9bpl00hJ7M'
+    slides: null

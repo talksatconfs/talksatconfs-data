@@ -1,0 +1,503 @@
+name: 'DevFest Florida 2019'
+description: 'DevFest Florida brings together the world class experts in Android, Web and Cloud technologies to Orlando for 1 day of sessions, workshops and showcases.'
+location: ''
+venue: ''
+city: Ornaldo
+country: 'United States'
+link: 'https://devfestflorida.org/'
+playlist: 'youtube.com:PLN6KCgG5AWHnRFoYpFBOauXEh0dCfT9Pe'
+from_date: '2019-01-19'
+to_date: '2019-01-19'
+tags: ''
+talks:
+  -
+    title: 'Self-Care for Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Nitya Narasimhan'
+        twitter: nitya
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Performance Optimizations for Progressive Web Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Chris Lorenzo'
+        twitter: chiefcll
+        github: null
+    videos:
+      - 'youtube:ToJNjRwR6O0'
+    slides: null
+  -
+    title: 'Exploring Kotlin Multiplatform'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Ian Thomas'
+        twitter: null
+        github: toxicbakery
+    videos:
+      - 'youtube:URxi32H9fNM'
+    slides: null
+  -
+    title: 'AI Adventures with AutoML'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Siva Kumar'
+        twitter: ksivamuthu
+        github: null
+    videos:
+      - 'youtube:-FpWZE_FsI8'
+    slides: null
+  -
+    title: 'Adventures of a Polymath'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Christi Kapp'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Enterprise Hybrid Mobile App development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Mary Grygleski'
+        twitter: mgrygles
+        github: null
+    videos:
+      - 'youtube:2Oum15R7H2g'
+    slides: null
+  -
+    title: 'IoT + DevOps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Jared Porcenaluk'
+        twitter: jporcenaluk
+        github: null
+    videos:
+      - 'youtube:I4Ub3Mrvc2c'
+    slides: null
+  -
+    title: 'React Native Up and Running'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Betty Pierce'
+        twitter: UIBusyBetty
+        github: null
+    videos:
+      - 'youtube:qyYzFz3-9hM'
+    slides: null
+  -
+    title: 'Simple MVI Architecture for Android'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Etienne Caron'
+        twitter: kanawish
+        github: kanawish
+    videos:
+      - 'youtube:1vlTPp336UY'
+    slides: null
+  -
+    title: 'Beyond Smart Speakers: Get Your Google Assistant Apps Ready for Smart Displays'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Aygul Zagidullina'
+        twitter: aygul
+        github: null
+    videos:
+      - 'youtube:1ySNf6YB_LU'
+    slides: null
+  -
+    title: 'Nailing the Tech Interview'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Eva Sofianos'
+        twitter: evasofianos
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'All About Apps Script'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Grant Timmerman'
+        twitter: granttimmerman
+        github: granttimmerman
+    videos:
+      - 'youtube:dpYHPzQF1qI'
+    slides: null
+  -
+    title: 'Smooth Criminals, Android animations and how not to get robbed.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Stacy Devino'
+        twitter: Doesitpew
+        github: null
+    videos:
+      - 'youtube:osinFJ3YL88'
+    slides: null
+  -
+    title: 'A Year in XR: Advancements of Virtual, Augmented and Mixed Reality'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Matt Fedorovich'
+        twitter: MattFedorovich
+        github: null
+    videos:
+      - 'youtube:eOjIG0-IMDg'
+    slides: null
+  -
+    title: 'Debugging, Profiling, & Rocking Out with Browser-Based Developer Tools!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Mike Herchel'
+        twitter: mikeherchel
+        github: null
+    videos:
+      - 'youtube:9JGQQd2v0iY'
+    slides: null
+  -
+    title: 'Finding Your Way Through the Navigation Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Jerrell Mardis'
+        twitter: jerrellmardis
+        github: null
+    videos:
+      - 'youtube:uKNNGzFOIvQ'
+    slides: null
+  -
+    title: 'Jumping into Jupyter Notebooks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Joey deVilla'
+        twitter: accordionguy
+        github: null
+    videos:
+      - 'youtube:epfM9isTmK8'
+    slides: null
+  -
+    title: 'Debugging Your Node.js Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'John Papa'
+        twitter: john_papa
+        github: johnpapa
+    videos:
+      - 'youtube:avuzh747JRE'
+    slides: null
+  -
+    title: 'Introduction to Flutter'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Faisal Abid'
+        twitter: FaisalAbid
+        github: null
+    videos:
+      - 'youtube:FhcVt2lS5eg'
+    slides: null
+  -
+    title: 'So you can build an Action. Now what?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Allen Firstenberg'
+        twitter: afirstenberg
+        github: null
+    videos:
+      - 'youtube:cxCzll5q76s'
+    slides: null
+  -
+    title: "Composing Accessible UI's With Angular Material Components"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Michael Prentice'
+        twitter: splaktar
+        github: Splaktar
+    videos:
+      - 'youtube:OU6z3IKmyNI'
+    slides: null
+  -
+    title: 'Security & Pie'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Connor Tumbleson'
+        twitter: iBotPeaches
+        github: null
+    videos:
+      - 'youtube:TZCdlxLl0E4'
+    slides: null
+  -
+    title: 'End-2-End Machine Learning on GCP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Vikram Tiwari'
+        twitter: Vikram_Tiwari
+        github: null
+    videos:
+      - 'youtube:YRRIHJD48ow'
+    slides: null
+  -
+    title: 'Serverless Angular, Material, Firebase and Google Cloud applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Loiane Groner'
+        twitter: loiane
+        github: null
+    videos:
+      - 'youtube:reBpWSV7Vko'
+    slides: null
+  -
+    title: 'Want a Slice?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Kaan Mamikoglu'
+        twitter: kaanmamikoglu
+        github: null
+    videos:
+      - 'youtube:8w_Opn6rf0g'
+    slides: null
+  -
+    title: 'Not all data is created equal: NoSQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Santosh Hari'
+        twitter: _s_hari
+        github: null
+    videos:
+      - 'youtube:XEa3a9js9kA'
+    slides: null
+  -
+    title: 'Shifting to Vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Michele Cynowicz'
+        twitter: michelecynowicz
+        github: null
+    videos:
+      - 'youtube:AWQTbb6rmwI'
+    slides: null
+  -
+    title: 'Flutter: Mobile Development for Busy People'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Seattle, WA'
+        twitter: bouncingsheep
+        github: efortuna
+      -
+        name: 'Lara Martin'
+        twitter: lariki
+        github: laramartin
+    videos:
+      - 'youtube:55nwTtHcFis'
+    slides: null
+  -
+    title: 'Focus on your code, not infrastructure, with Cloud Functions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Martin Omander'
+        twitter: martinomander
+        github: null
+    videos:
+      - 'youtube:zDsqtYBkpwQ'
+    slides: null
+  -
+    title: 'Intro to Progressive Web Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Kyle Paul'
+        twitter: _KylePaul
+        github: null
+    videos:
+      - 'youtube:UcbEU7lutfg'
+    slides: null
+  -
+    title: 'The Joy of Missing Out and the Freedom of Disconnecting'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Luxi Chen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0aAgX3OrAeM'
+    slides: null
+  -
+    title: 'AutoML: No Code No Problem'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Dan Baran'
+        twitter: defragger
+        github: null
+    videos:
+      - 'youtube:gomkPTOC3jA'
+    slides: null
+  -
+    title: 'Dispatches from React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Elizabeth Tiller'
+        twitter: LizTiller
+        github: lizthrilla
+    videos:
+      - 'youtube:uby9R_cdGE0'
+    slides: null
+  -
+    title: 'DIY Dependency Injection with Kotlin'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Sam Edwards'
+        twitter: HandstandSam
+        github: null
+    videos:
+      - 'youtube:k-iSaKNwBqk'
+    slides: null
+  -
+    title: 'Making Your Android Things Devices Smarter'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-01-19 00:00'
+    speakers:
+      -
+        name: 'Paul Trebilcox-Ruiz'
+        twitter: hPaulTR88
+        github: null
+    videos:
+      - 'youtube:wwelHPFsJqU'
+    slides: null

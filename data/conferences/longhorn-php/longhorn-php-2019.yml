@@ -1,0 +1,506 @@
+name: 'Longhorn PHP 2019'
+description: ''
+location: ''
+venue: 'The Commons Learning Center'
+city: 'Austin, Texas'
+country: USA
+link: 'https://2019.longhornphp.com/'
+playlist: ''
+from_date: '2019-05-02'
+to_date: '2019-05-04'
+tags: ''
+talks:
+  -
+    title: 'Getting the Most out of PHPStan'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#getting-the-most-out-of-phpstan'
+    talk_date: '2019-05-02 09:00'
+    speakers:
+      -
+        name: 'Ondřej Mirtes'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Symfony Components Revisited: How to Build a Framework'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#symfony-components-revisited-how-to-build-a-framework'
+    talk_date: '2019-05-02 09:00'
+    speakers:
+      -
+        name: 'Andreas Hucks'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Practical Object-Oriented Design Principles'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#practical-object-oriented-design-principles'
+    talk_date: '2019-05-02 09:00'
+    speakers:
+      -
+        name: 'Brandon Savage'
+        twitter: brandonsavage
+        github: brandonsavage
+    videos: null
+    slides: null
+  -
+    title: 'Pragmatic TDD'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#pragmatic-tdd'
+    talk_date: '2019-05-02 13:00'
+    speakers:
+      -
+        name: 'Luka Muzinic'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Build a GraphQL API with PHP'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#build-a-graphql-api-with-php-tutorial'
+    talk_date: '2019-05-02 13:00'
+    speakers:
+      -
+        name: 'Andrew Rota'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Relational Database Design Bootcamp'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#relational-database-design-bootcamp'
+    talk_date: '2019-05-02 13:00'
+    speakers:
+      -
+        name: 'Mark Niebergall'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building World Class Developer Organizations'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#building-world-class-developer-organizations'
+    talk_date: '2019-05-03 09:00'
+    speakers:
+      -
+        name: 'Josh Holmes'
+        twitter: null
+        github: joshholmes
+    videos: null
+    slides: null
+  -
+    title: 'Testing Strategy with the Help of a Static Analyzer'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#testing-strategy-with-the-help-of-a-static-analyzer'
+    talk_date: '2019-05-03 10:15'
+    speakers:
+      -
+        name: 'Ondřej Mirtes'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Become an Accessibility BFF with your new friend Pa11y!'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#become-an-accessibility-bff-with-your-new-friend-pa11y'
+    talk_date: '2019-05-03 10:15'
+    speakers:
+      -
+        name: 'Jennifer Wadella'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Going Bare - Writing The Web Without A Framework'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#going-bare-writing-the-web-without-a-framework'
+    talk_date: '2019-05-03 10:15'
+    speakers:
+      -
+        name: 'Sammy Kaye Powers'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Frontend Performance and You: A Beginner's Guide"
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#frontend-performance-and-you-a-beginners-guide'
+    talk_date: '2019-05-03 11:30'
+    speakers:
+      -
+        name: 'Daniel Cousineau'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Going to Infinity and Beyond Documentation with OpenAPI Specification'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#going-to-infinity-and-beyond-documentation-with-openapi-specification'
+    talk_date: '2019-05-03 11:30'
+    speakers:
+      -
+        name: 'Taylor Barnett'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Getting Started with GraphQL && PHP'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#building-a-graphql-api-in-php'
+    talk_date: '2019-05-03 11:30'
+    speakers:
+      -
+        name: 'Andrew Rota'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Beer, bylines and booleans: Why tech needs more folks from the service industry and liberal arts'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#beer-bylines-and-booleans-why-tech-needs-more-folks-from-the-service-industry-and-liberal-arts'
+    talk_date: '2019-05-03 13:00'
+    speakers:
+      -
+        name: 'Hilary Stohs-Krause'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Performance optimi$ation: how do I go about it?'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#performance-optimisation-how-do-i-go-about-it'
+    talk_date: '2019-05-03 14:15'
+    speakers:
+      -
+        name: 'Kat Zień'
+        twitter: kasiazien
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'MySQL 8 Features for Developers'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#mysql-8-features-for-developers'
+    talk_date: '2019-05-03 14:15'
+    speakers:
+      -
+        name: 'Dave Stokes'
+        twitter: iansltx
+        github: mysqlmentor
+    videos: null
+    slides: null
+  -
+    title: 'Diving Into Guzzle: Getting the Most from Your Requests'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#diving-into-guzzle-getting-the-most-from-your-requests'
+    talk_date: '2019-05-03 14:15'
+    speakers:
+      -
+        name: 'Steven Wade'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Adding Serverless to a Legacy / Monolithic PHP App'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#adding-serverless-to-a-legacy-monolithic-php-app'
+    talk_date: '2019-05-03 15:30'
+    speakers:
+      -
+        name: 'Brett Florio'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Demystifying Object-Oriented Programming'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#demystifying-object-oriented-programming'
+    talk_date: '2019-05-03 15:30'
+    speakers:
+      -
+        name: 'Alena Holligan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Mental Health And You'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#mental-health-and-you'
+    talk_date: '2019-05-03 15:30'
+    speakers:
+      -
+        name: 'Matthew Trask'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Using Functional Programming in PHP'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#using-functional-programming-in-php'
+    talk_date: '2019-05-03 16:45'
+    speakers:
+      -
+        name: 'Phillip Palmieri'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'When did you stop speaking up?'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#when-did-you-stop-speaking-up'
+    talk_date: '2019-05-03 16:45'
+    speakers:
+      -
+        name: 'Merline Raymond'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Procrastination as a Service: Caching & Queueing'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#procrastination-as-a-service-caching-queueing'
+    talk_date: '2019-05-03 16:45'
+    speakers:
+      -
+        name: 'Lawrence Shea'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'I Community and So Can You'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#i-community-and-so-can-you'
+    talk_date: '2019-05-04 09:00'
+    speakers:
+      -
+        name: 'Margaret Staples'
+        twitter: dead_lugosi
+        github: mstaples
+    videos: null
+    slides: null
+  -
+    title: 'Divide and Conquer - Your Business Code and your Framework'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#divide-and-conquer-your-business-code-and-your-framework'
+    talk_date: '2019-05-04 10:15'
+    speakers:
+      -
+        name: 'Andreas Hucks'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building Better Stories: Data Visualization, Storytelling and You!'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#building-better-stories-data-visualization-storytelling-and-you'
+    talk_date: '2019-05-04 10:15'
+    speakers:
+      -
+        name: 'Regine Gilbert'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Performance tuning your progressive web app (PWA)'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#performance-tuning-your-progressive-web-app-pwa'
+    talk_date: '2019-05-04 10:15'
+    speakers:
+      -
+        name: 'Josh Holmes'
+        twitter: null
+        github: joshholmes
+    videos: null
+    slides: null
+  -
+    title: 'Exploiting the Brain for Fun and Profit'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#exploiting-the-brain-for-fun-and-profit'
+    talk_date: '2019-05-04 11:30'
+    speakers:
+      -
+        name: 'Alena Holligan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Lua as a second language'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#lua-as-a-second-language'
+    talk_date: '2019-05-04 11:30'
+    speakers:
+      -
+        name: 'Luka Muzinic'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'React at Scale'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#react-at-scale'
+    talk_date: '2019-05-04 11:30'
+    speakers:
+      -
+        name: 'Daniel Cousineau'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Taming Change'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#taming-change'
+    talk_date: '2019-05-04 13:00'
+    speakers:
+      -
+        name: 'Chris Holland'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Make Your Server a Fortress - A developer's guide to server security"
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#make-your-server-a-fortress-a-developers-guide-to-server-security'
+    talk_date: '2019-05-04 14:15'
+    speakers:
+      -
+        name: 'Roger Creasy'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Testing Like You've Never Tested Before (Because You Haven't)"
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#testing-like-youve-never-tested-before-because-you-havent'
+    talk_date: '2019-05-04 14:15'
+    speakers:
+      -
+        name: 'Steve Grunwell'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Get GOing with a new language'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#get-going-with-a-new-language'
+    talk_date: '2019-05-04 14:15'
+    speakers:
+      -
+        name: 'Kat Zień'
+        twitter: kasiazien
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'More Than Just a Hammer'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#more-than-just-a-hammer'
+    talk_date: '2019-05-04 15:30'
+    speakers:
+      -
+        name: 'Ben Edmunds'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Taking the Lead'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#taking-the-lead'
+    talk_date: '2019-05-04 15:30'
+    speakers:
+      -
+        name: 'Marion Sartor'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Alexa, Ask Me About PHP!'
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#alexa-ask-me-about-php'
+    talk_date: '2019-05-04 15:30'
+    speakers:
+      -
+        name: 'Omni Adams'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: RTFM
+    description: ''
+    tags: ''
+    link: 'https://2019.longhornphp.com/sessions/#rtfm'
+    talk_date: '2019-05-04 16:45'
+    speakers:
+      -
+        name: 'Jessica Mauerhan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

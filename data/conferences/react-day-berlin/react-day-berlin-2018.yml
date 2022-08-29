@@ -1,0 +1,166 @@
+name: 'React Day Berlin 2018'
+description: 'Take part in the exploration of the React (Native) universe! Focusing on in-depth talks, hands-on workshops, and finding new opportunities, React Day Berlin conference provides space for everyone to make friends and develop stellar apps together.'
+location: ''
+venue: ''
+city: Berlin
+country: Germany
+link: 'https://reactday.berlin/2018/'
+playlist: 'youtube.com:PL-3BrJ5CiIx7P1zDrQJM5FbdUjM1lTIFC'
+from_date: '2018-11-30'
+to_date: '2018-11-30'
+tags: ''
+talks:
+  -
+    title: 'The New Hotness" An Exploration of Reacts Exciting New Features"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-30 00:00'
+    speakers:
+      -
+        name: 'Ken Wheeler'
+        twitter: ken_wheeler
+        github: kenwheeler
+    videos:
+      - 'youtube:p8v9X2TNQKA'
+    slides: null
+  -
+    title: 'Powering Code Reuse with Context and Render Props'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-30 00:00'
+    speakers:
+      -
+        name: 'Forbes Lindsay'
+        twitter: ForbesLindesay
+        github: ForbesLindesay
+    videos:
+      - 'youtube:9QateTvcT1k'
+    slides: null
+  -
+    title: 'Feature Driven Architecture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-30 00:00'
+    speakers:
+      -
+        name: 'Oleg Isonen'
+        twitter: Oleg008
+        github: kof
+    videos:
+      - 'youtube:BWAeYuWFHhs'
+    slides: null
+  -
+    title: 'Secrets to a Successful Design System'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-30 00:00'
+    speakers:
+      -
+        name: 'Monica Lent'
+        twitter: monicalent
+        github: mlent
+    videos:
+      - 'youtube:88TOxfKzkHw'
+    slides: null
+  -
+    title: 'Tip Top Testing in JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-30 00:00'
+    speakers:
+      -
+        name: 'Jack Franklin'
+        twitter: jack_Franklin
+        github: jackfranklin
+    videos:
+      - 'youtube:cB5WZgMwdpE'
+    slides: null
+  -
+    title: 'Navigating the Hype-Driven Frontend Development World Without Going Insane'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-30 00:00'
+    speakers:
+      -
+        name: Kitze
+        twitter: thekitze
+        github: kitze
+    videos:
+      - 'youtube:QZ6aC6G0ufg'
+    slides: null
+  -
+    title: 'Writing Your Own React Renderer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-30 00:00'
+    speakers:
+      -
+        name: 'Raphael Amorim'
+        twitter: raphamorims
+        github: raphamorim
+    videos:
+      - 'youtube:Hz_WTWb3sV4'
+    slides: null
+  -
+    title: "Structure Your App's Story With Sagas and Selectors"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-30 00:00'
+    speakers:
+      -
+        name: 'Rebecca Hill'
+        twitter: rebekaka
+        github: beerecca
+    videos:
+      - 'youtube:Q1_RfF_qRMc'
+    slides: null
+  -
+    title: 'Optimizing the Critical Rendering Path in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-30 00:00'
+    speakers:
+      -
+        name: 'Alex Moldovan'
+        twitter: alexnmoldovan
+        github: alexnm
+    videos:
+      - 'youtube:25fkjIIk2_o'
+    slides: null
+  -
+    title: 'The Lonely and Dark Road to Styling in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-30 00:00'
+    speakers:
+      -
+        name: 'Sara Vieira'
+        twitter: NikkitaFTW
+        github: alexnm
+    videos:
+      - 'youtube:M3AceCsW0oM'
+    slides: null
+  -
+    title: 'Lightning talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-30 00:00'
+    speakers:
+      -
+        name: 'Denys Periel'
+        twitter: DPeryel
+        github: null
+    videos:
+      - 'youtube:Xnwb9-3-NTE'
+    slides: null

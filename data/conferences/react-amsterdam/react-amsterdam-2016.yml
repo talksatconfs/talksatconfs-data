@@ -1,0 +1,196 @@
+name: 'React Amsterdam 2016'
+description: ''
+location: 'Amsterdam, Netherlands'
+venue: ''
+city: ''
+country: ''
+link: 'https://react.amsterdam/2016/'
+playlist: ''
+from_date: '2016-04-16'
+to_date: '2016-04-16'
+tags: ''
+talks:
+  -
+    title: 'Building Loveable UIs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-16 00:00'
+    speakers:
+      -
+        name: 'Henrique Alves'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rbtmCqBEYpg'
+    slides:
+      - 'https://speakerdeck.com/reactamsterdam/henrique-alves-dadi-plus-london-building-loveable-uis'
+  -
+    title: 'Migrating Safely to React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-16 00:00'
+    speakers:
+      -
+        name: 'Jamis Charles'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sXDZBxbRRag'
+    slides:
+      - 'https://speakerdeck.com/reactamsterdam/jamis-charles-paypal-san-jose-migrating-safely-to-react'
+  -
+    title: 'React Native Architecture Overview'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-16 00:00'
+    speakers:
+      -
+        name: 'Tadeu Zagallo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Ah2qNbI40vE'
+    slides:
+      - 'https://speakerdeck.com/reactamsterdam/tadeu-zagallo-facebook-london-react-native-architecture-overview'
+  -
+    title: 'Javascript Style Sheets'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-16 00:00'
+    speakers:
+      -
+        name: 'Oleg Slobodskoi'
+        twitter: oleg008
+        github: kof
+    videos:
+      - 'youtube:BI4frdqSBY4'
+    slides:
+      - 'https://speakerdeck.com/reactamsterdam/oleg-slobodskoi-chatgrape-berlin-javascript-style-sheets'
+  -
+    title: 'State Management is Easy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-16 00:00'
+    speakers:
+      -
+        name: 'Michel Weststrate'
+        twitter: mweststrate
+        github: mweststrate
+    videos:
+      - 'youtube:ApmSsu3qnf0'
+    slides:
+      - 'https://speakerdeck.com/reactamsterdam/michel-weststrate-mendix-rotterdam-state-management-is-easy'
+  -
+    title: 'Introducing and Implementing React at Coolblue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-16 00:00'
+    speakers:
+      -
+        name: 'Paul van Dam'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3aHCYceqOrU'
+    slides:
+      - 'https://speakerdeck.com/reactamsterdam/paul-van-dam-coolblue-rotterdam-introducing-and-implementing-react-at-coolblue'
+  -
+    title: 'Solving a Tooling Problem For React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-16 00:00'
+    speakers:
+      -
+        name: 'Mike Grabowski'
+        twitter: grabbou
+        github: grabbou
+      -
+        name: 'Alexey Kureev'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iF6lNtqFLKY'
+    slides:
+      - 'https://speakerdeck.com/reactamsterdam/wroclaw-solving-a-tooling-problem-for-react-native'
+  -
+    title: 'Mastering Server-rendered Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-16 00:00'
+    speakers:
+      -
+        name: 'Sven Anders Robbestad'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tlysAZSd45k'
+    slides:
+      - 'https://speakerdeck.com/reactamsterdam/sven-anders-robbestad-inmeta-consulting-as-oslo-mastering-server-rendered-apps'
+  -
+    title: 'React For Game Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-16 00:00'
+    speakers:
+      -
+        name: 'Johannes Stein'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JaK-RrYPPRk'
+    slides:
+      - 'https://speakerdeck.com/reactamsterdam/johannes-stein-freelance-berlin-react-for-game-development'
+  -
+    title: 'Building Reactive GraphQL Apps With Apollo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-16 00:00'
+    speakers:
+      -
+        name: 'Martijn Walraven'
+        twitter: martijnwalraven
+        github: null
+    videos:
+      - 'youtube:1Dgt691lXhs'
+    slides:
+      - 'https://speakerdeck.com/reactamsterdam/martijn-walraven-meteor-amsterdam-building-reactive-graphql-apps-with-apollo'
+  -
+    title: 'The React Native Playground'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-16 00:00'
+    speakers:
+      -
+        name: 'Joshua Sierles'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fN3AVJuxMIc'
+    slides:
+      - 'https://speakerdeck.com/reactamsterdam/joshua-sierles-freelance-sevilla-the-react-native-playground'
+  -
+    title: 'Testing React Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-04-16 00:00'
+    speakers:
+      -
+        name: 'Jack Franklin'
+        twitter: jack_Franklin
+        github: jackfranklin
+    videos:
+      - 'youtube:KBhHsYlF4mQ'
+    slides:
+      - 'https://speakerdeck.com/reactamsterdam/jack-franklin-pusher-london-testing-react-applications'

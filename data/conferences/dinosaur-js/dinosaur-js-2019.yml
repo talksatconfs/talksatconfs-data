@@ -1,0 +1,129 @@
+name: 'Dinosaur JS 2019'
+description: ''
+location: 'Denver, Colorado'
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2019-06-20'
+to_date: '2019-06-21'
+tags: ''
+talks:
+  -
+    title: 'Building a Babel 7 Processor'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-20 09:30'
+    speakers:
+      -
+        name: 'Cassidy Williams'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A Postmortem on the Ingen Incident'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-20 10:00'
+    speakers:
+      -
+        name: 'Hayley Denbraver'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Pika: Reimagining the Registry'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-20 13:40'
+    speakers:
+      -
+        name: 'Fred K. Schott'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Codemods: Refactoring JavaScript using JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-20 11:40'
+    speakers:
+      -
+        name: 'Saimon Sharif'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Future of Web Animation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-20 13:10'
+    speakers:
+      -
+        name: 'Sarah Drasner'
+        twitter: sarah_edo
+        github: sdras
+    videos: null
+    slides: null
+  -
+    title: 'The Art of Teaching'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-20 14:50'
+    speakers:
+      -
+        name: 'Lori Culberson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How to have a amicable breakup with a Javascript library'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-20 11:10'
+    speakers:
+      -
+        name: 'Daria Caraway'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Data science in the browser: DX & UX'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-20 15:20'
+    speakers:
+      -
+        name: 'Jana Beck'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A Partial Taxonomy of Test Unreliability'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-20 16:35'
+    speakers:
+      -
+        name: 'Rich Trott'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

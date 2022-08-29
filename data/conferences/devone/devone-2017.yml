@@ -1,0 +1,188 @@
+name: 'DevOne 2017'
+description: 'devone is a one-day event organized by developers for developers with a focus on hot topics like .NET Core, Java 9, Security and Continuous Delivery. Make sure to join us for this unique opportunity and engage directly with experts in the development community!'
+location: 'Linz, Austria'
+venue: ''
+city: Linz
+country: Austria
+link: 'https://devone.at/2017/'
+playlist: ''
+from_date: '2017-06-01'
+to_date: '2017-06-01'
+tags: ''
+talks:
+  -
+    title: "Keynote 'How to explain DevOps to your mom and how it works at Facebook, PayPal and others!'"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-01 00:00'
+    speakers:
+      -
+        name: 'Andreas Grabner'
+        twitter: grabnerandi
+        github: grabnerandi
+    videos:
+      - 'youtube:mNhYAXFr5t8'
+    slides:
+      - 'https://www.slideshare.net/grabnerandi/how-to-explain-devops-to-your-mom'
+  -
+    title: 'From scheduled builds to commit triggered pipelines'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-01 00:00'
+    speakers:
+      -
+        name: 'Wolfgang Gottesheim'
+        twitter: gottesheim
+        github: wgottesheim
+      -
+        name: 'Bernd Farka'
+        twitter: BFarka
+        github: bfarka
+    videos:
+      - 'youtube:nocc0XYn-Xo'
+    slides:
+      - 'https://speakerdeck.com/wgottesheim/from-scheduled-builds-to-commit-triggered-pipelines-devone-2017'
+  -
+    title: 'Perils of the cloud'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-01 00:00'
+    speakers:
+      -
+        name: 'Philipp Krenn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NhYnQEsNTcc'
+    slides:
+      - 'https://speakerdeck.com/xeraa/101-steps-to-avoid-a-security-disaster-in-the-cloud'
+  -
+    title: 'How IaaS and immutable infrastructure improved our way to deploy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-01 00:00'
+    speakers:
+      -
+        name: 'Markus Heimbach'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UiW9sLzJJV4'
+    slides: null
+  -
+    title: 'Spring Vault - managing secrets at scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-01 00:00'
+    speakers:
+      -
+        name: 'Christoph Strobl'
+        twitter: stroblchristoph
+        github: christophstrobl
+    videos:
+      - 'youtube:FrMgQFn_rEc'
+    slides: null
+  -
+    title: 'To make mistakes is human. To auto-deploy it is DevOps.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-01 00:00'
+    speakers:
+      -
+        name: 'Anita Engleder'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZXy59ao6-Js'
+    slides: null
+  -
+    title: '.NET Core'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-01 00:00'
+    speakers:
+      -
+        name: 'Rainer Stropek'
+        twitter: rstropek
+        github: rstropek
+    videos:
+      - 'youtube:ual25BcmCQE'
+    slides: null
+  -
+    title: 'Functional Programming For The Anxious Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-01 00:00'
+    speakers:
+      -
+        name: 'Martin Gutenbrunner'
+        twitter: MartinGoodwell
+        github: MartinGoodwell
+    videos:
+      - 'youtube:y8ILAvPZ49s'
+    slides: null
+  -
+    title: 'Java 9 - What are we going to love/hate this time'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-01 00:00'
+    speakers:
+      -
+        name: 'Philipp Lengauer'
+        twitter: MartinGoodwell
+        github: delMar43
+    videos:
+      - 'youtube:Nsg_rhlf4_U'
+    slides: null
+  -
+    title: "What's Cloud Foundry and why you want to use it"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-01 00:00'
+    speakers:
+      -
+        name: 'Alois Mayr'
+        twitter: mayralois
+        github: aloismayr
+    videos:
+      - 'youtube:pI6g6YPq6qI'
+    slides:
+      - 'https://speakerdeck.com/aloismayr/whats-cloud-foundry-and-why-you-want-to-use-it'
+  -
+    title: 'Breaking the monolith'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-01 00:00'
+    speakers:
+      -
+        name: 'Peter Marton'
+        twitter: slashdotpeter
+        github: hekike
+    videos: null
+    slides:
+      - 'https://speakerdeck.com/slashdotpeter/breaking-down-the-monolith-devone'
+  -
+    title: 'Closing remarks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-01 00:00'
+    speakers:
+      -
+        name: 'Bernd Greifeneder'
+        twitter: mayralois
+        github: aloismayr
+    videos:
+      - 'youtube:INXJrlkJG-g'
+    slides: null

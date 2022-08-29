@@ -1,0 +1,447 @@
+name: 'ReactFoo Pune 2018'
+description: 'A conference on the lessons learned while implementing React and React Native.'
+location: ''
+venue: ''
+city: Pune
+country: India
+link: 'https://reactfoo.in/2018-pune/'
+playlist: 'youtube:PL279M8GbNsetgjglkVz7Yu235ppd9cUQ4'
+from_date: '2018-01-19'
+to_date: '2018-01-20'
+tags: ''
+talks:
+  -
+    title: 'Why we built a 35kB React Native alternative?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Sahebjot singh'
+        twitter: raunaqrox
+        github: null
+    videos:
+      - 'youtube:JiUY7EYzBtI'
+    slides:
+      - 'https://www.slideshare.net/SahebjotSingh/why-we-built-35kb-react-native-alternative'
+  -
+    title: 'React the Reasonable Way'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Neehar Venugopal'
+        twitter: neeharv
+        github: neeharv
+    videos: null
+    slides: null
+  -
+    title: 'Fullstack React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Rishichandra Wawhal'
+        twitter: wawhal
+        github: null
+    videos:
+      - 'youtube:9molWtZO8r0'
+    slides:
+      - 'https://docs.google.com/presentation/d/1eZ4NmzoUsVsFHfUeRzIK88P7U_Sz3NQH10DkL9rIJME/edit?usp=sharing'
+  -
+    title: 'Why React is not suitable for building rich-text editors?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Adisha Porwal'
+        twitter: adisha
+        github: adishap
+    videos: null
+    slides:
+      - 'https://docs.google.com/presentation/d/1h0BdMhuCpjEUsCaQ900FsMLjk4xtJY_MFMmYtC8KsyY/edit?usp=sharing'
+  -
+    title: 'PWA with React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Neeraj Singh'
+        twitter: neerajsingh47
+        github: null
+    videos:
+      - 'youtube:p4dho4MAV5M'
+    slides:
+      - 'https://docs.google.com/presentation/d/18L5NHLS_8CbrPyDIESVNf75cwjgqedvbL2bGZdDNzdI/edit?usp=sharing'
+  -
+    title: 'How React shaped Haptik’s frontend story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Nabendu Karmakar'
+        twitter: nabendu
+        github: null
+    videos:
+      - 'youtube:qShZJRRpkrc'
+    slides:
+      - 'https://docs.google.com/presentation/d/1LxIVfSvLQD7Y2AaWAbksvV7qaAxqKz53IHj6QroqWGE/'
+  -
+    title: 'Setting up React project for your team'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Souvik Basu'
+        twitter: souvikbasu
+        github: souvikbasu
+    videos: null
+    slides: null
+  -
+    title: 'Re-writing redux application with GraphQL & Apollo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Kiran Abburi'
+        twitter: kiran_abburi
+        github: akiran
+    videos: null
+    slides: null
+  -
+    title: 'Redux Deep Dive'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Aziz Khambati'
+        twitter: azizhk110
+        github: null
+    videos:
+      - 'youtube:mVsR4Tf3EL0'
+    slides:
+      - 'https://speakerdeck.com/azizhk/redux-deep-dive-dispatch-your-reducer-reactfoo-pune-2018-aziz-khambati'
+  -
+    title: 'Staying Sane While Styling Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Saneef Ansari'
+        twitter: saneef
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Preact is Dope'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Anup Kumar'
+        twitter: anup07
+        github: reznord
+    videos: null
+    slides:
+      - 'https://speakerdeck.com/reznord/introduction-to-preact'
+  -
+    title: "The history of CSS and it's future in React"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Siddharth Kshetrapal'
+        twitter: siddharthkp
+        github: siddharthkp
+    videos: null
+    slides:
+      - 'https://css-kkqhmrbmrg.now.sh'
+  -
+    title: 'A Reasonable way to React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Siddharth Kshetrapal'
+        twitter: siddharthkp
+        github: siddharthkp
+    videos: null
+    slides: null
+  -
+    title: 'Advanced React Component Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Siddharth Kshetrapal'
+        twitter: siddharthkp
+        github: siddharthkp
+    videos:
+      - 'youtube:iS-KOFYcp6I'
+    slides:
+      - 'http://bit.ly/2E6ap79'
+  -
+    title: 'Learn React the right way'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Siddharth Kshetrapal'
+        twitter: siddharthkp
+        github: siddharthkp
+    videos: null
+    slides: null
+  -
+    title: 'Designing with React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Siddharth Kshetrapal'
+        twitter: siddharthkp
+        github: siddharthkp
+    videos: null
+    slides: null
+  -
+    title: 'Styleguide Driven Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Darpan Kakadia'
+        twitter: kakadiadarpan
+        github: kakadiadarpan
+    videos: null
+    slides:
+      - 'https://speakerdeck.com/kakadiadarpan/async-in-redux'
+  -
+    title: 'React shared libraries and module systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Kamlesh Chandnani'
+        twitter: _kamlesh_
+        github: kamleshchandnani
+    videos: null
+    slides:
+      - 'https://speakerdeck.com/kamleshchandnani/progressive-loading http://slides.com/kamleshchandnani/next-generation-web-apps'
+  -
+    title: 'Building Performant Instant Github Repo Search With React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: BilalBudhani
+        twitter: bilalbudhani
+        github: BilalBudhani
+    videos: null
+    slides: null
+  -
+    title: "Let's Sync the Async- A Primer on Redux Sagas"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Preeti Wadhwani'
+        twitter: preetiwadhwani
+        github: PreetiW
+    videos:
+      - 'youtube:J_m-RVVbPuw'
+    slides:
+      - 'https://drive.google.com/open?id=1uB9Y8ufZSV9Nvc-WY2hsXYIgFtRnPQ10leJ51mnImJE'
+  -
+    title: 'Building custom renderers with React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Satyajit Sahoo'
+        twitter: satya164
+        github: null
+    videos:
+      - 'youtube:QoxIXKRtVGg'
+    slides:
+      - 'https://docs.google.com/presentation/d/1D5rYHNIBKiLdD0sSrIM3v9KCaScxaC4MwvBi4seCQV4 https://docs.google.com/presentation/d/1m8jnuN0xaz0z389n_rN37DaPKWNkwARodpfqLCe8aXM'
+  -
+    title: 'Idiot-proof coding with Typescript and React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Arjun Hariharan'
+        twitter: harjun1601
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Rethinking with React 16'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Vivek Nayyar'
+        twitter: viveknayyar
+        github: null
+    videos: null
+    slides:
+      - 'https://speakerdeck.com/viveknayyar/rethinking-with-react-16/'
+  -
+    title: 'An Angular developer moving to React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Souvik Basu'
+        twitter: souvikbasu
+        github: souvikbasu
+    videos:
+      - 'youtube:9adKCnwJtAc'
+    slides:
+      - 'https://www.slideshare.net/SouvikBasu11/an-angular-developer-moving-to-react'
+  -
+    title: 'Deep Dive into React Portals'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Souvik Basu'
+        twitter: souvikbasu
+        github: souvikbasu
+    videos:
+      - 'youtube:Fq3fhYjbRYo'
+    slides:
+      - 'https://www.slideshare.net/SouvikBasu11/deep-dive-into-react-portals'
+  -
+    title: 'Beyond Redux and MobX - A Functional approach to building React Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Amit Erandole'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Maximize value of your Components by "Stencil"ing them!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Vijay Dharap'
+        twitter: dharapvj
+        github: dharapvj
+    videos: null
+    slides:
+      - 'http://tiny.cc/webpack-tuning-code'
+  -
+    title: 'Load, Plug and Play Video Streaming and React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'ALi Mir'
+        twitter: ali008
+        github: null
+    videos: null
+    slides:
+      - 'https://docs.google.com/presentation/d/1O1VSd_yCtF3oBRkt3p-pGbqvE-K0x_RwJ9g3KOkc6uA/edit?usp=sharing'
+  -
+    title: 'Migrating from PHP legacy code to React & Best Practices in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: Manjula
+        twitter: manjula_dube
+        github: null
+    videos:
+      - 'youtube:0JkkDCchGHU'
+    slides:
+      - 'https://docs.google.com/presentation/d/1casyDAKyva3St5JFmMe0-WmOx9EB8Nc-TKZymvjbHto/edit?usp=sharing'
+  -
+    title: 'Moving your React-Native App to Production'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Yeswanth S'
+        twitter: yash
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Dark Art of Webpack Bundle Tuning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-20 00:00'
+    speakers:
+      -
+        name: 'Vijay Dharap'
+        twitter: dharapvj
+        github: dharapvj
+    videos:
+      - 'youtube:Zx46T0Vwc0E'
+    slides:
+      - 'https://t.co/JF8UJawten https://t.co/9gPwgnGEO6 http://tiny.cc/webpack-tuning'

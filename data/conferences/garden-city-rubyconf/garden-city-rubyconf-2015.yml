@@ -1,0 +1,213 @@
+name: 'Garden City RubyConf - 2015'
+description: ''
+location: ''
+venue: 'Le Méridien Bangalore'
+city: Bangalore
+country: India
+link: 'http://gardencityruby.github.io/GCRC2015/'
+playlist: ''
+from_date: '2015-01-10'
+to_date: '2015-01-10'
+tags: ''
+talks:
+  -
+    title: 'Welcome Note'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-10 09:00'
+    speakers: {  }
+    videos: null
+    slides: null
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-10 17:20'
+    speakers:
+      -
+        name: 'Sidu Ponnappa  '
+        twitter: null
+        github: null
+      -
+        name: ' Niranjan Paranjape'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dHiE6egJPjY'
+    slides: null
+  -
+    title: "ActiveRecord can't do it? Arel can!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-10 10:00'
+    speakers:
+      -
+        name: 'Vipul A  '
+        twitter: null
+        github: null
+      -
+        name: ' Prathamesh S'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:94ufKHERZ1k'
+    slides: null
+  -
+    title: 'Immutability Matters'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-10 11:00'
+    speakers:
+      -
+        name: 'Ranjeet Singh'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PSQ547GXUno'
+    slides: null
+  -
+    title: 'Fun with Ruby and Arduino'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-10 11:20'
+    speakers:
+      -
+        name: 'Anmol Agarwal'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:t2jL0OrpILw'
+    slides: null
+  -
+    title: 'WAT!! ActiveRecord Callbacks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-10 12:05'
+    speakers:
+      -
+        name: 'Monika M'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bQBC501kiRY'
+    slides: null
+  -
+    title: 'Lightning Talks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-10 12:30'
+    speakers: {  }
+    videos: null
+    slides: null
+  -
+    title: 'Keynote: Wrapping Your Head Around Git'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-10 14:00'
+    speakers:
+      -
+        name: 'Paolo Perrotta'
+        twitter: nusco
+        github: nusco
+    videos:
+      - 'youtube:RwYbl_tpoVE'
+    slides: null
+  -
+    title: 'Capacity planning with Capybara and RabbitMQ'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-10 14:40'
+    speakers:
+      -
+        name: 'Vijayanand Nandam'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BD4p1i54gWo'
+    slides: null
+  -
+    title: 'Resilient by Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-10 15:05'
+    speakers:
+      -
+        name: 'Smit Shah'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yTkaq26YgDU'
+    slides: null
+  -
+    title: 'Rubinius — Ruby implemented with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-10 15:45'
+    speakers:
+      -
+        name: 'Akanksha Agarwal  '
+        twitter: null
+        github: null
+      -
+        name: ' Sana Khan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8t17itEbBbY'
+    slides: null
+  -
+    title: 'Panel Discussion'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-10 16:20'
+    speakers: {  }
+    videos:
+      - 'youtube:_Jv7ftgQ3Bc'
+    slides: null
+  -
+    title: 'Closing Note'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-10 18:00'
+    speakers: {  }
+    videos: null
+    slides: null
+  -
+    title: 'Refactoring Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-10 11:00'
+    speakers:
+      -
+        name: 'Marshall Yount'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Profiling Ruby applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-01-10 14:40'
+    speakers:
+      -
+        name: 'Yuva Kumar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

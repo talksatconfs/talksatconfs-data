@@ -1,0 +1,180 @@
+name: 'Nordic.js 2014'
+description: ''
+location: Värmdö
+venue: ''
+city: ''
+country: ''
+link: 'https://web.archive.org/web/20141022114951/http://nordicjs.com/info'
+playlist: ''
+from_date: '2014-09-18'
+to_date: '2014-09-19'
+tags: ''
+talks:
+  -
+    title: 'Jakob Öhman - Lightning Talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-17 18:30'
+    speakers:
+      -
+        name: 'Jakob Öhman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zFh6MDzDJFc'
+    slides: null
+  -
+    title: 'Christian Landgren - Lightning Talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-17 18:30'
+    speakers:
+      -
+        name: 'Christian Landgren'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4FrRWdWn9LE'
+    slides: null
+  -
+    title: 'Riku Seppälä - Lightning Talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-17 18:30'
+    speakers:
+      -
+        name: 'Riku Seppälä'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3tvcm5D5SnA'
+    slides: null
+  -
+    title: 'Otto Vehviläinen - Lightning Talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-17 18:30'
+    speakers:
+      -
+        name: 'Otto Vehviläinen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:L8-R607l-y4'
+    slides: null
+  -
+    title: 'Peter Müller - Lightning Talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-17 18:30'
+    speakers:
+      -
+        name: 'Peter Müller'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SG5j4P-pgeE'
+    slides: null
+  -
+    title: 'Johan Öbrink - Lightning Talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-17 18:30'
+    speakers:
+      -
+        name: 'Johan Öbrink'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6EBSkDBTGz4'
+    slides: null
+  -
+    title: 'Murilo Polese - Lightning Talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-17 18:30'
+    speakers:
+      -
+        name: 'Murilo Polese'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:njKs0_gZyWM'
+    slides: null
+  -
+    title: 'The Art of the JavaScript Metaobject Protocol'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-18 08:30'
+    speakers:
+      -
+        name: 'Reginald Braithwaite'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hp7sgLVepF8'
+    slides: null
+  -
+    title: 'Fernando Vía Canel - Lightning Talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-17 18:30'
+    speakers:
+      -
+        name: 'Fernando Via Canel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:O208ZJx8m2U'
+    slides: null
+  -
+    title: 'Keynote: Five Stages of Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-18 05:00'
+    speakers:
+      -
+        name: 'Robert Nyman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:z0GZUCvfjHI'
+    slides: null
+  -
+    title: 'Victor Sand - Lightning Talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-17 18:30'
+    speakers:
+      -
+        name: 'Victor Sand'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Xq0kB8csz3o'
+    slides: null
+  -
+    title: 'John Philip Johansson - Lightning Talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-17 18:30'
+    speakers:
+      -
+        name: 'John Philip Johansson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NuuDZicY8gk'
+    slides: null

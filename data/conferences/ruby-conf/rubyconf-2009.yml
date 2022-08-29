@@ -1,0 +1,604 @@
+name: 'RubyConf 2009'
+description: ''
+location: 'San Francisco'
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2009-11-19'
+to_date: '2009-11-21'
+tags: ''
+talks:
+  -
+    title: 'Synchronous Reads, Asynchronous Writes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-21 00:00'
+    speakers:
+      -
+        name: 'Paul Dix'
+        twitter: pauldix
+        github: pauldix
+    videos:
+      - 'youtube:UhqmLOQRCII'
+    slides: null
+  -
+    title: 'Why "Enterprise Tools" Are Bad for the Enterprise'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-21 00:00'
+    speakers:
+      -
+        name: 'Glenn Vanderburg'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2J5ZunTi7u4'
+    slides: null
+  -
+    title: 'Just for Fun: Rediscovering Coding as a Hobby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-19 00:00'
+    speakers:
+      -
+        name: 'Adam Keys'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gifFZHajlm4'
+    slides: null
+  -
+    title: 'Polishing Rubygems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-20 00:00'
+    speakers:
+      -
+        name: 'Yehuda Katz'
+        twitter: wycats
+        github: null
+    videos:
+      - 'youtube:f3f40hTtxF4'
+    slides: null
+  -
+    title: 'Flying Robot: Using Ruby and Arduino for Unmanned Aerial Vehicles'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-19 00:00'
+    speakers:
+      -
+        name: 'Ron Evans'
+        twitter: null
+        github: null
+      -
+        name: 'Damon Evans'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hSD1Ka24XbM'
+    slides: null
+  -
+    title: 'Ruby Game Development with Jemini'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-20 00:00'
+    speakers:
+      -
+        name: 'Jay McGavren'
+        twitter: null
+        github: null
+      -
+        name: 'Logan Barnett'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FCxBRf3lPe0'
+    slides: null
+  -
+    title: 'Bits, Bytes, and Blobs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-19 00:00'
+    speakers:
+      -
+        name: 'Brian Mitchell'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JkIGsWt98Zc'
+    slides: null
+  -
+    title: 'Computer Vision Using Ruby and libJIT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-19 00:00'
+    speakers:
+      -
+        name: 'Jan Wedekind'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:W7zwh8yXBXI'
+    slides: null
+  -
+    title: 'Ruby Memory Management Hacks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-21 00:00'
+    speakers:
+      -
+        name: 'Koichi Sasada'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zMIrupCDcPc'
+    slides: null
+  -
+    title: 'SOLID Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-20 00:00'
+    speakers:
+      -
+        name: 'Jim Weirich '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dKRbsE061u4'
+    slides: null
+  -
+    title: 'Gemcutter: The Next Step in Gem Hosting'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-20 00:00'
+    speakers:
+      -
+        name: 'Nick Quaranto'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:e6J_tY-Rd5o'
+    slides: null
+  -
+    title: IronRuby
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-21 00:00'
+    speakers:
+      -
+        name: 'Jimmy Schementi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:brogcS4EefY'
+    slides: null
+  -
+    title: 'Code of Art'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-19 00:00'
+    speakers:
+      -
+        name: 'Jeff Casimir'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wIc0CRlwbrM'
+    slides: null
+  -
+    title: 'There is Such a Thing as Too Much Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-21 00:00'
+    speakers:
+      -
+        name: 'Jake Scruggs'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gi5ghrfGn9U'
+    slides: null
+  -
+    title: 'Embracing Collaboration with JRuby and JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-19 00:00'
+    speakers:
+      -
+        name: 'Jon Crosby'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:l9CcUYuKH18'
+    slides: null
+  -
+    title: 'Getting Non-Relational with MongoDB'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-20 00:00'
+    speakers:
+      -
+        name: 'Michael Dirolf'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jYaquO_aUn0'
+    slides: null
+  -
+    title: 'Questions and Answers with "Matz"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-21 00:00'
+    speakers:
+      -
+        name: "Yukihiro 'Matz' Matsumoto"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LTRZlIeaNcI'
+    slides: null
+  -
+    title: 'BERT and Ernie: Scaling your Ruby site with Erlang'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-19 00:00'
+    speakers:
+      -
+        name: 'Tom Preston-Werner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nZJON5Msw00'
+    slides: null
+  -
+    title: 'Using Ruby to Generate Faster Ruby Code through Partial Evaluation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-20 00:00'
+    speakers:
+      -
+        name: 'Andy Keep'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6CVE4Dw8m3w'
+    slides: null
+  -
+    title: 'On the Edge of Rails Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-21 00:00'
+    speakers:
+      -
+        name: 'Gregg Pollack'
+        twitter: greggpollack
+        github: null
+    videos:
+      - 'youtube:2AhdzGn5a7E'
+    slides: null
+  -
+    title: 'Rubinius in One Act OR Rubinius: A War on Two Fronts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-20 00:00'
+    speakers:
+      -
+        name: 'Evan Phoenix'
+        twitter: evanphx
+        github: evanphx
+    videos:
+      - 'youtube:CnYyjvuXYyk'
+    slides: null
+  -
+    title: 'Worst. Ideas. Ever.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-21 00:00'
+    speakers:
+      -
+        name: 'Aaron Patterson'
+        twitter: tenderlove
+        github: tenderlove
+      -
+        name: 'Ryan Davis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sLb7Uz9KOqc'
+    slides: null
+  -
+    title: 'East Meets West'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-19 00:00'
+    speakers:
+      -
+        name: 'Yoji Shidara'
+        twitter: null
+        github: null
+      -
+        name: 'Yuki Sonoda'
+        twitter: null
+        github: null
+      -
+        name: 'Shintaro Kakutani'
+        twitter: null
+        github: null
+      -
+        name: 'Akira Matsuda'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DNdnm1XSb0g'
+    slides: null
+  -
+    title: 'Clojure for Ruby Programmers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-21 00:00'
+    speakers:
+      -
+        name: 'Stuart Halloway'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:itwGSXeoplo'
+    slides: null
+  -
+    title: 'Scaling an App Engine with Ruby and Duby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-20 00:00'
+    speakers:
+      -
+        name: 'Ryan Brown'
+        twitter: null
+        github: null
+      -
+        name: 'John Woodell'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8QUN6rkGmfA'
+    slides: null
+  -
+    title: 'Ruby Mutants'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-21 00:00'
+    speakers:
+      -
+        name: 'Charles Nutter'
+        twitter: headius
+        github: headius
+    videos:
+      - 'youtube:vCbIf7LEolM'
+    slides: null
+  -
+    title: 'Aqua: A Cool, Clear Drink of Ruby Object Persistence'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-20 00:00'
+    speakers:
+      -
+        name: 'Kane Baccigalupi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:c-TTHcJKnMw'
+    slides: null
+  -
+    title: 'Mobile Applications with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-21 00:00'
+    speakers:
+      -
+        name: 'Sarah Allen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JES1dRcWngU'
+    slides: null
+  -
+    title: 'Towards a Ruby compiler'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-20 00:00'
+    speakers:
+      -
+        name: 'Caleb Clausen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:w_qEbx7UDUI'
+    slides: null
+  -
+    title: 'How TDD Missed the Point: Introducing EDD'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-20 00:00'
+    speakers:
+      -
+        name: 'Nathaniel Talbott'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2W6ldpR9jGg'
+    slides: null
+  -
+    title: 'JRuby Everywhere!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-20 00:00'
+    speakers:
+      -
+        name: 'Thomas Enebo'
+        twitter: null
+        github: null
+      -
+        name: 'Charles Nutter'
+        twitter: headius
+        github: headius
+    videos:
+      - 'youtube:60IhziXaszQ'
+    slides: null
+  -
+    title: 'Indoctrinating the Next Generation: Teaching Ruby to Kids'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-20 00:00'
+    speakers:
+      -
+        name: 'Sarah Mei'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xNvvGsICDAg'
+    slides: null
+  -
+    title: 'DSLs, Code Generation, and New Domains for Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-19 00:00'
+    speakers:
+      -
+        name: 'Joel VanderWerf'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IMVlXKdTutY'
+    slides: null
+  -
+    title: 'Hacking parse.y'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-20 00:00'
+    speakers:
+      -
+        name: 'Tatsuhiro Ujihisa'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tkl3Lk7U6TY'
+    slides: null
+  -
+    title: 'NoSQL: Death to Relational Databases'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-20 00:00'
+    speakers:
+      -
+        name: 'Ben Scofield'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PmR-iU499C0'
+    slides: null
+  -
+    title: 'Making Music with Ruby: Patterns, Context, Fun'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-21 00:00'
+    speakers:
+      -
+        name: 'Noah Thorpe'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:G9TPDP6WA8w'
+    slides: null
+  -
+    title: "Rippin' off Python"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-21 00:00'
+    speakers:
+      -
+        name: 'Chris Wanstrath'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6O8u5fE_v8s'
+    slides: null
+  -
+    title: 'Keynote Address'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-19 00:00'
+    speakers:
+      -
+        name: "Yukihiro 'Matz' Matsumoto"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wtShbyuSKKQ'
+    slides: null
+  -
+    title: 'FFI: Creating Cross-Engine Gems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-19 00:00'
+    speakers:
+      -
+        name: 'Jeremy Hinegardner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nP1gQJzt94A'
+    slides: null
+  -
+    title: 'Writing 2D games for the OSX platform in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-11-21 00:00'
+    speakers:
+      -
+        name: 'Matt Aimonetti'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UESfvIoXo0M'
+    slides: null

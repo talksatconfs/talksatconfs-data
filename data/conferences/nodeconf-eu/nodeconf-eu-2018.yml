@@ -1,0 +1,326 @@
+name: 'NodeConf EU 2018'
+description: "NodeConf EU is first and foremost about community. A community that is kind to its members, a community that values diversity. It's a gathering of minds in an informal setting. It offers attendees an opportunity to meet with their friends, peers and speakers in a relaxed, welcoming, friendly and most importantly respectful environment."
+location: ''
+venue: ''
+city: Kilkenny
+country: Ireland
+link: 'https://www.nodeconf.eu/'
+playlist: 'youtube.com:PL0CdgOSSGlBY7DBgOp1xsRvV31AAUZrX2'
+from_date: '2018-11-04'
+to_date: '2018-11-07'
+tags: ''
+talks:
+  -
+    title: 'HOLDING ON TO YOUR PERFORMANCE PROMISES'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-05 09:00'
+    speakers:
+      -
+        name: 'Maya Lekova'
+        twitter: MayaLekova
+        github: null
+      -
+        name: 'Benedikt Meurer'
+        twitter: bmeurer
+        github: bmeurer
+    videos:
+      - 'youtube:DFP5DKDQfOc'
+    slides: null
+  -
+    title: 'GOING FAASTER: FUNCTION AS A SERVICE AT NETFLIX'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-05 09:30'
+    speakers:
+      -
+        name: 'Yunong Xiao'
+        twitter: yunongx
+        github: null
+    videos:
+      - 'youtube:9a_7_FIIOJw'
+    slides: null
+  -
+    title: "LET'S BUILD A DOPPELGANGER GAME!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-05 10:00'
+    speakers:
+      -
+        name: 'Simona Cotin'
+        twitter: simona_cotin
+        github: simonaco
+    videos:
+      - 'youtube:zxjTQg2YS8s'
+    slides: null
+  -
+    title: 'PREDICTING THE INTERNET OF THINGS WITH TENSORFLOW.JS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-05 11:00'
+    speakers:
+      -
+        name: 'Taron Foxworth'
+        twitter: anaptfox
+        github: null
+    videos:
+      - 'youtube:PJS0baf5chk'
+    slides: null
+  -
+    title: 'GRAPHQL - ACCELERATED'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-05 11:30'
+    speakers:
+      -
+        name: 'Matteo Collina'
+        twitter: matteocollina
+        github: null
+      -
+        name: 'Mathias Buus'
+        twitter: mafintosh
+        github: null
+    videos:
+      - 'youtube:-V86BB9wrG8'
+    slides: null
+  -
+    title: 'BUILD THE API YOU WANT TO SEE IN THE WORLD'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-05 12:00'
+    speakers:
+      -
+        name: 'Michelle Garrett'
+        twitter: msmichellegar
+        github: null
+    videos:
+      - 'youtube:123RliEPfDQ'
+    slides: null
+  -
+    title: 'NODE ES MODULES - SOMETHING ALMOST, BUT NOT QUITE ENTIRELY UNLIKE COMMONJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-05 12:30'
+    speakers:
+      -
+        name: 'Gil Tayar'
+        twitter: giltayar
+        github: null
+    videos:
+      - 'youtube:44kvI2W0Mww'
+    slides: null
+  -
+    title: 'THE STATE OF NODE.JS CORE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-06 09:00'
+    speakers:
+      -
+        name: 'James Snell'
+        twitter: jasnell
+        github: null
+    videos:
+      - 'youtube:7mXgpCcRkcg'
+    slides: null
+  -
+    title: 'THE SERVERLESS REVOLUTION'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-06 09:30'
+    speakers:
+      -
+        name: 'Kassandra Perch'
+        twitter: nodebotanist
+        github: null
+    videos:
+      - 'youtube:yQpA7rVp8VQ'
+    slides: null
+  -
+    title: 'HEALTHY AND FIT WOMBATS FOR THE GREATER GOOD!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-06 10:00'
+    speakers:
+      -
+        name: 'Szabolcs Szabolcsi-Toth'
+        twitter: _Nec
+        github: null
+    videos:
+      - 'youtube:V2V6gStgzvo'
+    slides: null
+  -
+    title: 'START YOUR NODE.JS CONTRIBUTION BY WRITING UNIT TESTS QUICKLY WITH VSCODE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-06 11:00'
+    speakers:
+      -
+        name: 'Trivikram Kamat'
+        twitter: trivikram
+        github: null
+    videos:
+      - 'youtube:i476XyRVpmw'
+    slides: null
+  -
+    title: 'NODE.JS MODULE: I CHOOSE YOU!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-06 11:30'
+    speakers:
+      -
+        name: 'Bethany Griggs'
+        twitter: BethGriggs_
+        github: null
+    videos:
+      - 'youtube:6pHuj6Hs9Gw'
+    slides: null
+  -
+    title: 'SEEING YOUR PLACE IN A NEW WAY: UTILIZING YARN PACKAGE MANAGEMENT IN A REACT SPA MAP VIEWER'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-06 12:00'
+    speakers:
+      -
+        name: 'Melissa Auclare'
+        twitter: kiyomizumia
+        github: null
+    videos:
+      - 'youtube:1dt3yI-wvPQ'
+    slides: null
+  -
+    title: 'ORINOCO: THE NEW V8 GARBAGE COLLECTOR'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-06 12:30'
+    speakers:
+      -
+        name: 'Peter Marshall'
+        twitter: hooraybuffer
+        github: null
+    videos:
+      - 'youtube:Scxz6jVS4Ls'
+    slides: null
+  -
+    title: 'EFFECTIVE DOCUMENTATION FOR OPEN SOURCE PROJECTS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-07 09:00'
+    speakers:
+      -
+        name: 'Bryan Hughes'
+        twitter: nebrius
+        github: nebrius
+    videos:
+      - 'youtube:MxGYZ-hr3f0'
+    slides: null
+  -
+    title: 'DIAGNOSTIC TOOLING - BE READY WHEN THINGS GO WRONG IN PRODUCTION'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-07 09:30'
+    speakers:
+      -
+        name: 'Michael Dawson'
+        twitter: mhdawson1
+        github: null
+      -
+        name: 'Mike Kaufman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yerVaSzrZTo'
+    slides: null
+  -
+    title: 'COMMONS HOST: BUILDING A CDN WITH NODE.JS FOR THE REST OF THE WORLD'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-07 10:00'
+    speakers:
+      -
+        name: 'Sebastiaan Deckers'
+        twitter: sebdeckers
+        github: null
+    videos:
+      - 'youtube:gEhiyhzbaU8'
+    slides: null
+  -
+    title: 'NODE.JS: THE ROAD TO WORKERS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-07 11:00'
+    speakers:
+      -
+        name: 'Anna Henningsen'
+        twitter: addaleax
+        github: addaleax
+    videos:
+      - 'youtube:-ssCzHoUI7M'
+    slides: null
+  -
+    title: 'ISTIO FOR NODE DEVELOPERS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-07 11:30'
+    speakers:
+      -
+        name: 'Luke Holmquist'
+        twitter: sienaluke
+        github: null
+    videos:
+      - 'youtube:aSgxCVli1Qw'
+    slides: null
+  -
+    title: 'DASHBOARDING OUR WAY TO THE FUTURE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-07 12:00'
+    speakers:
+      -
+        name: 'Emma Humphries'
+        twitter: triagegirl
+        github: null
+    videos:
+      - 'youtube:wV4D8IwW6w0'
+    slides: null
+  -
+    title: 'ENTERPRISES, NODE.JS AND OPEN SOURCE, THE GOOD, THE BAD AND THE UGLY.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-07 12:30'
+    speakers:
+      -
+        name: 'Paul Savage'
+        twitter: null
+        github: null
+      -
+        name: 'Ahmad Nassri'
+        twitter: null
+        github: null
+      -
+        name: 'Gordon Suttie'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0yMJ6cNrK2Q'
+    slides: null

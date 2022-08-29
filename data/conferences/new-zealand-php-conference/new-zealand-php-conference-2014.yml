@@ -1,0 +1,350 @@
+name: 'New Zealand PHP Conference 2014'
+description: ''
+location: ''
+venue: 'Victoria University Business School'
+city: Wellington
+country: 'New Zealand'
+link: 'https://joind.in/event/new-zealand-php-conference-2014/details'
+playlist: ''
+from_date: '2014-08-27'
+to_date: '2014-08-29'
+tags: ''
+talks:
+  -
+    title: 'Wield AngularJS Like a Pro - Workshop'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/wield-angularjs-like-a-pro---workshop'
+    talk_date: '2014-08-27 08:30'
+    speakers:
+      -
+        name: 'Nate Abele'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Design Patterns - Workshop'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/-design-patterns---workshop'
+    talk_date: '2014-08-27 08:30'
+    speakers:
+      -
+        name: 'Brandon Savage'
+        twitter: brandonsavage
+        github: brandonsavage
+    videos: null
+    slides: null
+  -
+    title: 'Deep dive into the advanced PHP components - Workshop'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/deep-dive-into-the-advanced-php-components---workshop'
+    talk_date: '2014-08-27 13:00'
+    speakers:
+      -
+        name: 'Joshua Thijssen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Getting Started With Laravel 4 - Workshop'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/getting-started-with-laravel-4---workshop'
+    talk_date: '2014-08-27 13:00'
+    speakers:
+      -
+        name: 'Christopher Pitt'
+        twitter: assertchris
+        github: assertchris
+    videos: null
+    slides: null
+  -
+    title: 'Coding and Dreaming - PHP in 2014 - Keynote'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/coding-and-dreaming---php-in-2014---keynote'
+    talk_date: '2014-08-28 10:15'
+    speakers:
+      -
+        name: 'Rasmus Lerdorf'
+        twitter: rasmus
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '10 warning signs to watch for to prevent project failure'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/10-warning-signs-to-watch-for-to-prevent-project-failure'
+    talk_date: '2014-08-28 11:35'
+    speakers:
+      -
+        name: 'Yann Larrivée'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Running PHP on Microsoft Azure'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/running-php-on-microsoft-azure'
+    talk_date: '2014-08-28 11:35'
+    speakers:
+      -
+        name: 'Thiago Almeida'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Cloud Craft for Spatial Cadets'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/cloud-craft-for-spatial-cadets'
+    talk_date: '2014-08-28 13:35'
+    speakers:
+      -
+        name: 'Katie Miller'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Rapid API development with Apigility'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/rapid-api-development-with-apigility'
+    talk_date: '2014-08-28 13:35'
+    speakers:
+      -
+        name: 'Dave Clark'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Web Application Security: Winning When The Odds Are Against You'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/web-application-security-winning-when-the-odds-are-against-you'
+    talk_date: '2014-08-28 14:35'
+    speakers:
+      -
+        name: 'Ben Dechrai'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Finding Your Way: Understanding Magento Code'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/finding-your-way-understanding-magento-code'
+    talk_date: '2014-08-28 14:35'
+    speakers:
+      -
+        name: 'Ben Marks'
+        twitter: benmarks
+        github: benmarks
+    videos: null
+    slides: null
+  -
+    title: 'Scaling PHP in the real world!'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/scaling-php-in-the-real-world'
+    talk_date: '2014-08-28 16:00'
+    speakers:
+      -
+        name: 'Dustin Whittle'
+        twitter: dustinwhittle
+        github: dustinwhittle
+    videos: null
+    slides: null
+  -
+    title: 'Dismantling the Monolith'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/dismantling-the-monolith'
+    talk_date: '2014-08-28 16:00'
+    speakers:
+      -
+        name: 'Dominic Scheirlinck'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'From Zero to Online cafe ordering in 20 minutes'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/from-zero-to-online-cafe-ordering-in-20-minutes'
+    talk_date: '2014-08-28 17:00'
+    speakers:
+      -
+        name: 'Steven Cooper'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Designing Hypermedia APIs with PHP'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/designing-hypermedia-apis-with-php'
+    talk_date: '2014-08-29 09:00'
+    speakers:
+      -
+        name: 'Nate Abele'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Code is my mistress: Part 1 – For the love of dumb'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/code-is-my-mistress-part-1--for-the-love-of-dumb'
+    talk_date: '2014-08-29 09:00'
+    speakers:
+      -
+        name: 'Kyle Clarke'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Beyond obfuscation: The law, compilation, and protecting your brainpower'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/beyond-obfuscation-the-law-compilation-and-protecting-your-brainpower'
+    talk_date: '2014-08-29 10:20'
+    speakers:
+      -
+        name: 'Max Milaney'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Grown Up PHP'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/grown-up-php'
+    talk_date: '2014-08-29 10:20'
+    speakers:
+      -
+        name: 'Hamish Friedlander'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Asynchronous PHP'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/asynchronous-php'
+    talk_date: '2014-08-29 11:20'
+    speakers:
+      -
+        name: 'Christopher Pitt'
+        twitter: assertchris
+        github: assertchris
+    videos: null
+    slides: null
+  -
+    title: 'A tale of three languages'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/a-tale-of-three-languages'
+    talk_date: '2014-08-29 11:20'
+    speakers:
+      -
+        name: 'Mal Curtis'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The first few milliseconds of HTTPS'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/the-first-few-milliseconds-of-https'
+    talk_date: '2014-08-29 13:20'
+    speakers:
+      -
+        name: 'Joshua Thijssen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Working remotely: the good, the bad and the ugly'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/working-remotely-the-good-the-bad-and-the-ugly'
+    talk_date: '2014-08-29 13:20'
+    speakers:
+      -
+        name: 'Shaunak Kashyap'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Your first Apache Cassandra Application'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/your-first-apache-cassandra-application'
+    talk_date: '2014-08-29 14:20'
+    speakers:
+      -
+        name: 'Aaron Morton'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Testing your PHP application with Selenium on Travis CI'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/testing-your-php-application-with-selenium-on-travis-ci'
+    talk_date: '2014-08-29 14:20'
+    speakers:
+      -
+        name: 'Yusuke Ando'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Seven Deadly Sins of Object Orientation'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/the-seven-deadly-sins-of-object-orientation'
+    talk_date: '2014-08-29 15:40'
+    speakers:
+      -
+        name: 'Brandon Savage'
+        twitter: brandonsavage
+        github: brandonsavage
+    videos: null
+    slides: null
+  -
+    title: 'Building a scalable backend with Elastic Search'
+    description: ''
+    tags: ''
+    link: 'https://joind.in/event/new-zealand-php-conference-2014/building-a-scalable-backend-with-elastic-search'
+    talk_date: '2014-08-29 15:40'
+    speakers:
+      -
+        name: 'John-Daniel Trask'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

@@ -1,0 +1,478 @@
+name: 'ReactEurope 2017'
+description: ''
+location: 'Paris, France'
+venue: ''
+city: ''
+country: ''
+link: 'https://web.archive.org/web/20170603212443/https://www.react-europe.org/#schedule'
+playlist: ''
+from_date: '2017-05-18'
+to_date: '2017-05-19'
+tags: ''
+talks:
+  -
+    title: 'React as a Platform"A path towards a truly cross-platform UI"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-19 00:00'
+    speakers:
+      -
+        name: 'Leland Richardson'
+        twitter: intelligibabble
+        github: lelandrichardson
+    videos:
+      - 'youtube:hNwQPJy-XZY'
+    slides: null
+  -
+    title: 'Relay Modern'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-19 00:00'
+    speakers:
+      -
+        name: 'Lee Byron'
+        twitter: leeb
+        github: leebyron
+    videos:
+      - 'youtube:OdsMz7h_Li0'
+    slides: null
+  -
+    title: Composition
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-19 00:00'
+    speakers:
+      -
+        name: 'Nik Graf'
+        twitter: nikgraf
+        github: nikgraf
+      -
+        name: 'Max Stoiber'
+        twitter: mxstbr
+        github: mxstbr
+    videos:
+      - 'youtube:qJgff2spvzM'
+    slides: null
+  -
+    title: 'Devtools for GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-18 00:00'
+    speakers:
+      -
+        name: 'Danielle Man'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Imperfection
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-18 00:00'
+    speakers:
+      -
+        name: 'Cheng Lou'
+        twitter: _chenglou
+        github: chenglou
+    videos:
+      - 'youtube:tCVXp6gFD8o'
+    slides: null
+  -
+    title: 'return null'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-18 00:00'
+    speakers:
+      -
+        name: 'Joshua Comeau'
+        twitter: joshWComeau
+        github: joshwcomeau
+    videos: null
+    slides: null
+  -
+    title: 'What WebAssembly means for React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-18 00:00'
+    speakers:
+      -
+        name: 'Lin Clark'
+        twitter: linclark
+        github: linclark
+    videos:
+      - 'youtube:3GHJ4cbxsVQ'
+    slides: null
+  -
+    title: 'The making of Twitter Lite'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-19 00:00'
+    speakers:
+      -
+        name: 'Nicolas Gallagher'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cc3rdiXl5eY'
+    slides: null
+  -
+    title: 'Functional && Reactive'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-19 00:00'
+    speakers:
+      -
+        name: 'Preethi Kasireddy'
+        twitter: iam_preethi
+        github: peekay
+    videos:
+      - 'youtube:yYze0gCBtvY'
+    slides: null
+  -
+    title: 'Animating the Virtual DOM'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-19 00:00'
+    speakers:
+      -
+        name: 'Sarah Drasner'
+        twitter: sarah_edo
+        github: sdras
+    videos:
+      - 'youtube:W5AdUcJDHo0'
+    slides: null
+  -
+    title: 'Detox — Graybox End-to-End Tests and Automation Library for React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-18 00:00'
+    speakers:
+      -
+        name: 'Tal Kol'
+        twitter: koltal
+        github: talkol
+    videos: null
+    slides: null
+  -
+    title: 'How Streaming Can Supercharge React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-18 00:00'
+    speakers:
+      -
+        name: 'Sasha Aickin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UhdGiVy3_Nk'
+    slides: null
+  -
+    title: 'Fancy Footwork: Building a Composable CMS for Aldo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-18 00:00'
+    speakers:
+      -
+        name: 'Serge Rose'
+        twitter: null
+        github: null
+      -
+        name: 'Sarah Mogin'
+        twitter: null
+        github: null
+      -
+        name: 'Brendan Moore'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Quantifying Best Practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-19 00:00'
+    speakers:
+      -
+        name: 'Jackson Hamburger'
+        twitter: null
+        github: null
+      -
+        name: 'Louis Antonelli'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'What I Learned Benchmarking React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-17 18:30'
+    speakers:
+      -
+        name: 'Dominic Gannaway'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:djOc1EK07Tk'
+    slides: null
+  -
+    title: ShoutemUI
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-18 00:00'
+    speakers:
+      -
+        name: 'Shouted Team'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How to create a React Native reusable component for existing Android apps without knowing a thing about npm or node_modules'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-19 00:00'
+    speakers:
+      -
+        name: 'Petter Hesselberg'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building High-Quality JavaScript Tools'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-18 00:00'
+    speakers:
+      -
+        name: 'Christoph Pojer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qAZ3_xCHe48'
+    slides: null
+  -
+    title: 'Next generation state management'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-19 00:00'
+    speakers:
+      -
+        name: 'Michel Weststrate'
+        twitter: mweststrate
+        github: mweststrate
+    videos:
+      - 'youtube:rwqwwn_46kA'
+    slides: null
+  -
+    title: 'La nouvelle vague'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-18 00:00'
+    speakers:
+      -
+        name: 'Sunil Pai'
+        twitter: threepointone
+        github: threepointone
+    videos:
+      - 'youtube:yjVhjmM1FPc'
+    slides: null
+  -
+    title: 'Maximally Modular Apps with React Navigation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-17 18:30'
+    speakers:
+      -
+        name: 'Eric Vicenti'
+        twitter: EricVicenti
+        github: ericvicenti
+    videos:
+      - 'youtube:1ZwXOqsdl4c'
+    slides: null
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-18 00:00'
+    speakers:
+      -
+        name: 'Andrew Clark'
+        twitter: acdlite
+        github: acdlite
+    videos:
+      - 'youtube:QW5TE4vrklU'
+    slides: null
+  -
+    title: 'Leveraging code-splitting in React apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-19 00:00'
+    speakers:
+      -
+        name: 'Glenn Reyes'
+        twitter: glnnrys
+        github: glennreyes
+    videos: null
+    slides: null
+  -
+    title: 'Putting the fun in functional with Elm'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-19 00:00'
+    speakers:
+      -
+        name: 'Tereza Sokol'
+        twitter: mishunov
+        github: null
+    videos:
+      - 'youtube:a0039_JRAQo'
+    slides: null
+  -
+    title: 'Smarter code-splitting and preloading for React applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-19 00:00'
+    speakers:
+      -
+        name: 'Brandon Dail'
+        twitter: aweary
+        github: aweary
+    videos: null
+    slides: null
+  -
+    title: 'Thousand ways to navigate in React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-18 00:00'
+    speakers:
+      -
+        name: 'Charles Mangwa'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Practical Confidence: Using Types to Help Your Computer Help You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-18 00:00'
+    speakers:
+      -
+        name: 'Adam Perry'
+        twitter: adam_n_p
+        github: dikaiosune
+    videos:
+      - 'youtube:ppYj1FFeyXw'
+    slides: null
+  -
+    title: 'Worse is Better: The Upside of JavaScript Fatigue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-18 00:00'
+    speakers:
+      -
+        name: 'Kevin Lacker'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4mbipBIzY_g'
+    slides: null
+  -
+    title: 'Expo Snack'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-19 00:00'
+    speakers:
+      -
+        name: 'Brent Vatne'
+        twitter: notbrent
+        github: brentvatne
+    videos: null
+    slides: null
+  -
+    title: 'The runtimes of React VR and use at Oculus'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-19 00:00'
+    speakers:
+      -
+        name: 'Mike Armstrong'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:B8sP5SDpOdc'
+    slides: null
+  -
+    title: 'A Novel Approach to Declarative Animations in React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-19 00:00'
+    speakers:
+      -
+        name: 'Joel Arvidsson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3SITFIGz4xo'
+    slides: null
+  -
+    title: 'Integrating React Native with Native Infrastructure'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-19 00:00'
+    speakers:
+      -
+        name: 'Mehdi Mulani'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QOAoLF6FV7A'
+    slides: null
+  -
+    title: 'Serious graphics on React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-05-18 00:00'
+    speakers:
+      -
+        name: 'James Ide'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

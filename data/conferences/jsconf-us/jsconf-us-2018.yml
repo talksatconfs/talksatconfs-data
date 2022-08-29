@@ -1,0 +1,573 @@
+name: 'JSConf US 2018'
+description: '2018 iteration of JSConf US'
+location: ''
+venue: ''
+city: 'Carlsbad, CA'
+country: 'United States'
+link: 'https://2018.jsconf.us/'
+playlist: 'youtube.com:PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b'
+from_date: '2018-08-21'
+to_date: '2018-08-23'
+tags: ''
+talks:
+  -
+    title: 'LEARNING THROUGH ART: AN INTRODUCTION TO VR'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 09:30'
+    speakers:
+      -
+        name: 'Billy Roh'
+        twitter: billyroh
+        github: billyroh
+    videos:
+      - 'youtube:jUfaJ1hsfqQ'
+    slides: null
+  -
+    title: 'HOT GARBAGE: CLEAN CODE IS DEAD'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 09:30'
+    speakers:
+      -
+        name: 'Michael Chan'
+        twitter: chantastic
+        github: chantastic
+    videos:
+      - 'youtube:xTJyi49piH4'
+    slides: null
+  -
+    title: 'CIVICHACKING.JS: HELPING YOUR COMMUNITY USING JAVASCRIPT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 10:15'
+    speakers:
+      -
+        name: 'Caroline Dikibo'
+        twitter: Carofine247
+        github: cdikibo
+    videos:
+      - 'youtube:fkovQKMH7e4'
+    slides: null
+  -
+    title: 'BROWSER EXTENSIONS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 10:15'
+    speakers:
+      -
+        name: 'Matt Claypotch'
+        twitter: potch
+        github: potch
+    videos:
+      - 'youtube:Jxe7AXgbYqY'
+    slides: null
+  -
+    title: 'I SEE: OVERCOMING CHALLENGES IN SOFTWARE DEVELOPMENT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 11:00'
+    speakers:
+      -
+        name: "Kevin O'Neil"
+        twitter: __kev__oneil
+        github: kevoneil
+    videos:
+      - 'youtube:yAVPyWqNuTU'
+    slides: null
+  -
+    title: 'HACKING WITH MY ANXIETY'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 11:00'
+    speakers:
+      -
+        name: 'Bryan Hughes'
+        twitter: nebrius
+        github: nebrius
+    videos:
+      - 'youtube:vkZHEvZz6EU'
+    slides: null
+  -
+    title: 'THE MOST ANNOYING WEBSITE (AKA "THE POWER OF THE WEB PLATFORM")'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 12:45'
+    speakers:
+      -
+        name: 'Feross Aboukhadijeh'
+        twitter: feross
+        github: feross
+    videos:
+      - 'youtube:QFZ-pwErSl4'
+    slides: null
+  -
+    title: 'NO TIME FOR TYPES'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 12:45'
+    speakers:
+      -
+        name: 'Nick Nisi'
+        twitter: nicknisi
+        github: nicknisi
+    videos:
+      - 'youtube:qGK541P2xII'
+    slides: null
+  -
+    title: 'PACKAGE REPUTATION TRACKING'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 13:30'
+    speakers:
+      -
+        name: 'Tyler Bender'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'I LIKE MY TESTS, LIKE I LIKE MY FRIENDS, RELIABLE AND FLAKE-FREE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 13:30'
+    speakers:
+      -
+        name: 'Amir Rustamzadeh'
+        twitter: amirrustam
+        github: amirrustam
+    videos:
+      - 'youtube:LqR7t2-U0WA'
+    slides: null
+  -
+    title: 'NPM AND THE FUTURE OF JAVASCRIPT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 14:15'
+    speakers:
+      -
+        name: 'Laurie Voss'
+        twitter: seldo
+        github: seldo
+    videos:
+      - 'youtube:mSQh0gcDXkc'
+    slides: null
+  -
+    title: 'TESTING BIG IN JAVASCRIPT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 14:15'
+    speakers:
+      -
+        name: 'Robert DeLuca'
+        twitter: robdel12
+        github: robdel12
+    videos:
+      - 'youtube:243TCc5qP-g'
+    slides: null
+  -
+    title: 'JOURNEY INTO IMAGINATION 💫'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 15:00'
+    speakers:
+      -
+        name: 'Rachel White'
+        twitter: ohhoe
+        github: rachelnicole
+    videos:
+      - 'youtube:BA0YfniVqv0'
+    slides: null
+  -
+    title: "WHAT'S IN YOUR JS?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 15:00'
+    speakers:
+      -
+        name: 'Ravi Lachhman'
+        twitter: ravilach
+        github: null
+    videos:
+      - 'youtube:44ahlcq7QwI'
+    slides: null
+  -
+    title: 'JAVASCRIPT CONCURRENCY AND THE DOM'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 16:15'
+    speakers:
+      -
+        name: 'Kristofer Baxter'
+        twitter: kristoferbaxter
+        github: kristoferbaxter
+      -
+        name: 'Malte Ubl'
+        twitter: cramforce
+        github: cramforce
+    videos:
+      - 'youtube:XyVQfqmx2CI'
+    slides: null
+  -
+    title: 'ES6 IN PRACTICE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 16:15'
+    speakers:
+      -
+        name: 'Tim Doherty'
+        twitter: TimCDOherty
+        github: tdoherty
+    videos:
+      - 'youtube:Fh0VYI-_uPg'
+    slides: null
+  -
+    title: 'A QUEST TO BE A (WEB)MASTER: HOW DO YOU GO FROM SIMPLE CODE TO BUILDING GREAT WEB EXPERIENCE?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 17:00'
+    speakers:
+      -
+        name: 'Mariko Kosaka'
+        twitter: kosamari
+        github: kosamari
+    videos:
+      - 'youtube:25RovROJUnw'
+    slides: null
+  -
+    title: "WE'RE THE SAME YOU AND ME - A NEW WAY ☯ TO ALIGN PROGRAMMING PARADIGMS ACROSS CLIENT & SERVER(LESS)"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 17:00'
+    speakers:
+      -
+        name: 'Jeff Hoffer'
+        twitter: null
+        github: eudaimos
+    videos:
+      - 'youtube:XWHcKl1jEeE'
+    slides: null
+  -
+    title: "PLEASE DON'T MOCK ME"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 17:45'
+    speakers:
+      -
+        name: 'Justin Searls'
+        twitter: searls
+        github: searls
+    videos:
+      - 'youtube:x8sKpJwq6lY'
+    slides: null
+  -
+    title: 'UNLOCK THE POWER OF FEATURE BASED JS DEVELOPMENT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-21 17:45'
+    speakers:
+      -
+        name: 'Jeff Barczewski'
+        twitter: jeffbski
+        github: jeffbski
+    videos:
+      - 'youtube:wkFggFuIveY'
+    slides: null
+  -
+    title: 'literally everything is pixel art'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-23 09:30'
+    speakers:
+      -
+        name: 'Jenn Schiffer'
+        twitter: jennschiffer
+        github: null
+    videos:
+      - 'youtube:0wh9UzLbIMY'
+    slides: null
+  -
+    title: 'THE LOADER IS A LIE: HOW TO ELEGANTLY LOAD A MILLION OR MORE DATA POINTS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-23 09:30'
+    speakers:
+      -
+        name: 'Bernie Cheng'
+        twitter: null
+        github: null
+      -
+        name: 'Gordana Jekic Dzunic'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qZ04VKj9o7s'
+    slides: null
+  -
+    title: 'COMPILERS: THE NEXT FRONTIER IN WEB PERFORMANCE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-23 10:15'
+    speakers:
+      -
+        name: 'Chad Hietala'
+        twitter: chadhietala
+        github: chadhietala
+    videos:
+      - 'youtube:x8GoI01eVuk'
+    slides: null
+  -
+    title: 'WE LIVE IN MEMORY: MAKING Λ AND GRAPHQL RESPOND IN 70MS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-23 10:15'
+    speakers:
+      -
+        name: 'Francis Gulotta'
+        twitter: reconbot
+        github: reconbot
+    videos:
+      - 'youtube:urohq-WcGWY'
+    slides: null
+  -
+    title: 'DATA-DRIVEN CSS WITH GRID & CUSTOM PROPERTIES'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-23 11:00'
+    speakers:
+      -
+        name: 'Miriam Suzanne'
+        twitter: mirisuzanne
+        github: mirisuzanne
+    videos:
+      - 'youtube:uwgBz748t-g'
+    slides: null
+  -
+    title: 'THE JOY OF MENTORING BY TAKING THE PRESSURE OFF OF IT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-23 11:00'
+    speakers:
+      -
+        name: 'Guedis Cardenas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:P3pIKlMB7HM'
+    slides: null
+  -
+    title: 'SMARTPHONE SYMPHONY'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-23 12:45'
+    speakers:
+      -
+        name: 'Gavin Joyce'
+        twitter: gavinjoyce
+        github: gavinjoyce
+    videos:
+      - 'youtube:MuaXdbD6Yzc'
+    slides: null
+  -
+    title: 'UNIVERSAL REACT APPLICATIONS WITH REDUX'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-23 12:45'
+    speakers:
+      -
+        name: 'Bradley Spaulding'
+        twitter: bradspaulding
+        github: bspaulding
+    videos:
+      - 'youtube:GlmWtL9tEUA'
+    slides: null
+  -
+    title: 'RXJS: A BETTER WAY TO WRITE FRONTEND APPLICATIONS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-23 13:30'
+    speakers:
+      -
+        name: ' Hannah Howard'
+        twitter: techgirlwonder
+        github: hannahhoward
+    videos:
+      - 'youtube:zz_o7A0HET8'
+    slides: null
+  -
+    title: 'PATTERN MATCHING IN JS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-23 13:30'
+    speakers:
+      -
+        name: 'Juan Caicedo'
+        twitter: _juancaicedo
+        github: Juancaicedo
+    videos:
+      - 'youtube:Gfm6kepLop0'
+    slides: null
+  -
+    title: 'HOW TO BE AN A11Y - CREATING ACCESSIBLE REACT APPS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-23 14:15'
+    speakers:
+      -
+        name: 'Neha Nivedita'
+        twitter: null
+        github: niveditn
+    videos:
+      - 'youtube:u-5_x_YnVN0'
+    slides: null
+  -
+    title: 'REACT ALREADY DID THAT - DEVELOPER ERGONOMICS IN 2018'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-23 14:15'
+    speakers:
+      -
+        name: 'Dylan Schiemann'
+        twitter: dylans
+        github: dylans
+    videos:
+      - 'youtube:lHRuIA7cyU0'
+    slides: null
+  -
+    title: 'ADVENTURES IN ETHICAL COMPUTING'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-23 15:00'
+    speakers:
+      -
+        name: 'Myles Borins'
+        twitter: 'Myles Borins'
+        github: MylesBorins
+    videos:
+      - 'youtube:wGIRqPvtJ1E'
+    slides: null
+  -
+    title: 'DEMOCRATIZING AUGMENTED REALITY'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-23 15:00'
+    speakers:
+      -
+        name: 'Christina Kayastha'
+        twitter: christikaes
+        github: christinakayastha
+    videos:
+      - 'youtube:mpgK0dE_Tyk'
+    slides: null
+  -
+    title: 'THE BUTTERFLY.JS EFFECT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-23 16:15'
+    speakers:
+      -
+        name: 'Juan Pablo Buriticá'
+        twitter: buritica
+        github: buritica
+      -
+        name: 'Julián David Duque'
+        twitter: julian_duque
+        github: julianduque
+    videos:
+      - 'youtube:3Ya3Cm7xmwY'
+    slides: null
+  -
+    title: 'EXPLORING WEBUSB AND ITS EXCITING POTENTIAL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-23 16:15'
+    speakers:
+      -
+        name: 'Suz Hinton'
+        twitter: noopkat
+        github: noopkat
+    videos:
+      - 'youtube:IpfZ8Nj3uiE'
+    slides: null
+  -
+    title: 'BUILDING A JAVASCRIPT VIDEO SYNTHESIZER FOR LIVE PERFORMANCE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-23 17:00'
+    speakers:
+      -
+        name: 'Zachary Berry'
+        twitter: zachberry
+        github: zachberry
+    videos:
+      - 'youtube:8hYf-r-chFo'
+    slides: null
+  -
+    title: 'A TALE OF TWO BUNDLES: A LESSON IN MENTORSHIP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-23 17:00'
+    speakers:
+      -
+        name: 'Patricia Arbona'
+        twitter: queerpat
+        github: arbonap
+    videos:
+      - 'youtube:KTluXQkVo4g'
+    slides: null
+  -
+    title: 'DISCOVERING THE TRUE IDENTITY OF @HORSE_JS USING MACHINE LEARNING'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-23 17:45'
+    speakers:
+      -
+        name: 'Burke Holland'
+        twitter: burkeholland
+        github: null
+      -
+        name: 'Jasmine Greenway'
+        twitter: paladique
+        github: paladique
+    videos:
+      - 'youtube:s0A0hL7nJXw'
+    slides: null

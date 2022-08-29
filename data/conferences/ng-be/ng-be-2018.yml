@@ -1,0 +1,193 @@
+name: 'NG-BE 2018'
+description: 'NG-BE 2018 is a 2-day event in Ghent, Belgium, that brings together Angular developers and experts from all over the world to share ideas, news and opinions about Angular.'
+location: ''
+venue: ''
+city: Ghent
+country: Belgium
+link: 'https://ng-be.org/'
+playlist: 'youtube.com:PL9pV_RwZceNiz7We-yUGBF7mzpB8DxHhs'
+from_date: '2018-12-06'
+to_date: '2018-12-07'
+tags: ''
+talks:
+  -
+    title: 'Angular for the Visual Learner.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-07 00:00'
+    speakers:
+      -
+        name: 'Samantha Brennan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ziK7UABQnKc'
+    slides: null
+  -
+    title: 'Bringing Lighthouse to Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-07 00:00'
+    speakers:
+      -
+        name: 'Ward Peeters'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TBr1NGSu_p0'
+    slides: null
+  -
+    title: "What's coming next in Angular"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-07 00:00'
+    speakers:
+      -
+        name: 'Wassim Chegham'
+        twitter: manekinekko
+        github: manekinekko
+    videos:
+      - 'youtube:GTXQdWyf84w'
+    slides: null
+  -
+    title: 'Angular and the OWASP top 10'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-07 00:00'
+    speakers:
+      -
+        name: 'Philippe De Ryck'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:m0PE82O1Vm4'
+    slides: null
+  -
+    title: 'Form of Art.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-07 00:00'
+    speakers:
+      -
+        name: 'Shmuela Jacobs'
+        twitter: ShmuelaJ
+        github: shmool
+    videos:
+      - 'youtube:R8GXbsoLnn4'
+    slides: null
+  -
+    title: 'Full stack development with Bazel, Angular and other friends.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-07 00:00'
+    speakers:
+      -
+        name: 'Torgeir Helgevold'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yEO7SP2Wo3Q'
+    slides: null
+  -
+    title: 'The Need for Speed (aka Angular Performance).'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-07 00:00'
+    speakers:
+      -
+        name: 'Bonnie Brennan'
+        twitter: bonnster75
+        github: null
+    videos:
+      - 'youtube:rhk25PEgItA'
+    slides: null
+  -
+    title: 'Building Decentralized Apps with Angular and Embark'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-07 00:00'
+    speakers:
+      -
+        name: 'Pascal Precht'
+        twitter: pascalprecht
+        github: null
+    videos:
+      - 'youtube:QMJXNx9WfFw'
+    slides: null
+  -
+    title: 'Cypress: The future of E2E testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-07 00:00'
+    speakers:
+      -
+        name: 'Dominic Elm'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pXyBligMMr0'
+    slides: null
+  -
+    title: 'Optimize and Debug Change Detection Like a Pro'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-07 00:00'
+    speakers:
+      -
+        name: 'Max Koretskyi'
+        twitter: maxim_koretskyi
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Up-close with Structural Directives'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-07 00:00'
+    speakers:
+      -
+        name: 'Ashnita Bali'
+        twitter: ashnita01
+        github: null
+    videos:
+      - 'youtube:02j6SobFhCo'
+    slides: null
+  -
+    title: 'Angular in a Microservices World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-07 00:00'
+    speakers:
+      -
+        name: 'Kwinten Pisman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:d04U7SjORTI'
+    slides: null
+  -
+    title: 'Platinum Sponsor - Ordina'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-07 00:00'
+    speakers:
+      -
+        name: 'Jan De Wilde'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cPB-C66xldA'
+    slides: null

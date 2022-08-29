@@ -1,0 +1,635 @@
+name: 'OdessaJS 2018'
+description: 'OdessaJS conference - one of the biggest JavaScript conferences, held by the Black Sea in Ukraine.'
+location: ''
+venue: ''
+city: Odessa
+country: Ukraine
+link: 'http://odessajs.org/2018/'
+playlist: 'youtube.com:PLUF1zRLAgrPGnLTqOXYU1Sqy4NNVwAWfd'
+from_date: '2018-07-07'
+to_date: '2018-07-08'
+tags: ''
+talks:
+  -
+    title: 'Advanced State Management using ngrx v5'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 09:30'
+    speakers:
+      -
+        name: 'GERARD SANS'
+        twitter: gerardsans
+        github: gsans
+    videos:
+      - 'youtube:J3p2eO-ziBQ'
+    slides: null
+  -
+    title: 'What I have to do at OdessaJS Conference'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 09:30'
+    speakers:
+      -
+        name: 'Artem Zakharchenko'
+        twitter: blackrabbit99
+        github: null
+    videos:
+      - 'youtube:Nz8IE3tHfrc'
+    slides: null
+  -
+    title: 'The New Media and What It Takes to Create a News Website in 2018'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 10:10'
+    speakers:
+      -
+        name: 'Roman Rodomansky'
+        twitter: itspoma
+        github: null
+      -
+        name: 'Andrew Yasinishyn'
+        twitter: yasinishyn
+        github: null
+    videos:
+      - 'youtube:to8a341K1bw'
+    slides: null
+  -
+    title: 'Copy paste detector for 150+ languages on JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 10:10'
+    speakers:
+      -
+        name: 'Andrey Kucherenko'
+        twitter: a_kucherenko
+        github: kucherenko
+    videos:
+      - 'youtube:3wNEY6x5bIs'
+    slides: null
+  -
+    title: 'Serverless - the way microservices should be'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 10:50'
+    speakers:
+      -
+        name: 'Ivan Jovanovic'
+        twitter: ivanjov96
+        github: ivanjov
+    videos:
+      - 'youtube:aGbAUo7HC_0'
+    slides: null
+  -
+    title: 'Mutilation and suffering: How I decided to create a project using only Web Components without any framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 10:50'
+    speakers:
+      -
+        name: 'Sergiy Babich'
+        twitter: babichss
+        github: Sergiy-Babich
+    videos:
+      - 'youtube:SFZJeO0_k8I'
+    slides: null
+  -
+    title: 'Algorithms in Front End: from V8 to VDOM'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 11:35'
+    speakers:
+      -
+        name: 'Yuriy Sherstyuk'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sFZX00-1t9E'
+    slides: null
+  -
+    title: 'Estimates: is there a silver bullet?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 11:35'
+    speakers:
+      -
+        name: 'Ksenia Redunova'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FQzFFmGMID8'
+    slides: null
+  -
+    title: 'Get started with Reason and ReasonReact'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 12:25'
+    speakers:
+      -
+        name: 'Nik Graf'
+        twitter: nikgraf
+        github: nikgraf
+    videos: null
+    slides: null
+  -
+    title: 'Architecture evolution of Microsoft To-Do web app'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 12:25'
+    speakers:
+      -
+        name: 'Alex Migutsky'
+        twitter: mr_mig_by
+        github: mr-mig
+    videos:
+      - 'youtube:BcyGEIhBZSE'
+    slides:
+      - 'https://slides.com/mr-mig/to-do-web-arch'
+  -
+    title: 'Unleash your web skills on native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 13:05'
+    speakers:
+      -
+        name: 'Rowdy Rabouw'
+        twitter: RowdyRabouw
+        github: rowdyrabouw
+    videos:
+      - 'youtube:UVnlSuw1jac'
+    slides: null
+  -
+    title: 'Bot Building: channels, platforms, NLU'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 13:05'
+    speakers:
+      -
+        name: 'Valentine Mezentsev'
+        twitter: Mnilko
+        github: Mnilko
+      -
+        name: 'Gleb Dobzhanskyi'
+        twitter: glebone
+        github: glebone
+      -
+        name: 'Vitalii Hurin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VIlbw9gvyWs'
+    slides: null
+  -
+    title: Redux-cornell
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 14:45'
+    speakers:
+      -
+        name: 'Eyal Eizenberg'
+        twitter: EyalEizenberg
+        github: eyaleizenberg
+    videos: null
+    slides: null
+  -
+    title: 'Excuse me, I have to assemble Frontend'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 14:45'
+    speakers:
+      -
+        name: 'Andrew Mykhaliuk'
+        twitter: AndreyCtkn
+        github: AndreyUtka
+    videos:
+      - 'youtube:lqzzn4Z3krY'
+    slides: null
+  -
+    title: 'Houdini - css which is JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 15:25'
+    speakers:
+      -
+        name: 'Nikita Dubko'
+        twitter: dark_mefody
+        github: MeFoDy
+    videos:
+      - 'youtube:MPaD8N9BrFA'
+    slides:
+      - 'https://mefody.github.io/talks/houdini-css/'
+  -
+    title: "OK Google. What's next?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 15:25'
+    speakers:
+      -
+        name: 'Philip Shurpik'
+        twitter: philipshurpik
+        github: philipshurpik
+    videos:
+      - 'youtube:ABYnHK8h7VQ'
+    slides: null
+  -
+    title: 'JavaScript without javascript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 16:15'
+    speakers:
+      -
+        name: 'Patrick Kettner'
+        twitter: patrickkettner
+        github: patrickkettner
+    videos:
+      - 'youtube:QJM538gMc7M'
+    slides: null
+  -
+    title: 'Unleash the power of the higher-order components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 16:55'
+    speakers:
+      -
+        name: 'David Kopal'
+        twitter: coding_lawyer
+        github: codinglawyer
+    videos:
+      - 'youtube:P-3Oxb0nA5A'
+    slides: null
+  -
+    title: 'Real-world application of computer vision and machine'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 16:55'
+    speakers:
+      -
+        name: 'Arkadiy Pilguk'
+        twitter: null
+        github: apilguk
+    videos:
+      - 'youtube:tBkHbUbB5sg'
+    slides: null
+  -
+    title: 'Advanced React-Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 17:45'
+    speakers:
+      -
+        name: 'Ilya Ivanov'
+        twitter: null
+        github: ilyaivanov
+    videos:
+      - 'youtube:r3RXPLZ473A'
+    slides: null
+  -
+    title: 'Cloud Native Observability'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 17:45'
+    speakers:
+      -
+        name: 'Oleg Chorny'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0VNcynPLgfo'
+    slides: null
+  -
+    title: 'The ABC of Coded Style Guides'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 18:25'
+    speakers:
+      -
+        name: 'Henning Muszynski'
+        twitter: henningmus
+        github: henningmu
+    videos:
+      - 'youtube:gTjTTnCIG1o'
+    slides: null
+  -
+    title: 'Automating GitHub workflow with probot'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-07 18:25'
+    speakers:
+      -
+        name: 'Denys Dovhan'
+        twitter: denysdovhan
+        github: denysdovhan
+    videos:
+      - 'youtube:b6S-TTFhSI0'
+    slides:
+      - 'https://denysdovhan.com/slides-automating-github-workflow/'
+  -
+    title: 'WebRTC talk for OdessaJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 00:00'
+    speakers:
+      -
+        name: 'Gabriel Mičko'
+        twitter: gabriel_micko
+        github: null
+    videos:
+      - 'youtube:10g_krBzymQ'
+    slides: null
+  -
+    title: 'WebAssembly powered Machine Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 00:00'
+    speakers:
+      -
+        name: 'Mihail Zachepilo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:59dozr-XC-A'
+    slides: null
+  -
+    title: 'How to create a VR application with React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 10:20'
+    speakers:
+      -
+        name: 'Viktor Turskyi'
+        twitter: koorchik
+        github: koorchik
+    videos: null
+    slides: null
+  -
+    title: 'Evolution of Web Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 00:00'
+    speakers:
+      -
+        name: 'Denis Artyuhovich'
+        twitter: null
+        github: zaqqaz
+    videos:
+      - 'youtube:gNw1g_yib4Q'
+    slides: null
+  -
+    title: 'Introduction to Micro Frontends'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 11:00'
+    speakers:
+      -
+        name: 'Ivan Jovanovic'
+        twitter: ivanjov96
+        github: ivanjov
+    videos:
+      - 'youtube:hNqruwzdT4Q'
+    slides:
+      - 'https://speakerdeck.com/ivanjov/introduction-to-micro-frontends-fluent-conf-2018'
+  -
+    title: 'W.T.F. is GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 11:00'
+    speakers:
+      -
+        name: 'Ivan Goncharov'
+        twitter: E1Goncharov
+        github: IvanGoncharov
+    videos:
+      - 'youtube:XkTPAY2gsNo'
+    slides: null
+  -
+    title: 'From monolith web app to micro-frontends – How we extended microservices architecture to frontend'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 11:55'
+    speakers:
+      -
+        name: 'Rustam Aliyev'
+        twitter: rstml
+        github: rstml
+      -
+        name: 'Ivan Martynov'
+        twitter: null
+        github: j-martyn
+    videos:
+      - 'youtube:kNMOucPMYmE'
+    slides: null
+  -
+    title: 'Chrome Dev Tools. New & Tips'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 11:55'
+    speakers:
+      -
+        name: 'Savitskyi Roman'
+        twitter: sssrsav1
+        github: null
+    videos:
+      - 'youtube:9rrjV5T5md4'
+    slides: null
+  -
+    title: 'Creating magic with houdini'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 12:35'
+    speakers:
+      -
+        name: 'Patrick Kettner'
+        twitter: patrickkettner
+        github: patrickkettner
+    videos:
+      - 'youtube:WG14sHR3fH4'
+    slides: null
+  -
+    title: 'Flow typing: your path from experiments to final implementation in an enterprise project'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 12:35'
+    speakers:
+      -
+        name: 'Leonid Baida'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:aEcTnCchHFY'
+    slides: null
+  -
+    title: 'How to scale an SPA to 1M views for $1?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 13:15'
+    speakers:
+      -
+        name: 'Asim Hussain'
+        twitter: jawache
+        github: jawache
+    videos:
+      - 'youtube:z2WkmCeXdOo'
+    slides: null
+  -
+    title: 'Development standards: a step-by-step guide to implement it without pain'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 14:45'
+    speakers:
+      -
+        name: 'Aleksandra Shinkevich'
+        twitter: null
+        github: neesoglasnaja
+    videos:
+      - 'youtube:Bf2ZUsBdCn4'
+    slides:
+      - 'https://neesoglasnaja.github.io/OdessaJS2018/'
+  -
+    title: 'The existential crisis in a blockchain era'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 14:45'
+    speakers:
+      -
+        name: 'Alex Troush'
+        twitter: troush69
+        github: Troush
+    videos:
+      - 'youtube:cJPpyFfTFXI'
+    slides: null
+  -
+    title: 'Passing strings using (in)finite-state-machine and prepack'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 15:25'
+    speakers:
+      -
+        name: 'Valerii Sorokobatko'
+        twitter: tuchk4
+        github: tuchk4
+    videos:
+      - 'youtube:0LCVzgQu4Xs'
+    slides: null
+  -
+    title: 'WebAssembly vs JavaScript: What is faster?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 15:25'
+    speakers:
+      -
+        name: 'Oleksandr Skachkov'
+        twitter: alSkachkov
+        github: kievsash
+    videos:
+      - 'youtube:yhyGVx4qqLM'
+    slides: null
+  -
+    title: 'React Refactoring Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 16:10'
+    speakers:
+      -
+        name: 'Radoslav Stankov'
+        twitter: rstankov
+        github: rstankov
+    videos:
+      - 'youtube:bb9Qbybcr64'
+    slides: null
+  -
+    title: 'RxJS in React, RxJS in Angular and why we all should be friends'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 16:10'
+    speakers:
+      -
+        name: 'Valentyn Barmashyn'
+        twitter: null
+        github: Va1
+    videos:
+      - 'youtube:Ix9r6iFCk3w'
+    slides:
+      - 'https://drive.google.com/file/d/1czdxULKRVMGjDauj_DudHOtYc7wWlDYI/view'
+  -
+    title: 'You’re probably making an API client'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 00:00'
+    speakers:
+      -
+        name: 'Haroen Viaene'
+        twitter: haroenv
+        github: haroenv
+    videos:
+      - 'youtube:Tj1LcjzdVBM'
+    slides:
+      - 'https://haroen.me/presentations/en/api-clients-odessa/keynote.pdf'
+      - 'https://www.icloud.com/keynote/0jJnIgl4GtJS3e-y62h1c-Pyg#API_client_Odessa'
+  -
+    title: 'Mining crypto in browser_ GPU, WebAssembly and all the good things to try'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 17:30'
+    speakers:
+      -
+        name: 'Denis Radin'
+        twitter: PixelsCommander
+        github: PixelsCommander
+    videos:
+      - 'youtube:ubvMN_IC8wc'
+    slides: null
+  -
+    title: "What happens when you don't write the code. What advises would I like to take 10 years ago"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-08 18:10'
+    speakers:
+      -
+        name: 'Artem Zakharchenko'
+        twitter: blackrabbit99
+        github: null
+    videos:
+      - 'youtube:jwRSMbaArj4'
+    slides: null

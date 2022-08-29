@@ -1,0 +1,177 @@
+name: 'AlterConf Washington D.C. - 2016'
+description: ''
+location: 'Washington D.C.'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2016/washington-dc'
+playlist: ''
+from_date: '2016-01-30'
+to_date: '2016-01-30'
+tags: ''
+talks:
+  -
+    title: 'Tech and the queer family'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-01-30 00:00'
+    speakers:
+      -
+        name: 'Rachel Shorey'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ppqggxQhPnQ'
+    slides: null
+  -
+    title: 'The Revolution Will Not Be Silenced'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-01-30 00:00'
+    speakers:
+      -
+        name: 'Lyn Muldrow'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:a0kRfPBeuYA'
+    slides: null
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-01-30 00:00'
+    speakers:
+      -
+        name: 'Mariella Paulino'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Social and Design Factors in Video Games for Therapy and Rehabilitation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-01-30 00:00'
+    speakers:
+      -
+        name: 'Emily Gorcenski'
+        twitter: EmilyGorcenski
+        github: Gorcenski
+    videos:
+      - 'youtube:23sngcOaYiM'
+    slides: null
+  -
+    title: 'Is it Possible for a safer, saner, and diverse internet?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-01-30 00:00'
+    speakers:
+      -
+        name: 'Shireen Mitchell'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3HJXqFxu6zs'
+    slides: null
+  -
+    title: 'Is it all in your head?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-01-30 00:00'
+    speakers:
+      -
+        name: 'Desiree Zamora Garcia'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Education is the Key'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-01-30 00:00'
+    speakers:
+      -
+        name: 'Rob Jackson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WwQ5O3JXWuU'
+    slides: null
+  -
+    title: "Supply Side Diversity, or why FUBU had the right idea OR We're not apping our way out of this one"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-01-30 00:00'
+    speakers:
+      -
+        name: 'Harold Moore'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:J9iIZsfX1kw'
+    slides: null
+  -
+    title: '5 Simple Steps for Trans-Inclusive Data'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-01-30 00:00'
+    speakers:
+      -
+        name: 'Avory Faucette'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5dPiXdwZ508'
+    slides: null
+  -
+    title: 'Creating diverse spaces of opportunity in the tech sector'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-01-30 00:00'
+    speakers:
+      -
+        name: 'Charlotte James'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gDSCOhsBrgQ'
+    slides: null
+  -
+    title: 'Using bots to improve humanity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-01-30 00:00'
+    speakers:
+      -
+        name: 'Gem Barrett'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:46Ah_OWivg8'
+    slides: null
+  -
+    title: 'Digital dress-up dolls and the death of KiSS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-01-30 00:00'
+    speakers:
+      -
+        name: 'Libby Horacek'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

@@ -1,0 +1,171 @@
+name: 'Assert(js) 2018'
+description: 'Assert(js) Testing Conference is a one-day, single-track conference with a laser focus on testing for JavaScript developers - both UI and Node.js.'
+location: ''
+venue: ''
+city: 'San Antonio, TX'
+country: 'United States'
+link: 'https://www.assertjs.com/'
+playlist: 'youtube:PLZ66c9_z3umNSrKSb5cmpxdXZcIPNvKGw'
+from_date: '2018-02-22'
+to_date: '2018-02-22'
+tags: ''
+talks:
+  -
+    title: 'Building a testing- and quality-driven culture at IBM'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-22 00:00'
+    speakers:
+      -
+        name: 'Jason Lengstorf'
+        twitter: jlengstorf
+        github: jlengstorf
+    videos:
+      - 'youtube:zqdCM8zR6Mc'
+    slides: null
+  -
+    title: 'Establishing testing patterns with software design principles'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-22 00:00'
+    speakers:
+      -
+        name: 'Aaron Abramov'
+        twitter: aarondjents
+        github: null
+    videos:
+      - 'youtube:_pnW-JjmyXE'
+    slides: null
+  -
+    title: 'BDD with cucumber.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-22 00:00'
+    speakers:
+      -
+        name: 'Ryan Marsh'
+        twitter: ryan_marsh
+        github: ryanwmarsh
+    videos:
+      - 'youtube:L3rHsE-nA78'
+    slides: null
+  -
+    title: 'I see your point, but…'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-22 00:00'
+    speakers:
+      -
+        name: 'Brian Mann'
+        twitter: be_maan
+        github: null
+      -
+        name: 'Gleb Bahmutov'
+        twitter: bahmutov
+        github: null
+    videos:
+      - 'youtube:5XQOK0v_YRE'
+      - 'youtube:5FnalKRjpZk'
+    slides: null
+  -
+    title: 'Testing against time in JavaScript applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-22 00:00'
+    speakers:
+      -
+        name: 'Jessica Jordan'
+        twitter: jjordan_dev
+        github: jessica-jordan
+    videos:
+      - 'youtube:3cicU6IxclY'
+    slides: null
+  -
+    title: 'Detox A year in. Building it, Testing with it'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-22 00:00'
+    speakers:
+      -
+        name: 'Rotem Mizrachi-Meidan'
+        twitter: rotemmiz
+        github: rotemmiz
+    videos:
+      - 'youtube:Dy8VP02quMs'
+    slides: null
+  -
+    title: 'Testing React Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-22 00:00'
+    speakers:
+      -
+        name: 'Mary Snow'
+        twitter: ThisIsMaryCodes
+        github: Mary-Snow
+    videos:
+      - 'youtube:BZZlTOYjHrY'
+    slides: null
+  -
+    title: 'Please don’t mock me'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-22 00:00'
+    speakers:
+      -
+        name: 'Justin Searls'
+        twitter: searls
+        github: searls
+    videos:
+      - 'youtube:Af4M8GMoxi4'
+    slides: null
+  -
+    title: 'Testing Angular Components Fundamentals'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-22 00:00'
+    speakers:
+      -
+        name: 'Jesse Palmer'
+        twitter: jesselpalmer
+        github: null
+    videos:
+      - 'youtube:KVjaVHZG32w'
+    slides: null
+  -
+    title: 'Write tests. Not too many. Mostly integration.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-22 00:00'
+    speakers:
+      -
+        name: 'Kent C. Dodds'
+        twitter: kentcdodds
+        github: kentcdodds
+    videos:
+      - 'youtube:Fha2bVoC8SE'
+    slides: null
+  -
+    title: 'Working Well, The Future of JavaScript Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-22 00:00'
+    speakers:
+      -
+        name: 'Trent Willis'
+        twitter: trentmwillis
+        github: trentmwillis
+    videos:
+      - 'youtube:4PYBE-c53-M'
+    slides: null

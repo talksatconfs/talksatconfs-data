@@ -1,0 +1,313 @@
+name: 'AmsterdamJS Conference 2017'
+description: "Taking our biggest and longest-running JavaScript community forward, we're adding a new event to our family - a full-day conference covering the latest and greatest news and insights from the global JavaScript network.Join us and a group of internationally known JavaScript enthusiasts to share inspiration and spend a great, summer day in one of the most unique Amsterdam locations."
+location: ''
+venue: ''
+city: Amsterdam
+country: Netherlands
+link: 'https://amsterdamjs.com/2017/'
+playlist: 'youtube.com:PLfIM4SvaiIyzaLhvwGEa4QzPb9oTD0Ioc'
+from_date: '2017-06-08'
+to_date: '2017-06-08'
+tags: ''
+talks:
+  -
+    title: 'JavaScript Is a Buffet, Not the Enemy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Christian Heilmann'
+        twitter: codepo8
+        github: codepo8
+    videos: null
+    slides: null
+  -
+    title: 'The Road to Web Performance in 3 Critical Steps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Hernán Magrini'
+        twitter: Hermagrini
+        github: null
+    videos:
+      - 'youtube:iX1SZiYfR-4'
+    slides: null
+  -
+    title: 'Javascript @ Uber'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Dustin Whittle'
+        twitter: dustinwhittle
+        github: dustinwhittle
+    videos:
+      - 'youtube:JWFyH13_I3o'
+    slides: null
+  -
+    title: 'V8 and How It Listens to You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Michael Stanton'
+        twitter: ripsawridge
+        github: null
+    videos:
+      - 'youtube:u7zRSm8jzvA'
+    slides: null
+  -
+    title: 'The Art of Keeping Your Application Safe'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Ingrid Epure'
+        twitter: ingridepure
+        github: ingride
+    videos:
+      - 'youtube:Vf2ufzTxVd4'
+    slides: null
+  -
+    title: 'Browser Framework Fundamentals'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Yoshua Wuyts'
+        twitter: yoshuawuyts
+        github: yoshuawuyts
+    videos: null
+    slides: null
+  -
+    title: 'Benefits of Virtual DOM'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Johan Gorter'
+        twitter: JohanGorter
+        github: johan-gorter
+    videos:
+      - 'youtube:RPtrlvHW_BU'
+    slides: null
+  -
+    title: 'Are Service Workers Draining My Battery?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Ivano Malavolta'
+        twitter: IMalavolta
+        github: iivanoo
+    videos:
+      - 'youtube:uxWCe0cxNUA'
+    slides: null
+  -
+    title: 'Changing Live Audio with the Web-Audio-Api'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Sam Bellen'
+        twitter: sambego
+        github: Sambego
+    videos:
+      - 'youtube:RHjQeGZPJQk'
+    slides: null
+  -
+    title: 'Automating Front-End Refactoring'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Ahmed El Gabri'
+        twitter: AhmedElGabri
+        github: ahmedelgabri
+    videos:
+      - 'youtube:xGjSMbks9vA'
+    slides: null
+  -
+    title: 'WebAssembly - the Final Frontier'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Albert Brand'
+        twitter: al_bert_brand
+        github: AlbertBrand
+    videos:
+      - 'youtube:2RdLSHVd9eE'
+    slides: null
+  -
+    title: 'WebGL Practical Application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Vasilika Klimova'
+        twitter: Lik04ka
+        github: Likita
+    videos:
+      - 'youtube:WLjv_j9hvEE'
+    slides: null
+  -
+    title: 'RxJS All Things'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Simona Cotin'
+        twitter: simona_cotin
+        github: simonaco
+    videos:
+      - 'youtube:5uofP1T4R1I'
+    slides: null
+  -
+    title: "Makepad - Rethinking Web UI's with WebGL"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Rik Arends'
+        twitter: rikarends
+        github: null
+    videos:
+      - 'youtube:Xr6dtXw0Ipg'
+    slides: null
+  -
+    title: 'Porting Web SDK from JS into TS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Grigory Petrov'
+        twitter: grigoryvp
+        github: grigoryvp
+    videos:
+      - 'youtube:E-oeGx71dxo'
+    slides: null
+  -
+    title: 'A Journey From Web to VR'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Denis Radin'
+        twitter: PixelsCommander
+        github: PixelsCommander
+    videos: null
+    slides: null
+  -
+    title: 'Why You Should Care About Docker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Ádám Sándor'
+        twitter: adamsand0r
+        github: adam-sandor
+    videos:
+      - 'youtube:UlzWCWP8Bgo'
+    slides: null
+  -
+    title: "The Hitchhiker's Guide to the Serverless Galaxy"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Slobodan Stojanović'
+        twitter: slobodan_
+        github: stojanovic
+    videos:
+      - 'youtube:FbjZZTawzIU'
+    slides: null
+  -
+    title: 'Doctor Wombat'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Daijirō Wachi'
+        twitter: watilde
+        github: watilde
+    videos: null
+    slides: null
+  -
+    title: 'Using Custom Vision API to make your own vision intelligence application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Bart Jansen'
+        twitter: bartjansn
+        github: bart-jansen
+    videos: null
+    slides: null
+  -
+    title: 'Taming the async flow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Roman Melnyk'
+        twitter: null
+        github: rom-melnyk
+    videos: null
+    slides: null
+  -
+    title: 'Space as a Service, in JS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Ville Himberg'
+        twitter: vhimberg
+        github: null
+    videos: null
+    slides: null

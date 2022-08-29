@@ -1,0 +1,138 @@
+name: 'Dinosaur JS 2018'
+description: ''
+location: 'Denver, Colorado'
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2018-06-21'
+to_date: '2018-06-22'
+tags: ''
+talks:
+  -
+    title: 'Power, Influence and Authority in Engineering Leadership'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Juan Pablo Buriticá'
+        twitter: buritica
+        github: buritica
+    videos:
+      - 'youtube:_L55xMxecdE'
+    slides: null
+  -
+    title: 'Empathetic Design Systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Jennifer Wong'
+        twitter: mybluewristband
+        github: jennz0r
+    videos:
+      - 'youtube:i7dUPyIJsTQ'
+    slides: null
+  -
+    title: "Help me WebAssembly, You're My Only Hope"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Jay Phelps'
+        twitter: _jayphelps
+        github: jayphelps
+    videos:
+      - 'youtube:IQiGqj_t0yc'
+    slides: null
+  -
+    title: 'The Critical Request: An investigation into what blocks render'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Ben Schwarz'
+        twitter: benschwarz
+        github: benschwarz
+    videos:
+      - 'youtube:-6mMdHNDK9s'
+    slides: null
+  -
+    title: 'Compilers: The New Frontier In Web Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Chad Hietala'
+        twitter: chadhietala
+        github: chadhietala
+    videos:
+      - 'youtube:w2Wk_UvazbI'
+    slides: null
+  -
+    title: 'Houdini - how you too can write a browser rendering engine!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Naina Raisinghani'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:s7OyBFLr9rY'
+    slides: null
+  -
+    title: 'Bridging the Disconnect: Making Software to Make a Statement'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Chris Bolin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nhuvY0CT064'
+    slides: null
+  -
+    title: 'How to Program Your GPU (and Not Do It Alone)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Max Bittker'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:O7HhZ7qf1mA'
+    slides: null
+  -
+    title: 'What To Expect When You’re Expecting: A Guide to Regression Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-21 00:00'
+    speakers:
+      -
+        name: 'Emily Morehouse'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rnet1BYmjRc'
+    slides: null

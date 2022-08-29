@@ -1,0 +1,264 @@
+name: 'JSHeroes 2017'
+description: 'JSHeroes is an Open-Source Community Event, created by and for the JavaScript Community.'
+location: 'Cluj, Romania'
+venue: ''
+city: Cluj
+country: Romania
+link: 'https://jsheroes.io/2017'
+playlist: ''
+from_date: '2017-06-08'
+to_date: '2017-06-09'
+tags: ''
+talks:
+  -
+    title: 'Unleash the power of Angular Reactive Forms'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Nir Kaufman'
+        twitter: nirkaufman
+        github: nirkaufman
+    videos:
+      - 'youtube:9NXVQsQ8wns'
+    slides: null
+  -
+    title: 'A Story About Types and JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Tudor Gergely'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YnukrLi8zew'
+    slides: null
+  -
+    title: 'How to get started and build something with GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Xavier Cazalot'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:McPeX5gsSX8'
+    slides: null
+  -
+    title: 'Wraping Time with Async/Await'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Cassi Lup'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1J-2huqyrBk'
+    slides: null
+  -
+    title: 'Fighting the Front-end Fatigue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Benedek Gagyi'
+        twitter: BenedekGagyi
+        github: benedekgagyi
+    videos:
+      - 'youtube:UTQkkZ1SO1Y'
+    slides: null
+  -
+    title: 'UI Development Made Simple'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Ovidiu Cherecheș'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:C3tx999wbgM'
+    slides: null
+  -
+    title: 'Is JavaScript Making Us Better Professionals?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Alex Moldovan'
+        twitter: alexnmoldovan
+        github: alexnm
+    videos:
+      - 'youtube:O7pnOru0S3E'
+    slides: null
+  -
+    title: 'As Simple as an AST'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Pavithra Kodmad'
+        twitter: pkodmad
+        github: null
+    videos:
+      - 'youtube:LRKlqR6KY_E'
+    slides: null
+  -
+    title: 'Static and Dynamic Next.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-08 00:00'
+    speakers:
+      -
+        name: 'Guillermo Rauch'
+        twitter: rauchg
+        github: rauchg
+    videos:
+      - 'youtube:lLNJsuXB4CI'
+    slides: null
+  -
+    title: 'Building Universal Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-09 00:00'
+    speakers:
+      -
+        name: 'Robert Onodi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:i0wkGqm0Dy8'
+    slides: null
+  -
+    title: 'Collaborative Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-09 00:00'
+    speakers:
+      -
+        name: 'Roxana Rugină'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-FPmnCbb7ds'
+    slides: null
+  -
+    title: 'Node.js Security: Breaking The Loop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-09 00:00'
+    speakers:
+      -
+        name: 'Liran Tal'
+        twitter: liran_tal
+        github: null
+    videos:
+      - 'youtube:DX8FSC_7wRI'
+    slides: null
+  -
+    title: 'From Localhost to Production'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-09 00:00'
+    speakers:
+      -
+        name: 'Gautam Arora'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-UCtcKCYlwM'
+    slides: null
+  -
+    title: 'React Native: From pure Web app to a Web & Mobile hybrid'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-09 00:00'
+    speakers:
+      -
+        name: 'Vladimir Porton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nbzniZ_4Y1Y'
+    slides: null
+  -
+    title: 'Introducing Chunky: The Full Stack React Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-09 00:00'
+    speakers:
+      -
+        name: 'Dan Călinescu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-T1be7m3rAQ'
+    slides: null
+  -
+    title: 'Frontend development in the (current) future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-09 00:00'
+    speakers:
+      -
+        name: 'Filip Bech-Larsen'
+        twitter: Filipbech
+        github: null
+    videos:
+      - 'youtube:eLnrIZd9cd8'
+    slides: null
+  -
+    title: 'Automatic Progressive Web Apps using the Angular Mobile Toolkit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-09 00:00'
+    speakers:
+      -
+        name: 'Maxim Salnikov'
+        twitter: webmaxru
+        github: webmaxru
+    videos:
+      - 'youtube:3ZZCCBjuAXU'
+    slides: null
+  -
+    title: 'A Unified Styling Language'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-09 00:00'
+    speakers:
+      -
+        name: 'Mark Dalgleish'
+        twitter: markdalgleish
+        github: markdalgleish
+    videos:
+      - 'youtube:z-4cujO519Q'
+    slides: null

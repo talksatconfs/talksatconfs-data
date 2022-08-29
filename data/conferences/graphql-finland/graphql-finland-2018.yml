@@ -1,0 +1,236 @@
+name: 'GraphQL Finland 2018'
+description: "So you want to learn GraphQL? That is awesome! But like any other technology it's not easy to get started and get the basics of it mainly because all the docs are spread all over the place.In this 8 hour workshop we will create a GraphQL server with Apollo Server, connect it to a Postgres database in Heroku to have a fully functional GraphQL Server.After that we will jump to the frontend using React and Apollo to query and mutate a GraphQL Endpoint easily."
+location: ''
+venue: ''
+city: Helsinki
+country: Finland
+link: 'https://graphql-finland.fi/2018/'
+playlist: 'youtube.com:PLVSuvWb4Q2Y7oxwvpzlwFxAO6IbIjMDgB'
+from_date: '2018-10-18'
+to_date: '2018-10-19'
+tags: ''
+talks:
+  -
+    title: 'Adopting GraphQL in Large Codebases'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-19 00:00'
+    speakers:
+      -
+        name: 'Adam Miskiewicz'
+        twitter: skevy
+        github: skevy
+    videos:
+      - 'youtube:8KLwLzRlETc'
+    slides: null
+  -
+    title: 'Emerging uses of GraphQL for rapid application development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-19 00:00'
+    speakers:
+      -
+        name: 'Ellie Day'
+        twitter: heyellieday
+        github: null
+    videos:
+      - 'youtube:fdJ0-0TiCQs'
+    slides: null
+  -
+    title: 'Going offline first with GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-19 00:00'
+    speakers:
+      -
+        name: 'Kadi Kraman'
+        twitter: kadikraman
+        github: kadikraman
+    videos:
+      - 'youtube:i4Cfq7hQiws'
+    slides: null
+  -
+    title: 'Life is hard and so is learning GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-19 00:00'
+    speakers:
+      -
+        name: 'Carolyn Stransky'
+        twitter: carolstran
+        github: carolstran
+    videos:
+      - 'youtube:FsRSdGuj588'
+    slides: null
+  -
+    title: 'Building efficient, waterfall-free GraphQL applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-19 00:00'
+    speakers:
+      -
+        name: 'Jimmy Jia'
+        twitter: jimmy_jia
+        github: taion
+    videos:
+      - 'youtube:sgWQX0dzJFI'
+    slides: null
+  -
+    title: 'Building tools for GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-19 00:00'
+    speakers:
+      -
+        name: 'Glenn Reyes'
+        twitter: glnnrys
+        github: glennreyes
+    videos:
+      - 'youtube:BeQ5CjzCaUg'
+    slides: null
+  -
+    title: '(Un)expected use of GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-19 00:00'
+    speakers:
+      -
+        name: 'Helen Zhukova'
+        twitter: zhukova_h
+        github: zhukovka
+    videos:
+      - 'youtube:9KG8mqo1iE0'
+    slides: null
+  -
+    title: 'End-to-end type-safety with GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-19 00:00'
+    speakers:
+      -
+        name: 'Johannes Schickling'
+        twitter: schickling
+        github: schickling
+    videos:
+      - 'youtube:5JuSXwFSJn4'
+    slides: null
+  -
+    title: 'Real-time GraphQL with Event Sourcing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-19 00:00'
+    speakers:
+      -
+        name: 'Andrew Rhyne'
+        twitter: thebigredgeek
+        github: thebigredgeek
+    videos:
+      - 'youtube:wiEUApv9-Qc'
+    slides: null
+  -
+    title: 'Hidden gems of GraphQL query'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-19 00:00'
+    speakers:
+      -
+        name: 'Ivan Goncharov'
+        twitter: E1Goncharov
+        github: IvanGoncharov
+    videos:
+      - 'youtube:AeEFjFHehnM'
+    slides: null
+  -
+    title: 'Reason and GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-19 00:00'
+    speakers:
+      -
+        name: 'Nik Graf'
+        twitter: nikgraf
+        github: nikgraf
+    videos:
+      - 'youtube:tUIvl2pe8CQ'
+    slides: null
+  -
+    title: graphql-php
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-19 00:00'
+    speakers:
+      -
+        name: 'Christoffer Niska'
+        twitter: Crisu83
+        github: null
+    videos:
+      - 'youtube:WDGj0zbEjL8'
+    slides: null
+  -
+    title: 'Writing a realtime GraphQL backend as a compiler in Haskell'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-19 00:00'
+    speakers:
+      -
+        name: 'Tanmai Gopal'
+        twitter: tanmaigo
+        github: coco98
+    videos:
+      - 'youtube:bQLwmYFdCFQ'
+    slides: null
+  -
+    title: 'Where art thou, my error?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-19 00:00'
+    speakers:
+      -
+        name: 'Eloy Durán'
+        twitter: alloy
+        github: alloy
+    videos:
+      - 'youtube:qKA-n8p-sNc'
+    slides: null
+  -
+    title: 'Database-first GraphQL Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-19 00:00'
+    speakers:
+      -
+        name: 'Benjie Gillam'
+        twitter: benjie
+        github: benjie
+    videos:
+      - 'youtube:XDOrhTXd4pE'
+    slides: null
+  -
+    title: 'Mysterious closing keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-19 00:00'
+    speakers:
+      -
+        name: 'Dan Schafer'
+        twitter: dlschafer
+        github: dschafer
+    videos:
+      - 'youtube:6NYC-k2Abow'
+    slides: null

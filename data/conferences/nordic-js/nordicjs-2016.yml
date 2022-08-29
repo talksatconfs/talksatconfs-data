@@ -1,0 +1,220 @@
+name: 'Nordic.js 2016'
+description: ''
+location: 'Munchenbryggeriet, Stockholm'
+venue: ''
+city: ''
+country: ''
+link: 'http://web.archive.org/web/20161015213215/http://nordicjs.com/schedule'
+playlist: ''
+from_date: '2016-09-08'
+to_date: '2016-09-09'
+tags: ''
+talks:
+  -
+    title: 'Magic of Computer Vision Unraveled'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-08 15:00'
+    speakers:
+      -
+        name: 'Mariko Kosaka'
+        twitter: kosamari
+        github: kosamari
+    videos: null
+    slides: null
+  -
+    title: 'The Mad Cousin - Multi-threaded JavaScrip'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-08 13:30'
+    speakers:
+      -
+        name: 'Abdullah Ali'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'From Software to Hard ware: How Do I Track My Cat with JavaScrip'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-08 11:30'
+    speakers:
+      -
+        name: 'Tomomi Imura'
+        twitter: girlie_mac
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Cutting-Edge Responsive Web Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-09 10:00'
+    speakers:
+      -
+        name: 'Vitaly Friedman'
+        twitter: smashingmag
+        github: vitalyfriedman
+    videos: null
+    slides: null
+  -
+    title: 'A brief history and mishistory of modularity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-08 16:30'
+    speakers:
+      -
+        name: 'Ashley Williams'
+        twitter: ag_dubs
+        github: ashleygwilliams
+    videos: null
+    slides: null
+  -
+    title: 'Demystifying Frontend Framework Performanc'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-08 17:00'
+    speakers:
+      -
+        name: 'Evan You'
+        twitter: youyuxi
+        github: yyx990803
+    videos: null
+    slides: null
+  -
+    title: 'Embracing The Futur'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-09 17:00'
+    speakers:
+      -
+        name: 'Jem Young'
+        twitter: jemyoung
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Smörgåsbord of web app hacking – Doing bug bounties as a developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-08 14:00'
+    speakers:
+      -
+        name: 'Frans Rosén'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Event Sourcing a Node.js Application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-08 11:00'
+    speakers:
+      -
+        name: 'Nicole Rauch'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Recreate Masterpieces of Modern Art with Javascrip'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-09 16:30'
+    speakers:
+      -
+        name: 'Amy Cheng'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Pragmatic performance patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-09 11:00'
+    speakers:
+      -
+        name: 'David Björklund'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Resilience: Tried and tested approaches to building robust, flexible, and resilient web experiences'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-08 09:40'
+    speakers:
+      -
+        name: 'Jeremy Keith'
+        twitter: adactio
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A Cartoon Guide to Performance in Reac'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-09 11:30'
+    speakers:
+      -
+        name: 'Lin Clark'
+        twitter: linclark
+        github: linclark
+    videos: null
+    slides: null
+  -
+    title: 'If you know map, I will teach you monads'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-09 13:30'
+    speakers:
+      -
+        name: 'Mattias Petter Johansson'
+        twitter: mpjme
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'JavaScript Takes on Genetically Evolving Cellular Automata'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-09 15:00'
+    speakers:
+      -
+        name: 'Irina Shestak'
+        twitter: _lrlna
+        github: lrlna
+    videos: null
+    slides: null
+  -
+    title: 'JavaScript as Play'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-09-09 14:00'
+    speakers:
+      -
+        name: 'Rachel White'
+        twitter: ohhoe
+        github: rachelnicole
+    videos: null
+    slides: null

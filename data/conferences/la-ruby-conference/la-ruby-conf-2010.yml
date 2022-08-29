@@ -1,0 +1,173 @@
+name: 'LA Ruby Conf 2010'
+description: ''
+location: ''
+venue: ''
+city: 'Burbank, CA'
+country: 'United States'
+link: 'https://web.archive.org/web/20100407081809/http://www.larubyconf.com/presentations'
+playlist: 'youtube:PLE7tQUdRKcyZixHw-ivbA2bzu_TrTE8BZ'
+from_date: '2010-02-19'
+to_date: '2010-02-20'
+tags: ''
+talks:
+  -
+    title: Welcome
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-20 09:00'
+    speakers:
+      -
+        name: 'JR Fent '
+        twitter: null
+        github: null
+      -
+        name: ' Coby Randquist'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Oh S***: How to bring a big Rails website down (and how not to)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-20 09:15'
+    speakers:
+      -
+        name: 'Tim Morgan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hqK4o7OIA54'
+    slides: null
+  -
+    title: 'Alternative Data Structures in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-20 10:05'
+    speakers:
+      -
+        name: 'Tyler McMullen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Mti-bblDAek'
+    slides: null
+  -
+    title: 'Indoctrinating the Next Generation: Teaching Ruby to Kids'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-20 10:55'
+    speakers:
+      -
+        name: 'Sarah Mei'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:uvRb-Y5HdKg'
+    slides: null
+  -
+    title: 'Everything you ever wanted to know about threads and fibers, but were afraid to ask.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-20 11:45'
+    speakers:
+      -
+        name: 'Joe Damato'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sbOaxfCJB3A'
+    slides: null
+  -
+    title: 'New Relic Presentation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-20 13:30'
+    speakers: {  }
+    videos:
+      - 'youtube:fFIQqsII3dM'
+    slides: null
+  -
+    title: 'Civic Hacking'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-20 13:50'
+    speakers:
+      -
+        name: 'Luigi Montanez'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Garbage Collection and the Ruby Heap'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-20 14:40'
+    speakers:
+      -
+        name: 'Aman Gupta'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A New Look at Software Development: What will the next 10 years bring?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-20 15:30'
+    speakers:
+      -
+        name: 'Dave Astels'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Mobile Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-20 16:20'
+    speakers:
+      -
+        name: 'Sarah Allen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Keynote address'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-20 17:10'
+    speakers:
+      -
+        name: 'Richard Kilmer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Wine Fest'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-02-20 20:00'
+    speakers:
+      -
+        name: 'JR Fent '
+        twitter: null
+        github: null
+    videos: null
+    slides: null

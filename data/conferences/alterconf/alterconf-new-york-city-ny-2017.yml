@@ -1,0 +1,165 @@
+name: 'AlterConf New York City, NY - 2017'
+description: ''
+location: 'New York City, NY'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2017/new-york-city-ny'
+playlist: ''
+from_date: '2017-08-20'
+to_date: '2017-08-20'
+tags: ''
+talks:
+  -
+    title: 'Design Ethics: Inclusivity in the Design Process'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-20 00:00'
+    speakers:
+      -
+        name: 'Stephanie Lawrence'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LiSs5fi7hfw'
+    slides: null
+  -
+    title: "Integrating Family & Career: Ensuring Women's Dreams Continue to Take Flight After Motherhood"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-20 00:00'
+    speakers:
+      -
+        name: 'Yasmin J. Mattox'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wDq6x0PcHQU'
+    slides: null
+  -
+    title: 'Social rules, finger waggling, and direct feedback dinosaurs: fostering healthy communication on small teams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-20 00:00'
+    speakers:
+      -
+        name: 'Rachel Honor Vincent'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MAMub8vklB0'
+    slides: null
+  -
+    title: 'Open Up to Open Source'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-20 00:00'
+    speakers:
+      -
+        name: 'La Vesha Parker'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:T32cl8ZsJXM'
+    slides: null
+  -
+    title: 'Standing Desks and Free Pizza: Body Image Negotiations in Tech Spaces'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-20 00:00'
+    speakers:
+      -
+        name: 'Christine Bryant-Ryback'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JB0qQeoJIoQ'
+    slides: null
+  -
+    title: 'On Quiet Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-20 00:00'
+    speakers:
+      -
+        name: 'Seán Hanson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3eygEr0WNpA'
+    slides: null
+  -
+    title: "I'm sorry I can't stop saying sorry"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-20 00:00'
+    speakers:
+      -
+        name: 'Adina Shanholtz'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DRBGVbykscQ'
+    slides: null
+  -
+    title: 'STEM in single-gender education, stereotype threat, and plugging the pipeline'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-20 00:00'
+    speakers:
+      -
+        name: 'Elizabeth Yalkut'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bVE9W73Qvzk'
+    slides: null
+  -
+    title: 'The Cost of Belonging'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-20 00:00'
+    speakers:
+      -
+        name: 'Saudia Ganie'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BtsMf6bhzko'
+    slides: null
+  -
+    title: 'Low-Spoons Leadership'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-20 00:00'
+    speakers:
+      -
+        name: 'Emily Metcalfe'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JKXF-x3kc2Y'
+    slides: null
+  -
+    title: 'The Privilege of Making'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-20 00:00'
+    speakers:
+      -
+        name: 'Katriel Paige'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

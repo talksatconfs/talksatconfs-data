@@ -1,0 +1,116 @@
+name: 'PHP UK Conference 2008'
+description: ''
+location: London
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2008-02-29'
+to_date: '2008-02-29'
+tags: ''
+talks:
+  -
+    title: 'Enterprise PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-02-29 00:00'
+    speakers:
+      -
+        name: 'Ivo Jansch'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Mail(); & Life after Mail();'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-02-29 00:00'
+    speakers:
+      -
+        name: 'Marcus Bointon'
+        twitter: SynchroM
+        github: Synchro
+    videos: null
+    slides: null
+  -
+    title: 'Lessons Learned: Experience from the front line'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-02-29 00:00'
+    speakers:
+      -
+        name: 'Mike Sullivan & Scott MacVicar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Project Zero'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-02-29 00:00'
+    speakers:
+      -
+        name: 'Anthony Phillips'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP Binary Analysis'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-02-29 00:00'
+    speakers:
+      -
+        name: 'Stefan Esser'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'SQLite 3'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-02-29 00:00'
+    speakers:
+      -
+        name: 'Scott MacVicar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '__Testing PHP (test || die)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-02-19 00:00'
+    speakers:
+      -
+        name: 'Zoe Slattery'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'My Framework is better than yours?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2008-02-19 00:00'
+    speakers:
+      -
+        name: 'Rob Allen, Toby Beresford and Ian Christian'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

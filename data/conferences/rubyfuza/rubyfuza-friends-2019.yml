@@ -1,0 +1,313 @@
+name: 'Rubyfuza & Friends 2019'
+description: ''
+location: ''
+venue: ''
+city: 'Cape Town'
+country: 'South Africa'
+link: ''
+playlist: 'youtube:PLI113oIao_x55gOvfDER9ocuEQD94kjjx'
+from_date: '2019-02-07'
+to_date: '2019-02-08'
+tags: ''
+talks:
+  -
+    title: '2019 Key Note'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 09:40'
+    speakers:
+      -
+        name: 'PIOTR SOLNICA'
+        twitter: _solnic_
+        github: solnic
+    videos:
+      - 'youtube:y0H19KwMxV0'
+    slides: null
+  -
+    title: "10 career hacks I wished I'd used"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 10:30'
+    speakers:
+      -
+        name: 'SIMON STEWART'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:I7_0HExbrRo'
+    slides: null
+  -
+    title: 'How we use service objects to make our apps clean, composable, maintainable, and testable'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 11:30'
+    speakers:
+      -
+        name: 'GABRIEL FORTUNA'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dSiE9N_f0h0'
+    slides: null
+  -
+    title: Sarcasm-As-A-Service
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 12:00'
+    speakers:
+      -
+        name: 'RORY PREDDY'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Rails vs. Hanami vs. Phoenix'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 12:30'
+    speakers:
+      -
+        name: 'STEFAN WINTERMEYER'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yZNvpRtclP8'
+    slides: null
+  -
+    title: 'Progressive Rails Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 14:00'
+    speakers:
+      -
+        name: 'MIKE GEYSER'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_R1JS0YRjDs'
+    slides: null
+  -
+    title: 'Ruby on Rails on Kubernetes on Production'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 14:30'
+    speakers:
+      -
+        name: 'TSU-SHIUAN LIN '
+        twitter: null
+        github: null
+      -
+        name: ' ZAC BLASIC'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yzeKDKgZ83M'
+    slides: null
+  -
+    title: 'Visioneering a Platform'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 15:00'
+    speakers:
+      -
+        name: 'MICHAEL PRINS'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sDbts70Pggs'
+    slides: null
+  -
+    title: 'Avoid cascading failures in a multisharded Rails application with Semian'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 16:00'
+    speakers:
+      -
+        name: 'BALA KUMAR'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dLKPiSUgjTg'
+    slides: null
+  -
+    title: '65699 Users from Day One: Moving Karri from .Net to Elixir/Phoenix'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-07 16:30'
+    speakers:
+      -
+        name: 'RAOUL DE VILLIERS'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EmW2wFAZ3qE'
+    slides: null
+  -
+    title: 'Web Vulnerabilities: A Field Guide'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 09:30'
+    speakers:
+      -
+        name: 'Ruan Brandão'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Ff8VtbCCnus'
+    slides: null
+  -
+    title: "Ruby like it's 1995"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 10:00'
+    speakers:
+      -
+        name: 'Matias Korhonen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Nw9C5UrrKag'
+    slides: null
+  -
+    title: 'The Nature of AI Algorithms'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 10:30'
+    speakers:
+      -
+        name: 'Rishal Hurbans'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:O6wcDf3KyMg'
+    slides: null
+  -
+    title: 'Onboarding for Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 11:30'
+    speakers:
+      -
+        name: 'TANAKA MUTAKWA'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nSQJDiRtChw'
+    slides: null
+  -
+    title: 'World of CLI (command line apps) with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 12:00'
+    speakers:
+      -
+        name: 'Raounak Sharma'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:REmCO0_3EZg'
+    slides: null
+  -
+    title: "The how's and why's of setting up a bug triage system"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 12:30'
+    speakers:
+      -
+        name: 'Clive Corbishley'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:R_vd-1q-UyI'
+    slides: null
+  -
+    title: 'Do we really care?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 14:00'
+    speakers:
+      -
+        name: 'Aslam Khan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:s62fYZS3laE'
+    slides: null
+  -
+    title: 'Mission Impossible: Due Date Deadline and Data Science'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 14:30'
+    speakers:
+      -
+        name: 'Gys Muller '
+        twitter: null
+        github: null
+      -
+        name: ' Nic Botes'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lEr7g4AZSrg'
+    slides: null
+  -
+    title: 'Static Type Inferencing… in Ruby?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 15:00'
+    speakers:
+      -
+        name: 'Daniel Smith'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:d3k-Xc7PWyU'
+    slides: null
+  -
+    title: 'Reframing your next Single Page App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 16:00'
+    speakers:
+      -
+        name: 'Kenneth Kalmer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DJouJu_QxEo'
+    slides: null
+  -
+    title: 'How to authenticate a user without a username, password, or database 🙀'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-08 16:30'
+    speakers:
+      -
+        name: 'Simon van Dyk'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:k75-WWxNzTk'
+    slides: null

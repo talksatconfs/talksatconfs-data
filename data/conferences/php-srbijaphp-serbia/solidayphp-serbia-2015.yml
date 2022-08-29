@@ -1,0 +1,82 @@
+name: 'SOLIDay/PHP Serbia 2015'
+description: ''
+location: 'Belgrade, Serbia'
+venue: ''
+city: ''
+country: ''
+link: 'https://soliday.phpsrbija.rs/'
+playlist: ''
+from_date: '2015-05-30'
+to_date: '2015-05-30'
+tags: ''
+talks:
+  -
+    title: 'Designing a Model Architecture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-05-30 05:00'
+    speakers:
+      -
+        name: 'Shawn McCool'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:G3ZeFjljAEU'
+    slides: null
+  -
+    title: Identity
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-11-30 08:00'
+    speakers:
+      -
+        name: 'Mathias Verraes'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0lrPeLSq_u8'
+    slides: null
+  -
+    title: 'Extremely defensive PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-11-30 10:15'
+    speakers:
+      -
+        name: 'Marco Pivetta'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vS0Nn_ncH-8'
+    slides: null
+  -
+    title: 'Sylius under the hood'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-11-30 09:00'
+    speakers:
+      -
+        name: 'Paweł Jędrzejewski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:p_m1tcK-Nqs'
+    slides: null
+  -
+    title: 'Getting started with Dependency Injection'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-05-30 06:00'
+    speakers:
+      -
+        name: 'Rob Allen'
+        twitter: akrabat
+        github: akrabat
+    videos:
+      - 'youtube:9ztghCh9TGk'
+    slides: null

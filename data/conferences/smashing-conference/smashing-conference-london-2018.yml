@@ -1,0 +1,227 @@
+name: 'Smashing Conference London 2018'
+description: 'Performance matters. We’re thrilled to venture to London for our brand new conference fully dedicated to everything web performance. Dealing with ads, third-party scripts, A/B testing, HTTP/2, debugging, JAM stack, PWA, web fonts loading, memory/CPU perf, service workers. Plus lightning talks.'
+location: ''
+venue: ''
+city: London
+country: 'United Kingdom'
+link: 'https://smashingconf.com/'
+playlist: 'vimeo:4970467'
+from_date: '2018-02-07'
+to_date: '2018-02-08'
+tags: ''
+talks:
+  -
+    title: 'In the loop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-07 00:00'
+    speakers:
+      -
+        name: 'Jake Archibald'
+        twitter: jaffathecake
+        github: null
+    videos:
+      - 'vimeo.com:254947206'
+    slides: null
+  -
+    title: 'Beyond the Basics of Image Optimization'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-07 00:00'
+    speakers:
+      -
+        name: 'Una Kravets'
+        twitter: una
+        github: null
+      -
+        name: 'Martin Splitt'
+        twitter: g33konaut
+        github: g33konaut
+    videos:
+      - 'vimeo.com:254736788'
+    slides: null
+  -
+    title: 'A Modern Front-End Workflow with DevTools'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-07 00:00'
+    speakers:
+      -
+        name: 'Umar Hansa'
+        twitter: umaar
+        github: null
+    videos:
+      - 'vimeo.com:254733177'
+    slides: null
+  -
+    title: 'Into the Weeds of CSS Layout'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-07 00:00'
+    speakers:
+      -
+        name: 'Rachel Andrew'
+        twitter: rachelandrew
+        github: null
+    videos:
+      - 'vimeo.com:254679499'
+    slides: null
+  -
+    title: 'A/B Testing, Ads and other 3rd Party Tags'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-07 00:00'
+    speakers:
+      -
+        name: 'Andy Davies'
+        twitter: AndyDavies
+        github: null
+    videos:
+      - 'vimeo.com:254703766'
+    slides: null
+  -
+    title: 'Building Performance for the Long Term'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-07 00:00'
+    speakers:
+      -
+        name: 'Allison McKnight'
+        twitter: aemcknig
+        github: null
+    videos:
+      - 'vimeo.com:254947097'
+    slides: null
+  -
+    title: 'Resource Loading - Past, Present & Future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-07 00:00'
+    speakers:
+      -
+        name: 'Yoav Weiss'
+        twitter: yoavweiss
+        github: null
+    videos:
+      - 'vimeo.com:254861484'
+    slides: null
+  -
+    title: 'Performant Animations" Hitting 60fps"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-07 00:00'
+    speakers:
+      -
+        name: 'Emily Hayman'
+        twitter: eehayman
+        github: null
+    videos:
+      - 'vimeo.com:254906131'
+    slides: null
+  -
+    title: 'How’s the UX on the Web, Really?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-08 00:00'
+    speakers:
+      -
+        name: 'Ilya Grigorik'
+        twitter: igrigorik
+        github: null
+    videos:
+      - 'vimeo.com:254834890'
+    slides:
+      - 'https://docs.google.com/presentation/d/1xhFyYiaPaRD81cw83i88XnbTwvOC7_MllxkzGDd6Ed4/present'
+  -
+    title: 'How fast is it?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-08 00:00'
+    speakers:
+      -
+        name: 'Patrick Meenan'
+        twitter: patmeenan
+        github: null
+    videos:
+      - 'vimeo.com:254728119'
+    slides: null
+  -
+    title: 'Improving Page Performance in Modern Web Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-08 00:00'
+    speakers:
+      -
+        name: 'Katie Hempenius'
+        twitter: katiehempenius
+        github: null
+    videos:
+      - 'vimeo.com:254858694'
+    slides: null
+  -
+    title: 'Web Fonts are ▢▢▢ Rocket Science'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-08 00:00'
+    speakers:
+      -
+        name: 'Zach Leatherman'
+        twitter: zachleat
+        github: null
+    videos:
+      - 'vimeo.com:254727749'
+    slides: null
+  -
+    title: 'Making Platforms And Processes Promote Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-08 00:00'
+    speakers:
+      -
+        name: 'Phil Hawksworth'
+        twitter: philhawksworth
+        github: philhawksworth
+    videos:
+      - 'vimeo.com:254678463'
+    slides: null
+  -
+    title: 'JavaScript engine internals for JavaScript developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-08 00:00'
+    speakers:
+      -
+        name: 'Mathias Bynens'
+        twitter: mathias
+        github: mathiasbynens
+    videos:
+      - 'vimeo.com:254852822'
+    slides: null
+  -
+    title: 'Taking the Vile out of the Priviledge'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-08 00:00'
+    speakers:
+      -
+        name: 'Christian Heilmann'
+        twitter: codepo8
+        github: codepo8
+    videos:
+      - 'vimeo.com:254811822'
+    slides: null

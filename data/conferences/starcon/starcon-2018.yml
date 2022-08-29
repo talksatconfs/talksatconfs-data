@@ -1,0 +1,320 @@
+name: 'StarCon 2018'
+description: 'Make Computer Science and its related technologies accessible to everyone, taking into consideration race, class, gender, ability, religion or sexual orientation, and intersections thereof.Create a culture that fosters learning and community building through knowledge sharing among people from diverse backgrounds.'
+location: ''
+venue: ''
+city: Waterloo
+country: Canada
+link: 'https://starcon.io/'
+playlist: 'youtube:PL66LdfYKVsiikB7G8px8tiU6hzd46PR0P'
+from_date: '2018-01-06'
+to_date: '2018-01-07'
+tags: ''
+talks:
+  -
+    title: "Keynotes 'So you want to be a wizard?'"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-06 00:00'
+    speakers:
+      -
+        name: 'Julia Evans'
+        twitter: b0rk
+        github: null
+    videos:
+      - 'youtube:FBMC9bm-KuU'
+    slides: null
+  -
+    title: 'Open Lessons from Open Source'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-06 00:00'
+    speakers:
+      -
+        name: 'Safia Abdalla'
+        twitter: captainsafia
+        github: captainsafia
+    videos:
+      - 'youtube:JcspmEdaTyY'
+    slides: null
+  -
+    title: 'The Innerworkings of Ransomware'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-06 00:00'
+    speakers:
+      -
+        name: 'Dinah Davis'
+        twitter: Dinah_Davis
+        github: DinahDavis
+    videos:
+      - 'youtube:dIohOKKNf0M'
+    slides: null
+  -
+    title: 'Concurrent, Assembly-ish Actor-based Programming for Teens'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-06 00:00'
+    speakers:
+      -
+        name: 'Josh Bowman-Matthews'
+        twitter: null
+        github: lastontheboat
+    videos:
+      - 'youtube:TBKRCyNp37w'
+    slides: null
+  -
+    title: 'Why You Should be Building Design Systems and CSS Architectures'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-06 00:00'
+    speakers:
+      -
+        name: 'Christina Truong'
+        twitter: christinatruong
+        github: christinatruong
+    videos:
+      - 'youtube:KFNpYLFV9HM'
+    slides: null
+  -
+    title: 'Formal Methods for Everyone: Practical Tools for Computer-Aided Reasoning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-06 00:00'
+    speakers:
+      -
+        name: 'Murphy Berzish'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2_Z-jk2pfp8'
+    slides: null
+  -
+    title: 'Of Tracked Changes and Diffs: Moving  from Editorial to Engineering'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-06 00:00'
+    speakers:
+      -
+        name: 'Breanne Boland'
+        twitter: breanneboland
+        github: breanneboland
+    videos:
+      - 'youtube:rZtypYZUyi8'
+    slides: null
+  -
+    title: 'Notworking with a Whale: A Tale of Dockers, Networks, and Problem Solving'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-06 00:00'
+    speakers:
+      -
+        name: 'Fatema Boxwala'
+        twitter: null
+        github: fboxwala
+    videos:
+      - 'youtube:V4yX_O51jrU'
+    slides: null
+  -
+    title: 'How to make a real-time collaborative text editor in 5 easy steps!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-06 00:00'
+    speakers:
+      -
+        name: 'Rudi Chen'
+        twitter: digitalfreepen
+        github: rudi-c
+    videos:
+      - 'youtube:jIR0Ngov7vo'
+    slides: null
+  -
+    title: 'Why I Prefer Good Testing Over Excellent Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-06 00:00'
+    speakers:
+      -
+        name: 'Tina Fletcher'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vPNG_z1NH6o'
+    slides: null
+  -
+    title: 'Dealing with Bad Architecture Decisions: A Case Study'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-06 00:00'
+    speakers:
+      -
+        name: 'Claire Janke'
+        twitter: clairejanke
+        github: cjanke
+    videos:
+      - 'youtube:HJTJW-4D84c'
+    slides: null
+  -
+    title: 'How giant human-powered calculators became the internet'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-06 00:00'
+    speakers:
+      -
+        name: 'Andrew Louis'
+        twitter: hyfen
+        github: hyfen
+    videos:
+      - 'youtube:hlx5e9kWgXU'
+    slides: null
+  -
+    title: 'Taking the Fun Out of Everything: Automating Neopets'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-07 00:00'
+    speakers:
+      -
+        name: 'Kelly McBride'
+        twitter: kellymcb
+        github: null
+    videos:
+      - 'youtube:9FqKP0cXHpY'
+    slides: null
+  -
+    title: 'Protecting cryptography code from timing vulnerabilities'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-07 00:00'
+    speakers:
+      -
+        name: 'Tim McLean'
+        twitter: null
+        github: timmclean
+    videos:
+      - 'youtube:GpnoLCA9zd4'
+    slides: null
+  -
+    title: 'Undoing the Chatbot'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-07 00:00'
+    speakers:
+      -
+        name: 'Erika Pierre'
+        twitter: erikapierr
+        github: erikapierr
+    videos:
+      - 'youtube:SxWyj7RGDbQ'
+    slides: null
+  -
+    title: 'Introduction to Software Defined Radios'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-07 00:00'
+    speakers:
+      -
+        name: 'Jordan Pryde'
+        twitter: prydom
+        github: prydom
+    videos:
+      - 'youtube:-bRHFDafSbo'
+    slides: null
+  -
+    title: 'Why Lossless Data Compression Is Important and Fun'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-07 00:00'
+    speakers:
+      -
+        name: 'Alex Rhatushnyak'
+        twitter: gralic1
+        github: gralic
+    videos:
+      - 'youtube:gqpsD6OKSjM'
+    slides: null
+  -
+    title: 'Gloom, Doom, and the Internet'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-07 00:00'
+    speakers:
+      -
+        name: 'Keefer Rourke'
+        twitter: keeferrourke
+        github: keeferrourke
+    videos:
+      - 'youtube:o_ZU1-9M3bk'
+    slides: null
+  -
+    title: 'Managing Connections with Graphs: Uses  and Challenges'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-07 00:00'
+    speakers:
+      -
+        name: 'Siddhartha Sahu'
+        twitter: null
+        github: siddharthasahu
+    videos:
+      - 'youtube:QqcUKqx0Sk4'
+    slides: null
+  -
+    title: 'Imagining a world with Ethereum'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-07 00:00'
+    speakers:
+      -
+        name: 'Anastasia Santasheva'
+        twitter: antiroyalty_
+        github: anasant
+    videos:
+      - 'youtube:eHRpCXo0mi0'
+    slides: null
+  -
+    title: 'How Rust Makes Advanced Type Systems  Accessible to the Masses'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-07 00:00'
+    speakers:
+      -
+        name: 'Sunjay Varma'
+        twitter: Sunjay03
+        github: sunjay
+    videos:
+      - 'youtube:P0L3gnO-3IM'
+    slides: null
+  -
+    title: 'Remote code execution in your text editor!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-07 00:00'
+    speakers:
+      -
+        name: 'Max Veystman'
+        twitter: mveytsman
+        github: mveytsman
+    videos:
+      - 'youtube:nZ--FSzz5dI'
+    slides: null

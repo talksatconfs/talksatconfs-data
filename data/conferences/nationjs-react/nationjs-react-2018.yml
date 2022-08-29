@@ -1,0 +1,152 @@
+name: 'NationJS React 2018'
+description: "The Mid-Atlantic's JavaScript and full web stack conference series!"
+location: ''
+venue: ''
+city: 'Washington, DC'
+country: 'United States'
+link: 'http://nationjs.com/'
+playlist: 'youtube:PLeGxIOPLk9ELnUvzPIwEpfb6jHL875FHT'
+from_date: '2018-01-05'
+to_date: '2018-01-05'
+tags: ''
+talks:
+  -
+    title: 'Demystify the V DOM'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-05 00:00'
+    speakers:
+      -
+        name: 'Nir Kaufman'
+        twitter: nirkaufman
+        github: nirkaufman
+    videos:
+      - 'youtube:gR3vQmd34S8'
+    slides: null
+  -
+    title: 'Making Games With React and Redux'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-05 00:00'
+    speakers:
+      -
+        name: 'Mike Lazer-Walker'
+        twitter: lazerwalker
+        github: lazerwalker
+    videos:
+      - 'youtube:uHrLvCRiSrs'
+    slides: null
+  -
+    title: 'BFF - GraphQL Backend-for-Frontend with React UI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-05 00:00'
+    speakers:
+      -
+        name: 'Chienyi Cheri Hung'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vVdmNgQNIGk'
+    slides: null
+  -
+    title: 'Translating React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-05 00:00'
+    speakers:
+      -
+        name: 'Jennifer Wong'
+        twitter: mybluewristband
+        github: jennz0r
+    videos:
+      - 'youtube:SDA0gmnLYDE'
+    slides: null
+  -
+    title: 'Fight the Power - React and Solid'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-05 00:00'
+    speakers:
+      -
+        name: 'Sean McBride'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:G46a6MFLMyY'
+    slides: null
+  -
+    title: 'Leveling up through Code Reviews'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-05 00:00'
+    speakers:
+      -
+        name: 'Elisheba Anderson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0YkNVkSjDIc'
+    slides: null
+  -
+    title: 'Managing Reusable Logic in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-05 00:00'
+    speakers:
+      -
+        name: 'Valerie Woolard Srinivasan'
+        twitter: valeriecodes
+        github: valeriecodes
+    videos:
+      - 'youtube:Usdj-aoJ4Cw'
+    slides: null
+  -
+    title: 'React, the future & you'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-05 00:00'
+    speakers:
+      -
+        name: 'Jenn Creighton'
+        twitter: gurlcode
+        github: null
+    videos:
+      - 'youtube:js-y5H5wxvI'
+    slides: null
+  -
+    title: 'React Explained, Explained'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-05 00:00'
+    speakers:
+      -
+        name: 'Joshua Nelson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9GesiCMCYvI'
+    slides: null
+  -
+    title: 'Demystifying React Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-05 00:00'
+    speakers:
+      -
+        name: 'Steve Kinney'
+        twitter: stevekinney
+        github: stevekinney
+    videos:
+      - 'youtube:p4xby21rMkg'
+    slides: null

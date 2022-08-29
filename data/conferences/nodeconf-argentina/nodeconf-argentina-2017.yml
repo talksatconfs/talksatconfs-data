@@ -1,0 +1,310 @@
+name: 'NodeConf Argentina 2017'
+description: 'Argentina is among the first international Node.js conferences taking place in Latin American territory, and a not-for-profit community effort to push Node.js forward in Argentina and Latin America as a whole. This year’s conference will be a three–day event in sunny Buenos Aires, Argentina, held during October 26th, 27th & 28th. Both action-packed days will be comprised of internationally acclaimed, regional, and local speakers. We are expecting Noders, JavaScripters, front-enders, and other programmers from all over the world. Our topmost concern is to guarantee the most enjoyable experience to our attendees, while providing a safe and welcoming environment for everyone.'
+location: 'Buenos Aires, Argentina'
+venue: ''
+city: 'Buenos Aires'
+country: Argentina
+link: 'https://2017.nodeconf.com.ar/'
+playlist: 'youtube:PLz6xH_GrBpqvZ1HQtGDZZeIqC9cuaWeY8'
+from_date: '2017-10-26'
+to_date: '2017-10-28'
+tags: ''
+talks:
+  -
+    title: 'V8 INTERNALS FOR JS DEVELOPERS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-27 00:00'
+    speakers:
+      -
+        name: 'Mathias Bynens'
+        twitter: mathias
+        github: mathiasbynens
+    videos:
+      - 'youtube:HULaOA5oJMY'
+    slides: null
+  -
+    title: 'JS IN STRANGE PLACES'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-27 00:00'
+    speakers:
+      -
+        name: 'Kassandra Perch'
+        twitter: nodebotanist
+        github: null
+    videos:
+      - 'youtube:nSMIAIVmxhM'
+    slides: null
+  -
+    title: 'THE NYC SPACE/TIME DIRECTORY'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-27 00:00'
+    speakers:
+      -
+        name: 'Bert Spaan'
+        twitter: bertspaan
+        github: null
+    videos:
+      - 'youtube:xBenesIG0wE'
+    slides: null
+  -
+    title: '“THERE IS NO SPOON” - BUILDING VR EXPERIENCES IN THE BROWSER (WITH JS)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-27 00:00'
+    speakers:
+      -
+        name: 'Felipe Torres'
+        twitter: fforres
+        github: null
+    videos:
+      - 'youtube:wvQRymHxYqE'
+    slides: null
+  -
+    title: 'DATA STORED EVERYWHERE AND NOWHERE - BUILDING APPLICATIONS ON THE DISTRIBUTED WEB'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-27 00:00'
+    speakers:
+      -
+        name: 'Karissa McKelvey'
+        twitter: okdistribute
+        github: null
+    videos:
+      - 'youtube:NcHzbwcFr6k'
+    slides: null
+  -
+    title: 'KEEPING YOUR STACK FRESH WITH AOT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-27 00:00'
+    speakers:
+      -
+        name: 'Daniel Gimenez'
+        twitter: idanielgimenez
+        github: null
+    videos:
+      - 'youtube:OkJLTOOZ9vM'
+    slides: null
+  -
+    title: 'AST A LA VISTA, BABY'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-27 00:00'
+    speakers:
+      -
+        name: 'Leonardo Crespo'
+        twitter: leogcrespo
+        github: null
+    videos:
+      - 'youtube:mbbZ3LktluE'
+    slides: null
+  -
+    title: 'NODE.JS & BLOCKCHAIN'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-27 00:00'
+    speakers:
+      -
+        name: 'Julian Duque'
+        twitter: julian_duque
+        github: null
+    videos:
+      - 'youtube:iq48GcfBqGE'
+    slides: null
+  -
+    title: 'AFTER YEARS OF NODE IN PRODUCTION, WE STILL BLOCK THE EVENT LOOP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-27 00:00'
+    speakers:
+      -
+        name: 'Yamil Asusta'
+        twitter: 'Yamil Asusta'
+        github: null
+    videos:
+      - 'youtube:jkKH0HUnAis'
+    slides: null
+  -
+    title: 'THE STORY OF NODE-CHAKRACORE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-28 00:00'
+    speakers:
+      -
+        name: 'Arunesh Chandra'
+        twitter: AruneshC
+        github: null
+    videos:
+      - 'youtube:Bgptx4k2tzc'
+    slides: null
+  -
+    title: 'HOW TO SORT YOUR SOCKS USING JAVASCRIPT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-28 00:00'
+    speakers:
+      -
+        name: 'Claudia Hernández'
+        twitter: koste4
+        github: claudiahdz
+    videos:
+      - 'youtube:qR2gZICTKdA'
+    slides: null
+  -
+    title: 'THE LONG ROAD TO ASYNC/AWAIT IN JAVASCRIPT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-28 00:00'
+    speakers:
+      -
+        name: 'Thomas Hunter II'
+        twitter: tlhunter
+        github: null
+    videos:
+      - 'youtube:LHozOB1pPlU'
+    slides: null
+  -
+    title: 'THE UNBEARABLE LIGHTNESS OF NODE MODULES'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-28 00:00'
+    speakers:
+      -
+        name: 'Michelle Garrett'
+        twitter: msmichellegar
+        github: null
+    videos:
+      - 'youtube:paaUjShgeCA'
+    slides: null
+  -
+    title: 'PACKAGE QUEST'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-27 00:00'
+    speakers:
+      -
+        name: 'Jeff Lembeck'
+        twitter: jefflembeck
+        github: null
+    videos:
+      - 'youtube:UMzD53l2QvQ'
+    slides: null
+  -
+    title: '"PARÁ LA PELOTA": HOW YOU CAN GROW WITHOUT GETTING BURNT OUT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-28 00:00'
+    speakers:
+      -
+        name: 'Ravi Kolli'
+        twitter: raviskolli
+        github: null
+    videos:
+      - 'youtube:1XUe_xQ6Ras'
+    slides: null
+  -
+    title: 'NPM 5: BRINGING PACKAGE MANAGEMENT TO THE FUTURE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-28 00:00'
+    speakers:
+      -
+        name: 'Kat Marchán'
+        twitter: maybekatz
+        github: null
+    videos:
+      - 'youtube:e1ixcGlQ9Jo'
+    slides: null
+  -
+    title: 'EVERYTHING I THOUGHT I KNEW ABOUT THE EVENT LOOP WAS WRONG'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-28 00:00'
+    speakers:
+      -
+        name: 'Daniel Khan'
+        twitter: dkhan
+        github: null
+    videos:
+      - 'youtube:gl9qHml-mKc'
+    slides: null
+  -
+    title: 'THE ROAD TO NODE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-28 00:00'
+    speakers:
+      -
+        name: 'Guillermo Paz'
+        twitter: pazguille
+        github: null
+    videos:
+      - 'youtube:huH_TyPDBpU'
+    slides: null
+  -
+    title: 'NODE.JS <=> MACHINE LEARNING'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-28 00:00'
+    speakers:
+      -
+        name: 'Anshul Bhagi'
+        twitter: anshulbhagi
+        github: null
+      -
+        name: 'Nikhila Ravi'
+        twitter: nikhilaravi
+        github: null
+    videos:
+      - 'youtube:kytNKngz0yU'
+    slides: null
+  -
+    title: 'NODE.JS ADDONS FOR HIGH PERFORMANCE NUMERIC COMPUTING'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-28 00:00'
+    speakers:
+      -
+        name: 'Athan Reines'
+        twitter: kgryte
+        github: null
+    videos:
+      - 'youtube:mnvfej28vjk'
+    slides: null
+  -
+    title: 'HOW TO BUILD THE STATUS APIS OF YOUR MICROSERVICES ECOSYSTEM'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-10-27 00:00'
+    speakers:
+      -
+        name: 'Mariano Vazquez'
+        twitter: nanovazquez87
+        github: null
+    videos:
+      - 'youtube:vBa3e2TcXkc'
+    slides: null

@@ -1,0 +1,150 @@
+name: 'AlterConf Seattle, WA - 2015'
+description: ''
+location: 'Seattle, WA'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2015/seattle-wa'
+playlist: ''
+from_date: '2015-05-30'
+to_date: '2015-05-30'
+tags: ''
+talks:
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Ashe Dryden'
+        twitter: ashedryden
+        github: ashedryden
+    videos: null
+    slides: null
+  -
+    title: 'Managing While Black'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-05-30 00:00'
+    speakers:
+      -
+        name: 'Kevin Stewart'
+        twitter: kstewart
+        github: null
+    videos:
+      - 'youtube:7AJonlLJERY'
+    slides: null
+  -
+    title: 'Establishing Your Core Values'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-05-30 00:00'
+    speakers:
+      -
+        name: 'Elaine Nelson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:50_xEcGB_tE'
+    slides: null
+  -
+    title: 'How The Tech Industry Made Me A Social Justice Writer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-05-30 00:00'
+    speakers:
+      -
+        name: 'Ijeoma Oluo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MeTRNoJ7OuU'
+    slides: null
+  -
+    title: 'Updated Spoon Theory for the Tech Industry'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-05-30 00:00'
+    speakers:
+      -
+        name: 'Whitney Levis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TIgGoxEc-_8'
+    slides: null
+  -
+    title: "Resisting the Tidal Wave: Making Sure Chronic Disease or Disability Doesn't Upend Your Career"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-05-30 00:00'
+    speakers:
+      -
+        name: 'Anna Zocher'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ObISEJCWCFQ'
+    slides: null
+  -
+    title: 'Invisible Arcade: video games as rock concerts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-05-30 00:00'
+    speakers:
+      -
+        name: 'Samantha Kalman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gcKyrKgu5pM'
+    slides: null
+  -
+    title: 'So You Want to Contribute to Open Source: Advice for the Non-Normative'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-05-30 00:00'
+    speakers:
+      -
+        name: 'Yvonne Lam'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0dn6ushI_OE'
+    slides: null
+  -
+    title: 'Breaking Down Diversity in Tech One Company At a Time'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-05-30 00:00'
+    speakers:
+      -
+        name: 'Donte Parks'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iy8uMC1tb54'
+    slides: null
+  -
+    title: 'Tech Money, Gentrification, and the Policing of Blackness in Capitol Hill'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-05-30 00:00'
+    speakers:
+      -
+        name: 'Monica Thomas'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

@@ -1,0 +1,868 @@
+name: 'RubyConf 2019'
+description: ''
+location: Nashville
+venue: ''
+city: ''
+country: ''
+link: 'https://confreaks.tv/events/rubyconf2019'
+playlist: ''
+from_date: '2019-11-18'
+to_date: '2019-11-20'
+tags: ''
+talks:
+  -
+    title: 'Digesting MRI by Studying Alternative Ruby Implementations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-20 13:50'
+    speakers:
+      -
+        name: 'Christian Bruckmayer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-UVV8_560eE'
+    slides: null
+  -
+    title: 'The Fewer the Concepts, the Better the Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 11:20'
+    speakers:
+      -
+        name: 'David Copeland'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:unpJ9qRjdMw'
+    slides: null
+  -
+    title: "Using Your Superpowers to Transform People's Lives"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 11:20'
+    speakers:
+      -
+        name: 'Alberto Colon Viera'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4U1Gt-eHEWg'
+    slides: null
+  -
+    title: 'Technical Background of Interactive CLI of Ruby 2.7'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-20 13:50'
+    speakers:
+      -
+        name: 'ITOYANAGI Sakura'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SzgmcVN7qu4'
+    slides: null
+  -
+    title: 'Injecting Dependencies for Fun and Profit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 10:30'
+    speakers:
+      -
+        name: 'Chris Hoffman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:b5vfNcjJsLU'
+    slides: null
+  -
+    title: 'Algorithms: CLRS in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 16:40'
+    speakers:
+      -
+        name: 'Brad Grzesiak'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:eJL0M7H-p-I'
+    slides: null
+  -
+    title: 'Ruby Next: make old Ruby quack like a new one'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 14:50'
+    speakers:
+      -
+        name: 'Vladimir Dementyev'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:T6epHXlUmG0'
+    slides: null
+  -
+    title: 'Containerizing Local Development... Is It Worth it?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-20 14:40'
+    speakers:
+      -
+        name: 'Tony Drake'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NZ02hy6QOOk'
+    slides: null
+  -
+    title: "Let's build a simple HTTP server with Ruby"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-20 11:20'
+    speakers:
+      -
+        name: 'Esther Olatunde'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JFbBj2CN5Mo'
+    slides: null
+  -
+    title: 'Source-Diving for Fun and Profit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 11:30'
+    speakers:
+      -
+        name: 'Kevin Kuchta'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2YobJGkSSrU'
+    slides: null
+  -
+    title: 'Creating AR Apps with RubyMotion'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 16:00'
+    speakers:
+      -
+        name: 'Lori M Olson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9eqjppyV6iY'
+    slides: null
+  -
+    title: 'The Functional Rubyist'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 14:00'
+    speakers:
+      -
+        name: 'Joe Leo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BV1-Z38ZWQU'
+    slides: null
+  -
+    title: "Hire Me: I'm Excellent at Quitting"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 16:40'
+    speakers:
+      -
+        name: 'Brittany Martin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Jr0yGI7sKgI'
+    slides: null
+  -
+    title: 'Statistically Optimal API Timeouts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 16:00'
+    speakers:
+      -
+        name: 'Daniel Ackerman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OxNL0vRsXi0'
+    slides: null
+  -
+    title: 'Digging Up Code Graves in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 14:40'
+    speakers:
+      -
+        name: 'Noah Matisoff'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ffrv-JppavY'
+    slides: null
+  -
+    title: 'No Return: Beyond Transactions in Code and Life'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 10:40'
+    speakers:
+      -
+        name: 'AVDI GRIMM'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qoriifl-z3Q'
+    slides: null
+  -
+    title: 'How to write pleasant code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 16:40'
+    speakers:
+      -
+        name: 'Roman Kofman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:S2s9FldrKug'
+    slides: null
+  -
+    title: 'Rekindling a love of creation with Ruby and Raspberry Pi'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 13:50'
+    speakers:
+      -
+        name: 'Colleen Schnettler'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IH4r_mvVyhs'
+    slides: null
+  -
+    title: 'Cocktail Masterclass with Ruby and Friends.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 14:40'
+    speakers:
+      -
+        name: 'Julian Cheal'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YM-HoJ23wqQ'
+    slides: null
+  -
+    title: 'Principles of Awesome APIs and How to Build Them'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 11:30'
+    speakers:
+      -
+        name: 'Keavy McMinn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NgFm7qAhv9g'
+    slides: null
+  -
+    title: 'Disk is fast, memory is slow. Forget all you think you know'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 13:50'
+    speakers:
+      -
+        name: 'DANIEL MAGLIOLA'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:crbyeyPS7HE'
+    slides: null
+  -
+    title: 'Bursting at the Seams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-20 10:30'
+    speakers:
+      -
+        name: 'David McDonald'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:N6I34YEqZPc'
+    slides: null
+  -
+    title: 'What happens when a linguist learns to code?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 16:00'
+    speakers:
+      -
+        name: 'Erica Sosa'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:98yjnksGB-0'
+    slides: null
+  -
+    title: "What's happening when initializing mruby?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-20 11:20'
+    speakers:
+      -
+        name: 'Yurie Yamane'
+        twitter: null
+        github: null
+      -
+        name: 'Masayoshi Takahashi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:E05ACAZSXDI'
+    slides: null
+  -
+    title: 'Bridging the Knowledge Gap: Debugging'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 14:00'
+    speakers:
+      -
+        name: 'Mina Slater'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DT5XeAnXifI'
+    slides: null
+  -
+    title: 'JRuby: Zero to Scale! 🔥'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-20 14:40'
+    speakers:
+      -
+        name: 'Charles Oliver Nutter'
+        twitter: null
+        github: null
+      -
+        name: 'Thomas E Enebo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yTGegFR3aGc'
+    slides: null
+  -
+    title: 'A Static Type Analyzer of Untyped Ruby Code for Ruby 3'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 15:50'
+    speakers:
+      -
+        name: 'Yusuke Endoh'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:l1B3NJc2eU8'
+    slides: null
+  -
+    title: 'Parallel Ruby: Managing the Memory Monster'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 15:50'
+    speakers:
+      -
+        name: 'Kevin Miller'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4_yxbh9Enoc'
+    slides: null
+  -
+    title: 'Escaping The Tar Pit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 14:40'
+    speakers:
+      -
+        name: 'Ernesto Tagwerker'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZyU6K6eR-_A'
+    slides: null
+  -
+    title: 'How to lose 50 Million Records in 5 minutes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-20 10:30'
+    speakers:
+      -
+        name: 'Jon Druse'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Qbxmf_TxA-s'
+    slides: null
+  -
+    title: 'Story telling with Git rebase'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 16:40'
+    speakers:
+      -
+        name: 'Elle Meredith'
+        twitter: aemeredith
+        github: elle
+    videos:
+      - 'youtube:-WsjKCledP4'
+    slides: null
+  -
+    title: 'Coding like it’s 1977: Ruby on the Apple ]['
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 16:00'
+    speakers:
+      -
+        name: 'Colin Fulton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:M7LEf7-W12k'
+    slides: null
+  -
+    title: 'Conscious Coding Practice: The Three Concrete Steps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 10:40'
+    speakers:
+      -
+        name: 'Noah Gibbs'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:33fAzjOTaDE'
+    slides: null
+  -
+    title: 'Speeding up NMatrix by 100x'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 10:30'
+    speakers:
+      -
+        name: 'Udit Gulati'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ogB_J3mgSa8'
+    slides: null
+  -
+    title: 'Less abstract! Surprising effects of expressing rules of OOP in pictures.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 10:40'
+    speakers:
+      -
+        name: 'Ivan Nemytchenko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JH8KSPfFvxs'
+    slides: null
+  -
+    title: 'Building a Ruby: Artichoke is a Ruby Made with Rust'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-20 10:30'
+    speakers:
+      -
+        name: 'Ryan Lopopolo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QMni48MBqFw'
+    slides: null
+  -
+    title: "What's Love Got To Do With It? Ruby and Sentiment Analysis"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 14:50'
+    speakers:
+      -
+        name: 'Ben Greenberg'
+        twitter: RabbiGreenberg
+        github: benhayehudi
+    videos:
+      - 'youtube:VREjv9ZTxPg'
+    slides: null
+  -
+    title: 'Fixing Performance & Memory problems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 10:30'
+    speakers:
+      -
+        name: 'Frederick Cheung'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UCJsjr8ksDc'
+    slides: null
+  -
+    title: 'Adopting Sorbet at Scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 14:40'
+    speakers:
+      -
+        name: 'Ufuk Kayserilioglu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:v9oYeSZGkUw'
+    slides: null
+  -
+    title: 'The Singleton Module and Its Pattern In Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 11:20'
+    speakers:
+      -
+        name: 'Mike Calhoun'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:r8LwiJVVtzo'
+    slides: null
+  -
+    title: 'Sorbet: A type checker for Ruby 3 you can use today!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 13:50'
+    speakers:
+      -
+        name: 'Dmitry Petrashko'
+        twitter: null
+        github: null
+      -
+        name: 'Jake Zimmerman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jielBIZ40mw'
+    slides: null
+  -
+    title: 'Fun, Friendly Computer Science'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 11:20'
+    speakers:
+      -
+        name: 'Mercedes Bernard'
+        twitter: mercedescodes
+        github: null
+    videos:
+      - 'youtube:IhD-9Xvbnt0'
+    slides: null
+  -
+    title: 'Thomas Edison vs Three Teslas in a Trenchcoat'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 10:40'
+    speakers:
+      -
+        name: 'Coraline Ada Ehmke'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:i5uBjcYARkU'
+    slides: null
+  -
+    title: 'Pattern Matching - New feature in Ruby 2.7'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 14:00'
+    speakers:
+      -
+        name: 'Kazuki Tsujimoto'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wo4eZ2iVIyo'
+    slides: null
+  -
+    title: 'How to Become an Encoding Champion'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 11:30'
+    speakers:
+      -
+        name: 'DeeDee Lavinder'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3Uut6DEgW-4'
+    slides: null
+  -
+    title: 'Investigative Metaprogramming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 11:30'
+    speakers:
+      -
+        name: 'Betsy Haibel'
+        twitter: betsythemuffin
+        github: null
+    videos:
+      - 'youtube:bJMzWumXPmo'
+    slides: null
+  -
+    title: 'In the beginning, there was "require"...'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-20 13:50'
+    speakers:
+      -
+        name: 'Adam McCrea'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:I0a5zv7uBHw'
+    slides: null
+  -
+    title: 'Compacting Heaps in Ruby 2.7'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-20 14:40'
+    speakers:
+      -
+        name: 'Aaron Patterson'
+        twitter: tenderlove
+        github: tenderlove
+    videos:
+      - 'youtube:1F3gXYhQsAY'
+    slides: null
+  -
+    title: 'lo-fi hip hop ruby - beats to relax/study to'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 15:50'
+    speakers:
+      -
+        name: 'Zachary Schroeder'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:taYx6Dy6dwI'
+    slides: null
+  -
+    title: 'mruby/c: Running on Less Than 64KB RAM Microcontroller'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 14:50'
+    speakers:
+      -
+        name: 'hitoshi HASUMI(JP_SMN)'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1VFPSHs3WvI'
+    slides: null
+  -
+    title: 'Introducing Rubyfmt'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 15:50'
+    speakers:
+      -
+        name: 'Penelope Phippen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ifUbj1xErlg'
+    slides: null
+  -
+    title: 'Don’t Hang Me Out To DRY'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-20 11:20'
+    speakers:
+      -
+        name: 'Kevin Murphy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:b960MApGA7A'
+    slides: null
+  -
+    title: 'Elasticsearch 5 or and Bust'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-20 13:50'
+    speakers:
+      -
+        name: 'Molly Struve'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IiNPLJOZ0Kw'
+    slides: null
+  -
+    title: 'Seven Deadly Sins'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-20 14:40'
+    speakers:
+      -
+        name: 'Brian McElaney'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:w04t4D_DArE'
+    slides: null
+  -
+    title: 'Late, Over Budget, & Happy: Our Service Extraction Story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-20 11:20'
+    speakers:
+      -
+        name: 'Amy Newell'
+        twitter: null
+        github: null
+      -
+        name: 'Nat Budin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5qdWvw_oqPM'
+    slides: null
+  -
+    title: 'Kill All Mutants! (Intro to Mutation Testing)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 13:50'
+    speakers:
+      -
+        name: 'Dave Aronson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9GId6mFL0_c'
+    slides: null
+  -
+    title: 'Tales from the Ruby Grimoire'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-19 10:30'
+    speakers:
+      -
+        name: 'Brandon Weaver'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TVwVLBor8WE'
+    slides: null
+  -
+    title: 'Learn Enough Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 14:50'
+    speakers:
+      -
+        name: 'Michael Hartl'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NGXp6_-nc4s'
+    slides: null
+  -
+    title: 'Language as a Tool of Thought: Consistency versus Progress'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-20 10:30'
+    speakers:
+      -
+        name: 'Victor Shepelev'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iMBqqjkbvl4'
+    slides: null
+  -
+    title: 'Ruby ate my DSL!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-18 14:00'
+    speakers:
+      -
+        name: 'Daniel Azuma'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Ov-tMtOkKS4'
+    slides: null

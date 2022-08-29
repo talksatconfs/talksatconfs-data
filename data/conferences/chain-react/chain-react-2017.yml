@@ -1,0 +1,304 @@
+name: 'Chain React 2017'
+description: 'Join us at the beautiful Armory in downtown Portland this summer! Chain React: The React Native.Conference will consist of multiple talks on React Native given by mobile software engineers at Facebook, AirBnB, and others, on a variety of topics from beginner to expert level. We’re expecting a few hundred attendees and are working hard to put on a great conference.'
+location: 'Portland, OR, United States'
+venue: ''
+city: 'Portland, OR'
+country: 'United States'
+link: 'https://cr.infinite.red/past-conferences/2017'
+playlist: ''
+from_date: '2017-07-10'
+to_date: '2017-07-11'
+tags: ''
+talks:
+  -
+    title: 'The Dark Art of Bundlers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-10 00:00'
+    speakers:
+      -
+        name: 'Mike Grabowski'
+        twitter: grabbou
+        github: grabbou
+    videos:
+      - 'youtube:cz5BzwgATpc'
+    slides:
+      - 'https://speakerdeck.com/grabbou/the-dark-art-of-bundlers'
+  -
+    title: 'Experimenting with a Paypal Checkout SDK using React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-10 00:00'
+    speakers:
+      -
+        name: 'Poornima Venkatakrishnan'
+        twitter: poorni_venkat
+        github: null
+    videos:
+      - 'youtube:m-XaF3vAHrQ'
+    slides: null
+  -
+    title: 'React Native + ES.next = ♥︎'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-10 00:00'
+    speakers:
+      -
+        name: 'Ben Ilegbodu'
+        twitter: benmvp
+        github: benmvp
+    videos:
+      - 'youtube:nbtEwjRJXLo'
+    slides:
+      - 'http://www.benmvp.com/slides/2017/chainreact/react-native-esnext.html#/'
+  -
+    title: 'Javascript Futurism'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-10 00:00'
+    speakers:
+      -
+        name: 'Nader Dabit'
+        twitter: dabit3
+        github: null
+    videos:
+      - 'youtube:iCoYCAzx82g'
+    slides:
+      - 'https://docs.google.com/presentation/d/1VaphgJRcf5R47R5aPEfsJGWJ3dLiRhGFsh0bqH0cQXs/edit#slide=id.g35f391192_00'
+  -
+    title: 'Accepting Mobile Payments with React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-10 00:00'
+    speakers:
+      -
+        name: 'Naoufal Kadhom'
+        twitter: naoufal
+        github: null
+    videos:
+      - 'youtube:sTretbawbkg'
+    slides:
+      - 'https://speakerdeck.com/naoufal/accepting-mobile-payments-with-react-native'
+  -
+    title: 'Gestures here. Gestures there. Gestures everywhere!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-10 00:00'
+    speakers:
+      -
+        name: 'Kyle Poole'
+        twitter: Kylpo
+        github: null
+      -
+        name: 'Thomas Bruketta'
+        twitter: SirTeebs
+        github: null
+    videos:
+      - 'youtube:L_jzGn5b9H4'
+    slides: null
+  -
+    title: 'Rewriting a Large Hybrid App with React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-10 00:00'
+    speakers:
+      -
+        name: 'Javier Cuevas'
+        twitter: javier_dev
+        github: null
+    videos:
+      - 'youtube:eNRc0815pDs'
+    slides:
+      - 'https://speakerdeck.com/javiercr/rewriting-a-large-hybrid-app-with-react-native-chain-react-conf-2017'
+  -
+    title: 'Why we Need an App Browser'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-10 00:00'
+    speakers:
+      -
+        name: 'Ken Wheeler'
+        twitter: ken_wheeler
+        github: kenwheeler
+    videos:
+      - 'youtube:WEQx3wz8QeY'
+    slides: null
+  -
+    title: 'Breaking Down React Native Bridging'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-10 00:00'
+    speakers:
+      -
+        name: 'Peggy Rayzis'
+        twitter: peggyrayzis
+        github: peggyrayzis
+    videos:
+      - 'youtube:GiUo88TGebs'
+    slides:
+      - 'http://chain-react-bridging.surge.sh/#/0'
+  -
+    title: 'From RPC to GraphQL"APIs from Past to Present"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-10 00:00'
+    speakers:
+      -
+        name: 'Eric Baer'
+        twitter: ebaerbaerbaer
+        github: null
+    videos:
+      - 'youtube:DeKpgHK-bqw'
+    slides: null
+  -
+    title: 'From Zero to DevOps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-10 00:00'
+    speakers:
+      -
+        name: 'Parashuram Narasimhan'
+        twitter: nParashuram
+        github: null
+    videos:
+      - 'youtube:f_-S0ZhVmvQ'
+    slides: null
+  -
+    title: 'React as a Platform"A path towards a truly cross-platform UI"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-10 00:00'
+    speakers:
+      -
+        name: 'Leland Richardson'
+        twitter: intelligibabble
+        github: lelandrichardson
+    videos:
+      - 'youtube:JaRtmgaNZos'
+    slides: null
+  -
+    title: 'Building Serverless Backends with AWS Lambda for React Native Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-11 00:00'
+    speakers:
+      -
+        name: 'Kevin Old'
+        twitter: kevinold
+        github: null
+    videos:
+      - 'youtube:blGtyVCGNT4'
+    slides: null
+  -
+    title: 'When to Go Native Over Javascript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-11 00:00'
+    speakers:
+      -
+        name: 'Harry Tormey'
+        twitter: htormey
+        github: null
+    videos:
+      - 'youtube:kFyaj5HmMEY'
+    slides: null
+  -
+    title: 'Building Stellar User Experiences with React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-11 00:00'
+    speakers:
+      -
+        name: 'Alex Kotliarskyi'
+        twitter: alex_frantic
+        github: null
+    videos:
+      - 'youtube:fjS5ssBn3fA'
+    slides:
+      - 'https://speakerdeck.com/frantic/building-stellar-user-experiences-with-react-native'
+  -
+    title: 'From Idea to App Store"A Guide to Shipping React Native Apps"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-11 00:00'
+    speakers:
+      -
+        name: 'Chris Ball'
+        twitter: cball_
+        github: null
+    videos:
+      - 'youtube:W8X7t1qlT_w'
+    slides:
+      - 'https://speakerdeck.com/cball/from-idea-to-app-store-a-guide-to-shipping-react-native-apps'
+  -
+    title: 'React Native Sand Paper'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-11 00:00'
+    speakers:
+      -
+        name: 'Brent Vatne'
+        twitter: notbrent
+        github: brentvatne
+    videos:
+      - 'youtube:oBi3j33idW0'
+    slides: null
+  -
+    title: 'React Native on the Apple TV Platform'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-11 00:00'
+    speakers:
+      -
+        name: 'Doug Lowder'
+        twitter: douglowder
+        github: null
+    videos:
+      - 'youtube:jDRXGqb9hno'
+    slides: null
+  -
+    title: 'Realtime Event Processing, Streaming and Subscription for React Native Using Cloud Services'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-11 00:00'
+    speakers:
+      -
+        name: 'Richard Threlkeld'
+        twitter: undef_obj
+        github: null
+    videos:
+      - 'youtube:cf6-K6OQ4-g'
+    slides: null
+  -
+    title: 'React Native Panel With Various Speakers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-11 00:00'
+    speakers:
+      -
+        name: 'Various Speakers'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zQhSuJwWy3k'
+    slides: null

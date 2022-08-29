@@ -1,0 +1,155 @@
+name: 'PHP UK Conference 2009'
+description: ''
+location: London
+venue: ''
+city: ''
+country: ''
+link: 'http://web.archive.org/web/20090315060920/http://www.phpconference.co.uk/'
+playlist: ''
+from_date: '2009-02-27'
+to_date: '2009-02-27'
+tags: ''
+talks:
+  -
+    title: 'State Machines to State Of The Art: Smart, efficient design using ReST & MVC'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-02-27 00:00'
+    speakers:
+      -
+        name: 'Rowan Merewood'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Clouds on the horizon? Get ready for Drizzle'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-02-27 00:00'
+    speakers:
+      -
+        name: 'David Axmark'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Keynote talk: The future’s so bright, I gotta wear shades'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-02-27 00:00'
+    speakers:
+      -
+        name: 'Aral Balkan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Of Lambda Functions, Closures and Traits'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-02-27 00:00'
+    speakers:
+      -
+        name: 'Sebastian Bergmann  '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Sharding Architectures'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-02-27 00:00'
+    speakers:
+      -
+        name: 'David Soria Parra'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP on Windows — the undiscovered country'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-02-27 00:00'
+    speakers:
+      -
+        name: 'Hank Janssen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Flex and AIR for PHP programmers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-02-27 00:00'
+    speakers:
+      -
+        name: 'Mihai Corlan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "What's new in PHP 5.3"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-02-27 00:00'
+    speakers:
+      -
+        name: 'Scott MacVicar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Living with Frameworks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-02-27 00:00'
+    speakers:
+      -
+        name: 'Stuart Herbert'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Security-Centered Design — exploring the impact of human behavior'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-02-27 00:00'
+    speakers:
+      -
+        name: 'Chris Shiflett'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Myphp-busters: symfony framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-02-27 00:00'
+    speakers:
+      -
+        name: 'Stefan Koopmanschap'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

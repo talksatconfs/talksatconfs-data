@@ -1,0 +1,196 @@
+name: 'Beyond Tellerrand Munich 2018'
+description: 'Hello and welcome to the archive of the first beyond tellerrand in Munich, which took palce from 15 to 17 January in 2018. You find all videos of the talks embedded in the speaker page of every speaker. Additionally you can use the links to either Vimeo or YouTube to watch all the videos.'
+location: ''
+venue: ''
+city: Munich
+country: Germany
+link: 'https://beyondtellerrand.com/events/munich-2018/'
+playlist: 'youtube:PL8ZzmQWppBBv2fH5mDWRbuz1RzAUhsBg_'
+from_date: '2018-01-15'
+to_date: '2018-01-17'
+tags: ''
+talks:
+  -
+    title: 'A Tinker Story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-16 00:00'
+    speakers:
+      -
+        name: 'dina Amin'
+        twitter: dinaaamin
+        github: null
+    videos:
+      - 'youtube:_DLJ_7c2ddo'
+    slides: null
+  -
+    title: 'Data Sketches: A Year of Exotic Data Visualisations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-16 00:00'
+    speakers:
+      -
+        name: 'Nadieh Bremer'
+        twitter: NadiehBremer
+        github: null
+    videos:
+      - 'youtube:xtQkB819k8w'
+    slides: null
+  -
+    title: 'From AI to robots, from apps to wearables – let’s design for everyone, OK?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-16 00:00'
+    speakers:
+      -
+        name: 'Robin Christopherson'
+        twitter: USA2DAY
+        github: null
+    videos:
+      - 'youtube:ew9e7-1CB6s'
+    slides: null
+  -
+    title: 'The Internet of Natural Things'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-16 00:00'
+    speakers:
+      -
+        name: 'Simon Collison'
+        twitter: colly
+        github: null
+    videos:
+      - 'youtube:pIlrZ2uDxHc'
+    slides: null
+  -
+    title: "Robotics in Our Everyday Lives: A Product Designer's Perspective"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-16 00:00'
+    speakers:
+      -
+        name: 'Carla Diana'
+        twitter: carladiana_
+        github: null
+    videos:
+      - 'youtube:bW_BFdpQ4f8'
+    slides: null
+  -
+    title: 'New Adventures in Responsive Web Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-16 00:00'
+    speakers:
+      -
+        name: 'Vitaly Friedman'
+        twitter: smashingmag
+        github: vitalyfriedman
+    videos:
+      - 'youtube:FKIRJJo8OHI'
+    slides: null
+  -
+    title: 'Sacrificing the golden calf of “coding”'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-16 00:00'
+    speakers:
+      -
+        name: 'Christian Heilmann'
+        twitter: codepo8
+        github: codepo8
+    videos:
+      - 'youtube:eSprP87n3tg'
+    slides:
+      - 'https://www.slideshare.net/cheilmann/sacrificing-the-golden-calf-of-coding-86404119'
+  -
+    title: 'Interactive Email'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-16 00:00'
+    speakers:
+      -
+        name: 'MARK ROBBINS'
+        twitter: M_J_Robbins
+        github: null
+    videos:
+      - 'youtube:l7i7YDPcAcM'
+    slides:
+      - 'https://codepen.io/M_J_Robbins/pen/PQOwmW'
+  -
+    title: 'Why Fast Matters'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-16 00:00'
+    speakers:
+      -
+        name: 'Harry Roberts'
+        twitter: csswizardry
+        github: null
+    videos:
+      - 'youtube:cO45Vxj9aTw'
+    slides:
+      - 'https://speakerdeck.com/csswizardry/why-fast-matters'
+  -
+    title: 'Why Beauty Matters'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-16 00:00'
+    speakers:
+      -
+        name: 'Stefan Sagmeister'
+        twitter: SagmeisterWalsh
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'SVG Filters: The Crash Course'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-16 00:00'
+    speakers:
+      -
+        name: 'Sara Soueidan'
+        twitter: SaraSoueidan
+        github: SaraSoueidan
+    videos:
+      - 'youtube:XtwGwOemE6w'
+    slides: null
+  -
+    title: 'Radically Accessible Internet Applications 💯'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-16 00:00'
+    speakers:
+      -
+        name: 'Marcy Sutton'
+        twitter: marcysutton
+        github: marcysutton
+    videos:
+      - 'youtube:WTQAI9TzBx0'
+    slides: null
+  -
+    title: 'Sho Ha Hito Nari: Brushes, strokes and a reflection of self'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-16 00:00'
+    speakers:
+      -
+        name: 'Aoi Yamaguchi'
+        twitter: aoi_gm
+        github: null
+    videos:
+      - 'youtube:F_5J25UVQI0'
+    slides: null

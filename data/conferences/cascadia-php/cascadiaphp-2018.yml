@@ -1,0 +1,506 @@
+name: 'CascadiaPHP 2018'
+description: ''
+location: 'Portland, Oregon'
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2018-09-14'
+to_date: '2018-09-15'
+tags: ''
+talks:
+  -
+    title: 'MySQL without the SQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 16:30'
+    speakers:
+      -
+        name: 'Dave Stokes'
+        twitter: iansltx
+        github: mysqlmentor
+    videos: null
+    slides: null
+  -
+    title: 'Refactoring 101'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 11:30'
+    speakers:
+      -
+        name: 'Adam Culp'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP: People Helping People'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 09:00'
+    speakers:
+      -
+        name: 'VM (Vicky) Brasseur'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Release Your Refactoring Superpower'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 10:00'
+    speakers:
+      -
+        name: 'Adam Culp'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Deep Dive into Let's Encrypt"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 16:00'
+    speakers:
+      -
+        name: Randall
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Science of Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 09:00'
+    speakers:
+      -
+        name: 'Nic Hampton'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Simplified Continuous Integration with Jenkins'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 16:30'
+    speakers:
+      -
+        name: 'Margaret Staples'
+        twitter: dead_lugosi
+        github: mstaples
+    videos: null
+    slides: null
+  -
+    title: 'The Evolution of Magento Module Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 16:00'
+    speakers:
+      -
+        name: 'Alan Storm'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Machine Learning and Trend Analysis in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 11:30'
+    speakers:
+      -
+        name: 'Michael Cullum'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Going from Developer to Stakeholder'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 14:30'
+    speakers:
+      -
+        name: 'Ann Gaffigan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '(Ab)using process control for powerful CLI applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 11:30'
+    speakers:
+      -
+        name: 'Ian Littman'
+        twitter: iansltx
+        github: iansltx
+    videos: null
+    slides: null
+  -
+    title: 'When Testing Makes No Sense'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 16:00'
+    speakers:
+      -
+        name: 'Miro Svrtan'
+        twitter: msvrtan
+        github: msvrtan
+    videos: null
+    slides: null
+  -
+    title: 'Only Take What You Need GraphQl in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 10:00'
+    speakers:
+      -
+        name: 'Ashley Hutson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Machine Learning on AWS (for Noobs) with PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 16:30'
+    speakers:
+      -
+        name: 'Jerry Hargrove'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Rest / Open API / HATEAOS AMA'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 14:30'
+    speakers:
+      -
+        name: 'Matt Trask'
+        twitter: matthewtrask
+        github: matthewtrask
+    videos: null
+    slides: null
+  -
+    title: 'Is Your Chair Killing You? How To Reverse The Negative Effects Of The Sitting Disease'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 14:30'
+    speakers:
+      -
+        name: 'Heidi Roberts'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Monster on the Project'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 16:00'
+    speakers:
+      -
+        name: 'Tiberius Hefflin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Field Guide To Open Source Project Archetypes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 10:00'
+    speakers:
+      -
+        name: 'James Vasile'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Code Review: For Me & You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 16:30'
+    speakers:
+      -
+        name: 'Steve Grunwell'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Ally Oops'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 13:30'
+    speakers:
+      -
+        name: 'Craig Dennis'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building to spec - the OpenAPI Spec and PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 16:30'
+    speakers:
+      -
+        name: 'Matt Trask'
+        twitter: matthewtrask
+        github: matthewtrask
+    videos: null
+    slides: null
+  -
+    title: 'Mental Health in Tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 10:00'
+    speakers:
+      -
+        name: 'Joe Ferguson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'So, you want to be an Open Source Hero?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 11:30'
+    speakers:
+      -
+        name: Andrew
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Intro to EventSourcing and CQRS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 11:30'
+    speakers:
+      -
+        name: 'Miro Svrtan'
+        twitter: msvrtan
+        github: msvrtan
+    videos: null
+    slides: null
+  -
+    title: 'Lost in the Lobby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 13:30'
+    speakers:
+      -
+        name: 'Samantha Quiñones'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Massively Scaled High Performance Web Services with PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 14:30'
+    speakers:
+      -
+        name: 'Demin Yin'
+        twitter: deminy
+        github: deminy
+    videos: null
+    slides: null
+  -
+    title: 'Going Bare - Writing The Web Without A Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 11:30'
+    speakers:
+      -
+        name: 'Sammy Kaye Powers'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Code is Not Neutral: Ethics for Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 17:00'
+    speakers:
+      -
+        name: 'Clarissa Peterson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "10 Things You Didn't Know You Could Do With Composer"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 10:00'
+    speakers:
+      -
+        name: 'Patrick Schwisow'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Symfony 4 internals'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 14:30'
+    speakers:
+      -
+        name: 'Tobias Nyholm'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building Secure Applications: Threat Modeling for Dummies'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 10:00'
+    speakers:
+      -
+        name: 'Adam Englander'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'RegEx is Your Friend'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 11:30'
+    speakers:
+      -
+        name: 'Liam Wiltshire'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Yak Free API Tip & Tricks You Can Use Right Now'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 16:00'
+    speakers:
+      -
+        name: 'Tim Lytle'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Modern deploy with PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 14:30'
+    speakers:
+      -
+        name: Andrew
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Double Loop: TDD & BDD Done Right'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 10:00'
+    speakers:
+      -
+        name: 'Jessica Mauerhan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Maintaining Homestead'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-14 16:00'
+    speakers:
+      -
+        name: 'Joe Ferguson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Uncle Cal's Career Advice for Developers"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 17:00'
+    speakers:
+      -
+        name: 'Cal Evans'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Serverless PHP applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-15 14:30'
+    speakers:
+      -
+        name: 'Matthieu Napoli'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

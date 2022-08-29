@@ -1,0 +1,194 @@
+name: 'ScotlandPHP 2016'
+description: ''
+location: 'EICC, Edinburgh'
+venue: ''
+city: ''
+country: ''
+link: 'https://conference.scotlandphp.co.uk/2016/'
+playlist: ''
+from_date: '2016-10-29'
+to_date: '2016-10-29'
+tags: ''
+talks:
+  -
+    title: 'Deploying PHP 7'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2016/speakers/#rasmus-lerdorf'
+    talk_date: '2016-10-29 09:20'
+    speakers:
+      -
+        name: 'Rasmus Lerdorf'
+        twitter: rasmus
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Automation Automation Automation'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2016/speakers/#michael-heap'
+    talk_date: '2016-10-29 10:15'
+    speakers:
+      -
+        name: 'Michael Heap'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Secret Life of APIs'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2016/speakers/#andy-gaskell'
+    talk_date: '2016-10-29 10:15'
+    speakers:
+      -
+        name: 'Andy Gaskell'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Beyond Testing'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2016/speakers/#michael-bodnarchuk'
+    talk_date: '2016-10-29 11:25'
+    speakers:
+      -
+        name: 'Michael Bodnarchuk'
+        twitter: null
+        github: DavertMik
+    videos: null
+    slides: null
+  -
+    title: 'Microservices vs The Distributed Monolith'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2016/speakers/#chris-riley'
+    talk_date: '2016-10-29 11:25'
+    speakers:
+      -
+        name: 'Chris Riley'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Road to Continuous Deployment'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2016/speakers/#bastian-hofmann'
+    talk_date: '2016-10-29 12:20'
+    speakers:
+      -
+        name: 'Bastian Hofmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Distributed Services: Why, When & How?'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2016/speakers/#andy-kirkham'
+    talk_date: '2016-10-29 12:20'
+    speakers:
+      -
+        name: 'Andy Kirkham'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The API Toolbox'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2016/speakers/#tim-lytle'
+    talk_date: '2016-10-29 14:10'
+    speakers:
+      -
+        name: 'Tim Lytle'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Stateful ElePHPant'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2016/speakers/#rick-kuipers'
+    talk_date: '2016-10-29 14:10'
+    speakers:
+      -
+        name: 'Rick Kuipers'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'You Can UX Too'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2016/speakers/#eryn-oneil'
+    talk_date: '2016-10-29 15:05'
+    speakers:
+      -
+        name: "Eryn O'Neil"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'CQRS & EventSourcing in the Wild'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2016/speakers/#michiel-rook'
+    talk_date: '2016-10-29 15:05'
+    speakers:
+      -
+        name: 'Michiel Rook'
+        twitter: michieltcs
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Conscious Coupling'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2016/speakers/#ciaran-mcnulty'
+    talk_date: '2016-10-29 16:15'
+    speakers:
+      -
+        name: 'Ciaran McNulty'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "MySQL's JSON Data Type"
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2016/speakers/#dave-stokes'
+    talk_date: '2016-10-29 16:15'
+    speakers:
+      -
+        name: 'Dave Stokes'
+        twitter: iansltx
+        github: mysqlmentor
+    videos: null
+    slides: null
+  -
+    title: 'Tech Communities as Fandoms'
+    description: ''
+    tags: ''
+    link: 'https://conference.scotlandphp.co.uk/2016/speakers/#jessica-rose'
+    talk_date: '2016-10-29 17:10'
+    speakers:
+      -
+        name: 'Jessica Rose'
+        twitter: jesslynnrose
+        github: null
+    videos: null
+    slides: null

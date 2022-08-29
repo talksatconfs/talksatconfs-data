@@ -1,0 +1,291 @@
+name: 'Rubyfuza 2013'
+description: ''
+location: ''
+venue: ''
+city: 'Cape Town'
+country: 'South Africa'
+link: ''
+playlist: 'youtube:PLI113oIao_x7L--6pFLvJYtew66oU2j2A'
+from_date: '2013-02-07'
+to_date: '2013-02-09'
+tags: ''
+talks:
+  -
+    title: 'Ruby: Where Are You Going?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-07 09:40'
+    speakers:
+      -
+        name: 'Konstantin Haase'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:P7dAwgmnIJw'
+    slides: null
+  -
+    title: 'Do It Yerself, Rube'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-07 10:30'
+    speakers:
+      -
+        name: 'John Anderson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:W30y30nwMXI'
+    slides: null
+  -
+    title: 'ChatOps at Github'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-07 11:30'
+    speakers:
+      -
+        name: 'Jesse Newland'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NST3u-GjjFw'
+    slides: null
+  -
+    title: 'Rack based web apps with JRuby and TorqueBo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-07 12:00'
+    speakers:
+      -
+        name: 'Chris Spring'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tLNZp7Kwc6A'
+    slides: null
+  -
+    title: "Hey Kid! Don't Copy That Floppy!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-07 14:00'
+    speakers:
+      -
+        name: 'Aaron Kalin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZussgdjS40M'
+    slides: null
+  -
+    title: 'Developing multiple personalities to bootstrap your first product'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-07 14:30'
+    speakers:
+      -
+        name: 'Garren Smith'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Uj5XGEhB_OQ'
+    slides: null
+  -
+    title: 'Dynamic Routing With Circuit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-07 15:00'
+    speakers:
+      -
+        name: 'Lance Gleason'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WG0D9duhMfQ'
+    slides: null
+  -
+    title: 'Unicorns Die With Bullets Made Of Glitter'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-07 16:00'
+    speakers:
+      -
+        name: 'Vicent Martí'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rcP0OiUED4c'
+    slides: null
+  -
+    title: 'Subprocesses, Threads and Fibers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-07 16:30'
+    speakers:
+      -
+        name: 'Rory McKinley'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wCb5HKKhUwc'
+    slides: null
+  -
+    title: 'Living With Distributed Systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-07 17:00'
+    speakers:
+      -
+        name: 'Jacob Burkhart'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pd3eVLcBaS0'
+    slides: null
+  -
+    title: 'Teaching Ruby for Fun and Profit!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 09:40'
+    speakers:
+      -
+        name: 'Renée De Voursney'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gL_MZuQ574g'
+    slides: null
+  -
+    title: 'How Pet Projects Can Enhance Your Career'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 10:30'
+    speakers:
+      -
+        name: 'SIMON STEWART'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PA3K0rfke_0'
+    slides: null
+  -
+    title: "Don't Be An A**hole"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 11:30'
+    speakers:
+      -
+        name: 'Danish Khan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6Te-HyYfYrM'
+    slides: null
+  -
+    title: 'Abstracting a Service - A Case Study in Forward Thinking with SOA'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 12:00'
+    speakers:
+      -
+        name: 'Stuart Corbishley'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kvcbzt8lZwk'
+    slides: null
+  -
+    title: '`bundle install` Y U SO SLOW: Server Edition'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 14:00'
+    speakers:
+      -
+        name: 'Terrence Lee'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:m_-lruDQy0Y'
+    slides: null
+  -
+    title: 'Side-Effects Are Not Your Friend'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 14:30'
+    speakers:
+      -
+        name: 'Ryan Lemmer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GaSwjqU28-U'
+    slides: null
+  -
+    title: CQRS
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 15:00'
+    speakers:
+      -
+        name: 'Luke Randall'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Not Quite Object Oriented'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 16:00'
+    speakers:
+      -
+        name: 'Aslam Khan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:eiivpAwo40E'
+    slides: null
+  -
+    title: 'Applying RSpec Best Practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 16:30'
+    speakers:
+      -
+        name: 'Kevin McKelvin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wCjLv1_-ZRQ'
+    slides: null
+  -
+    title: 'Reusing your frontend JS on the server with The Ruby Racer and/or Ruby Rhino'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-08 17:00'
+    speakers:
+      -
+        name: 'Kenneth Kalmer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pDgtVhN8Ecw'
+    slides: null

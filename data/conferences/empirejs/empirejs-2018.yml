@@ -1,0 +1,356 @@
+name: 'EmpireJS 2018'
+description: "Every year the Empire team ramps up, we try to highlight one of the things that makes New York City an amazing place to live, work, visit, and git push origin master in. This year we return to showcase the little language you know and love at the Kaye Playhouse at Hunter College this September 20 and 21. We're so excited that we're able to feature New York at its finest, and we're really looking forward to pushing Empire, JS, and Node.js towards another incredible year."
+location: ''
+venue: ''
+city: 'New York, NY'
+country: 'United States'
+link: 'https://2018.empirejs.org/'
+playlist: 'youtube.com:PL31ehRjJCA6EtjpiKxY-iIeKh-c4bnm36'
+from_date: '2018-09-20'
+to_date: '2018-09-21'
+tags: ''
+talks:
+  -
+    title: 'THE UNTOLD BENEFITS OF ETHICAL DESIGN'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-20 09:30'
+    speakers:
+      -
+        name: 'Holger Bartel'
+        twitter: foobartel
+        github: null
+    videos:
+      - 'youtube:HI4RmfE2BjA'
+    slides: null
+  -
+    title: 'JavaScript Diversity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-20 10:00'
+    speakers:
+      -
+        name: 'Jessica Jordan'
+        twitter: jjordan_dev
+        github: jessica-jordan
+    videos:
+      - 'youtube:5eXe5t_KO2Q'
+    slides: null
+  -
+    title: '12 Factor Frontend Apps through Dockerization'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-20 10:30'
+    speakers:
+      -
+        name: 'Ryan Waskiewicz'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QDqMs-7gdlU'
+    slides: null
+  -
+    title: '404 Fire Alarm Not Found'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-20 11:15'
+    speakers:
+      -
+        name: 'Joe Kent'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:42B4AAPd49I'
+    slides: null
+  -
+    title: 'What Tamagotchis Can Teach You About ES6 Generators'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-20 11:45'
+    speakers:
+      -
+        name: 'Jenn Creighton'
+        twitter: gurlcode
+        github: null
+    videos:
+      - 'youtube:c5cInza4moE'
+    slides: null
+  -
+    title: 'TensorFlow.js + Node'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-20 12:15'
+    speakers:
+      -
+        name: 'Nick Kreeger'
+        twitter: null
+        github: null
+      -
+        name: 'Yannick Assogba'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PyjMRSjyqys'
+    slides: null
+  -
+    title: 'Internationalisation is a Piece of Cake'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-20 14:15'
+    speakers:
+      -
+        name: 'Eli Schütze Ramírez'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vhUiL_wUAjo'
+    slides: null
+  -
+    title: 'Be the Ally You Think You Are'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-20 14:45'
+    speakers:
+      -
+        name: 'Sarah Groff Hennigh-Palermo'
+        twitter: superSGP
+        github: sarahgp
+    videos:
+      - 'youtube:RD7c9x2cdzg'
+    slides: null
+  -
+    title: 'How Does JavaScript Math?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-20 15:15'
+    speakers:
+      -
+        name: 'Meara Charnetzki'
+        twitter: m34ra
+        github: meara
+    videos:
+      - 'youtube:g4_TCqro6Uw'
+    slides: null
+  -
+    title: 'Why You Had a Bad Time With Microservices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-20 16:00'
+    speakers:
+      -
+        name: 'Ethan Garofolo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BXRgZpxjqJ0'
+    slides: null
+  -
+    title: 'Love Thy Keyboard'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-20 16:30'
+    speakers:
+      -
+        name: 'Sarbbottam Bandyopadhyay'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gVhjdoniBm0'
+    slides: null
+  -
+    title: 'Do You Read Me? — Better Communication for Stronger Teams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-20 17:00'
+    speakers:
+      -
+        name: 'Lena Reinhard'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0ro3LZgi6mo'
+    slides: null
+  -
+    title: 'An Oral History of Modern Web Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 09:30'
+    speakers:
+      -
+        name: 'Kelly Sutton'
+        twitter: kellysutton
+        github: null
+    videos:
+      - 'youtube:dsT7Wlon9QU'
+    slides: null
+  -
+    title: 'WordPress is JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 10:00'
+    speakers:
+      -
+        name: 'K. Adam White'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lLqErkENT6g'
+    slides: null
+  -
+    title: 'Try, Raise, Exception'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 10:30'
+    speakers:
+      -
+        name: 'Aaron Petcoff'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bnLpXPCXKGA'
+    slides: null
+  -
+    title: 'WebAssembly for Performant Interactivity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 11:15'
+    speakers:
+      -
+        name: 'Mani Nilchiani'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3A4wvCR5DnE'
+    slides: null
+  -
+    title: 'Slides About Slides'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 11:45'
+    speakers:
+      -
+        name: 'Sam Richard'
+        twitter: snugug
+        github: null
+    videos:
+      - 'youtube:g3UgJB2AWas'
+    slides: null
+  -
+    title: 'CRDT and other new ideas for client-server communication'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 12:15'
+    speakers:
+      -
+        name: 'Andrey Sitnik'
+        twitter: andreysitnik
+        github: ai
+    videos:
+      - 'youtube:c7t_YBNHkeo'
+    slides: null
+  -
+    title: 'The Wide World of Serverless'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 14:15'
+    speakers:
+      -
+        name: 'Kassandra Perch'
+        twitter: nodebotanist
+        github: null
+    videos:
+      - 'youtube:Ngjc2GUYr1c'
+    slides: null
+  -
+    title: 'The Pharos Of PWA, Deconstructing a Lighthouse Audit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 14:45'
+    speakers:
+      -
+        name: 'Nitya Narasimhan'
+        twitter: nitya
+        github: null
+    videos:
+      - 'youtube:4gpL8p0zwb4'
+    slides: null
+  -
+    title: 'Diasporas, Data, D3.js, Oh My!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 15:15'
+    speakers:
+      -
+        name: 'Nishat Anjum'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OrARjihxQfE'
+    slides: null
+  -
+    title: 'Living with Legacy JavaScript, Event Proxies, App Seams, and Chunking Rewrites'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 16:00'
+    speakers:
+      -
+        name: 'Tracy Lum'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gZjW8_MQBZ4'
+    slides: null
+  -
+    title: 'Make Your Own ORM - A Guide to When and How'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 16:30'
+    speakers:
+      -
+        name: 'Mari Miyachi'
+        twitter: null
+        github: null
+      -
+        name: 'Sam Keller'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:znM2X574AOc'
+    slides: null
+  -
+    title: 'Recreating Retro Art with JS!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 17:00'
+    speakers:
+      -
+        name: 'Sher Minn Chong'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mjtMPM5evTc'
+    slides: null

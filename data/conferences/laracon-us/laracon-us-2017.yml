@@ -1,0 +1,206 @@
+name: 'Laracon US 2017'
+description: ''
+location: 'New York'
+venue: ''
+city: ''
+country: ''
+link: 'https://web.archive.org/web/20170813003500/http://laracon.us/'
+playlist: ''
+from_date: '2017-07-25'
+to_date: '2017-07-26'
+tags: ''
+talks:
+  -
+    title: 'Jeffrey Way'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-26 00:00'
+    speakers:
+      -
+        name: 'Jeffrey Way'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Adam Wathan'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-25 00:00'
+    speakers:
+      -
+        name: 'Adam Wathan'
+        twitter: adamwathan
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Taylor Otwell'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-25 00:00'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos: null
+    slides: null
+  -
+    title: 'Matt Stauffer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-26 00:00'
+    speakers:
+      -
+        name: 'Matt Stauffer'
+        twitter: stauffermatt
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Laura Elizabeth'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-26 00:00'
+    speakers:
+      -
+        name: 'Laura Elizabeth'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Justin Jackson'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-26 00:00'
+    speakers:
+      -
+        name: 'Justin Jackson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'What is Multi-Tenancy?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-25 00:00'
+    speakers:
+      -
+        name: 'Tom Schlick'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:T-gHOXFpZvg'
+    slides: null
+  -
+    title: 'Relearn How to learn'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-26 00:00'
+    speakers:
+      -
+        name: 'Jack McDade'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:I4oWBpX9BiY'
+    slides: null
+  -
+    title: 'Scout + Algolia + VueJS = Awesome'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-25 00:00'
+    speakers:
+      -
+        name: 'Maxime Locqueville'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-hEl8y2ExDk'
+    slides: null
+  -
+    title: 'Managing dependencies is more than running "composer update"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-25 00:00'
+    speakers:
+      -
+        name: 'Nils Adermann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Mf856B455cA'
+    slides: null
+  -
+    title: 'Building a realtime dashboard with Laravel, Vue and Pusher'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-25 00:00'
+    speakers:
+      -
+        name: 'Freek van der Herten'
+        twitter: freekmurze
+        github: freekmurze
+    videos:
+      - 'youtube:Y0ntiGWUzH8'
+    slides: null
+  -
+    title: 'State of Vue 2017'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-25 00:00'
+    speakers:
+      -
+        name: 'Evan You'
+        twitter: youyuxi
+        github: yyx990803
+    videos:
+      - 'youtube:vZ0VpPiEIGg'
+    slides: null
+  -
+    title: Webpack
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-26 00:00'
+    speakers:
+      -
+        name: 'Sean Larkin'
+        twitter: TheLarkInn
+        github: thelarkinn
+    videos:
+      - 'youtube:6qw3DOPxzkM'
+    slides: null
+  -
+    title: 'Launching and Scaling Your Side Project'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-26 00:00'
+    speakers:
+      -
+        name: 'Michele Hansen'
+        twitter: null
+        github: null
+      -
+        name: 'Mathias Hansen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ya7Jpw6ISK4'
+    slides: null

@@ -1,0 +1,337 @@
+name: 'EmberConf 2019'
+description: 'EmberConf is the best place to meet the folks behind the magic. You’ll hear from members of the Ember Core Team, top community contributors and users, and help shape the future of Ember.'
+location: 'Portland, OR, United States'
+venue: ''
+city: 'Portland, OR'
+country: 'United States'
+link: 'https://emberconf.com/'
+playlist: 'youtube.com:PLE7tQUdRKcyYWLWrHgmWsvzsQBSWCLHYL'
+from_date: '2019-03-18'
+to_date: '2019-03-20'
+tags: ''
+talks:
+  -
+    title: 'Dealing with Data in 2019'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-20 00:00'
+    speakers:
+      -
+        name: 'Igor Terzic'
+        twitter: terzicigor
+        github: null
+    videos:
+      - 'youtube:o1IInjlLEzU'
+    slides: null
+  -
+    title: 'No Bad Legos: A Toy Box For Everybody'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-20 00:00'
+    speakers:
+      -
+        name: 'Howie Bollinger'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:itlWS-qLON8'
+    slides: null
+  -
+    title: 'New to Ember: What ARE All These Things?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-20 00:00'
+    speakers:
+      -
+        name: 'Jennifer Wong'
+        twitter: mybluewristband
+        github: jennz0r
+    videos:
+      - 'youtube:KzxF6dIyfTw'
+    slides: null
+  -
+    title: 'Building a UI Styleguide in Ember'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-19 00:00'
+    speakers:
+      -
+        name: 'Frédéric Soumaré'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qSuFTj6bpf4'
+    slides: null
+  -
+    title: 'How to build a Blog Engine in 15m with Ember and NodeJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-20 00:00'
+    speakers:
+      -
+        name: 'Chris Manson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GHbjdesHhPA'
+    slides: null
+  -
+    title: 'The State of Community Documentation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-20 00:00'
+    speakers:
+      -
+        name: 'Kenneth Larsen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:p6chThVPHHY'
+    slides: null
+  -
+    title: 'Developing an Ember Test Strategy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-19 00:00'
+    speakers:
+      -
+        name: 'Todd Jordan'
+        twitter: tddjordan
+        github: null
+    videos:
+      - 'youtube:wa_bZL3UvQw'
+    slides: null
+  -
+    title: 'From Mainframe to Mainstream: A Case Study in Emberification'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-20 00:00'
+    speakers:
+      -
+        name: 'Ryan Mark'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GzsYOvhYKvE'
+    slides: null
+  -
+    title: 'How to Grow or Save your Favorite Open Source Project'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-20 00:00'
+    speakers:
+      -
+        name: 'Jen Weber'
+        twitter: jwwweber
+        github: null
+    videos:
+      - 'youtube:S8VI0ULzFvU'
+    slides: null
+  -
+    title: 'Composable Concurrency Tasks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-20 00:00'
+    speakers:
+      -
+        name: 'Isaac Ezer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ogsXX9H8wzs'
+    slides: null
+  -
+    title: 'Comparing Patterns in React and Ember'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-19 00:00'
+    speakers:
+      -
+        name: 'Preston Sego'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OZaPaRh83sA'
+    slides: null
+  -
+    title: 'Your Desktop, the Studio'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-19 00:00'
+    speakers:
+      -
+        name: 'Kate Ruggeri'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:v97k3BSH7IU'
+    slides: null
+  -
+    title: 'Typed Ember: Strong Types for Better Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-19 00:00'
+    speakers:
+      -
+        name: 'James C. Davis'
+        twitter: jamscdavis
+        github: null
+    videos:
+      - 'youtube:dBjQvqU_Ftk'
+    slides: null
+  -
+    title: 'Anatomy of an Addon Ecosystem'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-19 00:00'
+    speakers:
+      -
+        name: 'Lisa Backer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1b_KQCYRGgI'
+    slides: null
+  -
+    title: 'Building Better Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-20 00:00'
+    speakers:
+      -
+        name: 'Dianne Eramo'
+        twitter: DianneEramo
+        github: null
+    videos:
+      - 'youtube:Kyd2mQpR_9c'
+    slides: null
+  -
+    title: 'Communication and Convention'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-20 00:00'
+    speakers:
+      -
+        name: 'Julia Donaldson'
+        twitter: username_juliaD
+        github: null
+    videos:
+      - 'youtube:KAWLYhAtL64'
+    slides: null
+  -
+    title: 'Broccoli Update'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-20 00:00'
+    speakers:
+      -
+        name: 'Oli Griffiths'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wm3QkDLA4RI'
+    slides: null
+  -
+    title: "Don't Break The Web"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-19 00:00'
+    speakers:
+      -
+        name: 'Melanie Sumner'
+        twitter: melaniersumner
+        github: null
+    videos:
+      - 'youtube:41TDfT6bAs4'
+    slides: null
+  -
+    title: 'Crafting Web Comics with Ember'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-19 00:00'
+    speakers:
+      -
+        name: 'Jessica Jordan'
+        twitter: jjordan_dev
+        github: jessica-jordan
+    videos:
+      - 'youtube:C_abEQENdy0'
+    slides: null
+  -
+    title: 'Opening Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-19 00:00'
+    speakers:
+      -
+        name: 'Tom Dale'
+        twitter: tomdale
+        github: tomdale
+      -
+        name: 'Yehuda Katz'
+        twitter: wycats
+        github: null
+    videos:
+      - 'youtube:zYwdBcmz6VI'
+    slides: null
+  -
+    title: 'Ember is for Everyone'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-20 00:00'
+    speakers:
+      -
+        name: 'Kenigbolo Meya Stephen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "What's Behind Ember Observer's Scores?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-20 00:00'
+    speakers:
+      -
+        name: 'Katie Gengler'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:f_44WXjQ9CI'
+    slides: null
+  -
+    title: 'How I Learned to Stop Worrying and Love the Mono Repo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-20 00:00'
+    speakers:
+      -
+        name: 'Hassan Abdel-Rahman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Q7QPqEAGu_U'
+    slides: null

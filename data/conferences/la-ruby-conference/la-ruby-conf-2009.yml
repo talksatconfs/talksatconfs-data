@@ -1,0 +1,229 @@
+name: 'LA Ruby Conf 2009'
+description: ''
+location: ''
+venue: ''
+city: 'Tustin, California'
+country: 'United States'
+link: 'https://web.archive.org/web/20090524100813/http://www.larubyconf.com/schedule'
+playlist: 'youtube:PLE7tQUdRKcyZP7MRrHSiNtmjYtKc_Cc0B'
+from_date: '2009-04-04'
+to_date: '2009-04-04'
+tags: ''
+talks:
+  -
+    title: Waves
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-04-04 09:10'
+    speakers:
+      -
+        name: 'Dan Yoder'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bGn_QRJzWy0'
+    slides: null
+  -
+    title: 'Journey through a pointy forest: The state of XML parsing in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-04-04 09:45'
+    speakers:
+      -
+        name: 'Aaron Patterson'
+        twitter: tenderlove
+        github: tenderlove
+    videos:
+      - 'youtube:QwTuYG73vHs'
+    slides: null
+  -
+    title: Sequel
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-04-04 10:20'
+    speakers:
+      -
+        name: 'Jeremy Evans'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0Euba97UEdI'
+    slides: null
+  -
+    title: 'Herding Tigers - Software Development and the Art of War'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-04-04 11:05'
+    speakers:
+      -
+        name: 'Danny Blitz'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:06LvK3FpV8M'
+    slides: null
+  -
+    title: 'Working Effectively with Legacy Rails Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-04-04 11:40'
+    speakers:
+      -
+        name: 'Pat Madox'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Scaling "most popular" lists: a plugin solution'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-04-04 12:15'
+    speakers:
+      -
+        name: 'Wolfram Arnold'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Q3uTrdXfgkw'
+    slides: null
+  -
+    title: 'Sinatra: The ultimate rack citizen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-04-04 13:40'
+    speakers:
+      -
+        name: 'Blake Mizerany'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Wlkq0qfS7JI'
+    slides: null
+  -
+    title: 'Managing Ruby on Rails for High Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-04-04 14:50'
+    speakers:
+      -
+        name: 'Lewis Cirne'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bn__0bMPtNs'
+    slides: null
+  -
+    title: 'Flying Robot: Unmanned Aerial Vehicles Using Ruby and Arduino'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-04-04 15:25'
+    speakers:
+      -
+        name: 'Damen Evans '
+        twitter: null
+        github: null
+      -
+        name: 'Ron Evans'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NOuYAeOa6UA'
+    slides: null
+  -
+    title: Johnson
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-04-04 16:10'
+    speakers:
+      -
+        name: 'John Barnette'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3UzmGhv6mio'
+    slides: null
+  -
+    title: 'Fast and Saclable Front/Back-end Services using Ruby, Rails and XMPP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-04-04 16:45'
+    speakers:
+      -
+        name: 'Pradeep Elankumaran'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9vUMHGOElbc'
+    slides: null
+  -
+    title: 'Mobilize your Rails Application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-04-04 17:20'
+    speakers:
+      -
+        name: 'Brendan Lim'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:12jjv7PBrBo'
+    slides: null
+  -
+    title: 'Rhodes Framework for Mobile Client Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-04-04 18:05'
+    speakers:
+      -
+        name: 'Adam Blum'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:eopOUqedWhU'
+    slides: null
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-04-04 18:40'
+    speakers:
+      -
+        name: 'Jim Weirich '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:l780SYuz9DI'
+    slides: null
+  -
+    title: 'Pool Party'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-04-04 14:15'
+    speakers:
+      -
+        name: 'Ari Lerner '
+        twitter: null
+        github: null
+      -
+        name: ' Michael Fairchild '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dTj-g2SrgSE'
+    slides: null

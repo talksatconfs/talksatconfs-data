@@ -1,0 +1,116 @@
+name: 'AlterConf Lagos, Nigeria - 2017'
+description: ''
+location: 'Lagos, Nigeria'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2017/lagos-nigeria'
+playlist: ''
+from_date: '2017-07-01'
+to_date: '2017-07-01'
+tags: ''
+talks:
+  -
+    title: 'Digital Literacy in Nigeria (Tech)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-01 00:00'
+    speakers:
+      -
+        name: 'Elohor Thomas'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Why do Black Games Matter?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-01 00:00'
+    speakers:
+      -
+        name: 'Bayo Puddicombe'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Wanted: Data Smart Journalists'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-01 00:00'
+    speakers:
+      -
+        name: 'Ajibola Amzat'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Leveraging technology as a woman without loosing my style'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-01 00:00'
+    speakers:
+      -
+        name: "'Tale Alimi"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Excelling as a student developer in Nigeria.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-01 00:00'
+    speakers:
+      -
+        name: 'Olamilekan Wahab'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'JACK OF ALL TRADES PROGRAMMERS:- THE GOOD, THE BAD AND THE UGLY'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-01 00:00'
+    speakers:
+      -
+        name: 'Frank Akogun'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Think Offline First'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-01 00:00'
+    speakers:
+      -
+        name: 'Peter Mbanugo'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "It's not just about numbers: Applying an Inclusivity Lens to Tech"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-07-01 00:00'
+    speakers:
+      -
+        name: 'Banke Alawaye'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

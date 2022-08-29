@@ -1,0 +1,250 @@
+name: '2021 - Laracon Online (Summer)'
+description: "The largest Laravel event of the year streamed directly to you.\r\nWe're putting together a full day of talks featuring some of Laravel's brightest minds and streaming them directly to your home or office.\r\n\r\nAll talks are brand new, never before presented at any Laracon, and presented live during the event. Plus, you can count for fresh updates and announcements directly from Taylor Otwell – creator of Laravel."
+location: ''
+venue: ''
+city: ''
+country: ''
+link: 'https://web.archive.org/web/20210730200230/https://laracon.net/'
+playlist: 'youtube:PLyfOROdV5_9NwUNa4o4d8GFuNxtSfuI_m'
+from_date: '2021-09-01'
+to_date: '2021-09-01'
+tags: ''
+talks:
+  -
+    title: 'Asynchronous Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-09-01 14:00'
+    speakers:
+      -
+        name: 'Mohamed Said'
+        twitter: themsaid
+        github: null
+    videos:
+      - 'youtube:-l8o4KMaS4c'
+    slides: null
+  -
+    title: 'Bugfixing Your Career'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-09-01 14:35'
+    speakers:
+      -
+        name: 'Diana Scharf'
+        twitter: DianaWebdev
+        github: null
+    videos:
+      - 'youtube:fIq4Wfn77pw'
+    slides: null
+  -
+    title: 'Getting The Most Out Of Cashier Stripe & Paddle'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-09-01 15:10'
+    speakers:
+      -
+        name: 'Dries Vints'
+        twitter: driesvints
+        github: driesvints
+    videos:
+      - 'youtube:oGq5GI2JtO4'
+    slides: null
+  -
+    title: 'Why Refactoring Is The Best Tool To Write Better Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-09-01 15:45'
+    speakers:
+      -
+        name: 'Christoph Rumpel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:l4lIaxQnm9s'
+    slides: null
+  -
+    title: 'Laravel Update'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-09-01 16:40'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:g60cp3AwuS8'
+    slides: null
+  -
+    title: 'Learning In Public (Lightning Talk)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-09-01 17:40'
+    speakers:
+      -
+        name: 'Zuzana Kunckova'
+        twitter: zuzana_kunckova
+        github: null
+    videos:
+      - 'youtube:K0ldExIZ0oc'
+    slides: null
+  -
+    title: 'Tailwind Grid (Lightning Talk)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-09-21 17:55'
+    speakers:
+      -
+        name: 'Shruti Balasa'
+        twitter: shrutibalasa
+        github: null
+    videos:
+      - 'youtube:K0ldExIZ0oc'
+    slides: null
+  -
+    title: 'Inclusive Language Practices (Lightning Talk)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-09-01 18:10'
+    speakers:
+      -
+        name: 'Marjorie Nainen'
+        twitter: minn_finn
+        github: null
+    videos:
+      - 'youtube:K0ldExIZ0oc'
+    slides: null
+  -
+    title: 'An Introduction To Snapshot Testing (Lightning Talk)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-09-01 18:25'
+    speakers:
+      -
+        name: 'Freek Van Der Verten'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:K0ldExIZ0oc'
+    slides: null
+  -
+    title: 'Level Up Your App With Composite Primary Keys (Lightning Talks)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-09-01 18:40'
+    speakers:
+      -
+        name: 'Alex Wulf'
+        twitter: alexfwulf
+        github: null
+    videos:
+      - 'youtube:K0ldExIZ0oc'
+    slides: null
+  -
+    title: 'Types In Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-09-01 19:00'
+    speakers:
+      -
+        name: 'Nuno Maduro'
+        twitter: enunomaduro
+        github: nunomaduro
+    videos:
+      - 'youtube:jObcE58UCB8'
+    slides: null
+  -
+    title: 'Top Ten Tailwind Tricks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-09-01 19:35'
+    speakers:
+      -
+        name: Caneco
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0YDsBXWGRes'
+    slides: null
+  -
+    title: 'How To Write Delightful Documentation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-09-01 20:10'
+    speakers:
+      -
+        name: 'Allie Nimmons'
+        twitter: allie_nimmons
+        github: null
+    videos:
+      - 'youtube:IC005zFhm88'
+    slides: null
+  -
+    title: 'Think Like a Hacker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-09-01 20:45'
+    speakers:
+      -
+        name: 'Stephen Rees-Carter'
+        twitter: valorin
+        github: null
+    videos:
+      - 'youtube:bFMBHRlEOjo'
+    slides: null
+  -
+    title: 'Manage SEO with Laravel and Nova'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-09-01 21:40'
+    speakers:
+      -
+        name: 'Kristin Collins'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:C31RvX1gtKM'
+    slides: null
+  -
+    title: 'Inertia.js Forms, Modals & SSR'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-09-01 22:15'
+    speakers:
+      -
+        name: 'Jonathan Reinink'
+        twitter: reinink
+        github: null
+    videos:
+      - 'youtube:euKphNYApn4'
+    slides: null
+  -
+    title: 'Practical Laravel Unit Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-09-01 22:50'
+    speakers:
+      -
+        name: 'Colin DeCarlo'
+        twitter: colindecarlo
+        github: null
+    videos:
+      - 'youtube:mC-MbQSHWec'
+    slides: null

@@ -1,0 +1,333 @@
+name: 'JSHeroes 2018'
+description: 'We believe that the community and the open-source models are well suited for our core values:learning, teaching and knowledge sharing. Our mission is to inspire other communities with the concept of open-source events.We’re publishing all data about this conference, in full transparency. We are also available at any time for inquires and we`re really looking forward to sharing our knowledge about organizing international events. This way, whenever a community wants to start something similar, they can build on our knowledge.'
+location: ''
+venue: ''
+city: Cluj-Napoca
+country: Romania
+link: 'https://jsheroes.io/2018'
+playlist: 'youtube.com:PLB9NqTp0uKrRn_C80xQK8QEeO-vaBmN_9'
+from_date: '2018-04-10'
+to_date: '2018-04-12'
+tags: ''
+talks:
+  -
+    title: 'Sketching in the Browser'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 00:00'
+    speakers:
+      -
+        name: 'Mark Dalgleish'
+        twitter: markdalgleish
+        github: markdalgleish
+    videos:
+      - 'youtube:ohw6AgPbJoE'
+    slides: null
+  -
+    title: 'XSS, CSRF, CSP, JWT, WTF? IDK ¯\_(ツ)_/¯'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 00:00'
+    speakers:
+      -
+        name: 'Dominik Kundel'
+        twitter: dkundel
+        github: kundel
+    videos:
+      - 'youtube:sHKyMwIK9F0'
+    slides: null
+  -
+    title: 'Fontastic web performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 00:00'
+    speakers:
+      -
+        name: 'Monica Dinculescu'
+        twitter: notwaldorf
+        github: notwaldorf
+    videos:
+      - 'youtube:WsFirqL4lBI'
+    slides: null
+  -
+    title: 'A Guide to Instant Loading Angular Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 00:00'
+    speakers:
+      -
+        name: 'Mashhood Rastgar'
+        twitter: mashhoodr
+        github: mashhoodr
+    videos:
+      - 'youtube:OigaRuQrkFs'
+    slides: null
+  -
+    title: 'What the v...DOM?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 00:00'
+    speakers:
+      -
+        name: 'Stefan Judis'
+        twitter: stefanjudis
+        github: stefanjudis
+    videos:
+      - 'youtube:0cbCxfJMfx0'
+    slides: null
+  -
+    title: 'The exciting future of React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 00:00'
+    speakers:
+      -
+        name: 'Kristijan Ristovski'
+        twitter: thekitze
+        github: kitze
+    videos:
+      - 'youtube:QjGuhXwpbUc'
+    slides: null
+  -
+    title: 'Teleport your application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 00:00'
+    speakers:
+      -
+        name: 'Paul Brie'
+        twitter: aelythe
+        github: paulbrie
+    videos:
+      - 'youtube:LDIXccAjuTw'
+    slides: null
+  -
+    title: 'Reasons to give React Native a(nother) try'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 00:00'
+    speakers:
+      -
+        name: 'Brent Vatne'
+        twitter: notbrent
+        github: brentvatne
+    videos:
+      - 'youtube:J_TXDkq8Y-4'
+    slides: null
+  -
+    title: 'Advanced Redux - Design Patterns and Practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 00:00'
+    speakers:
+      -
+        name: 'Nir Kaufman'
+        twitter: nirkaufman
+        github: nirkaufman
+    videos:
+      - 'youtube:5gl3cCB_26M'
+    slides: null
+  -
+    title: 'Meta Vue Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 00:00'
+    speakers:
+      -
+        name: 'Sebastien Chopin'
+        twitter: Atinux
+        github: Atinux
+    videos:
+      - 'youtube:9jATabR27ME'
+    slides: null
+  -
+    title: 'Vue.js and Serverless'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 00:00'
+    speakers:
+      -
+        name: 'Sarah Drasner'
+        twitter: sarah_edo
+        github: sdras
+    videos:
+      - 'youtube:0995H5BMHJE'
+    slides: null
+  -
+    title: 'A red LEGO brick is always red components on the web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-12 00:00'
+    speakers:
+      -
+        name: 'Jack Franklin'
+        twitter: jack_Franklin
+        github: jackfranklin
+    videos:
+      - 'youtube:SF64OwN58Fw'
+    slides: null
+  -
+    title: 'The Dream of Styleguide Driven Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-12 00:00'
+    speakers:
+      -
+        name: 'Sara Vieira'
+        twitter: NikkitaFTW
+        github: alexnm
+    videos:
+      - 'youtube:_XJFeSZV6FI'
+    slides: null
+  -
+    title: 'Getting the best out of web-based 2D graphics'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-12 00:00'
+    speakers:
+      -
+        name: 'Larissa Davidova'
+        twitter: larathedev
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Recursion, Iteration, and JavaScript A Love Story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-12 00:00'
+    speakers:
+      -
+        name: 'Anjana Vakil'
+        twitter: AnjanaVakil
+        github: vakila
+    videos:
+      - 'youtube:FmiQr4nfoPQ'
+    slides: null
+  -
+    title: 'V8 internals for JS developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-12 00:00'
+    speakers:
+      -
+        name: 'Mathias Bynens'
+        twitter: mathias
+        github: mathiasbynens
+    videos:
+      - 'youtube:5UZzT_hgsl0'
+    slides: null
+  -
+    title: 'How to make your LEDs better listeners'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-12 00:00'
+    speakers:
+      -
+        name: 'Stephanie Nemeth'
+        twitter: stephaniecodes
+        github: traumverloren
+    videos:
+      - 'youtube:VTxsAiznxt4'
+    slides: null
+  -
+    title: 'Making The Terminal Great Again'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-12 00:00'
+    speakers:
+      -
+        name: 'Liran Tal'
+        twitter: liran_tal
+        github: null
+    videos:
+      - 'youtube:uOsVBHgHZY0'
+    slides: null
+  -
+    title: Full-Config-Jacket
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-12 00:00'
+    speakers:
+      -
+        name: 'Even Stensberg'
+        twitter: evenstensberg
+        github: evenstensberg
+    videos:
+      - 'youtube:iKgJVh7bWlc'
+    slides: null
+  -
+    title: CodeSandbox
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-12 00:00'
+    speakers:
+      -
+        name: 'Lves van Hoorne'
+        twitter: Compulves
+        github: CompuIves
+    videos:
+      - 'youtube:DQtj811KIT4'
+    slides: null
+  -
+    title: 'Serving for the win - Deployments and hosting for the rest of us'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-12 00:00'
+    speakers:
+      -
+        name: 'Phil Hawksworth'
+        twitter: philhawksworth
+        github: philhawksworth
+    videos:
+      - 'youtube:ttL4K-WLJ-c'
+    slides: null
+  -
+    title: 'Virtual reality for every developer!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-12 00:00'
+    speakers:
+      -
+        name: 'Shagufta Gurmukhdas'
+        twitter: shaguftamethwan
+        github: ShaguftaMethwani
+    videos:
+      - 'youtube:GCXFcfyLmyA'
+    slides: null
+  -
+    title: 'Package Quest, the journey of a package from the npm registry to your computer.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-12 00:00'
+    speakers:
+      -
+        name: 'Jeffrey Lembeck'
+        twitter: jefflembeck
+        github: jefflembeck
+    videos:
+      - 'youtube:GSnyVS79OR0'
+    slides: null

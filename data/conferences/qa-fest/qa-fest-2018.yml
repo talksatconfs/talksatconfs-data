@@ -1,0 +1,538 @@
+name: 'QA Fest 2018'
+description: 'Software testing conference #1 in Ukraine'
+location: ''
+venue: ''
+city: Kiev
+country: Ukraine
+link: 'http://qafest.com/indexe.html'
+playlist: 'youtube.com:PLuOBDBq7MW73zWBY2FX2SQXyOCJWFDq2U'
+from_date: '2018-04-17'
+to_date: '2018-04-18'
+tags: ''
+talks:
+  -
+    title: 'Regression Obsession'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 10:00'
+    speakers:
+      -
+        name: 'Michael Bolton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6RaUA-ajSqI'
+    slides: null
+  -
+    title: 'UI testing in Unity3D – fantasy or reality?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 10:00'
+    speakers:
+      -
+        name: 'Yevhen Rudiev'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EdE8E_tmk_0'
+    slides: null
+  -
+    title: 'Same old story: Foundation on QA department. Tips and tricks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 11:00'
+    speakers:
+      -
+        name: 'Andrey Myasnikov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RAC1bjWzIVk'
+    slides: null
+  -
+    title: 'Mobile Testing. Pinpointing invisible problems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 11:00'
+    speakers:
+      -
+        name: 'Alina Homenko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JMlKasOTx6g'
+    slides: null
+  -
+    title: '1001 reasons to use Ggr in your Selenium installation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 11:00'
+    speakers:
+      -
+        name: 'Ivan Krutov'
+        twitter: vania-pooh
+        github: vania-pooh
+    videos:
+      - 'youtube:zxMPrUOO48w'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-1001-ggr-selenium/QAFest/qa-fest-2018-1001-ggr-selenium'
+  -
+    title: 'Gambling with the devil: taming all the risks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 12:00'
+    speakers:
+      -
+        name: 'Nikita Syskov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_qPtGdjQbSQ'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-5-36/QAFest/qa-fest-2018-5-36'
+  -
+    title: 'ATDD with CodeceptJS: Effective Testing Without Pain'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 12:00'
+    speakers:
+      -
+        name: 'Michael Bodnarchuk'
+        twitter: null
+        github: DavertMik
+    videos:
+      - 'youtube:o2F321bUThA'
+    slides: null
+  -
+    title: 'Regression is my profession!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 13:00'
+    speakers:
+      -
+        name: 'Alexey Lupan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JSWjTU1nRFU'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-regression-is-my-profession'
+  -
+    title: 'Methodology of ML in Performance testing (how find bottlenecks automatically)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 13:00'
+    speakers:
+      -
+        name: 'Nikita Krychko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qQDZfSClO0o'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-116451810'
+  -
+    title: 'Objective examination of software product quality'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 14:00'
+    speakers:
+      -
+        name: 'Vladimir Obrizan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZRpKwdYA1jw'
+    slides: null
+  -
+    title: 'Automated Security Scanning in Payment Industry'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 14:00'
+    speakers:
+      -
+        name: 'Michał Buczko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pXiZesoivlI'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-micha-buczko-automated-security-scanning-in-payment-industry'
+  -
+    title: "Still generating your report? We're coming for you!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 14:00'
+    speakers:
+      -
+        name: 'Artem Eroshenko'
+        twitter: eroshenkoam
+        github: eroshenkoam
+    videos:
+      - 'youtube:tcH9-wrkVrk'
+    slides: null
+  -
+    title: 'Case study: Users migration testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 15:15'
+    speakers:
+      -
+        name: 'Kateryna Shepelieva'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pKCrk5qQsR8'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-case-study'
+  -
+    title: 'Estimate everything. Practitioner toolkit.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 15:15'
+    speakers:
+      -
+        name: 'Galyna Doksvel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NHK4xbjzyHw'
+    slides: null
+  -
+    title: 'Using voice assistants for development and testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 15:15'
+    speakers:
+      -
+        name: 'Oleksandr Khotemskyi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:f8nPI4u4FrQ'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-116479882/QAFest/qa-fest-2018-116479882'
+  -
+    title: 'Agile outside IT companies & departments. Real stories of transformations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 16:15'
+    speakers:
+      -
+        name: 'Artem Bykovets'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XG0Rg9uhqsI'
+    slides: null
+  -
+    title: 'Analytics Data Driven Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 16:15'
+    speakers:
+      -
+        name: 'Slavik Pashanin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sSyJ3GPwCHY'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-slavik-pashanin-analytics-data-driven-testing'
+  -
+    title: 'Last minute performance testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-21 16:15'
+    speakers:
+      -
+        name: 'Pavlo Vedilin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GHpGvmGeRHw'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018'
+  -
+    title: 'The Secret to Successful Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-22 10:00'
+    speakers:
+      -
+        name: 'Johan Jonasson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PJAhjlnN_xw'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-johan-jonasson-the-secret-to-successful-testing'
+  -
+    title: 'Between two realities. Testing AR / MR'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-22 10:00'
+    speakers:
+      -
+        name: 'Dariia Bondarieva'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:P8YPQL3z1z8'
+    slides: null
+  -
+    title: 'Test Automation Pyramid, how it ruins your life'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-22 10:00'
+    speakers:
+      -
+        name: 'Yaroslav Pernerovskiy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PLnTGYwWtKs'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-test-automation-pyramid-how-it-ruins-your-life/QAFest/qa-fest-2018-test-automation-pyramid-how-it-ruins-your-life'
+  -
+    title: 'Cookbook for testing data'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-22 11:00'
+    speakers:
+      -
+        name: 'Aliaksei Boole'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dMRlZQMuKNc'
+    slides:
+      - 'https://docs.google.com/presentation/d/1RzwEpqIRVlkaZohXUHGd2dAvjNO0TR_pxQRtSEQpITg/mobilepresent?slide=id.p1'
+  -
+    title: 'What is Metasploit? How do I use it to test project security?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-22 11:00'
+    speakers:
+      -
+        name: 'Svyatoslav Login'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gHTQTrxMTEQ'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-metasploit'
+  -
+    title: 'React Native is Coming – the story of hybrid mobile application testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-22 11:00'
+    speakers:
+      -
+        name: 'Adam Stasiak'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XdUfTb-P4Qw'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-adam-stasiak-react-native-is-coming-the-story-of-hybrid-mobile-application-testing'
+  -
+    title: 'Progressive Web Apps, Android Instant Apps & Accelerated Mobile Pages - will they substitute installable mobile apps?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-22 12:00'
+    speakers:
+      -
+        name: 'Diana Pinchuk'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tAcN6cpCMqc'
+    slides: null
+  -
+    title: 'Performance testing framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-22 12:00'
+    speakers:
+      -
+        name: 'Anton Serputko'
+        twitter: null
+        github: serputko
+    videos:
+      - 'youtube:bq2R4QF1sdo'
+    slides: null
+  -
+    title: 'Shift-Left Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-22 13:00'
+    speakers:
+      -
+        name: 'Anastasiya Aseeva'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7QAQMTznX_M'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-shiftleft-testing/QAFest/qa-fest-2018-shiftleft-testing'
+  -
+    title: 'ELK stack. Use in performance testing and more'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-22 13:00'
+    speakers:
+      -
+        name: 'Alexander Venger'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jY6G9zYgKG4'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-elk-stack/QAFest/qa-fest-2018-elk-stack'
+  -
+    title: '56k Denial of Service'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-22 14:00'
+    speakers:
+      -
+        name: 'Denis Zhevner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SpwWpe3B_DE'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-56k-denial-of-service'
+  -
+    title: 'GraphQL is a new sexy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-22 14:00'
+    speakers:
+      -
+        name: 'Sergey Pirogov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bQgO1_sOIig'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-graphql-is-a-new-sexy'
+  -
+    title: 'Risk Analysis'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-22 15:15'
+    speakers:
+      -
+        name: 'Michael Bolton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:g97mMeC9EIE'
+    slides: null
+  -
+    title: 'Lock, stock and the browser console for QA'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-22 15:15'
+    speakers:
+      -
+        name: 'John Klymenko'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-qa/QAFest/qa-fest-2018-qa'
+  -
+    title: 'REACTive automation: how to avoid shooting yourself in the foot'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-22 15:15'
+    speakers:
+      -
+        name: 'Sergey Korol'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GOT2CJ54QaM'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-reactive-automation-how-to-avoid-shooting-yourself-in-the-foot'
+  -
+    title: 'The domain testing – is it new or well-forgotten old?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-22 16:15'
+    speakers:
+      -
+        name: 'Andrey Ladutko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UaLU1kJ9xWg'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-116636866/QAFest/qa-fest-2018-116636866'
+  -
+    title: 'Testing neural network, or how to convince AI love the humans'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-22 16:15'
+    speakers:
+      -
+        name: 'Yuriy Sychenko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SLoOhA-0Oxo'
+    slides:
+      - 'https://www.slideshare.net/QAFest/qa-fest-2018-testing-neural-network-or-how-to-convince-ai-love-the-humans'
+  -
+    title: 'How to manage your test data for successful test automation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-22 16:15'
+    speakers:
+      -
+        name: 'Mikalai Alimenkou'
+        twitter: xpinjection
+        github: xpinjection
+    videos:
+      - 'youtube:E21AxgHX2B0'
+    slides:
+      - 'https://www.slideshare.net/alimenkou/bro-manage-test-data-like-a-pro-qa-fest-2018/'

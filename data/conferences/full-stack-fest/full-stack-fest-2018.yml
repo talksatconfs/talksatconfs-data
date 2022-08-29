@@ -1,0 +1,457 @@
+name: 'Full Stack Fest 2018'
+description: "Full Stack Fest is a week-long, language-agnostic conference for curious developers that want to gaze into the future. Split in two blocks with a gap day in the middle, it's designed to be the ultimate conference retreat for teams looking for inspiration."
+location: ''
+venue: ''
+city: Barcelona
+country: Spain
+link: 'https://2018.fullstackfest.com/'
+playlist: 'youtube.com:PLe9psSNJBf75O6abYvvjxhm36_QU9H-f2'
+from_date: '2018-09-03'
+to_date: '2018-09-07'
+tags: ''
+talks:
+  -
+    title: 'Reinvent the social web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-03 00:00'
+    speakers:
+      -
+        name: 'Andre Staltz'
+        twitter: andrestaltz
+        github: staltz
+    videos:
+      - 'youtube:8GE5C9-RUpg'
+    slides: null
+  -
+    title: 'Open Gateway - Decentralized IoT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-03 00:00'
+    speakers:
+      -
+        name: 'Kalyan Dikshit'
+        twitter: decode_dev
+        github: decode-dev
+    videos:
+      - 'youtube:95Un8APgmjg'
+    slides: null
+  -
+    title: 'Build and deploy a Blockchain web-app with Hyperledger Fabric and Hyperledger Composer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-03 00:00'
+    speakers:
+      -
+        name: 'Horea Porutiu'
+        twitter: horeaporutiu
+        github: horeaporutiu
+    videos:
+      - 'youtube:v2WiqQs_JAs'
+    slides:
+      - 'https://www.slideshare.net/HoreaPorutiu/getting-up-and-running-with-hyperledger-fabric-composer-full-stack'
+  -
+    title: 'A Game of Theories: Why languages do what they do '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-03 00:00'
+    speakers:
+      -
+        name: 'Rae Krantz'
+        twitter: rustbeltrae
+        github: krantzinator
+    videos:
+      - 'youtube:82C72atD3Ws'
+    slides: null
+  -
+    title: 'The Future of ChatBots in the Travel Industry'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-03 00:00'
+    speakers:
+      -
+        name: 'Prabh Simran Singh Baweja'
+        twitter: prabh_baweja
+        github: null
+    videos:
+      - 'youtube:Ke-uEJJJlzw'
+    slides: null
+  -
+    title: 'Avoiding Digital Bias'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-03 00:00'
+    speakers:
+      -
+        name: 'Adam L Smith'
+        twitter: adamleonsmith
+        github: adamleonsmith
+    videos:
+      - 'youtube:nU3vn1evwYg'
+    slides: null
+  -
+    title: "Everything I always wanted to know about crypto, but never thought I'd understand"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-03 00:00'
+    speakers:
+      -
+        name: 'Sasha Romijn'
+        twitter: mxsash
+        github: null
+    videos:
+      - 'youtube:IUONbU3bgh0'
+    slides: null
+  -
+    title: 'Onion adventures: how to use onion services and the Tor network in your web endeavors'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-03 00:00'
+    speakers:
+      -
+        name: 'Silvia Puglisi'
+        twitter: nopressure
+        github: hiromipaw
+    videos:
+      - 'youtube:yGLYax_2vVg'
+    slides: null
+  -
+    title: "Observability for Emerging Infra: What Got You Here Won't Get You There"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers:
+      -
+        name: 'Charity Majors'
+        twitter: mipsytipsy
+        github: null
+    videos:
+      - 'youtube:OdY1UNzzOr8'
+    slides: null
+  -
+    title: 'Do you need a Service Mesh?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers:
+      -
+        name: 'Matt Turner'
+        twitter: mt165pro
+        github: null
+    videos:
+      - 'youtube:lyue42wd7a8'
+    slides: null
+  -
+    title: 'HTTP and JSON for your gRPC Services'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers:
+      -
+        name: 'Michael Hamrah'
+        twitter: mhamrah
+        github: mhamrah
+    videos:
+      - 'youtube:AmXo6tPGUdQ'
+    slides: null
+  -
+    title: 'Software Engineering - A philosophical activity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers:
+      -
+        name: 'Tom Enden'
+        twitter: tom_enden
+        github: null
+    videos:
+      - 'youtube:JJ7UgLpgkzc'
+    slides: null
+  -
+    title: 'Take a (Client) Hint!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers:
+      -
+        name: 'Jeremy Wagner'
+        twitter: malchata
+        github: malchata
+    videos:
+      - 'youtube:md7Ua82fPe4'
+    slides: null
+  -
+    title: 'Lost in transaction? Strategies to deal with (in-)consistency in distributed systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers:
+      -
+        name: 'Bernd Rücker'
+        twitter: berndruecker
+        github: null
+    videos:
+      - 'youtube:JtaoNlL5mdI'
+    slides: null
+  -
+    title: 'Lightning talks - backend'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:C3GvXp4Detk'
+    slides: null
+  -
+    title: 'Cats, The Musical! Algorithmic Song Meow-ification'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-04 00:00'
+    speakers:
+      -
+        name: 'Beth Haubert'
+        twitter: haubertdashery
+        github: bethanyhaubert
+    videos:
+      - 'youtube:nAiT2cBvl5w'
+    slides: null
+  -
+    title: 'Building peer-to-peer apps with the Beaker Browser'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-06 00:00'
+    speakers:
+      -
+        name: 'Tara Vancil'
+        twitter: taravancil
+        github: taravancil
+    videos:
+      - 'youtube:raUE23RKLvE'
+    slides: null
+  -
+    title: 'To push, or not to push?! - The future of HTTP/2 server push'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-06 00:00'
+    speakers:
+      -
+        name: 'Patrick Hamann'
+        twitter: patrickhamann
+        github: phamann
+    videos:
+      - 'youtube:ga_-zsTHRm8'
+    slides: null
+  -
+    title: 'The Future of Front-End Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-06 00:00'
+    speakers:
+      -
+        name: 'Sia Karamalegos'
+        twitter: thegreengreek
+        github: siakaramalegos
+    videos:
+      - 'youtube:SA_Hp8l7lr4'
+    slides: null
+  -
+    title: 'Native JavaScript modules- import {Browsers, NodeJs}; export {production};'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-06 00:00'
+    speakers:
+      -
+        name: 'Serg Hospodarets'
+        twitter: malyw
+        github: null
+    videos:
+      - 'youtube:O4r9D2jI0_w'
+    slides: null
+  -
+    title: 'Unity + HTML5 = Isomorphic Game Engine?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-06 00:00'
+    speakers:
+      -
+        name: 'LeRenzo Malcom'
+        twitter: lerenzom
+        github: null
+    videos:
+      - 'youtube:zB4gRcgaCF0'
+    slides: null
+  -
+    title: 'State of the Art Web User Interfaces with State Machines'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-06 00:00'
+    speakers:
+      -
+        name: 'David Khourshid'
+        twitter: davidkpiano
+        github: davidkpiano
+    videos:
+      - 'youtube:OVS9cKNK00U'
+    slides: null
+  -
+    title: "A Front-end dev's hobbyist approach into Machine Learning"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-06 00:00'
+    speakers:
+      -
+        name: 'Susanna Wong'
+        twitter: studioswong
+        github: studioswong
+    videos:
+      - 'youtube:JcLZGfXKk8c'
+    slides: null
+  -
+    title: 'Building a Modern Memex'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-06 00:00'
+    speakers:
+      -
+        name: 'Andrew Louis'
+        twitter: hyfen
+        github: hyfen
+    videos:
+      - 'youtube:K0WU02flF_E'
+    slides: null
+  -
+    title: 'Accessibility vs latest Web APIs. Can’t we just get along?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-07 00:00'
+    speakers:
+      -
+        name: 'Mauricio Palma'
+        twitter: palmaswell
+        github: Palmaswell
+    videos:
+      - 'youtube:wtZWRUsn3ms'
+    slides: null
+  -
+    title: 'The Web Authentication API - Imagine a World Without Passwords'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-07 00:00'
+    speakers:
+      -
+        name: 'Suby Raman'
+        twitter: subyraman
+        github: null
+    videos:
+      - 'youtube:MesXuMg0WKo'
+    slides: null
+  -
+    title: 'Killing the checkout or: How I learned to stop worrying and love Payment Request'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-07 00:00'
+    speakers:
+      -
+        name: 'Krystian Czesak'
+        twitter: krystosterone
+        github: null
+    videos:
+      - 'youtube:MvgdYbYBzcs'
+    slides: null
+  -
+    title: 'A Real World PWA'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-07 00:00'
+    speakers:
+      -
+        name: 'Zack Argyle'
+        twitter: zackargyle
+        github: zackargyle
+    videos:
+      - 'youtube:pluzva6Dk9Q'
+    slides: null
+  -
+    title: 'Purifying Typescript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-07 00:00'
+    speakers:
+      -
+        name: 'Timothy Clifford'
+        twitter: timothyclifford
+        github: timothyclifford
+    videos:
+      - 'youtube:huIHUim76AM'
+    slides: null
+  -
+    title: 'Dynamic CSS: Layouts & Beyond'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-07 00:00'
+    speakers:
+      -
+        name: 'Miriam Suzanne'
+        twitter: mirisuzanne
+        github: mirisuzanne
+    videos:
+      - 'youtube:9fTUeLsR2Hc'
+    slides: null
+  -
+    title: 'WebXR, if X = how?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-07 00:00'
+    speakers:
+      -
+        name: 'Diego González'
+        twitter: diekus
+        github: diekus
+      -
+        name: 'Indira Knight'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iIDB96u4bng'
+    slides: null
+  -
+    title: 'Lightning talks - frontend'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-09-07 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:B-2Nn2TOo0A'
+    slides: null

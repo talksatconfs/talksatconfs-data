@@ -1,0 +1,142 @@
+name: 'CheConf 2018'
+description: "This one day virtual conference brought insights into how cloud developer workspaces are changing how applications are created, and how companies are building cloud-native developer tools.\r\nEclipse Che is the largest extensible cloud development platform in the market with over 150,000 public developer sessions a month. Join hundreds of fellow Che users in sessions that include how-tos, case studies, and community talks from experts throughout the Eclipse Che community."
+location: ''
+venue: ''
+city: ''
+country: ''
+link: 'https://www.eclipse.org/che/checonf18/index.html'
+playlist: PLWpdeL3mennY0UJVZ3lqExE_SdLXwiVdI
+from_date: '2018-02-21'
+to_date: '2018-02-21'
+tags: ''
+talks:
+  -
+    title: "Thank you 2017, But We're Looking Forward to 2018!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-21 00:00'
+    speakers:
+      -
+        name: 'Brad Micklea'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Silexica: Developing a C/C++ Multicore IDE on Eclipse Che'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-21 00:00'
+    speakers:
+      -
+        name: 'Hanno Kolvenbach'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Running Eclipse Che as a Scalable IDE on Kubernetes‍'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-21 00:00'
+    speakers:
+      -
+        name: 'Mario Loriedo'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building Extensibility and Community for Che'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-21 00:00'
+    speakers:
+      -
+        name: 'Stevan Le Meur'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'SAP : Custom Cloud Tooling with Che and SAP Web IDE Full-Stack'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-21 00:00'
+    speakers:
+      -
+        name: 'Ran Hassid'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Creating a Language Server for Eclipse Che'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-21 00:00'
+    speakers:
+      -
+        name: 'Thomas Maeder'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Path to Pair Programming in Che with Atom Teletype'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-21 00:00'
+    speakers:
+      -
+        name: 'Sun Tan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Debug Everything in the Cloud with Eclipse Che'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-21 00:00'
+    speakers:
+      -
+        name: 'Tracy Miranda'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Never Wait for Tests Again'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-21 00:00'
+    speakers:
+      -
+        name: 'Alex Soto'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Software AG: Building a Developer Tools for the Future with Eclipse Che'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-21 00:00'
+    speakers:
+      -
+        name: 'Barry Dresdner'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

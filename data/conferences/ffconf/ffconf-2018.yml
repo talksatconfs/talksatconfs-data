@@ -1,0 +1,124 @@
+name: 'ffConf 2018'
+description: 'Amongst the best events for the web community, with consistent balance of educational and inspirational talks, and perfect for the end of your year, getting you ready for the new year.#ffconf was on my must-go list as I have found it to be the best in terms of balancing inspiration talks vs more educational / useful , plus the nice atmosphere and overall quality.'
+location: ''
+venue: ''
+city: Brington
+country: 'United Kingdom'
+link: 'https://2018.ffconf.org/'
+playlist: 'youtube.com:PLXmT1r4krsTq3yrg4t14hPUbO1OsrA1Hx'
+from_date: '2018-11-08'
+to_date: '2018-11-09'
+tags: ''
+talks:
+  -
+    title: 'Mentoring" Being the help you wish you''d had"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Jo Franchetti'
+        twitter: ThisIsJoFrank
+        github: null
+    videos:
+      - 'youtube:D9d1WrARqvI'
+    slides: null
+  -
+    title: 'The Future of JavaScript & Machine Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Eleanor Haproff'
+        twitter: EleanorHaproff
+        github: null
+    videos:
+      - 'youtube:eiHxns7e6EI'
+    slides: null
+  -
+    title: 'Practical Web Animation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Lisi Linhart'
+        twitter: lisi_linhart
+        github: null
+    videos:
+      - 'youtube:31YlV-oMAw4'
+    slides: null
+  -
+    title: 'Is it possible to build a truly diverse community?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Jenny Wong'
+        twitter: miss_jwo
+        github: null
+    videos:
+      - 'youtube:2BWp3QX0sNE'
+    slides: null
+  -
+    title: 'Back to the future of JS the next features and amazing proposals'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Willian Martins'
+        twitter: wmsbill
+        github: null
+    videos:
+      - 'youtube:hQNjLrPA410'
+    slides: null
+  -
+    title: "Dear Developer, the Web Isn't About You"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Charlie Owen'
+        twitter: sonniesedge
+        github: null
+    videos:
+      - 'youtube:WYXSck7TyVM'
+    slides: null
+  -
+    title: 'Using a Modern Web to Recreate 1980s Horribly Slow & Loud Loading Screens'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Remy Sharp'
+        twitter: rem
+        github: remy
+    videos:
+      - 'youtube:lQMcZtiaD0A'
+    slides: null
+  -
+    title: 'Weird Web & Curious Creation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-08 00:00'
+    speakers:
+      -
+        name: 'Tim Holman'
+        twitter: twholman
+        github: null
+    videos:
+      - 'youtube:-v-eSzgX9BU'
+    slides: null

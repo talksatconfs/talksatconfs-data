@@ -1,0 +1,187 @@
+name: 'RailsConf 2010'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2010-07-07'
+to_date: '2010-06-10'
+tags: ''
+talks:
+  -
+    title: 'RailsConf 2010: Michael Feathers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-09 00:00'
+    speakers:
+      -
+        name: 'Michael Feathers'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:L9ccnRixyMg'
+    slides: null
+  -
+    title: Thoughts.Pro
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-09 00:00'
+    speakers:
+      -
+        name: 'Derek Sivers'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Ruby Heroes Awards Ceremony'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-10 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:ffCxpBD-_Rs'
+    slides: null
+  -
+    title: 'Object Mentor, Inc.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-10 00:00'
+    speakers:
+      -
+        name: 'Robert Martin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mslMLp5bQD0'
+    slides: null
+  -
+    title: 'Welcome and Announcements 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-08 00:00'
+    speakers:
+      -
+        name: 'Chad Fowler '
+        twitter: null
+        github: null
+      -
+        name: 'Ben Scofield'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yaIWUJazJYU'
+    slides: null
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-07 00:00'
+    speakers:
+      -
+        name: 'Gary Vaynerchuk'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-QWHkcCP3tA'
+    slides: null
+  -
+    title: 'Welcome and Announcements'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-07 00:00'
+    speakers:
+      -
+        name: 'Chad Fowler '
+        twitter: null
+        github: null
+      -
+        name: 'Ben Scofield'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JwYD3vzxfDU'
+    slides: null
+  -
+    title: 37Signals
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-07 00:00'
+    speakers:
+      -
+        name: 'David Heinemeier Hansson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:b0iKYRKtAsA'
+    slides: null
+  -
+    title: 'Welcome and Announcements 3'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-09 00:00'
+    speakers:
+      -
+        name: 'Chad Fowler '
+        twitter: null
+        github: null
+      -
+        name: 'Ben Scofield'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:84O-6EOctvA'
+    slides: null
+  -
+    title: 'Creativity & Constraint'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-08 00:00'
+    speakers:
+      -
+        name: 'Neal Ford'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:c8ZQwz76wuM'
+    slides: null
+  -
+    title: 'Engine Yard, Inc.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-10 00:00'
+    speakers:
+      -
+        name: 'Yehuda Katz'
+        twitter: wycats
+        github: null
+    videos:
+      - 'youtube:mo-lMdQMsdw'
+    slides: null
+  -
+    title: "Engine Yard's Open Source Love Affair"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-08 00:00'
+    speakers:
+      -
+        name: 'Evan Phoenix'
+        twitter: evanphx
+        github: evanphx
+    videos:
+      - 'youtube:tmsCxaaK92o'
+    slides: null

@@ -1,0 +1,124 @@
+name: 'Laracon Online 2017 (Winter)'
+description: "There’s nothing like attending a Laracon, but unfortunately, not everyone can take part in Laracon US or EU in person.\r\n\r\nThat’s why we’ve created Laracon Online. The easiest and most affordable way to get the Laracon experience.\r\n\r\nWe’ve put together a full day of talks featuring some of Laravel’s brightest minds, and we’re streaming them directly to your home or office.\r\n\r\nWe’ll be covering what’s new in Laravel 5.4, testing in Laravel, changes to the Javascript stack in Laravel and so much more."
+location: ''
+venue: ''
+city: ''
+country: ''
+link: 'https://web.archive.org/web/20170901123323/https://laracon.net/'
+playlist: 'youtube:PLyfOROdV5_9OdqG0EoMKR88HQfuIAu8yU'
+from_date: '2017-03-08'
+to_date: '2017-03-08'
+tags: ''
+talks:
+  -
+    title: "Adam Wathan - Alternative Facts You've been told about testing"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-08 05:15'
+    speakers:
+      -
+        name: 'Adam Wathan'
+        twitter: adamwathan
+        github: null
+    videos:
+      - 'youtube:jQ1vYzoCubA'
+    slides: null
+  -
+    title: 'Jeffrey Way - Laravel and the Front-end'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-08 14:00'
+    speakers:
+      -
+        name: 'Jeffrey Way'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Pg2OvHMEMP8'
+    slides: null
+  -
+    title: 'Evan You - Inside Vue Templates'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-08 15:00'
+    speakers:
+      -
+        name: 'Evan You'
+        twitter: youyuxi
+        github: yyx990803
+    videos:
+      - 'youtube:cpGZgKz-SnM'
+    slides: null
+  -
+    title: 'Rachel Andrew - CSS Layout in 2017 with CSS Grid & Flexbox'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-08 16:15'
+    speakers:
+      -
+        name: 'Rachel Andrew'
+        twitter: rachelandrew
+        github: null
+    videos:
+      - 'youtube:DpXE4UbdTy4'
+    slides: null
+  -
+    title: 'Taylor Otwell - Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-08 18:30'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:_6AeQ-IO42g'
+    slides: null
+  -
+    title: 'Nick Canzoneri - What developers should know about email'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-08 19:30'
+    speakers:
+      -
+        name: 'Nick Canzoneri'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Wy9HONddMt4'
+    slides: null
+  -
+    title: "Jason McCreary - You don't know Git"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-08 20:45'
+    speakers:
+      -
+        name: 'Jason McCreary'
+        twitter: jasonmccreary
+        github: jasonmccreary
+    videos:
+      - 'youtube:MRJF0k5WsNk'
+    slides: null
+  -
+    title: 'Matt Stauffer - Mastering the Illuminate Container'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-08 21:45'
+    speakers:
+      -
+        name: 'Matt Stauffer'
+        twitter: stauffermatt
+        github: null
+    videos:
+      - 'youtube:HGzVUBeOZhA'
+    slides: null

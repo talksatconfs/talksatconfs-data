@@ -1,0 +1,345 @@
+name: 'JSFoo 2019'
+description: 'HasGeek is a technology company in the media business, bringing software automation to a traditionally people-intensive operation. HasGeek has organized over two dozen conferences attended by thousands of technology professionals, made several thousand connections, and built open source tools that are now used by many communities.'
+location: 'Pune, India'
+venue: ''
+city: Pune
+country: India
+link: 'https://jsfoo.in/2019-pune/'
+playlist: 'youtube.com:PL279M8GbNsevtFUvC9ikVDxIP8nN7PR0v'
+from_date: '2019-01-10'
+to_date: '2019-01-10'
+tags: ''
+talks:
+  -
+    title: 'Navigating the labyrinth or how to profile your webapp on Chrome?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Pavithra Kodmad'
+        twitter: pkodmad
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Birds Of Feather session: Experience stories from engineers about building UX and UI flows for web applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Suroor Widjan'
+        twitter: null
+        github: null
+      -
+        name: 'Prateeksha Singh'
+        twitter: null
+        github: pratu16x7
+      -
+        name: 'Sohan Maheshwar'
+        twitter: sohanm
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Charting in 2018'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Prateeksha Singh'
+        twitter: null
+        github: pratu16x7
+    videos: null
+    slides: null
+  -
+    title: 'Fullstack JavaScript-based micro services for complete automation of higher education institutions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Arunkumar Krishnamoorthy'
+        twitter: arunatpsg
+        github: null
+    videos:
+      - 'youtube:5vO5QyUfMvQ'
+    slides: null
+  -
+    title: 'Voice User Interfaces - How designing for the ear differs from designing for screens'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Sohan Maheshwar'
+        twitter: sohanm
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Joint Q&A" On DevSecOps"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Lavakumar Kuppan,Abhishek Koserwal'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Array.map is more interesting than you probably think!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Rakesh Pai'
+        twitter: rakeshpai
+        github: null
+    videos:
+      - 'youtube:r1oz73I17tE'
+    slides: null
+  -
+    title: 'Performance Feat. Webpack'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Atishay Baid'
+        twitter: atishaybaid
+        github: null
+    videos:
+      - 'youtube:8u5qOM3b6Pk'
+    slides: null
+  -
+    title: 'A glimpse of GraphQL" Frontend developers’ life is easy now!"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Navya Agarwal'
+        twitter: navyaagarwal
+        github: null
+    videos:
+      - 'youtube:Cbk574HyMPk'
+    slides: null
+  -
+    title: 'Birds Of Feather session: Architecture and component choices in designing your webapp'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Hemant Rai'
+        twitter: hemantisme
+        github: null
+      -
+        name: 'Navya Agarwal'
+        twitter: navyaagarwal
+        github: null
+      -
+        name: 'Abhik Mitra'
+        twitter: abhikmitra89
+        github: null
+      -
+        name: 'Arunkumar Krishnamoorthy'
+        twitter: arunatpsg
+        github: null
+      -
+        name: 'Vinci Rufus'
+        twitter: vinci
+        github: areai51
+      -
+        name: 'Rakesh Pai'
+        twitter: rakeshpai
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building an interactive learning service for native apps.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Deepak Pathania'
+        twitter: deepakpathania789
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Everything you need to know about client-side malicious code execution.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Lavakumar Kuppan'
+        twitter: lavakumark
+        github: Lavakumar
+    videos: null
+    slides: null
+  -
+    title: 'Building Isomorphic JavaScript Apps Faster with Next.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'CS Madhav'
+        twitter: csmadhav
+        github: null
+    videos:
+      - 'youtube:Om__vFoBgR4'
+    slides: null
+  -
+    title: 'End-to-end testing made easy with Nightwatch'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Ratan Kulshreshtha'
+        twitter: ratanshreshtha
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'SPAs are dead. Long live Microfrontends.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Vinci Rufus'
+        twitter: vinci
+        github: areai51
+    videos:
+      - 'youtube:4c9XFMJ2FQ4'
+    slides: null
+  -
+    title: 'Cross Browser Add-ons and How to build one'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Jyotsna Gupta'
+        twitter: jyotsna17gupta
+        github: null
+    videos:
+      - 'youtube:_ioZ8oHGNA0'
+    slides: null
+  -
+    title: 'Joint Q&A" The pros and cons of micro-frontends paradigm for building web applications"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Rakesh Pai,Vinci Rufus,Arun Kumar,Krishnamoorthy'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Birds Of Feather session: On performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Pavithra Kodmad'
+        twitter: pkodmad
+        github: null
+      -
+        name: 'Navya Agarwal'
+        twitter: navyaagarwal
+        github: null
+      -
+        name: 'Rahul Nanwani'
+        twitter: rnanwani
+        github: null
+      -
+        name: 'Atishay Baid'
+        twitter: atishaybaid
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Moving a huge AngularJS App to React, progressively at Microsoft Scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Abhik Mitra'
+        twitter: abhikmitra89
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building secure applications with keycloak (OIDC/JWT)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Abhishek Koserwal'
+        twitter: koserwal
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Create cross platform native mobile games with JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Suroor Wijdan'
+        twitter: wijdansuroor
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The vuetiful journey from AngularJS to Vue" migration of a SaaS product suite in phases"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-10 00:00'
+    speakers:
+      -
+        name: 'Hemant Rai'
+        twitter: hemantisme
+        github: null
+    videos: null
+    slides: null

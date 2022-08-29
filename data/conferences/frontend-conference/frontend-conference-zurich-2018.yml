@@ -1,0 +1,398 @@
+name: 'Frontend Conference Zurich 2018'
+description: 'Where design meets technology'
+location: ''
+venue: ''
+city: Zürich
+country: Switzerland
+link: 'https://frontendconf.ch/'
+playlist: 'vimeo.com:5387393'
+from_date: '2018-08-30'
+to_date: '2018-08-31'
+tags: ''
+talks:
+  -
+    title: 'Design in the Era of the Algorithm'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 10:00'
+    speakers:
+      -
+        name: 'Josh Clark'
+        twitter: bigmediumjosh
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/287853876'
+    slides: null
+  -
+    title: 'New Adventures In Front-End, Season 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 11:00'
+    speakers:
+      -
+        name: 'Vitaly Friedman'
+        twitter: smashingmag
+        github: vitalyfriedman
+    videos:
+      - 'vimeo.com:https://vimeo.com/287854147'
+    slides: null
+  -
+    title: 'Designing the Future, with Voice'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 11:00'
+    speakers:
+      -
+        name: 'Karen Kaushansky'
+        twitter: kjkausha
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/288109032'
+    slides: null
+  -
+    title: 'Closing the gap between design and code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 13:00'
+    speakers:
+      -
+        name: 'Konrad Dzwinel'
+        twitter: kdzwinel
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/287857004'
+    slides: null
+  -
+    title: 'Unlocking the Power of CSS Grid Layout'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 13:00'
+    speakers:
+      -
+        name: 'Rachel Andrew'
+        twitter: rachelandrew
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/287981360'
+    slides: null
+  -
+    title: 'Serverless, backend thing that gives superpowers to frontend developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 14:00'
+    speakers:
+      -
+        name: 'Slobodan Stojanović'
+        twitter: slobodan_
+        github: stojanovic
+    videos:
+      - 'vimeo.com:https://vimeo.com/287854006'
+    slides: null
+  -
+    title: 'Design without interface - the future of experience design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 14:00'
+    speakers:
+      -
+        name: 'Raffaela Rein'
+        twitter: raffaelarein
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/287982941'
+    slides: null
+  -
+    title: 'Surrounded by self-styled UX experts. The challenges of UX professionals in large enterprises'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 15:30'
+    speakers:
+      -
+        name: 'Anna Jozanis'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/287855064'
+    slides: null
+  -
+    title: 'Embrace Reactive Programming in React and Vue with RxJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 15:30'
+    speakers:
+      -
+        name: 'Fahad Heylaal'
+        twitter: fahad19
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/287980272'
+    slides: null
+  -
+    title: 'Building Offline-first Progressive Web Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 16:30'
+    speakers:
+      -
+        name: 'Jake Archibald'
+        twitter: jaffathecake
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/287853623'
+    slides: null
+  -
+    title: 'Conquer Variable Web Typography'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 16:30'
+    speakers:
+      -
+        name: 'Oliver Schöndorfer'
+        twitter: glyphe
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/287977214'
+    slides: null
+  -
+    title: 'Lightning talks (Folium)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 17:30'
+    speakers:
+      -
+        name: 'Lukas Müller'
+        twitter: null
+        github: null
+      -
+        name: 'Lukas Ehrensperger'
+        twitter: null
+        github: null
+      -
+        name: 'Nico Martin'
+        twitter: null
+        github: null
+      -
+        name: 'Christian Hirsig'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/287857223'
+    slides: null
+  -
+    title: 'Lightning talks (Papiersaal)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-30 17:30'
+    speakers:
+      -
+        name: 'Fredi Bach'
+        twitter: null
+        github: null
+      -
+        name: 'Anton Staroverov'
+        twitter: null
+        github: null
+      -
+        name: 'Nicola Marcacci Rossi'
+        twitter: null
+        github: null
+      -
+        name: 'Waleed El Sayed'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/287978291'
+    slides: null
+  -
+    title: 'The three stages of leadership'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 09:00'
+    speakers:
+      -
+        name: 'Jane Austin'
+        twitter: msjaneaustin
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Geek’s Guide to Leading Teams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 09:00'
+    speakers:
+      -
+        name: 'Patrick Kua'
+        twitter: patkua
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/287977740'
+    slides: null
+  -
+    title: 'Muddling Through The Middle Bits, what comes after Junior and before Senior'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 10:00'
+    speakers:
+      -
+        name: 'Anne Callahan'
+        twitter: northofnormal
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/287855202'
+    slides: null
+  -
+    title: 'Impostor Syndrome and Individual Competence'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 10:00'
+    speakers:
+      -
+        name: 'Jessica Rose'
+        twitter: jesslynnrose
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/287980808'
+    slides: null
+  -
+    title: 'It Takes a Village to Raise a Bot'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 11:00'
+    speakers:
+      -
+        name: 'Desiree Garcia'
+        twitter: thedezzie
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/287855850'
+    slides: null
+  -
+    title: 'The New Mobile Reality'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 11:00'
+    speakers:
+      -
+        name: 'Alex Russel'
+        twitter: slightlylate
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/287974990'
+    slides: null
+  -
+    title: 'Hey! You got your code in my art!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 13:00'
+    speakers:
+      -
+        name: 'Monica Dinculescu'
+        twitter: notwaldorf
+        github: notwaldorf
+    videos:
+      - 'vimeo.com:https://vimeo.com/287857411'
+    slides: null
+  -
+    title: 'Community based design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 13:00'
+    speakers:
+      -
+        name: 'Emanuela Damiani'
+        twitter: brassy
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/287976580'
+    slides: null
+  -
+    title: 'Great Design, Despite Agile, How to Get the Best Out of Your Design Team in Agile Projects'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 14:00'
+    speakers:
+      -
+        name: 'Aras Bilgen'
+        twitter: arasb
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/287855293'
+    slides: null
+  -
+    title: 'Humanizing your documentation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 14:00'
+    speakers:
+      -
+        name: 'Carolyn Stransky'
+        twitter: carolstran
+        github: carolstran
+    videos:
+      - 'vimeo.com:https://vimeo.com/287976272'
+    slides: null
+  -
+    title: 'Better, Fearless Feedback for Software Teams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 15:30'
+    speakers:
+      -
+        name: 'Erika Languirand'
+        twitter: erikalanguirand
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/287856408'
+    slides: null
+  -
+    title: 'Designing Teamwork'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 15:30'
+    speakers:
+      -
+        name: 'Alison Coward'
+        twitter: alisoncoward
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How to Be Good'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-08-31 16:30'
+    speakers:
+      -
+        name: 'Dan Mall'
+        twitter: danmall
+        github: null
+    videos:
+      - 'vimeo.com:https://vimeo.com/287855630'
+    slides: null

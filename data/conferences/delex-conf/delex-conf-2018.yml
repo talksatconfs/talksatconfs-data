@@ -1,0 +1,384 @@
+name: 'DelEx Conf 2018'
+description: 'Delex stands for Delivery Excellence. Proper use of Test Automation and DevOps can shift delivery to a new heights.We introduce two-day event filled up with progressive ideas from changemakers and the most inspiring thinkers.Talks on conference will cover different level of Automated Testing, DevOps activities and tools.'
+location: ''
+venue: ''
+city: Minsk
+country: Belarus
+link: 'https://delex-conf.com/recap-2018/'
+playlist: 'youtube:PLYinOsby80Nm02JCSqhvROysge7FztDAR'
+from_date: '2018-02-17'
+to_date: '2018-02-19'
+tags: ''
+talks:
+  -
+    title: 'Wild Microservices and Imaginary DevOps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-17 00:00'
+    speakers:
+      -
+        name: 'Kirill Tolkachev'
+        twitter: tolkv
+        github: lavcraft
+    videos:
+      - 'youtube:sfIX-pdIaxI'
+    slides: null
+  -
+    title: 'Infrastructure as Code in Azure and Azure Stack'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-17 00:00'
+    speakers:
+      -
+        name: 'Alexander Shapoval'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pF-hih9eEyk'
+    slides: null
+  -
+    title: 'DevOps @ Multi vendors Enterprise'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-17 00:00'
+    speakers:
+      -
+        name: 'Victor Vedmich'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LACJkpQwqKc'
+    slides: null
+  -
+    title: 'Automating experiments with Kotlin DSL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-17 00:00'
+    speakers:
+      -
+        name: 'Alexander Tarasov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:M97kOAkUBAM'
+    slides: null
+  -
+    title: 'BDD Automation puzzlers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-17 00:00'
+    speakers:
+      -
+        name: 'Anna Chernyshova'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6DjdFX5Dtqo'
+    slides: null
+  -
+    title: 'Allure 2 Lifecycle: free integration with tools'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-17 00:00'
+    speakers:
+      -
+        name: 'Nick Butcher'
+        twitter: crafty
+        github: nickbutcher
+    videos:
+      - 'youtube:d5gjK6hZHE4'
+    slides: null
+  -
+    title: 'Game development infrastructure'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-17 00:00'
+    speakers:
+      -
+        name: 'Anton Tsitlionok'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:l3KbsqICHsQ'
+    slides: null
+  -
+    title: 'Continuous delivery with Concourse CI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-17 00:00'
+    speakers:
+      -
+        name: 'Andrei Krasnitski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RyrxImD9aDM'
+    slides: null
+  -
+    title: 'SOA approach in automation development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-17 00:00'
+    speakers:
+      -
+        name: 'Nikalai Stakanov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1_ExSQV51OA'
+    slides: null
+  -
+    title: 'Dockerization of real mobile device farm and scalable QA automation ecosystem'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-17 00:00'
+    speakers:
+      -
+        name: 'Alex Khursevich'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dLKpYq3X3Fo'
+    slides: null
+  -
+    title: 'DevOps and Kubernetes in VSTS in Azure and more'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-17 00:00'
+    speakers:
+      -
+        name: 'Stas Pavlov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3DmLa1uy6tQ'
+    slides: null
+  -
+    title: 'Continuous Integration in IoT world - "Mission Impossible" or "A last hope"?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-17 00:00'
+    speakers:
+      -
+        name: 'Dawid Pacia'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:g82H1A52AMQ'
+    slides: null
+  -
+    title: 'Quest for an adequate autotest coverage'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-17 00:00'
+    speakers:
+      -
+        name: 'Alexander Pushkarev'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Kqgvj1Y27bw'
+    slides: null
+  -
+    title: 'Running tests in Continuous Integration'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-18 00:00'
+    speakers:
+      -
+        name: 'Sergey Pak'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AzAGxaVPXIQ'
+    slides: null
+  -
+    title: 'Automated tests in World of Tanks: bots-net to test quality'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-18 00:00'
+    speakers:
+      -
+        name: 'Alexander Shukov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3eJUpwr_HCY'
+    slides: null
+  -
+    title: 'Honest, simple and fast isolation tests'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-18 00:00'
+    speakers:
+      -
+        name: 'Alexander Chumakin'
+        twitter: alexandrchumakin
+        github: alex_chumakin
+    videos:
+      - 'youtube:0fQEe6CpTYY'
+    slides: null
+  -
+    title: 'How to test Artificial Intelligence and Machine Learning solutions?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-18 00:00'
+    speakers:
+      -
+        name: 'Igor Khrol'
+        twitter: null
+        github: Khrol
+    videos:
+      - 'youtube:SNBrP8JQthk'
+    slides: null
+  -
+    title: 'Funny stories and anti-patterns from DevOps landscape'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-18 00:00'
+    speakers:
+      -
+        name: 'Mikalai Alimenkou'
+        twitter: xpinjection
+        github: xpinjection
+    videos:
+      - 'youtube:ZjAvj52BDiI'
+    slides: null
+  -
+    title: 'The applicability of machine learning and neural networks in test automation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-18 00:00'
+    speakers:
+      -
+        name: 'Dzmitry Humianiuk'
+        twitter: DzmitryHumianiuk
+        github: DzmitryHumianiuk
+    videos:
+      - 'youtube:bA1MwpOPA1U'
+    slides: null
+  -
+    title: 'Devops and Test Automation: Myths and Tips'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-18 00:00'
+    speakers:
+      -
+        name: 'Baris Sarialioglu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1wUQ-bM39MI'
+    slides: null
+  -
+    title: 'DevOps @ scale — greek tragedy in three acts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-18 00:00'
+    speakers:
+      -
+        name: 'Baruch Sadogursky'
+        twitter: jbaruch
+        github: jbaruch
+      -
+        name: 'Leonid Igolnik'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vtlYPezp-oE'
+    slides: null
+  -
+    title: 'Test Infrastructure on steroids'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-18 00:00'
+    speakers:
+      -
+        name: 'Sergey Pirogov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:l3vC73Hgl-w'
+    slides: null
+  -
+    title: 'Themes, styles & more: from zero to hero'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-18 00:00'
+    speakers:
+      -
+        name: 'Cyril Mottier'
+        twitter: cyrilmottier
+        github: cyrilmottier
+    videos:
+      - 'youtube:q_LJG4VuU3Q'
+    slides: null
+  -
+    title: 'Testing on prod (without pain and humiliation)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-18 00:00'
+    speakers:
+      -
+        name: 'Aliaksei Boole'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:en_h8KkP2_o'
+    slides: null
+  -
+    title: 'Creating multistage development environments with K8s cluster of 8000 pods and growing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-23 00:00'
+    speakers:
+      -
+        name: 'Oleg Sabov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jDpLCiji9i4'
+    slides: null
+  -
+    title: 'Data Driven DevOps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-23 00:00'
+    speakers:
+      -
+        name: 'Baruch Sadogursky'
+        twitter: jbaruch
+        github: jbaruch
+      -
+        name: 'Leonid Igolnik'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xez43gfPahM'
+    slides: null

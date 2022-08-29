@@ -1,0 +1,664 @@
+name: 'International Javascript Conference 2018 London'
+description: 'JavaScript is everywhere. At the International JavaScript Conference you will meet internationally known JavaScript experts who share their knowledge in vanilla JavaScript as well as the most important JS frameworks.'
+location: ''
+venue: ''
+city: London
+country: 'United Kingdom'
+link: 'https://javascript-conference.com/archiv/ijs-2018-london/'
+playlist: 'youtube.com:PL0TQYXcAtbwTQ0INwzo-VZCf92NoRnlY1'
+from_date: '2018-04-11'
+to_date: '2018-04-13'
+tags: ''
+talks:
+  -
+    title: 'Why the fuss about serverless'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 09:00'
+    speakers:
+      -
+        name: 'Simon Wardley'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Rr6WNDrIYfA'
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2018/01/Why_the_fuss_about_serverless_Simon_Wardley.pdf'
+  -
+    title: 'You don’t know MobX State Tree'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 10:00'
+    speakers:
+      -
+        name: 'Max Gallo'
+        twitter: _maxgallo
+        github: maxgallo
+    videos:
+      - 'youtube:LKyCJB27oNM'
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/11/You_don%E2%80%99t_know_MobX_State_Tree_Max_Gallo.pdf'
+  -
+    title: 'Angular architecture patterns starring NGRX'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 10:00'
+    speakers:
+      -
+        name: 'Chris Noring'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/11/Angular_architecture_patterns_starring_NGRX_Chris_Noring.pdf'
+  -
+    title: 'Better Paranoid than Offline: OWASP Top Ten 2017'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 10:00'
+    speakers:
+      -
+        name: 'Christian Wenz'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/12/Better_Paranoid_than_Offline_OWASP_Top_Ten_2017_Christian_Wenz.pdf'
+  -
+    title: 'Asynchronicity: concurrency.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 11:15'
+    speakers:
+      -
+        name: 'Joel Lord'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/11/Asynchronicity_concurrency_Joel_Lord.pdf'
+  -
+    title: 'Redux and Redux-saga to manage states in a large React app'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 11:15'
+    speakers:
+      -
+        name: 'Karina Islam'
+        twitter: null
+        github: null
+      -
+        name: 'Mahbubur Rahman Khan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fwQ_bdLuQt4'
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/12/Redux_and_Redux-saga_to_manage_states_in_a_large_React_app_Karina_Islam_Mahbubur_Rahman_Khan.pdf'
+  -
+    title: '6 APPS ONE CODE WITH Ionic'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 11:15'
+    speakers:
+      -
+        name: 'Sani Yusuf'
+        twitter: haibridco
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Generating whole Angular Applications with the Angular CLI's and Schematics"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 12:15'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos: null
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/11/Generating_whole_Angular_Applications_with_the_Angular_CLI_s_and_Schematics_Manfred_Steyer.pdf'
+  -
+    title: 'Micro Frontends'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 12:15'
+    speakers:
+      -
+        name: 'Elmar Burke  '
+        twitter: null
+        github: null
+      -
+        name: 'Hans-Christian Otto'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'VueX: Vue.js applications at scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 12:15'
+    speakers:
+      -
+        name: 'Luca Mezzalira'
+        twitter: lucamezzalira
+        github: Apress/front-end-reactive-architectures
+    videos:
+      - 'youtube:PBtA5wtskZI'
+    slides: null
+  -
+    title: "JavaScript's new 'old school' programming - Let's TypeScript !"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 12:15'
+    speakers:
+      -
+        name: 'Srushtika Neelakantam'
+        twitter: Srushtika
+        github: null
+    videos: null
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/12/JavaScript_s_new__old_school__programming_-_Let_s_TypeScript__Srushtika_Neelakantam.pdf'
+  -
+    title: 'How to protect your API Infrastructure against cyber-attacks with Artificial Intelligence.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 14:30'
+    speakers:
+      -
+        name: 'Dan Tortorici'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2018/04/How_to_protect_your_API_Infrastructure_against_cyber-attacks_with_Artificial_Intelligence_Dan_Tortorici.pdf'
+  -
+    title: 'Hitchhikers Guide to Growing Your Tech Skills.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 15:00'
+    speakers:
+      -
+        name: 'Julie Lerman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CH2klbmPmHM'
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/12/Hitchhikers_Guide_to_Growing_Your_Tech_Skills_Julie_Lerman.pdf'
+  -
+    title: "Make Node.js API's great with TypeScript"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 15:45'
+    speakers:
+      -
+        name: 'Dmytro Zharkov'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/11/Make_Nodejs_API_s_great_with_TypeScript_Dmytro_Zharkov.pdf'
+  -
+    title: 'An in-depth look at debugging RxJS code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 15:45'
+    speakers:
+      -
+        name: 'Mark van Straten'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/11/An_in-depth_look_at_debugging_RxJS_code_Mark_van_Straten.pdf'
+  -
+    title: 'Introduction to stdlib-js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 15:45'
+    speakers:
+      -
+        name: 'Philipp Burckhardt'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Hop on the serverless adventure with NodeJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 15:45'
+    speakers:
+      -
+        name: 'Simona Cotin'
+        twitter: simona_cotin
+        github: simonaco
+    videos:
+      - 'youtube:I3IV7qbRpgg'
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2018/01/Hop_on_the_serverless_adventure_with_NodeJS_Simona_Cotin.pdf'
+  -
+    title: "I Don't Care About Security (And Neither Should You)"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 15:45'
+    speakers:
+      -
+        name: 'Joel Lord'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2018/04/I_Don%E2%80%99t_Care_About_Security_And_Neither_Should_You_Joel_Lord.pdf'
+  -
+    title: 'Sharing Code Between Web and Native Mobile Apps with Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 17:15'
+    speakers:
+      -
+        name: 'Sebastian Witalec'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/11/Sharing_Code_Between_Web_and_Native_Mobile_Apps_with_Angular_Sebastian_Witalec.pdf'
+  -
+    title: 'Streams, Streams, Streams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 17:15'
+    speakers:
+      -
+        name: 'Luca Mezzalira'
+        twitter: lucamezzalira
+        github: Apress/front-end-reactive-architectures
+    videos: null
+    slides: null
+  -
+    title: 'Service Workers & Cows — a love story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 17:15'
+    speakers:
+      -
+        name: 'Alyssa Nicoll'
+        twitter: AlyssaNicoll
+        github: null
+    videos:
+      - 'youtube:P9XXTq-aDNQ'
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2018/01/Service_Workers___Cows_%E2%80%94_a_love_story_Alyssa_Nicoll.pdf'
+  -
+    title: 'PouchDB – The perfect Offline-First Database for your Browser'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 18:15'
+    speakers:
+      -
+        name: 'Hans-Christian Otto'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/05/PouchDB_%E2%80%93_The_perfect_Offline-First_Database_for_your_Browser_Hans-Christian_Otto.pdf'
+  -
+    title: 'Brain: The ultimate hack'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 18:15'
+    speakers:
+      -
+        name: 'Armagan Amcalar'
+        twitter: dashersw
+        github: dashersw
+    videos:
+      - 'youtube:SrIg8mRFtQg'
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/11/Brain_The_ultimate_hack_Armagan_Amcalar.pdf'
+  -
+    title: 'Boost Your Mobile Apps’ Emotional Intelligence with Machine Learning and NativeScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 18:15'
+    speakers:
+      -
+        name: 'Jen Looper'
+        twitter: jenlooper
+        github: jlooper
+    videos:
+      - 'youtube:LnzSLgjjCOo'
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2018/01/Boost_Your_Mobile_Apps%E2%80%99_Emotional_Intelligence_with_Machine_Learning_and_NativeScript_Jen_Looper.pdf'
+  -
+    title: 'Be the best You - One developers journey to fight the Imposter Syndrome'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 09:00'
+    speakers:
+      -
+        name: 'Chris Noring'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:H8MjCGpXIes'
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2018/03/Be_the_best_You_-_One_developers_journey_to_fight_the_Imposter_Syndrome_Chris_Noring.pdf'
+  -
+    title: 'Learning Machine Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 10:00'
+    speakers:
+      -
+        name: 'Joel Lord'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qdrsOgJRofs'
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/05/Learning_Machine_Learning_Joel_Lord.pdf'
+  -
+    title: 'Managing asynchrony of the web with TypeScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 10:00'
+    speakers:
+      -
+        name: 'Wekoslav Stefanovski'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Production Hardened Services'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 10:00'
+    speakers:
+      -
+        name: 'Nathaniel Schutta'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/12/Production_Hardened_Services_Nathaniel_Schutta.pdf'
+  -
+    title: 'A New DevOps Model for Achieving Market Agility'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 10:00'
+    speakers:
+      -
+        name: 'Seyhan Baki'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/12/A_New_DevOps_Model_for_Achieving_Market_Agility_Seyhan_Baki.pdf'
+  -
+    title: 'Unleash the Power of Angular Reactive Forms'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 11:30'
+    speakers:
+      -
+        name: 'Nir Kaufman'
+        twitter: nirkaufman
+        github: nirkaufman
+    videos: null
+    slides: null
+  -
+    title: 'GraphQL - where did all my endpoints go?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 11:30'
+    speakers:
+      -
+        name: 'Chris Noring'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building a Front end Pipeline'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 11:30'
+    speakers:
+      -
+        name: 'Nathaniel Schutta'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/12/Building_a_Front_end_Pipeline_Nathaniel_Schutta.pdf'
+  -
+    title: 'Node.js Add-ons for High Performance Numeric Computing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 12:30'
+    speakers:
+      -
+        name: 'Athan Reines'
+        twitter: kgryte
+        github: null
+    videos: null
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/11/Nodejs_Add-ons_for_High_Performance_Numeric_Computing_Athan_Reines.pdf'
+  -
+    title: 'Stencil: The Time for Vanilla Web Components has arrived'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 12:30'
+    speakers:
+      -
+        name: 'Gil Fink'
+        twitter: gilfink
+        github: gilf
+    videos: null
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/11/Stencil_The_Time_for_Vanilla_Web_Components_has_arrived_Gil_Fink.pdf'
+  -
+    title: 'Angular with Maps? It’s Maptastic!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 12:30'
+    speakers:
+      -
+        name: 'Katerina Skroumpelou'
+        twitter: psybercity
+        github: null
+    videos:
+      - 'youtube:MbPPTzO2w58'
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2018/01/Angular_with_Maps_It%E2%80%99s_Maptastic_Katerina_Skroumpelou.pdf'
+  -
+    title: 'Looking At The API Life Cycle Through The Lens Of A Municipal Transit System'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 14:45'
+    speakers:
+      -
+        name: 'Kin Lane'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Functional Programming: What? Why? ... and How?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 16:00'
+    speakers:
+      -
+        name: 'Mahbubur Rahman Khan'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/11/Functional_Programming_What_Why__and_How_Mahbubur_Rahman_Khan.pdf'
+  -
+    title: 'Routing into the Sunset: Advanced Routing with Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 16:00'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos: null
+    slides: null
+  -
+    title: 'Build Your Own Redux!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 16:00'
+    speakers:
+      -
+        name: 'Nir Kaufman'
+        twitter: nirkaufman
+        github: nirkaufman
+    videos: null
+    slides: null
+  -
+    title: 'Automatic Progressive Web Apps using Angular Service Worker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 17:00'
+    speakers:
+      -
+        name: 'Maxim Salnikov'
+        twitter: webmaxru
+        github: webmaxru
+    videos: null
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2017/12/Automatic_Progressive_Web_Apps_using_Angular_Service_Worker_Maxim_Salnikov.pdf'
+  -
+    title: 'Reduxing your React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 17:00'
+    speakers:
+      -
+        name: 'Alex Lakatos'
+        twitter: lakatos88
+        github: AlexLakatos
+    videos: null
+    slides:
+      - 'https://javascript-conference.com/wp-content/uploads/2018/01/Reduxing_your_React_Alex_Lakatos.pdf'
+  -
+    title: 'Building Reusable JavaScript Web Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 09:00'
+    speakers:
+      -
+        name: 'Gil Fink'
+        twitter: gilfink
+        github: gilf
+    videos: null
+    slides: null
+  -
+    title: 'The JavaScript & Node.js Data Science Survival Kit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 09:00'
+    speakers:
+      -
+        name: 'Philipp Burckhardt'
+        twitter: null
+        github: null
+      -
+        name: 'Athan Reines'
+        twitter: kgryte
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Progressive Web Apps using the Angular Service Worker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 09:00'
+    speakers:
+      -
+        name: 'Maxim Salnikov'
+        twitter: webmaxru
+        github: webmaxru
+    videos: null
+    slides: null
+  -
+    title: 'Angular: Architectures and Building-Blocks for modern Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 09:00'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos: null
+    slides: null
+  -
+    title: 'Real world Angular & Redux with NGRX'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-11 09:00'
+    speakers:
+      -
+        name: 'Nir Kaufman'
+        twitter: nirkaufman
+        github: nirkaufman
+    videos: null
+    slides: null

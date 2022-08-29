@@ -1,0 +1,142 @@
+name: 'AlterConf Austin, TX - 2017'
+description: ''
+location: 'Austin, TX'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2017/austin-tx'
+playlist: ''
+from_date: '2017-08-26'
+to_date: '2017-08-26'
+tags: ''
+talks:
+  -
+    title: 'Tackling the Homogeneity of Open Source Communities'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-26 00:00'
+    speakers:
+      -
+        name: 'Gina Helfrich'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Struggles of an Accidental Junior Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-26 00:00'
+    speakers:
+      -
+        name: 'Alyss Noland'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'From "Token" to "Asset": How to use Being Different to your Advantage'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-26 00:00'
+    speakers:
+      -
+        name: 'Janice Omadeke'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Distributing your way to a diverse workforce'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-26 00:00'
+    speakers:
+      -
+        name: 'Katie Sullivan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Breaking Down Barriers to "Hello World"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-26 00:00'
+    speakers:
+      -
+        name: 'Taylor Barnett'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Indigenous Flames: Reclaiming Space, Reclaiming Power through Digital Activism'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-26 00:00'
+    speakers:
+      -
+        name: 'Johnnie Jae'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "But You Don't Look Sick: Navigating the Workplace With an Invisible Disability"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-26 00:00'
+    speakers:
+      -
+        name: 'Jessica Lucci'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '"Looking for Attention": A talk on Self Advocacy and Building Platforms'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-26 00:00'
+    speakers:
+      -
+        name: 'Amy Codes'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Life as a Midwestern Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-26 00:00'
+    speakers:
+      -
+        name: 'Sarah Withee'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The curse of "common knowledge": communicating for clarity and inclusivity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-26 00:00'
+    speakers:
+      -
+        name: 'Yulan Lin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

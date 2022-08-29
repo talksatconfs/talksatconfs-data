@@ -1,0 +1,330 @@
+name: 'VueConf US 2018'
+description: 'Official Vue.js Conference USA'
+location: ''
+venue: ''
+city: 'New Orleans, LA'
+country: 'United States'
+link: 'http://2018.vueconf.us/'
+playlist: 'youtube.com:PLJNLwTPak6dj-HOz4eFrKDJsJSZsgvWPs'
+from_date: '2018-03-26'
+to_date: '2018-03-28'
+tags: ''
+talks:
+  -
+    title: 'The Future of Vue.js in 5 Minutes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:j1EWDbXtbjA'
+    slides: null
+  -
+    title: 'State of Vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Evan You'
+        twitter: youyuxi
+        github: yyx990803
+    videos:
+      - 'youtube:AiF3XOu02-0'
+    slides: null
+  -
+    title: 'How We Do Vue At GitLab'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Jacob Schatz'
+        twitter: jakecodes
+        github: null
+    videos:
+      - 'youtube:EsUS4JX0BBw'
+    slides: null
+  -
+    title: 'Vue in Motion'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Rachel Nabors'
+        twitter: rachelnabors
+        github: null
+    videos:
+      - 'youtube:1kvRMU0114I'
+    slides: null
+  -
+    title: 'Testing Vue Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Edd Yerburgh'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Bohm6Yhaxvo'
+    slides: null
+  -
+    title: 'Serverless Functions and Vue.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Sarah Drasner'
+        twitter: sarah_edo
+        github: sdras
+    videos:
+      - 'youtube:Whn-koel1HI'
+    slides: null
+  -
+    title: VueRx
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'John Lindquist'
+        twitter: johnlindquist
+        github: johnlindquist
+    videos:
+      - 'youtube:_74d-NdeqOI'
+    slides: null
+  -
+    title: 'Create an Engaging Native Mobile App with Vue and NativeScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Jen Looper'
+        twitter: jenlooper
+        github: jlooper
+    videos:
+      - 'youtube:3M7Gd8UF45o'
+    slides: null
+  -
+    title: "7 secret patterns Vue consultants don't want you to know"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Chris Fritz'
+        twitter: chrisvfritz
+        github: chrisvfritz
+    videos:
+      - 'youtube:l22DgeQux20'
+    slides: null
+  -
+    title: 'Agile Design Systems in Vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Miriam Suzanne'
+        twitter: mirisuzanne
+        github: mirisuzanne
+    videos:
+      - 'youtube:f19AtZvQ4gs'
+    slides: null
+  -
+    title: 'Vue & TypeScript Up and Running'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Daniel Rosenwasser'
+        twitter: drosenwasser
+        github: DanielRosenwasser
+    videos:
+      - 'youtube:wDYS6FIXkAc'
+    slides: null
+  -
+    title: 'A React Point of Vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Divya Sasidharan'
+        twitter: shortdiv
+        github: null
+    videos:
+      - 'youtube:5TgvhATYm3Q'
+    slides: null
+  -
+    title: 'Vue & SSR: The best practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Sebastien Chopin'
+        twitter: Atinux
+        github: Atinux
+    videos:
+      - 'youtube:OF3A_arLJ8k'
+    slides: null
+  -
+    title: 'A Short Synopsis of Vue Storybook'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Peter Finn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QshUu4dcbGE'
+    slides: null
+  -
+    title: 'Prototyping with Vue Single File Component'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Pine Wu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gVNekDsgUqU'
+    slides: null
+  -
+    title: 'Build a MiniFlix Clone with Vue Contest'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Dan Zeitman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:A1X5c3eKAwU'
+    slides: null
+  -
+    title: 'Dynamic Store Modules with Vuex'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Adam Bradford'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UOmQLOyjDic'
+    slides: null
+  -
+    title: 'Code Splitting Patterns with Vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Sean Thomas Larkin'
+        twitter: thelarkinn
+        github: thelarkinn
+    videos:
+      - 'youtube:R2J9cTtlBXI'
+    slides: null
+  -
+    title: 'Beyond HTML with Vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Eduardo San Martin Morote'
+        twitter: posva
+        github: posva
+    videos:
+      - 'youtube:Ftp_VtSI0qM'
+    slides: null
+  -
+    title: '40 Hour Plan For UX Proficiency'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Jacob Covey'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LKbsdjbJB6s'
+    slides: null
+  -
+    title: 'Vue with AWS Lambda'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Matt Biilmann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1uxi05FgU1o'
+    slides: null
+  -
+    title: 'Ionic and Vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: 'Mike Hartington'
+        twitter: mhartington
+        github: mhartington
+    videos:
+      - 'youtube:dXxrRXHfBA8'
+    slides: null
+  -
+    title: 'OverVue of Vuetify.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-03-27 00:00'
+    speakers:
+      -
+        name: CJ
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:REW-9jdqITM'
+    slides: null

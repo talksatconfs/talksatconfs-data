@@ -1,0 +1,266 @@
+name: 'JSCamp 2018'
+description: "JSCamp 2018 is a two-day developer-driven conference and workshops, crafted for and by the community. Learn about the latest trends, meet experts and core team members of different frameworks, tools and engines. Let's talk about the Future of JavaScript and the Web."
+location: ''
+venue: ''
+city: Barcelona
+country: Spain
+link: 'https://jscamp.tech/2018/'
+playlist: 'youtube.com:PLB17qI-lepyhGQCeq1bGawXeftOYMZtRj'
+from_date: '2018-07-18'
+to_date: '2018-07-20'
+tags: ''
+talks:
+  -
+    title: 'A Tale of Two Asyncs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-19 09:40'
+    speakers:
+      -
+        name: 'Ashley Williams'
+        twitter: ag_dubs
+        github: ashleygwilliams
+    videos:
+      - 'youtube:Gh3I9JqFAos'
+    slides:
+      - 'https://ashleygwilliams.github.io/a-tale-of-two-asyncs/#1'
+  -
+    title: 'Building a Platform: Webpack and the Future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-19 10:20'
+    speakers:
+      -
+        name: 'Sean Larkin'
+        twitter: TheLarkInn
+        github: thelarkinn
+    videos:
+      - 'youtube:YHH6fWE0AdM'
+    slides:
+      - 'https://docs.google.com/presentation/d/1nE-9fE5Cfe5X0IJUtx4Qt6is06j5v-3b8JB9A37OKcA/edit?usp=sharing'
+  -
+    title: 'Rise above the Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-19 11:20'
+    speakers:
+      -
+        name: 'Mike Hartington'
+        twitter: mhartington
+        github: mhartington
+    videos:
+      - 'youtube:zl9OMrgXoPk'
+    slides:
+      - 'https://speakerdeck.com/mhartington/rise-above-the-framework-jscamp-2018'
+  -
+    title: 'A Tale of Types, Classes, and Maps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-19 12:00'
+    speakers:
+      -
+        name: 'Benedikt Meurer'
+        twitter: bmeurer
+        github: bmeurer
+    videos:
+      - 'youtube:IFWulQnM5E0'
+    slides:
+      - 'https://slidr.io/bmeurer/javascript-engines-a-tale-of-types-classes-and-maps#1'
+  -
+    title: 'Keep Betting On JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-19 14:40'
+    speakers:
+      -
+        name: 'Kyle Simpson'
+        twitter: getify
+        github: getify
+    videos:
+      - 'youtube:lDLQA6lQSFg'
+    slides:
+      - 'https://speakerdeck.com/getify/keep-betting-on-js'
+  -
+    title: 'Understanding client side routing with Vue.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-19 15:20'
+    speakers:
+      -
+        name: 'Hassan Djirdeh'
+        twitter: djirdehh
+        github: djirdehh
+    videos:
+      - 'youtube:YFnimUl8Qjo'
+    slides:
+      - 'https://speakerdeck.com/djirdehh/understanding-client-side-routing-with-vue-dot-js'
+  -
+    title: WebXR
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-19 16:20'
+    speakers:
+      -
+        name: 'Michaela Lehr'
+        twitter: fischaelameer
+        github: Fischaela
+    videos:
+      - 'youtube:DQ9ddFyUv1g'
+    slides:
+      - 'https://www.slideshare.net/geildanke/webxr-a-new-dimension-for-the-web-writing-virtual-and-augmented-reality-apps-with-web-technology'
+  -
+    title: 'Building Real-World Desktop Apps with Electron'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-19 17:00'
+    speakers:
+      -
+        name: 'Anuj Nair'
+        twitter: anujrnair
+        github: AnujRNair
+    videos:
+      - 'youtube:u7WvLTgyyqY'
+    slides:
+      - 'https://speakerdeck.com/anujrnair/building-real-world-desktop-apps-with-electron'
+  -
+    title: 'The Bumpy Road to Universal JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-20 09:40'
+    speakers:
+      -
+        name: 'Johannes Ewald'
+        twitter: jhnnns
+        github: jhnns
+    videos:
+      - 'youtube:r69Z3r4z-Hw'
+    slides:
+      - 'https://peerigon.github.io/talks/2018-07-20-js-camp-barcelona-bumpy-road-universal-javascript/'
+  -
+    title: 'Semantic, Searchable Webapps with Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-20 10:20'
+    speakers:
+      -
+        name: 'Martin Splitt'
+        twitter: g33konaut
+        github: g33konaut
+    videos:
+      - 'youtube:E2lJoVD0Wec'
+    slides: null
+  -
+    title: 'Break Up With Your Frontend Monolith'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-20 11:00'
+    speakers:
+      -
+        name: 'Elisabeth Engel'
+        twitter: _lizzelo_
+        github: null
+    videos:
+      - 'youtube:J30MEXMntLM'
+    slides:
+      - 'https://slides.com/elisabethengel/micro-frontends/'
+  -
+    title: 'Rethinking Enterprise Architectures with Node.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-20 12:00'
+    speakers:
+      -
+        name: 'Kamil Myśliwiec'
+        twitter: kammysliwiec
+        github: kamilmysliwiec
+    videos:
+      - 'youtube:ixz0IefmecI'
+    slides:
+      - 'https://speakerdeck.com/kamilmysliwiec/rethinking-enterprise-architectures-with-node-dot-js'
+  -
+    title: 'Machine Learning in the browser'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-20 12:40'
+    speakers:
+      -
+        name: 'LIAN LI'
+        twitter: Chimney42
+        github: Chimney42
+    videos:
+      - 'youtube:x7TfHH5G8qM'
+    slides:
+      - 'https://slidr.io/Chimney42/machine-learning-in-the-browser'
+  -
+    title: 'The past, present, and future of the Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-20 14:40'
+    speakers:
+      -
+        name: 'Steve Klabnik'
+        twitter: steveklabnik
+        github: steveklabnik
+    videos:
+      - 'youtube:EHzrk1j7z7Q'
+    slides:
+      - 'https://github.com/steveklabnik/jscampbcn2018'
+  -
+    title: 'Service Workers + WebAssembly'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-20 15:20'
+    speakers:
+      -
+        name: 'Kenneth Christiansen'
+        twitter: kennethrohde
+        github: kenchris
+    videos:
+      - 'youtube:h6eIqy46OIk'
+    slides:
+      - 'https://docs.google.com/presentation/d/1fzFU_1xnltIq0yWNfY1WKUZc7VjGE0JLHLOtk09AV1g/edit'
+  -
+    title: 'How does npm design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-20 16:20'
+    speakers:
+      -
+        name: 'Jerry Gabra'
+        twitter: gabrrra
+        github: gabra
+    videos:
+      - 'youtube:4RlIPl8mySw'
+    slides:
+      - 'https://github.com/gabra/talks/blob/master/2018-07-jscamp-barcelona/slides.pdf'
+  -
+    title: "How to Create 'Vuetiful' Data-Driven User Interfaces"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-07-20 16:40'
+    speakers:
+      -
+        name: 'Evan Schultz'
+        twitter: e_p82
+        github: e-schultz
+    videos:
+      - 'youtube:G8-jEotjYpQ'
+    slides:
+      - 'https://www.slideshare.net/EvanSchultz1/createing-vuetiful-datadriven-user-interfaces'

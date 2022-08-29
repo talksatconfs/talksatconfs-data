@@ -1,0 +1,1296 @@
+name: 'RailsConf 2017'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2017-04-25'
+to_date: '2017-04-27'
+tags: ''
+talks:
+  -
+    title: 'Beyond Validates_Presence_of: Ensuring Eventual Consistency'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Amy Unger'
+        twitter: cdwort
+        github: cdwort
+    videos:
+      - 'youtube:QpbQpwXhrSI'
+    slides: null
+  -
+    title: 'Deep Dive into Docker Containers for Rails Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Christopher Rigor'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2c4fvXKec7Q'
+    slides: null
+  -
+    title: 'Keynote: Gen Z and the Future of Technology'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Pamela Pavliscak'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iN1nOTQgmCY'
+    slides: null
+  -
+    title: 'Uncertain Times: Securing Rails Apps and User Data'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Krista Nelson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rSuya_TFYso'
+    slides: null
+  -
+    title: 'Opening Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'David Heinemeier Hansson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Cx6aGMC6MjU'
+    slides: null
+  -
+    title: 'High Performance Political Revolutions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Braulio Carreno'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fMcSPXMt0o0'
+    slides: null
+  -
+    title: 'Warning: May Be Habit Forming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Nickolas Means'
+        twitter: nmeans
+        github: null
+    videos:
+      - 'youtube:xT_YaduPYlk'
+    slides: null
+  -
+    title: '​Postgres at Any Scale​'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Will Leinweber'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_wU2dglywAU'
+    slides: null
+  -
+    title: 'Goldilocks And The Three Code Reviews'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Vaidehi Joshi'
+        twitter: vaidehijoshi
+        github: vaidehijoshi
+    videos:
+      - 'youtube:-6EzycFNwzY'
+    slides: null
+  -
+    title: 'To Code Is Human'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Don Werve'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yc8rYrBABTQ'
+    slides: null
+  -
+    title: 'Outside the (Web) Box: Using Ruby for Other Protocols'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Danielle Adams'
+        twitter: adamzdanielle
+        github: danielleadams
+    videos:
+      - 'youtube:3tfMzhxYK2M'
+    slides: null
+  -
+    title: 'Reporting on Rails - ActiveRecord and ROLAP Working Together'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Tony Drake'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MczzCfTQGfU'
+    slides: null
+  -
+    title: 'Teaching RSpec to Play nice with Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Sam Phippen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jyPfrK1y1nc'
+    slides: null
+  -
+    title: 'Building Rails ActionDispatch::SystemTestCase Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Eileen Uchitelle'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sSn4B8orX70'
+    slides: null
+  -
+    title: 'Observing Chance: A Gold Master Test in Practice'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Jake Worth'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:D9awDBUQvr4'
+    slides: null
+  -
+    title: 'The Secret Life of SQL: How to Optimize Database Performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Bryana Knight'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BuDWWadCqIw'
+    slides: null
+  -
+    title: 'Rough to Fine: Programming Lessons from Woodworking'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Mark Simoneau'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:962UBsaLjtw'
+    slides: null
+  -
+    title: 'Perusing the Rails Source Code - A Beginners Guide'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Alex Kitchens'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Q_MpGRfnY5s'
+    slides: null
+  -
+    title: 'React on Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Jo Cranford'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GW9qgIYfzEI'
+    slides: null
+  -
+    title: 'Keynote: Marco Rogers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Marco Rogers'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:g6fBRwi6cqc'
+    slides: null
+  -
+    title: 'Distributed & Local: Getting the Best of Both Worlds'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Ben Klang'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BdH8znxkNjI'
+    slides: null
+  -
+    title: 'Bayes is BAE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Richard Schneeman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bQSzZrDDV80'
+    slides: null
+  -
+    title: 'The Arcane Art of Error Handling'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Brad Urani'
+        twitter: bradurani
+        github: null
+    videos:
+      - 'youtube:9R4wlyWBP1k'
+    slides: null
+  -
+    title: 'Architecture: The Next Generation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Taylor Jones'
+        twitter: hiimtaylorjones
+        github: null
+    videos:
+      - 'youtube:lEVsTVp7UtQ'
+    slides: null
+  -
+    title: 'The Art & Craft of Secrets: Using the Cryptographic Toolbox'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Michael Swieton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6KAYq9vw_pY'
+    slides: null
+  -
+    title: 'Managing Unmanageable Complexity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Patrick Joyce'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yVgrNtz7KpA'
+    slides: null
+  -
+    title: 'What’s my App *Really* Doing in Production?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Daniel Azuma'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:92CoJhv3tPU'
+    slides: null
+  -
+    title: 'Exploring the History of a 12-year-old Rails Application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Nathan Walls'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oh3OZ7GYuK0'
+    slides: null
+  -
+    title: 'Decouple Your Models with Form Objects'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Andrew Markle'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:d9vMENoqxEE'
+    slides: null
+  -
+    title: '​Rails APIs: The Next Generation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Derek Carter'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iTbTz8_ztIM'
+    slides: null
+  -
+    title: 'Implementing the Web Speech API for Voice Data Entry'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Cameron Jacoby'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:e5dR05QGzXA'
+    slides: null
+  -
+    title: 'Rails to Phoenix: How Elixir can level-you-up in Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Christian Koch'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fjrD0_OempI'
+    slides: null
+  -
+    title: "Tailoring Mentorship: Achieving the Best Fit\L"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Jonathan Wallace'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:a9RiUIfIdx8'
+    slides: null
+  -
+    title: 'Becoming an engineering leader'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Rebecca Miller-Webster'
+        twitter: null
+        github: null
+      -
+        name: 'Neha Batra'
+        twitter: null
+        github: null
+      -
+        name: 'Abel Martin'
+        twitter: null
+        github: null
+      -
+        name: 'Shay Howe'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3wzCTUdaiwg'
+    slides: null
+  -
+    title: 'Predicting Titanic Survivors with Machine Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Ju Liu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4l-aB_Sk41Y'
+    slides: null
+  -
+    title: 'Cultivating a Culture of Continuous Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Dave Ott'
+        twitter: null
+        github: null
+      -
+        name: 'Dennis Eusebio'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:awTIU0K6nb4'
+    slides: null
+  -
+    title: 'React Native & Rails, A Single Codebase for Web & Mobile'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Ben Dixon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Q66tYU6ni48'
+    slides: null
+  -
+    title: 'Developer Happiness on the Front End with Elm'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Kevin Yank'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:C2npla7DwVk'
+    slides: null
+  -
+    title: 'Inventing Friends: ActionCable + AVS = <3'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Jonan Scheffler'
+        twitter: null
+        github: null
+      -
+        name: 'Julian Cheal'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7sqYy8G0Hrg'
+    slides: null
+  -
+    title: 'Lightning Talks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:KGi9wRHWvB0'
+    slides: null
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Justin Searls'
+        twitter: searls
+        github: searls
+    videos:
+      - 'youtube:V4fnzHxHXMI'
+    slides: null
+  -
+    title: "Ruby's Killer Feature: The Community"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Zuri Hunter'
+        twitter: null
+        github: null
+      -
+        name: 'Christopher Sexton'
+        twitter: null
+        github: null
+      -
+        name: 'Sean Marcia'
+        twitter: null
+        github: null
+      -
+        name: 'Latoya Allen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6w_cSs9weWw'
+    slides: null
+  -
+    title: 'Supporting Mental Health as an Effective Leader'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Jesse James'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UR-J7O5ZJ4Q'
+    slides: null
+  -
+    title: "Leading When You're Not in Charge"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Scott Lesser'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:m-WDmNoQmkg'
+    slides: null
+  -
+    title: 'Upgrading a big application to Rails 5'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Rafael França'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:I-2Xy3RS1ns'
+    slides: null
+  -
+    title: 'Do Your Views Know Too Much?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Jason Charnes'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9Hq9kL9pXuI'
+    slides: null
+  -
+    title: 'A Survey of Surprisingly Difficult Things'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Alex Boster'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:aUk9981C-fQ'
+    slides: null
+  -
+    title: 'The Good Bad Bug: Learning to Embrace Mistakes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Jessica Rudder'
+        twitter: jessrudder
+        github: JessRudder
+    videos:
+      - 'youtube:NgGloe7hLBU'
+    slides: null
+  -
+    title: 'In Relentless Pursuit of REST'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Derek Prior'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HctYHe-YjnE'
+    slides: null
+  -
+    title: "Syntax Isn't Everything: NLP for Rubyists"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Aja Hammerly'
+        twitter: the_thagomizer
+        github: null
+    videos:
+      - 'youtube:Mmn20irnaS8'
+    slides: null
+  -
+    title: 'Rack ‘em, Stack ‘em Web Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Jason Clark'
+        twitter: riceboyler
+        github: riceboyler
+    videos:
+      - 'youtube:3PnUV9QzB0g'
+    slides: null
+  -
+    title: "Accessibility (when you don't have time to read the manual)"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Katie Walsh'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5PTCbwzhwug'
+    slides: null
+  -
+    title: 'The Effective Remote Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'David Copeland'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zW7_AteiM4o'
+    slides: null
+  -
+    title: 'Practical Debugging'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Kevin Deisz'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oi4h30chCz8'
+    slides: null
+  -
+    title: 'Closing Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Aaron Patterson'
+        twitter: tenderlove
+        github: tenderlove
+    videos:
+      - 'youtube:GnCJO8Ax1qg'
+    slides: null
+  -
+    title: 'Whose turn is it anyway? Augmented reality board games.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Dave Tapley'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:01CFyu3SuIo'
+    slides: null
+  -
+    title: "Your App Server Config is Wrong\L"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Nate Berkopec'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:itbExaPqNAE'
+    slides: null
+  -
+    title: 'Is it Food? An Introduction to Machine Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Matthew Mongeau'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8G709hKkthY'
+    slides: null
+  -
+    title: '​Recurring Background Jobs with Sidekiq-scheduler'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Gianfranco Zas'
+        twitter: null
+        github: null
+      -
+        name: 'Andreas Fast'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OU4jFXoVjZo'
+    slides: null
+  -
+    title: 'Panel: Better Hiring Practices for Fun and Profit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Cecy Correa'
+        twitter: cecycorrea
+        github: null
+      -
+        name: 'Justin Herrick'
+        twitter: null
+        github: null
+      -
+        name: 'Heather Corallo'
+        twitter: null
+        github: null
+      -
+        name: 'Pamela O. Vickers'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nv94h-1n3FY'
+    slides: null
+  -
+    title: "It's Dangerous to go Alone: Building Teams like an Organizer"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Colin Fleming'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:T3gEORIjKQo'
+    slides: null
+  -
+    title: "We've Always Been Here: Women Changemakers in Tech"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Hilary Stohs-Krause'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:T3ojRN4CT7I'
+    slides: null
+  -
+    title: 'Understanding ‘Spoon Theory’ and Preventing Burnout'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Jameson Hampton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rPtUR4kDXeY'
+    slides: null
+  -
+    title: '​Introducing Helix: High-Performance Ruby Made Easy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Godfrey Chan'
+        twitter: chancancode
+        github: null
+      -
+        name: 'Yehuda Katz'
+        twitter: wycats
+        github: null
+    videos:
+      - 'youtube:lBapt5YDDvg'
+    slides: null
+  -
+    title: 'Why Software Engineers Disagree About Everything'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Haseeb Qureshi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:x07q6V4VXC8'
+    slides: null
+  -
+    title: 'An Optimistic Proposal for Making Horrible Code... Bearable'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Joe Mastey'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hFuzIWz6Ynk'
+    slides: null
+  -
+    title: 'A Clear-Eyed Look at Distributed Teams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Glenn Vanderburg'
+        twitter: null
+        github: null
+      -
+        name: 'Maria Gutierrez'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:h8MLXbdOyNs'
+    slides: null
+  -
+    title: 'Panel: Performance... performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Eileen Uchitelle'
+        twitter: null
+        github: null
+      -
+        name: 'Sam Saffron'
+        twitter: null
+        github: null
+      -
+        name: 'Nate Berkopec'
+        twitter: null
+        github: null
+      -
+        name: 'Rafael França'
+        twitter: null
+        github: null
+      -
+        name: 'Richard Schneeman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SMxlblLe_Io'
+    slides: null
+  -
+    title: 'Built to last: A domain-driven approach to beautiful systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Andrew Hao'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:52qChRS4M0Y'
+    slides: null
+  -
+    title: 'Google Cloud <3 Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Remi Taylor'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MgJlwg2BrgY'
+    slides: null
+  -
+    title: 'Rails 5.1: Awesome Features and Breaking Changes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Claudio B'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9CWjFtCbrrM'
+    slides: null
+  -
+    title: 'A Deep Dive Into Sessions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Justin Weiss'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mqUbnZIY3OQ'
+    slides: null
+  -
+    title: 'Breaking Bad - What Happens When You Defy Conventions?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Christoph Gockel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gLHaa5oeyLc'
+    slides: null
+  -
+    title: '​Keeping Code Style Sanity in a 10-year-old Codebase'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Gabi Stefanini'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:84upQG0Ilq8'
+    slides: null
+  -
+    title: 'Portable Sessions with JSON Web Tokens'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Lance Ivy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:s7G2VnuMVEw'
+    slides: null
+  -
+    title: 'Panel: Developer Happiness through Getting Involved'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Terian Koscik'
+        twitter: null
+        github: null
+      -
+        name: 'Sean Marcia'
+        twitter: null
+        github: null
+      -
+        name: 'Polly Schandorf'
+        twitter: null
+        github: null
+      -
+        name: 'Sarah Mei'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GOSla2Nl0Es'
+    slides: null
+  -
+    title: 'Data Corruption: Stop the Evil Tribbles'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Betsy Haibel'
+        twitter: betsythemuffin
+        github: null
+    videos:
+      - 'youtube:kA8aR1ffoOg'
+    slides: null
+  -
+    title: 'Distributed Tracing: From Theory to Practice'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Stella Cotton'
+        twitter: practice_cactus
+        github: stellacotton
+    videos:
+      - 'youtube:-7i02Faw_KU'
+    slides: null
+  -
+    title: 'Open Sourcing: Real Talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Andrew Evans'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:aOyaYmUTzZI'
+    slides: null
+  -
+    title: 'Processing Streaming Data at a Large Scale with Kafka'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Thijs Cadier'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-NMDqqW1uCE'
+    slides: null
+  -
+    title: 'Sorting Rubyists'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Caleb Thompson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:KWoEt64UG_A'
+    slides: null
+  -
+    title: 'What Comes After SOLID? Seeking Holistic Software Quality'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'Ariel Caplan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5wYcD1nfnWw'
+    slides: null
+  -
+    title: '5 Years of Rails Scaling to 80k RPS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-27 00:00'
+    speakers:
+      -
+        name: 'Simon Eskildsen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4dWJahMi5NI'
+    slides: null
+  -
+    title: 'Tricks and treats for new developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-25 00:00'
+    speakers:
+      -
+        name: 'David Padilla'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BZbW8FAvf00'
+    slides: null
+  -
+    title: 'How to Write Better Code Using Mutation Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'John Backus'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:uB7m9T7ymn8'
+    slides: null
+  -
+    title: 'Bebop to the Top - The Jazz Band As A Guide To Leadership'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-26 00:00'
+    speakers:
+      -
+        name: 'Michael Cain'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:R0AY4ILjJQo'
+    slides: null

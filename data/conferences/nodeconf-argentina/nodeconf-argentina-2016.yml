@@ -1,0 +1,277 @@
+name: 'NodeConf Argentina 2016'
+description: 'NodeConf Argentina is among the first international Node.js conferences taking place in Latin American territory, and a not-for-profit community effort to push Node.js forward in Argentina and Latin America as a whole. This year’s conference will be a two–day event in sunny Buenos Aires, Argentina, held during November 17th, 18th & 19th. Both action-packed days will be comprised of internationally acclaimed, regional, and local speakers. We are expecting Noders, JavaScripters, front-enders, and other programmers from all over the world. Our topmost concern is to guarantee the most enjoyable experience to our attendees, while providing a safe and welcoming environment for everyone.'
+location: ''
+venue: ''
+city: 'Buenos Aires'
+country: Argentina
+link: 'https://2016.nodeconf.com.ar/'
+playlist: 'youtube:PLz6xH_GrBpquZgdVzEX4Bix0oxHQlZfwm'
+from_date: '2016-11-17'
+to_date: '2016-11-19'
+tags: ''
+talks:
+  -
+    title: 'JavaScript and Interactive Installations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-11-18 00:00'
+    speakers:
+      -
+        name: 'Hugh Kennedy'
+        twitter: hughskennedy
+        github: null
+    videos:
+      - 'youtube:RGAWWhleXMY'
+    slides: null
+  -
+    title: RegExp.prototype.unicode
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-11-18 00:00'
+    speakers:
+      -
+        name: 'Mathias Bynens'
+        twitter: mathias
+        github: mathiasbynens
+    videos:
+      - 'youtube:CYaxhbOqkto'
+    slides: null
+  -
+    title: 'The code is data and vice versa'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-11-18 00:00'
+    speakers:
+      -
+        name: 'Hernan Rajchert'
+        twitter: sherman3ero
+        github: null
+    videos:
+      - 'youtube:DKliwV3QdnU'
+    slides: null
+  -
+    title: 'Ethereum for node.js devs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-11-18 00:00'
+    speakers:
+      -
+        name: 'Raul Pino'
+        twitter: p1nox
+        github: null
+    videos:
+      - 'youtube:fonQGjC-Cs0'
+    slides: null
+  -
+    title: 'Nodejs microservices. From Zero to Hero.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-11-18 00:00'
+    speakers:
+      -
+        name: 'Erich Oliveira'
+        twitter: oliveira_erich
+        github: null
+    videos:
+      - 'youtube:JoJjEbdpL-0'
+    slides: null
+  -
+    title: 'The dirty secrets of building large, highly available, scalable HTTP APIs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-11-18 00:00'
+    speakers:
+      -
+        name: 'Damian Schenkelman'
+        twitter: dschenkelman
+        github: null
+    videos:
+      - 'youtube:JDgP76Bxm_I'
+    slides: null
+  -
+    title: 'Empathetic communication: why vulnerability is the key to collaboration'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-11-18 00:00'
+    speakers:
+      -
+        name: 'Sharon Steed'
+        twitter: sharonsteed
+        github: null
+    videos:
+      - 'youtube:19Y9zEvHVjI'
+    slides: null
+  -
+    title: 'Memory Profiling for Mere Mortals'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-11-19 00:00'
+    speakers:
+      -
+        name: 'Thorsten Lorenz'
+        twitter: thlorenz
+        github: null
+    videos:
+      - 'youtube:taADm6ndvVo'
+    slides: null
+  -
+    title: 'Presence, Personality & Pulse - Enlivening Experiences With Ambient Data'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-11-19 00:00'
+    speakers:
+      -
+        name: 'Anton McConville'
+        twitter: antonmc
+        github: null
+    videos:
+      - 'youtube:rP5_a0apgeU'
+    slides: null
+  -
+    title: 'Now and Next.js - Deploying JavaScript unicorns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-11-19 00:00'
+    speakers:
+      -
+        name: 'Guillermo Rauch'
+        twitter: rauchg
+        github: rauchg
+    videos: null
+    slides: null
+  -
+    title: 'On Writing Friendly and Welcoming Documentation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-11-19 00:00'
+    speakers:
+      -
+        name: 'Tracy Osborn'
+        twitter: limedaring
+        github: null
+    videos:
+      - 'youtube:jYlPSVzKfVI'
+    slides: null
+  -
+    title: 'Node on the Desktop: Building Apps with Electron v1'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-11-19 00:00'
+    speakers:
+      -
+        name: 'Felix Rieseberg'
+        twitter: felixrieseberg
+        github: felixrieseberg
+    videos:
+      - 'youtube:dEBQPFLd2H4'
+    slides: null
+  -
+    title: 'Kill all humans – Automate npm releases and dependency updates'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-11-19 00:00'
+    speakers:
+      -
+        name: 'Stephan Bönnemann'
+        twitter: boennemann
+        github: null
+    videos:
+      - 'youtube:BYbxsfohXAo'
+    slides: null
+  -
+    title: 'Internet of Peers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-11-19 00:00'
+    speakers:
+      -
+        name: 'Mathias Buss'
+        twitter: mafintosh
+        github: null
+    videos:
+      - 'youtube:1qzDiAg4VGk'
+    slides: null
+  -
+    title: 'Continuous Security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-11-19 00:00'
+    speakers:
+      -
+        name: 'Adam Baldwin'
+        twitter: adam_baldwin
+        github: null
+    videos:
+      - 'youtube:AGJV4PgZXns'
+    slides: null
+  -
+    title: 'Real world Electron: Building Cross-platform desktop apps with JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-11-19 00:00'
+    speakers:
+      -
+        name: 'Feross Aboukhadijeh'
+        twitter: feross
+        github: feross
+    videos:
+      - 'youtube:YLExGgEnbFY'
+    slides: null
+  -
+    title: Micro(hapi)ness
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-11-19 00:00'
+    speakers:
+      -
+        name: 'Diego Paez'
+        twitter: carax
+        github: null
+    videos:
+      - 'youtube:X5vqFuNzWCE'
+    slides: null
+  -
+    title: 'Hacking your Nintendo with JavaScript.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-11-19 00:00'
+    speakers:
+      -
+        name: 'Michael Matuzak'
+        twitter: mmatuzak
+        github: null
+    videos:
+      - 'youtube:VKplJCVZua8'
+    slides: null
+  -
+    title: 'Fun with webgl'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-11-19 00:00'
+    speakers:
+      -
+        name: 'James Halliday'
+        twitter: substack
+        github: null
+    videos:
+      - 'youtube:Aq7diSfU9Cc'
+    slides: null

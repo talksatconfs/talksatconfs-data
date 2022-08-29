@@ -1,0 +1,25 @@
+name: 'Java Fest 2020'
+description: 'New professional Java event in Ukraine'
+location: ''
+venue: ''
+city: Kyiv
+country: Ukraine
+link: 'https://javafest.com.ua/indexe.html'
+playlist: ''
+from_date: '2020-03-21'
+to_date: '2020-03-21'
+tags: ''
+talks:
+  -
+    title: 'Bootiful Reactive Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Mario Gray'
+        twitter: mariogray
+        github: Mario5Gray
+    videos: null
+    slides: null

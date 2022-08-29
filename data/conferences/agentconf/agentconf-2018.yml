@@ -1,0 +1,226 @@
+name: 'AgentConf 2018'
+description: 'Experts and industry leaders come together to showcase their work in ReactJS, React Native and more.'
+location: ''
+venue: ''
+city: Dornbirn
+country: Austria
+link: 'https://2018.agent.sh/'
+playlist: 'youtube:PL02Kht_parVnw9clOwWfWfhK_OhFYFdQp'
+from_date: '2018-01-25'
+to_date: '2018-01-28'
+tags: ''
+talks:
+  -
+    title: 'I want you to contribute to open source'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 09:00'
+    speakers:
+      -
+        name: 'Max Stoiber'
+        twitter: mxstbr
+        github: mxstbr
+    videos:
+      - 'youtube:PUPEptN5MtM'
+    slides: null
+  -
+    title: 'Folding Space and Time'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 09:45'
+    speakers:
+      -
+        name: 'Guillermo Rauch'
+        twitter: rauchg
+        github: rauchg
+      -
+        name: 'Leo Lamprecht'
+        twitter: notquiteleo
+        github: null
+    videos:
+      - 'youtube:mdKb_hDDqfA'
+    slides: null
+  -
+    title: 'Write Queries, Not Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 11:15'
+    speakers:
+      -
+        name: 'Peggy Rayzis'
+        twitter: peggyrayzis
+        github: peggyrayzis
+    videos:
+      - 'youtube:Ak4cvV1ejOw'
+    slides: null
+  -
+    title: 'The Complete Yarn Workflow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 12:00'
+    speakers:
+      -
+        name: 'Kaylie Alexa Kwon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0JIeUdLaBTI'
+    slides: null
+  -
+    title: 'Make backend devs jealous of your test suite'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 14:15'
+    speakers:
+      -
+        name: 'Carly Litchfield'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:URvabqUkVxg'
+    slides: null
+  -
+    title: 'Make Linting Great Again'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 15:00'
+    speakers:
+      -
+        name: 'Andrey Okonetchnikov'
+        twitter: okonetchnikov
+        github: okonet
+    videos:
+      - 'youtube:-mhY7e-EsC4'
+    slides: null
+  -
+    title: 'An agnostic components design system for React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 16:15'
+    speakers:
+      -
+        name: 'Javi Velasco'
+        twitter: javivelasco
+        github: javivelasco
+    videos:
+      - 'youtube:QT07wWC3PdY'
+    slides: null
+  -
+    title: "Your brain doesn't have a fix flag"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-26 09:00'
+    speakers:
+      -
+        name: 'Sara Vieira'
+        twitter: NikkitaFTW
+        github: alexnm
+    videos:
+      - 'youtube:bovBQtB_PDo'
+    slides: null
+  -
+    title: 'Extending Redux in the Server Side'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-26 09:45'
+    speakers:
+      -
+        name: 'Nacho Martín'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Zfu0teB90nE'
+    slides: null
+  -
+    title: 'What’s inside of TurboFan?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-26 11:00'
+    speakers:
+      -
+        name: 'Benedikt Meurer'
+        twitter: bmeurer
+        github: bmeurer
+    videos:
+      - 'youtube:Eowsw8XXVCQ'
+    slides: null
+  -
+    title: 'Go home (or skiing) early. The joy of transparent reactivity.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-26 11:45'
+    speakers:
+      -
+        name: 'Michel Weststrate'
+        twitter: mweststrate
+        github: mweststrate
+    videos:
+      - 'youtube:9Lfs0GwWw1g'
+    slides: null
+  -
+    title: 'void* is the new var'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-26 14:00'
+    speakers:
+      -
+        name: 'Emil Sjölander'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:j1csBgagylk'
+    slides: null
+  -
+    title: 'React state management in a GraphQL era'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-26 14:45'
+    speakers:
+      -
+        name: Kitze
+        twitter: thekitze
+        github: kitze
+    videos:
+      - 'youtube:zDgHiRuIAZ4'
+    slides: null
+  -
+    title: 'Lightning Fast React Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-26 16:00'
+    speakers:
+      -
+        name: 'Sia Karamalegos'
+        twitter: thegreengreek
+        github: siakaramalegos
+    videos:
+      - 'youtube:5WxdSZKqe5E'
+    slides: null
+  -
+    title: 'Bot Of The United States'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-26 16:45'
+    speakers:
+      -
+        name: 'Asim Hussain'
+        twitter: jawache
+        github: jawache
+    videos:
+      - 'youtube:cK7YetVGCKQ'
+    slides: null

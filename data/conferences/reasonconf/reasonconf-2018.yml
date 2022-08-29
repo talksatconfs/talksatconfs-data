@@ -1,0 +1,180 @@
+name: 'ReasonConf 2018'
+description: 'Reason is the next big thing and it is time to bring the community together. Come and learn about the language and get inspired for innovation. We want to motivate you to add Reason & OCaml to your professional toolbelt and make you feel comfortable in the ecosystem. This conference is aiming for a well-balanced schedule with a practical, social and theoretical context.'
+location: ''
+venue: ''
+city: Vienna
+country: Austria
+link: 'https://2018.reason-conf.com/'
+playlist: 'youtube.com:PLDLhOs9UV9w_EmmglGQAr6gVnGMhPdUD0'
+from_date: '2018-05-11'
+to_date: '2018-05-13'
+tags: ''
+talks:
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Cheng Lou'
+        twitter: _chenglou
+        github: chenglou
+    videos:
+      - 'youtube:ADMeIhjaKnQ'
+    slides: null
+  -
+    title: 'ReasonReact and local state'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Cristiano Calcagno'
+        twitter: ccrisccris
+        github: cristianoc
+    videos:
+      - 'youtube:X0ojn8A0ByE'
+    slides: null
+  -
+    title: 'Building inclusive Open Source communities'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Laura Gaetano'
+        twitter: alicetragedy
+        github: alicetragedy
+    videos:
+      - 'youtube:dUCErIbL_r4'
+    slides: null
+  -
+    title: 'Down the WebAssembly rabbit hole'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Sander Spies'
+        twitter: Sander_Spies
+        github: SanderSpies
+    videos:
+      - 'youtube:v4MHUbIWNZ8'
+    slides: null
+  -
+    title: 'State of the Reason Editor integration'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Javier Chávarri'
+        twitter: javierwchavarri
+        github: jchavarri
+    videos:
+      - 'youtube:DSBjt5bORck'
+    slides: null
+  -
+    title: 'Using Reason in traditional Enterprises'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Roman Schiefer'
+        twitter: RSchiefer
+        github: RSchiefer
+    videos:
+      - 'youtube:4NUop_F7HkM'
+    slides: null
+  -
+    title: 'Reason coming from F#'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Lance Harper'
+        twitter: null
+        github: lanceharper
+    videos:
+      - 'youtube:qvuRlZgDLiQ'
+    slides: null
+  -
+    title: 'Practical Interpretation of Code Formatting'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Maxim Valcke'
+        twitter: _iwan_refmt
+        github: iwankaramazow
+    videos:
+      - 'youtube:jzJVhYesJUc'
+    slides: null
+  -
+    title: 'Having your cake and eating it too — GraphQL in Reason'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Sean Grove'
+        twitter: sgrove
+        github: sgrove
+    videos:
+      - 'youtube:OT7xOpPCGds'
+    slides: null
+  -
+    title: 'Building native Node.js addons in Reason'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Vladimir Kurchatkin'
+        twitter: vkurchatkin
+        github: vkurchatkin
+    videos:
+      - 'youtube:EEIGi1lP-v0'
+    slides: null
+  -
+    title: 'What’s not to love about Reason?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Keira Hodgkison'
+        twitter: keirasaid
+        github: keirah
+    videos:
+      - 'youtube:4xr0WE49eik'
+    slides: null
+  -
+    title: 'Why We’re Afraid of Change'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-05-12 00:00'
+    speakers:
+      -
+        name: 'Jared Forsyth'
+        twitter: jaredforsyth
+        github: jaredly
+    videos:
+      - 'youtube:5Sl5C-5fX1M'
+    slides: null

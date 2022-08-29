@@ -1,0 +1,446 @@
+name: '!!Con 2017'
+description: ''
+location: 'New York City'
+venue: ''
+city: ''
+country: ''
+link: 'http://bangbangcon.com/2017/'
+playlist: ''
+from_date: '2017-05-06'
+to_date: '2017-05-07'
+tags: ''
+talks:
+  -
+    title: 'Where Are All the Space Robots?!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Lisa Ballard'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cfNErhM3vXI'
+    slides: null
+  -
+    title: 'Serious programming with jq?! A practical and purely functional programming language!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Charles Chamberlain'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PS_9pyIASvQ'
+    slides: null
+  -
+    title: 'PUSH THE BUTTON! 🔴 Designing a fun game where the only input is a BIG RED BUTTON! 🔴 !!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Mahtab Sabet'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:KqEc2Ek4GzA'
+    slides: null
+  -
+    title: 'What Alien Invaders, Birds, and Computer Simulations have in Common: Flocking!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jan Mitsuko Cash'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Q52oYMO962w'
+    slides: null
+  -
+    title: 'Finding Friends in High Dimensions: Locality-Sensitive Hashing For Fun and Friendliness!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Aaron Levin'
+        twitter: aaronmblevin
+        github: aaronlevin
+    videos:
+      - 'youtube:kKRvEJrvvso'
+    slides: null
+  -
+    title: 'Synthesizing Video and Turning it into Music!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jes Wolfe!'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nwsg-ZTRRoI'
+    slides: null
+  -
+    title: 'Om! Nom! Nash!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'David Turner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RHg2JIvoaq0'
+    slides: null
+  -
+    title: 'The TOP 5 Queer Feminist Cyberpunk Manifestos!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jean Cochrane'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5GiQovHaT_g'
+    slides: null
+  -
+    title: 'Closing Remarks: The Origin Story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Erty Seidohl'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gdIrdkSIND8'
+    slides: null
+  -
+    title: 'A Punch Card ate my Program!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Walt Mankowski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PF6JEK0BpPU'
+    slides: null
+  -
+    title: 'Making Mushrooms Glow!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Bomani McClendon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:T75FvUDirNM'
+    slides: null
+  -
+    title: 'Interpolation Search Can Be Fast, in Some Situations, Sometimes, If You Try!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Ruchir Khaitan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RJU2cXvQ9po'
+    slides: null
+  -
+    title: 'I wrote to a dead address in a deleted PDF and now I know where all the airplanes are!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jason McIntosh'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CGrwWrsVAFs'
+    slides: null
+  -
+    title: 'Keynote - We Are What We Celebrate: The Joy, Excitement, and Surprise of Who is Making Things'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Limor Fried'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:w9XsWeU5PZA'
+    slides: null
+  -
+    title: 'Keynote - Cyborgs Unite!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Karen Sandler'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:z2R97v9n4pI'
+    slides: null
+  -
+    title: 'I got the computer to find words with good anagrams and throw away the boring ones!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Mark Dominus'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VXW_V5iishY'
+    slides: null
+  -
+    title: 'Islamic Geometry: Hankin’s Polygons in Contact Algorithm!!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Yomna Nasser'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ld4gpQnaziU'
+    slides: null
+  -
+    title: 'How Merkle Trees Enable the Decentralized Web!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Tara Vancil'
+        twitter: taravancil
+        github: taravancil
+    videos:
+      - 'youtube:3giNelTfeAk'
+    slides: null
+  -
+    title: 'Corruption in the Data Center! TCP can fail to keep your data safe!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Evan Jones'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OKg9RI6IkV8'
+    slides: null
+  -
+    title: 'The emoji that Killed Chrome!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Julian Squires'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UE-fJjMasec'
+    slides: null
+  -
+    title: 'DHCP: IT’S MOSTLY YELLING!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Mindy Preston'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:enRY9jd0IJw'
+    slides: null
+  -
+    title: 'Why So Loud! Geeking Out On Airline Data, Physics And Mapping'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Ewan Dennis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DqBUovYR7Og'
+    slides: null
+  -
+    title: 'How do Keyboards Work? HIDing, in Plain Sight!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Scott Vokes'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1v4Qwg41GCg'
+    slides: null
+  -
+    title: 'HDR Photography in Microsoft Excel?!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Kevin Chen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bkQJdaGGVM8'
+    slides: null
+  -
+    title: 'What the heck time is it?!?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Joel Potischman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MDmNvVG9AnQ'
+    slides: null
+  -
+    title: 'No battery, no (watch) life!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Michael Kwan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2c1I7-qWWWI'
+    slides: null
+  -
+    title: 'Writing NES Games! with Assembly!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Christian Joudrey'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IbS7uEsHV_A'
+    slides: null
+  -
+    title: 'ENHANCE! Upscaling Images with Neural Networks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Geoffrey Litt'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RhUmSeko1ZE'
+    slides: null
+  -
+    title: 'Glk! A Universal User Interface! for Interactive Fiction!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Andrew Plotkin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FhVob_sRqQk'
+    slides: null
+  -
+    title: 'Simulated Gravity Comes from Within!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Paul Frazee'
+        twitter: pfrazee
+        github: pfrazee
+    videos:
+      - 'youtube:BhNw5_UyAhU'
+    slides: null
+  -
+    title: 'BEEP!! See AppleSoft BASIC and 6502 assembly language written on an actual Apple IIc from the 80s! Fresh on startup with no software installed!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Richard Harrington'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DY4t9IHFD4E'
+    slides: null

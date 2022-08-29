@@ -1,0 +1,223 @@
+name: 'JSConf AU 2018'
+description: 'A two-day conference for JavaScript enthusiasts, pushing technology beyond its boundaries. From the community, for the community. A part of global JSConf Family.'
+location: ''
+venue: ''
+city: Melbourne
+country: Australia
+link: 'https://2018.jsconfau.com/'
+playlist: 'youtube.com:PLZriQCloF6GDuXF8RRPd1mIl9W2QXF-sQ'
+from_date: '2018-04-10'
+to_date: '2018-04-10'
+tags: ''
+talks:
+  -
+    title: 'Using Chrome Developer Tools to hack your way into concerts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-10 00:00'
+    speakers:
+      -
+        name: 'Amy Nguyen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tXssxJgIHbs'
+    slides: null
+  -
+    title: 'V8 internals for JavaScript developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-10 00:00'
+    speakers:
+      -
+        name: 'Mathias Bynens'
+        twitter: mathias
+        github: mathiasbynens
+    videos:
+      - 'youtube:m9cTaYI95Zc'
+    slides:
+      - 'https://slidr.io/mathiasbynens/v8-internals-for-javascript-developers#1'
+  -
+    title: 'Pumping up Node js modules with Rust!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-10 00:00'
+    speakers:
+      -
+        name: 'Vigneshwer Dhinakaran'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Zqzwkiii2NE'
+    slides: null
+  -
+    title: 'HTTP2, one frame at a time'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-10 00:00'
+    speakers:
+      -
+        name: 'Irina Shestak'
+        twitter: _lrlna
+        github: lrlna
+    videos:
+      - 'youtube:KpkTLmLTvAI'
+    slides: null
+  -
+    title: "I'm afraid your browser has been talking to the robots again a gentle intro to WebUSB"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-10 00:00'
+    speakers:
+      -
+        name: 'Suz Hinton'
+        twitter: noopkat
+        github: noopkat
+    videos:
+      - 'youtube:ov2R3vEn14k'
+    slides: null
+  -
+    title: 'Fantastic ASTs and where to find them'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-10 00:00'
+    speakers:
+      -
+        name: 'Craig Spence'
+        twitter: phenomnominal
+        github: null
+    videos:
+      - 'youtube:UKCoRKzRqN4'
+    slides: null
+  -
+    title: 'Taming the World’s Largest Trojan Horse'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-10 00:00'
+    speakers:
+      -
+        name: 'Caleb Sotelo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Oz-87M6O3HY'
+    slides: null
+  -
+    title: 'OUTBREAK: index-sw-9a4c43b4b4778e7d1ca619eaaf5ac1db.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-10 00:00'
+    speakers:
+      -
+        name: 'Alexander Pope'
+        twitter: popeindustries
+        github: popeindustries
+    videos:
+      - 'youtube:t7WraVE8rY8'
+    slides: null
+  -
+    title: 'Building a raytracing engine with JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-10 00:00'
+    speakers:
+      -
+        name: 'Madlaina Kalunder'
+        twitter: anialdam
+        github: aadjou
+    videos:
+      - 'youtube:4W06d_kcafE'
+    slides: null
+  -
+    title: 'Designing very large JavaScript applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-10 00:00'
+    speakers:
+      -
+        name: 'Malte Ubl'
+        twitter: cramforce
+        github: cramforce
+    videos:
+      - 'youtube:ZZmUwXEiPm4'
+    slides: null
+  -
+    title: 'Generative Art Speedrun'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-10 00:00'
+    speakers:
+      -
+        name: 'Tim Holman'
+        twitter: twholman
+        github: null
+    videos:
+      - 'youtube:4Se0_w0ISYk'
+    slides: null
+  -
+    title: 'Node js applications diagnostics under the hood'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-10 00:00'
+    speakers:
+      -
+        name: 'Nikolay Matvienko'
+        twitter: matvi3nko
+        github: matvi3nko
+    videos:
+      - 'youtube:y2PRfNsY28w'
+    slides: null
+  -
+    title: 'A year of other’s bugs: the sad state of error handling'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-10 00:00'
+    speakers:
+      -
+        name: 'Brittany Storoz'
+        twitter: brittanystoroz
+        github: brittanystoroz
+    videos:
+      - 'youtube:fQHH6aSpYV0'
+    slides: null
+  -
+    title: 'Uncharted territory: using aXe to forge a path'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-10 00:00'
+    speakers:
+      -
+        name: 'Madalyn Parker'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JWqHioGOELs'
+    slides: null
+  -
+    title: 'Is A Hot Dog A Sandwich And Other Analogies Not To Trifle With'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-10 00:00'
+    speakers:
+      -
+        name: 'Patricia Realini'
+        twitter: patriciarealini
+        github: patriciarealini
+    videos:
+      - 'youtube:XV3zUI5WiOM'
+    slides: null

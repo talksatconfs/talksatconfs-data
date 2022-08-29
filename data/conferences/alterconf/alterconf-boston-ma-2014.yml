@@ -1,0 +1,137 @@
+name: 'AlterConf Boston, MA - 2014'
+description: ''
+location: 'Boston, MA'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2014/boston-ma'
+playlist: ''
+from_date: '2014-09-15'
+to_date: '2014-09-15'
+tags: ''
+talks:
+  -
+    title: 'The Objectivity Myth: Why Games Need Gonzo Journalism'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-15 00:00'
+    speakers:
+      -
+        name: 'Maddy Myers'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MUvwkg7Mudg'
+    slides: null
+  -
+    title: 'Perceptions and Realities of the Indie Demographic - and How it Affects our Games'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-15 00:00'
+    speakers:
+      -
+        name: 'Khadeja Merenkov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:N79Xv45rH9k'
+    slides: null
+  -
+    title: 'Talking the Talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-15 00:00'
+    speakers:
+      -
+        name: 'Shauna Gordon-McKeon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AbOCXnsIYlw'
+    slides: null
+  -
+    title: 'Redefining "The Best:" Reflections on the Limits and Biases of Hiring Practices in Tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-15 00:00'
+    speakers:
+      -
+        name: 'Chelsea Barabas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AXRSi7dLJr8'
+    slides: null
+  -
+    title: 'A Group For All People'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-15 00:00'
+    speakers:
+      -
+        name: 'Adri Mills'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mEvCayBHWlQ'
+    slides: null
+  -
+    title: 'Trans_: An Anthology of Trans People & the Internet'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-15 00:00'
+    speakers:
+      -
+        name: 'Mitch Kellaway'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6Zf1G7AyUMM'
+    slides: null
+  -
+    title: 'Rise of the Diary Game'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-15 00:00'
+    speakers:
+      -
+        name: 'Caelyn Sandel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gx4dC2aoOiU'
+    slides: null
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-23 00:00'
+    speakers:
+      -
+        name: 'Ashe Dryden'
+        twitter: ashedryden
+        github: ashedryden
+    videos: null
+    slides: null
+  -
+    title: 'Sex & Love (vs Violence) in Games'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-09-15 00:00'
+    speakers:
+      -
+        name: 'Emily Care Boss'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wVK119Za3hM'
+    slides: null

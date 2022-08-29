@@ -1,0 +1,177 @@
+name: 'AlterConf Chicago, IL - 2017'
+description: ''
+location: 'Chicago, IL'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2017/chicago-il'
+playlist: ''
+from_date: '2017-06-10'
+to_date: '2017-06-10'
+tags: ''
+talks:
+  -
+    title: "What's in a name (validation)?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-10 00:00'
+    speakers:
+      -
+        name: 'Carly Ho'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yuQ5YTNO3I0'
+    slides: null
+  -
+    title: 'People You May Want to Forget'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-10 00:00'
+    speakers:
+      -
+        name: 'Theresa Stewart'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Hosting
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-10 00:00'
+    speakers:
+      -
+        name: 'Rinita Gulliani'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Eating in Tech: How to Make Space for People with Eating Disorders'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-10 00:00'
+    speakers:
+      -
+        name: 'Stephanie Slattery'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Employee Resource Groups and You: Improving Females’ Experience in the Workplace'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-10 00:00'
+    speakers:
+      -
+        name: 'Alexandra Dobkin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Jgu5xnjYnQk'
+    slides: null
+  -
+    title: 'Disabled by Design; Designed by Choice'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-10 00:00'
+    speakers:
+      -
+        name: 'Sharlene King'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vgY8E7nc6Bg'
+    slides: null
+  -
+    title: 'Why the Workforce Needs Skills-Based Hiring'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-10 00:00'
+    speakers:
+      -
+        name: 'Jonny Vu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fVFndemKb8Y'
+    slides: null
+  -
+    title: 'Deconstructing the Code of Conduct'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-10 00:00'
+    speakers:
+      -
+        name: 'Safia Abdalla'
+        twitter: captainsafia
+        github: captainsafia
+    videos:
+      - 'youtube:om4U0ZoNZms'
+    slides: null
+  -
+    title: 'Hustle and Flow: Real talk on Making it'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-10 00:00'
+    speakers:
+      -
+        name: 'Tanya C DePass'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JubS9tSAA44'
+    slides: null
+  -
+    title: 'How Can Open Data Help Facilitate Police Reform'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-10 00:00'
+    speakers:
+      -
+        name: 'Gbenga Ajilore'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:T37K4JwCf9U'
+    slides: null
+  -
+    title: "Why it's essential to demystify technology?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-10 00:00'
+    speakers:
+      -
+        name: 'Saumya Pandey'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6tYayekXjDk'
+    slides: null
+  -
+    title: 'Surveillance state, race, and disability'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-10 00:00'
+    speakers:
+      -
+        name: 'Mikki Kendall'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:77dv-jXTEnU'
+    slides: null

@@ -1,0 +1,1007 @@
+name: 'Android Makers 2019'
+description: 'Where the Android dream comes true. Android Makers brings in Paris the world class experts in Android for 2 days of sessions, workshops and showcases.'
+location: 'Paris, France'
+venue: ''
+city: Paris
+country: France
+link: 'https://androidmakers.fr/'
+playlist: 'youtube.com:PLn7H9CUCuXAu5r4kT8RcK8B2GuBqMODX3'
+from_date: '2019-04-23'
+to_date: '2019-04-24'
+tags: ''
+talks:
+  -
+    title: 'Pragmatic crafting'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Florina Muntenescu'
+        twitter: FMuntenescu
+        github: barancev
+    videos:
+      - 'youtube:Z9h_nLwJuSQ'
+    slides: null
+  -
+    title: 'Building for Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Ty Smith'
+        twitter: tsmith
+        github: tyvsmith
+    videos:
+      - 'youtube:O-brn0YZzfU'
+    slides: null
+  -
+    title: 'Architectural journey'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Zsolt Kocsi'
+        twitter: ZsoltKocsi
+        github: null
+    videos:
+      - 'youtube:pXw6r2kAvq8'
+    slides: null
+  -
+    title: 'Write your own Android Studio Plugin and automate everything'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Marcos Holgado'
+        twitter: orbycius
+        github: null
+    videos:
+      - 'youtube:--YhngXykD4'
+    slides: null
+  -
+    title: 'The Android device farm that fits in a (cloudy) pocket'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Bruno Verachten'
+        twitter: poddingue
+        github: null
+    videos:
+      - 'youtube:UJE7cQSC-4M'
+    slides: null
+  -
+    title: 'Kotlin Under the Covers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Chet Haase'
+        twitter: chethaase
+        github: null
+      -
+        name: 'Romain Guy'
+        twitter: romainguy
+        github: romainguy
+    videos:
+      - 'youtube:cHnmiHZYnvE'
+    slides: null
+  -
+    title: 'Journey to painless releases: Continuous delivery for Philips Hue Android'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Jeroen Mols'
+        twitter: molsjeroen
+        github: JeroenMols
+    videos:
+      - 'youtube:VkFcJZWtufA'
+    slides: null
+  -
+    title: 'Internationalisation à Kapten'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Quentin HUET'
+        twitter: null
+        github: null
+      -
+        name: 'Yann Vaillant'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1XEWL8j5kyI'
+    slides: null
+  -
+    title: 'Slices up your app!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Marc Poppleton'
+        twitter: marcpoppleton
+        github: marcpoppleton
+    videos:
+      - 'youtube:r1NqxigqjLA'
+    slides: null
+  -
+    title: 'Making any codebase more readable with Kotlin coroutines'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Louis CAD'
+        twitter: Louis_CAD
+        github: null
+    videos:
+      - 'youtube:P1eeS6DQ5Uo'
+    slides: null
+  -
+    title: 'LeakCanary 2: Leaner, Better, Faster, Kotliner!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Pierre-Yves Ricau'
+        twitter: Piwai
+        github: pyricau
+    videos:
+      - 'youtube:LEX8dn4BLUw'
+    slides: null
+  -
+    title: 'The Rise Of The State Machines: An introduction to predictable state container based architectures for your Android apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Mounir Boudraa'
+        twitter: _mboudraa
+        github: null
+    videos:
+      - 'youtube:CBKmJUK46jY'
+    slides: null
+  -
+    title: "Le sandboxing applicatif d'Android"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Adrien Grassein'
+        twitter: null
+        github: null
+    videos:
+      - 'github.com:https://github.com/grassead'
+    slides: null
+  -
+    title: 'ConstraintLayout 2.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Nicolas Roard'
+        twitter: camaelon
+        github: null
+      -
+        name: 'John Hoford'
+        twitter: johnhoford
+        github: null
+    videos:
+      - 'youtube:EBke5RoKK0M'
+    slides: null
+  -
+    title: 'Uplift — Material shadows on Android'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Sebastiano Poggi'
+        twitter: seebrock3r
+        github: rock3r
+    videos:
+      - 'youtube:ZKJiXmIu06c'
+    slides: null
+  -
+    title: 'Coroutines, a new scope'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Florina Muntenescu'
+        twitter: FMuntenescu
+        github: barancev
+      -
+        name: 'Yacine Rezgui'
+        twitter: yrezgui
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'L’accessibilité sur Android en 2019'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Léna Ndiaye'
+        twitter: AnnetLenaNDIAYE
+        github: null
+    videos:
+      - 'youtube:I_G8G2J-Dww'
+    slides: null
+  -
+    title: 'Styles, Themes, Material Theming, Oh My!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Anita Singh'
+        twitter: anitas3791
+        github: anitas3791
+    videos:
+      - 'youtube:oSSi50Qv9DE'
+    slides: null
+  -
+    title: '(Android) Transformers - bytecode in disguise!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Doug Stevenson'
+        twitter: CodingDoug
+        github: null
+    videos:
+      - 'youtube:cTJEzvUlTSQ'
+    slides: null
+  -
+    title: 'Stockage et partage sécurisé de fichiers volumineux'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Jonathan Salamon'
+        twitter: J_TheFrench
+        github: null
+    videos:
+      - 'youtube:0W186avJRUU'
+    slides: null
+  -
+    title: 'In a World of Pure Android Animation 🍭'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Rebecca Franks'
+        twitter: riggaroo
+        github: null
+    videos:
+      - 'youtube:ZKJiXmIu06c'
+    slides: null
+  -
+    title: 'Effective Unit testing with Kotlin'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Danny Preussler'
+        twitter: PreusslerBerlin
+        github: dpreussler
+    videos:
+      - 'youtube:Cc69W9c3l-c'
+    slides: null
+  -
+    title: 'Myths and Reality of Android Machine Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Hoi Lam'
+        twitter: hoitab
+        github: null
+    videos:
+      - 'youtube:sL2jPPTYfaE'
+    slides: null
+  -
+    title: 'Sécuriser ses appels réseau Android, de 2009 à 2019'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Michaël Ohayon'
+        twitter: mikkl
+        github: null
+    videos:
+      - 'youtube:rhXzc3X0KI0'
+    slides: null
+  -
+    title: 'Motional Intelligence: Build smarter animations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Nick Butcher'
+        twitter: crafty
+        github: nickbutcher
+    videos:
+      - 'youtube:JPaUjXzhuMA'
+    slides: null
+  -
+    title: 'Best practices for a modularized app'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Ben Weiss'
+        twitter: keyboardsurfer
+        github: keyboardsurfer
+    videos:
+      - 'youtube:1HoEVw3Jl3Q'
+    slides: null
+  -
+    title: 'It,s complicated, but it doesn,t have to be: a Dagger journey'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Fred Porciúncula'
+        twitter: tfcporciuncula
+        github: tfcporciuncula/
+    videos:
+      - 'youtube:9fn5s8_CYJI'
+    slides: null
+  -
+    title: 'Energie, latence: je t,aime, moi non plus'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Pierre Crépieux'
+        twitter: PCrepieux
+        github: null
+    videos:
+      - 'youtube:dbp6vmb9l14'
+    slides: null
+  -
+    title: 'Workout your tasks with WorkManager'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Magda Miu'
+        twitter: magdamiu
+        github: magdamiu
+    videos:
+      - 'youtube:D3FE3hLB9CY'
+    slides: null
+  -
+    title: 'A New Window Into Pixel Pushing - Discussing new tools to help developers save time when implementing designs!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Wojciech Dziemianczyk'
+        twitter: wdziemia
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Recruteurs, développeurs, bonne humeur'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'David Fournier'
+        twitter: smartnsoft
+        github: smartnsoft
+    videos:
+      - 'youtube:OW1jHVsBJZo'
+    slides: null
+  -
+    title: 'The difference between what and why.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Lorica Claesson'
+        twitter: lorica
+        github: null
+    videos:
+      - 'youtube:VCdHYSqKuEU'
+    slides: null
+  -
+    title: "Embarquez dans l'aventure Kotlin avec Advent Of Code"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-23 00:00'
+    speakers:
+      -
+        name: 'Hugo Hache'
+        twitter: hugo_hache
+        github: null
+    videos:
+      - 'youtube:yHtwRP8z_zw'
+    slides: null
+  -
+    title: 'Rendering Video: A Detailed Look at Video Playback on Android'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Pierre-Antoine LaFayette'
+        twitter: 03lafaye
+        github: 03lafaye
+    videos:
+      - 'youtube:9D7IDXh9a9Q'
+    slides: null
+  -
+    title: 'MVI : une architecture robuste et moderne'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Simone Civetta'
+        twitter: viteinfinite
+        github: null
+      -
+        name: 'Arnaud Piroelle'
+        twitter: ArnaudPiroelle
+        github: null
+    videos:
+      - 'youtube:Qoa3ZjfbUBA'
+    slides: null
+  -
+    title: 'Android Puzzlers: Traps, Pitfalls and Corner Cases'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Cyril Mottier'
+        twitter: cyrilmottier
+        github: cyrilmottier
+    videos:
+      - 'youtube:-XkE7GtCnjI'
+    slides: null
+  -
+    title: 'Building a library for Android and iOS using Kotlin Multiplatform'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'David González'
+        twitter: dggonzalez
+        github: malmstein
+    videos:
+      - 'youtube:cyvHWDLsIKQ'
+    slides: null
+  -
+    title: 'S’il te plait, dessine moi une vue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Florent Champigny'
+        twitter: florent_champ
+        github: null
+    videos:
+      - 'youtube:yrymmnHmPfs'
+    slides: null
+  -
+    title: 'Do you want an easy way to add Machine Learning into your app?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Sandra Dupré'
+        twitter: SandraDdev
+        github: null
+    videos:
+      - 'youtube:7JY_R3ywXBA'
+    slides: null
+  -
+    title: 'Locking, blocking and rocking Android for Self-service Kiosks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Karapet Gyumjibashyan, PMP'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fcipc2dRVRA'
+    slides: null
+  -
+    title: 'Consistency is Key - Working with a Design System'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Maria Neumayer'
+        twitter: marianeum
+        github: null
+    videos:
+      - 'youtube:THYqC3ACadQ'
+    slides: null
+  -
+    title: 'Retour d’expérience sur la modernisation technique d’une Top App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Cristian Garrido'
+        twitter: null
+        github: null
+      -
+        name: 'Eliott Lujan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:L3EFcwfSJ3U'
+    slides: null
+  -
+    title: 'Taking your users’ money: In-app billing from start to best practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Kai Koenig'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AA9Kf0fE-jk'
+    slides: null
+  -
+    title: 'GraphQL in real life'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Roberto Orgiu'
+        twitter: _tiwiz
+        github: null
+    videos:
+      - 'youtube:ykcSnSSlhpU'
+    slides: null
+  -
+    title: 'Office Hours'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'John Hoford'
+        twitter: johnhoford
+        github: null
+      -
+        name: 'Nicolas Roard'
+        twitter: camaelon
+        github: null
+      -
+        name: 'Pierre-Yves Ricau'
+        twitter: Piwai
+        github: pyricau
+    videos: null
+    slides: null
+  -
+    title: 'Concurrency doesn,t have to be hard: Kotlin Coroutines and Channels'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Jag Saund'
+        twitter: jagsaund
+        github: null
+    videos:
+      - 'youtube:3WGM-_MnPQA'
+    slides: null
+  -
+    title: 'Leveraging Kotlin to write maintainable UI tests'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Róbert Papp'
+        twitter: TWiStErRob
+        github: TWiStErRob
+    videos:
+      - 'youtube:wlb3lg5JocA'
+    slides: null
+  -
+    title: 'ARCore - Basics and Tools'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Etienne Caron'
+        twitter: kanawish
+        github: kanawish
+    videos:
+      - 'youtube:Ct1asuSts94'
+    slides: null
+  -
+    title: 'App Clinic'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Eyal LEZMY'
+        twitter: Eyal_Lezmy
+        github: eyal-lezmy
+      -
+        name: 'Sebastiano Poggi'
+        twitter: seebrock3r
+        github: rock3r
+      -
+        name: 'Anita Singh'
+        twitter: anitas3791
+        github: anitas3791
+      -
+        name: 'Rebecca Franks'
+        twitter: riggaroo
+        github: null
+      -
+        name: 'Ty Smith'
+        twitter: tsmith
+        github: tyvsmith
+      -
+        name: 'Juhani Lehtimäki'
+        twitter: lehtimaeki
+        github: null
+      -
+        name: 'Pierluigi Rufo'
+        twitter: pierluigirufo
+        github: null
+      -
+        name: 'Cyril Mottier'
+        twitter: cyrilmottier
+        github: cyrilmottier
+    videos:
+      - 'youtube:RJC5atfJHwE'
+    slides: null
+  -
+    title: 'Navigation Component, feedback from the trench'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Eyal LEZMY'
+        twitter: Eyal_Lezmy
+        github: eyal-lezmy
+    videos:
+      - 'youtube:fCK36dnNe3Y'
+    slides: null
+  -
+    title: 'Getting the most out of code review'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Brian Plummer'
+        twitter: plummermakes
+        github: null
+    videos:
+      - 'youtube:iQEZQ4AYGIg'
+    slides: null
+  -
+    title: 'Write your first Flutter App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Pierre Tibulle'
+        twitter: ptibulle
+        github: null
+      -
+        name: 'Romain Rastel'
+        twitter: lets4r
+        github: null
+      -
+        name: 'Horacio Gonzalez'
+        twitter: LostInBrittany
+        github: LostInBrittany
+    videos:
+      - 'youtube:eqxwCz-tSs0'
+    slides: null
+  -
+    title: 'Dependency injection from zero to hero with Koin'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Arnaud Giuliani'
+        twitter: arnogiu
+        github: arnaudgiuliani
+    videos:
+      - 'youtube:chCsNkjotfc'
+    slides: null
+  -
+    title: 'Meaningful motion design and how to implement it'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Juhani Lehtimäki'
+        twitter: lehtimaeki
+        github: null
+      -
+        name: 'Pierluigi Rufo'
+        twitter: pierluigirufo
+        github: null
+    videos:
+      - 'youtube:7LqeFDsi5dQ'
+    slides: null
+  -
+    title: 'Becoming a Leader in Tech: How to boost your career without losing your mind'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Fabien Devos'
+        twitter: Fabien_Devos
+        github: fabiendevos
+    videos:
+      - 'youtube:ufW364Pmldc'
+    slides: null
+  -
+    title: 'Google Assistant for Android developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Elaine Dias Batista'
+        twitter: elainedbatista
+        github: null
+    videos:
+      - 'youtube:kqIRTUZcQ6M'
+    slides: null
+  -
+    title: 'Vector Workflows'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Alex Lockwood'
+        twitter: alexjlockwood
+        github: fabiendevos
+      -
+        name: 'Nick Butcher'
+        twitter: crafty
+        github: nickbutcher
+    videos:
+      - 'youtube:IL6X3NT4os8'
+    slides: null
+  -
+    title: 'Server Driven UI Workflow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Benoît Quenaudon'
+        twitter: oldergod
+        github: null
+    videos:
+      - 'youtube:TB2b27zsOwc'
+    slides: null
+  -
+    title: 'Kotlin end to end: du client au serveur'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Jordan Tuffery'
+        twitter: Tuffaisquoi
+        github: null
+      -
+        name: 'Julien Datour'
+        twitter: jdatour
+        github: jdatour
+    videos:
+      - 'youtube:BU0P5z_Z9MM'
+    slides: null
+  -
+    title: 'Building Android for the Raspberry Pi'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Chris Simmonds'
+        twitter: h2net_software
+        github: null
+    videos:
+      - 'youtube:gPMfzgLUtKk'
+    slides: null
+  -
+    title: 'A resourceful talk about Android Resources'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Vadim Caen'
+        twitter: vadimcaen
+        github: vcaen
+    videos:
+      - 'youtube:ZuM8v-TKBCg'
+    slides: null
+  -
+    title: 'I have no idea what my app is doing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Nicola Corti'
+        twitter: cortinico
+        github: cortinico
+    videos:
+      - 'youtube:GtZ-WZWoneQ'
+    slides: null
+  -
+    title: '“Make your app work perfectly offl…” — Connection Interrupted'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Xavier F. Gouchet'
+        twitter: xgouchet
+        github: xgouchet
+    videos:
+      - 'youtube:RosNkH8LeUk'
+    slides: null
+  -
+    title: 'Android Leaks @Android Makers - Épisode 6 : Le retour des poireaux'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Benjamin Monjoie'
+        twitter: Xzan
+        github: bmonjoie
+      -
+        name: 'Yannick Lemin'
+        twitter: TheYann
+        github: theyann
+    videos:
+      - 'youtube:gfK9cMXnpi8'
+    slides: null
+  -
+    title: 'Closing conference'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-04-24 00:00'
+    speakers:
+      -
+        name: 'Chet Haase'
+        twitter: chethaase
+        github: null
+      -
+        name: 'Romain Guy'
+        twitter: romainguy
+        github: romainguy
+    videos:
+      - 'youtube:eag908DSNX0'
+    slides: null

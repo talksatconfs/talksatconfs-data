@@ -1,0 +1,228 @@
+name: 'Garden City RubyConf - 2014'
+description: ''
+location: ''
+venue: 'Atria Hotel'
+city: Bangalore
+country: India
+link: 'https://gardencityruby2014.busyconf.com/schedule'
+playlist: ''
+from_date: '2014-01-03'
+to_date: '2014-01-04'
+tags: ''
+talks:
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-04 16:20'
+    speakers:
+      -
+        name: 'Prakash Murthy'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Native Extensions Served 3 Ways'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-03 11:10'
+    speakers:
+      -
+        name: 'Tejas Dinkar'
+        twitter: tdinkar
+        github: gja
+    videos:
+      - 'youtube:bI5oJr4ueQc'
+    slides: null
+  -
+    title: 'Invited Talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-03 11:45'
+    speakers:
+      -
+        name: ' Coby Randquist'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UPRFRa4vdmk'
+    slides: null
+  -
+    title: 'The Rails Girls Summer of Code journey'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-03 13:45'
+    speakers:
+      -
+        name: 'Sakshi Jain '
+        twitter: null
+        github: null
+      -
+        name: '  Pallavi Shastry'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:26DzU6MPr4E'
+    slides: null
+  -
+    title: "Lessons Learnt Building India's Largest E-Commerce Supply Chain in Ruby"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-03 10:35'
+    speakers:
+      -
+        name: '  Yogi Kulkarni '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FXg2n7Uf4DY'
+    slides: null
+  -
+    title: 'Panel Discussion'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-03 14:20'
+    speakers:
+      -
+        name: 'Chad Fowler '
+        twitter: null
+        github: null
+      -
+        name: '  Baishampayan Ghose '
+        twitter: null
+        github: null
+      -
+        name: '  Yogi Kulkarni '
+        twitter: null
+        github: null
+      -
+        name: '  Venkat Subramaniyan '
+        twitter: null
+        github: null
+      -
+        name: '  Hemant Kumar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zmGEUorbkPc'
+    slides: null
+  -
+    title: 'Simple Ruby DSL Techniques: Big Project Impact'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-03 15:40'
+    speakers:
+      -
+        name: 'Aman King'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:E1rH2bcWN5A'
+    slides: null
+  -
+    title: 'Pharmacist or a Doctor - What does your code base need?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-04 14:55'
+    speakers:
+      -
+        name: 'Pavan Sudarshan '
+        twitter: null
+        github: null
+      -
+        name: '  Anandha Krishnan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Ruby Memory Model'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-04 15:45'
+    speakers:
+      -
+        name: 'Hari Krishnan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Dark Side of Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-04 10:35'
+    speakers:
+      -
+        name: 'Gautam Rege'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-oorcRJ2Kfg'
+    slides: null
+  -
+    title: "I've got your number: Machine Learning in Ruby"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-04 11:10'
+    speakers:
+      -
+        name: 'Arnab Deka'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:aCIoerxtQ3w'
+    slides: null
+  -
+    title: 'GCRC Quiz'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-04 11:45'
+    speakers: {  }
+    videos:
+      - 'youtube:UuWpfkyKXhk'
+    slides: null
+  -
+    title: 'Lighting talks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-04 13:45'
+    speakers: {  }
+    videos: null
+    slides: null
+  -
+    title: 'Zero Downtime Deployments with Docker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-04 14:20'
+    speakers:
+      -
+        name: 'Vamsee Kanakala'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Closing Note'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2014-02-04 17:10'
+    speakers: {  }
+    videos: null
+    slides: null

@@ -1,0 +1,128 @@
+name: 'RustConf 2017'
+description: "RustConf is a gathering of both Rust's established community and its newcomers. We're excited to all get to spend time together, deep-diving into all things Rust."
+location: 'Portland, OR'
+venue: ''
+city: 'Portland, OR'
+country: 'United States'
+link: 'http://2017.rustconf.com/'
+playlist: ''
+from_date: '2017-08-19'
+to_date: '2017-08-19'
+tags: ''
+talks:
+  -
+    title: 'Fast, Safe, Pure-Rust Elliptic Curve Cryptography'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-19 00:00'
+    speakers:
+      -
+        name: 'Isis Lovecruft'
+        twitter: isislovecruft
+        github: null
+      -
+        name: 'Henry De Valence'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tE57KBK_GW4'
+    slides: null
+  -
+    title: 'A Tale of Teaching Rust'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-19 00:00'
+    speakers:
+      -
+        name: 'Andrew Brinker'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0PhfaFkzdBA'
+    slides: null
+  -
+    title: 'Closing Keynote: Safe Systems Software and the Future of Computing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-19 00:00'
+    speakers:
+      -
+        name: 'Joe Duffy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EVm938gMWl0'
+    slides: null
+  -
+    title: 'Improving Rust Performance Through Profiling and Benchmarking'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-19 00:00'
+    speakers:
+      -
+        name: 'Steve Jenson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hTHp0gjWMLQ'
+    slides: null
+  -
+    title: 'Shipping a Solid Rust Crate'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-19 00:00'
+    speakers:
+      -
+        name: 'Michael Gattozzi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:t4CyEKb-ywA'
+    slides: null
+  -
+    title: 'Type System Tips for the Real World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-19 00:00'
+    speakers:
+      -
+        name: 'Sean Griffin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wxPehGkoNOw'
+    slides: null
+  -
+    title: 'Menhir and Friends: the State of the Art of Parsing in Rust'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-19 00:00'
+    speakers:
+      -
+        name: 'Naomi Testard'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Pw3wrVBhZ6M'
+    slides: null
+  -
+    title: 'Building Rocket'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-08-19 00:00'
+    speakers:
+      -
+        name: 'Sergio Benitez'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:t_FUZ34ahBE'
+    slides: null

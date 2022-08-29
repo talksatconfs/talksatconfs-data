@@ -1,0 +1,247 @@
+name: 'ReactEurope 2015'
+description: ''
+location: 'Paris, France'
+venue: ''
+city: ''
+country: ''
+link: 'https://web.archive.org/web/20150403232718/http://www.react-europe.org/'
+playlist: ''
+from_date: '2015-07-02'
+to_date: '2015-07-03'
+tags: ''
+talks:
+  -
+    title: 'Coming soon...'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-03 14:30'
+    speakers: {  }
+    videos: null
+    slides: null
+  -
+    title: 'Simplifying the data layer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-03 11:30'
+    speakers:
+      -
+        name: 'Kevin Robinson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EOz4D_714R8'
+    slides: null
+  -
+    title: 'The State of Animation in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-03 10:30'
+    speakers:
+      -
+        name: 'Cheng Lou'
+        twitter: _chenglou
+        github: chenglou
+    videos:
+      - 'youtube:1tavDv5hXpo'
+    slides: null
+  -
+    title: 'Isomorphic Flux'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-03 15:30'
+    speakers:
+      -
+        name: 'Michael Ridgway'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MrozpFEBEBE'
+    slides: null
+  -
+    title: 'Going Mobile with React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-03 12:00'
+    speakers:
+      -
+        name: 'Jed Watson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ctwmd5L1U_Q'
+    slides: null
+  -
+    title: 'A deep dive into GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-02 14:00'
+    speakers:
+      -
+        name: 'Nick Schrock'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Live React: Hot Reloading with Time Travel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-02 15:30'
+    speakers:
+      -
+        name: 'Dan Abramov'
+        twitter: dan_abramov
+        github: gaearon
+    videos:
+      - 'youtube:xsSnOQynTHs'
+    slides: null
+  -
+    title: 'Relay: An Application Framework For React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-02 16:00'
+    speakers:
+      -
+        name: 'Joseph Savona'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IrgHurBjQbg'
+    slides: null
+  -
+    title: "Inline Styles: themes, media queries, contexts, and when it's best to use CSS"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-02 10:30'
+    speakers:
+      -
+        name: 'Michael Chan'
+        twitter: chantastic
+        github: chantastic
+    videos:
+      - 'youtube:ERB1TJBn32c'
+    slides: null
+  -
+    title: "Building submarines that don't leak"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-03 16:00'
+    speakers:
+      -
+        name: 'Aria Buckles'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2Qu-Ulrsfl8'
+    slides: null
+  -
+    title: 'React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-02 12:00'
+    speakers:
+      -
+        name: 'Spencer Ahrens'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xDlfrcM6YBk'
+    slides: null
+  -
+    title: 'Back to Text UI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-02 17:00'
+    speakers:
+      -
+        name: 'Mikhail Davydov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ee_U2t-8L48'
+    slides: null
+  -
+    title: keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-02 10:00'
+    speakers:
+      -
+        name: 'Christopher Chedeau'
+        twitter: Vjeux
+        github: vjeux
+    videos: null
+    slides: null
+  -
+    title: 'Q&A;'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-03 17:30'
+    speakers: {  }
+    videos: null
+    slides: null
+  -
+    title: 'Improving Your Workflow With Code Transformation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-03 10:00'
+    speakers:
+      -
+        name: 'Sebastian McKenzie'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OFuDvqZmUrE'
+    slides: null
+  -
+    title: 'Flux over the Wire'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-02 11:30'
+    speakers:
+      -
+        name: 'Elie Rotenberg'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JSjhhUvB9DY'
+    slides: null
+  -
+    title: 'How React & Flux Turn Applications Into Extensible Platforms'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-03 17:00'
+    speakers:
+      -
+        name: 'Evan Morikawa'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Uu4Yz2HmCgE'
+    slides: null
+  -
+    title: 'Lightning talks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-07-02 17:30'
+    speakers: {  }
+    videos: null
+    slides: null

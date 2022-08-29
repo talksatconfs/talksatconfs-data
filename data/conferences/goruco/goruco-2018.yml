@@ -1,0 +1,208 @@
+name: 'Goruco 2018'
+description: ''
+location: 'New York City'
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2018-06-16'
+to_date: '2018-06-16'
+tags: ''
+talks:
+  -
+    title: 'Encryption Pitfalls and Workarounds'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-16 00:00'
+    speakers:
+      -
+        name: 'Melissa Wahnish'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fqPPeDvKY9Y'
+    slides: null
+  -
+    title: "Writing Ruby Like it's 2018"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-16 00:00'
+    speakers:
+      -
+        name: 'Joe Leo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VjR3GU0-vpc'
+    slides: null
+  -
+    title: 'Evented Autonomous Services in Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-16 00:00'
+    speakers:
+      -
+        name: 'Scott Bellware'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qgKlu5gFsJM'
+    slides: null
+  -
+    title: "I've Made a Huge Mistake: We Did Services All Wrong"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-16 00:00'
+    speakers:
+      -
+        name: 'Kelly Sutton'
+        twitter: kellysutton
+        github: null
+    videos:
+      - 'youtube:NqdjRw1Msz8'
+    slides: null
+  -
+    title: 'Closing Keynote: Analyzing and Reducing Ruby Memory Usage'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-16 00:00'
+    speakers:
+      -
+        name: 'Aaron Patterson'
+        twitter: tenderlove
+        github: tenderlove
+    videos:
+      - 'youtube:mecapKBzIMw'
+    slides: null
+  -
+    title: 'The Practical Guide to Building an Apprenticeship'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-16 00:00'
+    speakers:
+      -
+        name: 'Megan Tiu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:31-DPycAKyY'
+    slides: null
+  -
+    title: 'Opening Keynote: The Good Bad Bug: Fail Your Way to Better Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-16 00:00'
+    speakers:
+      -
+        name: 'Jessica Rudder'
+        twitter: jessrudder
+        github: JessRudder
+    videos:
+      - 'youtube:m76jMaIxJEY'
+    slides: null
+  -
+    title: 'Building Efficient APIs with JSON-API'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-28 00:00'
+    speakers:
+      -
+        name: 'Rushaine McBean'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-1mdsGQxYc4'
+    slides: null
+  -
+    title: 'The Twelve-Factor Function'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-16 00:00'
+    speakers:
+      -
+        name: 'Desmond Rawls'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:U0K9G3Eig2w'
+    slides: null
+  -
+    title: 'GORUCO Memories'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-16 00:00'
+    speakers:
+      -
+        name: 'Francis Hwang'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pWx8w3bgVJ0'
+    slides: null
+  -
+    title: 'The Impermanence of Software'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-16 00:00'
+    speakers:
+      -
+        name: 'Andy Croll'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YTQf2ZbUSb4'
+    slides: null
+  -
+    title: 'Running Jobs at Scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-16 00:00'
+    speakers:
+      -
+        name: 'Kir Shatrov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XvnWjsmAl60'
+    slides: null
+  -
+    title: 'After Death'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-16 00:00'
+    speakers:
+      -
+        name: 'Sam Phippen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QrdcNIgPbpo'
+    slides: null
+  -
+    title: 'Locking It Down with Ruby & Lockfiles'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-16 00:00'
+    speakers:
+      -
+        name: 'Danielle Adams'
+        twitter: adamzdanielle
+        github: danielleadams
+    videos:
+      - 'youtube:C9oVODkO4W4'
+    slides: null

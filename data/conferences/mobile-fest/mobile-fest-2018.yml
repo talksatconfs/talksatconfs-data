@@ -1,0 +1,252 @@
+name: 'Mobile Fest 2018'
+description: 'Mobile Development – one of the most interesting areas in IT. Mobile Fest will gather practitioners in iOS and Android development, experts in mobile architecture and engineers interested in cross-platform development. Mobile Fest is a conference, which does not simply tell about trends, but creates them.'
+location: ''
+venue: ''
+city: Kiev
+country: Ukraine
+link: 'http://mobilefest.com.ua/indexe.html'
+playlist: 'youtube.com:PLuOBDBq7MW72WX2EM7WlY6yt3OHSnwrtc'
+from_date: '2018-06-02'
+to_date: '2018-06-02'
+tags: ''
+talks:
+  -
+    title: 'Make your project great again'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 10:00'
+    speakers:
+      -
+        name: 'Oleksii Lyzenko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:uZqYPuWyCDE'
+    slides:
+      - 'https://www.slideshare.net/MobileFest2018/mobile-fest-2018-make-your-project-great-agains'
+  -
+    title: 'WTF with Android Background Restrictions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 10:00'
+    speakers:
+      -
+        name: 'Yonatan Levin'
+        twitter: parahall
+        github: parahall
+    videos:
+      - 'youtube:QqVDvCG3Kck'
+    slides:
+      - 'https://www.slideshare.net/MobileFest2018/mobile-fest-2018-yonatan-levin-wtf-with-android-background-restrictions'
+  -
+    title: 'Crushing bugs with Redux architecture for iOS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 11:00'
+    speakers:
+      -
+        name: 'Alexey Demedetskiy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xl9PGgdvmxQ'
+    slides:
+      - 'https://www.slideshare.net/MobileFest2018/mobile-fest-2018-redux-ios'
+  -
+    title: 'What Mom Never Told You About Multi-threading'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 11:00'
+    speakers:
+      -
+        name: 'Fernando Cejas'
+        twitter: fernando_cejas
+        github: android10
+    videos:
+      - 'youtube:d_MC1nkIsg8'
+    slides:
+      - 'https://www.slideshare.net/MobileFest2018/mobile-fest-2018-fernando-cejas-what-mom-never-told-you-about-multithreading'
+  -
+    title: 'How React-Native shapes the way we think about native apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 12:00'
+    speakers:
+      -
+        name: 'Ilya Ivanov'
+        twitter: null
+        github: ilyaivanov
+    videos:
+      - 'youtube:dz6FS0fBEgc'
+    slides:
+      - 'https://www.slideshare.net/MobileFest2018/mobile-fest-2018-reactnative'
+  -
+    title: 'A comparative approach to MVC, MVVM and VIPER: taking the best ideas without fighting against the platform'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 12:00'
+    speakers:
+      -
+        name: 'Matteo Manferdini'
+        twitter: null
+        github: mattoem
+    videos:
+      - 'youtube:x6uVXeHsLiU'
+    slides:
+      - 'https://www.slideshare.net/MobileFest2018/mobile-fest-2018-matteo-manferdini-a-comparative-approach-to-mvc-mvvm-and-viper-taking-the-best-ideas-without-fighting-against-the-platform'
+  -
+    title: 'Error handling architecture: clean, rapid, reactive approach'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 14:00'
+    speakers:
+      -
+        name: 'Artem Getman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:u2dqfGnGv0s'
+    slides:
+      - 'https://www.slideshare.net/MobileFest2018/mobile-fest-2018-100387983'
+  -
+    title: 'Smooth transitions to Android - how and why to do this?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 14:00'
+    speakers:
+      -
+        name: 'Artem Shevchenko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-VGb03f8xgQ'
+    slides:
+      - 'https://www.slideshare.net/ArtemShevchenko4/android-transition-android-100123912'
+  -
+    title: 'Why is the transition from Apache Cordova to React Native inevitable?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 14:00'
+    speakers:
+      -
+        name: 'Volodymyr Bondarenko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:EjrihzLJAXc'
+    slides:
+      - 'https://www.slideshare.net/MobileFest2018/mobile-fest-2018-apache-cordova-react-native'
+  -
+    title: 'UX in the mobile applications development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 15:00'
+    speakers:
+      -
+        name: 'Alesya Podlesnaya'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:o4H5Hu1wwMM'
+    slides:
+      - 'https://www.slideshare.net/MobileFest2018/mobile-fest-2018-ux'
+  -
+    title: 'Flutter - what is it?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 15:00'
+    speakers:
+      -
+        name: 'Alexandr Sergienko'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TO7dA7bU5VI'
+    slides:
+      - 'https://www.slideshare.net/MobileFest2018/mobile-fest-2018-flutter'
+  -
+    title: 'TensorFlow for Mobile Poets'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 15:00'
+    speakers:
+      -
+        name: 'Enrique López Mañas'
+        twitter: eenriquelopez
+        github: kikoso
+    videos:
+      - 'youtube:PenMdRqeH0c'
+    slides:
+      - 'https://www.slideshare.net/MobileFest2018/mobile-fest-2018-enrique-lpez-maas-tensorflow-for-mobile-poets'
+  -
+    title: 'Let’s make your DATA sexy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 16:20'
+    speakers:
+      -
+        name: 'Łukasz Mróz'
+        twitter: thesunshinejr
+        github: sunshinejr
+    videos:
+      - 'youtube:ir6Pg2GLFT4'
+    slides:
+      - 'https://www.slideshare.net/MobileFest2018/mobile-fest-2018-ukasz-mrz-lets-make-your-data-sexy/MobileFest2018/mobile-fest-2018-ukasz-mrz-lets-make-your-data-sexy'
+  -
+    title: 'Insert Koin'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 16:20'
+    speakers:
+      -
+        name: 'Kirill Rozov'
+        twitter: kirill_rozov
+        github: null
+    videos:
+      - 'youtube:HrTz5jToQkk'
+    slides:
+      - 'https://www.slideshare.net/MobileFest2018/mobile-fest-2018-insert-koin'
+  -
+    title: 'Working with sharp tools — continuous integration and deployment as a way to reduce friction'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 17:20'
+    speakers:
+      -
+        name: 'Håvard Hvassing'
+        twitter: hhvassing
+        github: hvassing
+    videos:
+      - 'youtube:fx3sS3lJzOI'
+    slides:
+      - 'https://www.slideshare.net/MobileFest2018/mobile-fest-2018-hvard-hvassing-working-with-sharp-tools-continuous-integration-and-deployment-as-a-way-to-reduce-friction'
+  -
+    title: 'Pain reliever'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-06-02 17:20'
+    speakers:
+      -
+        name: 'Oleksandr Korin'
+        twitter: null
+        github: trimmurrti
+    videos:
+      - 'youtube:Ed8ZOnwHeQE'
+    slides:
+      - 'https://www.slideshare.net/MobileFest2018/mobile-fest-2018'

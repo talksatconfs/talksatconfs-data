@@ -1,0 +1,194 @@
+name: 'Goruco 2012'
+description: ''
+location: 'New York'
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2012-06-23'
+to_date: '2012-06-23'
+tags: ''
+talks:
+  -
+    title: 'Maps want to be free!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-24 00:00'
+    speakers:
+      -
+        name: 'Sebastian Delmont'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XMH5zJpCqBE'
+    slides: null
+  -
+    title: 'Building Developers Lessons Learned from Hungry Academy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-24 00:00'
+    speakers:
+      -
+        name: 'Jeff Casimir'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SsMF2lno5AU'
+    slides: null
+  -
+    title: 'From Zero to API Cache w/ Grape & MongoDB in 10 Minutes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-24 00:00'
+    speakers:
+      -
+        name: 'Daniel Doubrovkine'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:e9HLflRXMcA'
+    slides: null
+  -
+    title: 'Hexagonal Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-23 00:00'
+    speakers:
+      -
+        name: 'Matt Wynne'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CGN4RFkhH2M'
+    slides: null
+  -
+    title: 'The Front-End Future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-23 00:00'
+    speakers:
+      -
+        name: 'Francis Hwang'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VdDDfVFQxJc'
+    slides: null
+  -
+    title: 'Maintaining Balance while Reducing Duplication: Part II'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-23 00:00'
+    speakers:
+      -
+        name: 'David Chelimsky'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UvlyJv0eIf8'
+    slides: null
+  -
+    title: 'Organizing and Packaging Rich Javascript Apps with Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-23 00:00'
+    speakers:
+      -
+        name: 'Luke Melia'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:swi_Pa5rQfk'
+    slides: null
+  -
+    title: 'Power Rake'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-24 00:00'
+    speakers:
+      -
+        name: 'Jim Weirich '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:KaEqZtulOus'
+    slides: null
+  -
+    title: 'The Future of Deployment'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-23 00:00'
+    speakers:
+      -
+        name: 'Dr. Nic Williams'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:I0n2wiYvFNw'
+    slides: null
+  -
+    title: 'Your Face in 10 minutes... with Macruby!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-23 00:00'
+    speakers:
+      -
+        name: 'Haris Amin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Ahwb_PU5WxY'
+    slides: null
+  -
+    title: 'Why Hashes Will Be Faster in Ruby 2.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-23 00:00'
+    speakers:
+      -
+        name: 'Pat Shaughnessy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YHULcgaATh4'
+    slides: null
+  -
+    title: 'Sensible Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-23 00:00'
+    speakers:
+      -
+        name: 'Justin Leitgeb'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:10pFYwST7IA'
+    slides: null
+  -
+    title: 'High Performance Caching with Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-23 00:00'
+    speakers:
+      -
+        name: 'Matt Duncan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8A9t9nE4kkk'
+    slides: null

@@ -1,0 +1,166 @@
+name: 'HalfStack London 2019'
+description: ''
+location: ''
+venue: ''
+city: London
+country: 'United Kingdom'
+link: 'https://halfstackconf.com/london/2019/'
+playlist: ''
+from_date: '2019-11-22'
+to_date: '2019-11-22'
+tags: ''
+talks:
+  -
+    title: 'RECONSIDERING OPEN WEB TOOLING'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-22 10:35'
+    speakers:
+      -
+        name: 'Christian Heilmann'
+        twitter: codepo8
+        github: codepo8
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/74'
+    slides: null
+  -
+    title: 'ADDING MACHINE LEARNING TO PLANTS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-22 11:05'
+    speakers:
+      -
+        name: 'Lily Hoskin'
+        twitter: null
+        github: null
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/75'
+    slides: null
+  -
+    title: 'READABLE CODE - AVAILABLE WITHOUT PRESCRIPTION'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-22 11:25'
+    speakers:
+      -
+        name: 'Daniel van Berzon'
+        twitter: null
+        github: null
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/76'
+    slides: null
+  -
+    title: 'BEING ECO-FRIENDLY WITH JAVASCRIPT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-22 12:55'
+    speakers:
+      -
+        name: 'Jonathan Fielding'
+        twitter: JonthanFielding
+        github: jonathan-fielding
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/77'
+    slides: null
+  -
+    title: 'SAVING THE WORLD WITH SVG'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-22 13:25'
+    speakers:
+      -
+        name: 'Chris Dowling'
+        twitter: null
+        github: null
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/82'
+    slides: null
+  -
+    title: 'LETS RECURSE!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-22 13:50'
+    speakers:
+      -
+        name: 'Rob Bateman'
+        twitter: robnet
+        github: rob-bateman
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/78'
+    slides: null
+  -
+    title: 'JAVASCRIPT ON MICROCONTROLLERS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-22 14:45'
+    speakers:
+      -
+        name: 'Niels Leenheer'
+        twitter: html5test
+        github: NielsLeenheer
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/79'
+    slides: null
+  -
+    title: 'ADVENTURES IN REINVENTING INTERFACES'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-22 15:20'
+    speakers:
+      -
+        name: 'Suz Hinton'
+        twitter: noopkat
+        github: noopkat
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/80'
+    slides: null
+  -
+    title: 'YODA, WEB, SPOCK RELOADED'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-22 15:50'
+    speakers:
+      -
+        name: 'Dylan Schiemann'
+        twitter: dylans
+        github: dylans
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/81'
+    slides: null
+  -
+    title: 'MAKING THE CONDITIONAL ORCHESTRA'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-22 16:35'
+    speakers:
+      -
+        name: 'Richard Bultitude'
+        twitter: null
+        github: null
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/83'
+    slides: null
+  -
+    title: 'AN EARLY CHRISTMAS SURPRISE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-11-22 17:10'
+    speakers:
+      -
+        name: 'Jo Franchetti'
+        twitter: ThisIsJoFrank
+        github: null
+    videos:
+      - 'halfstackconf.streameventlive.com:/embed/84'
+    slides: null

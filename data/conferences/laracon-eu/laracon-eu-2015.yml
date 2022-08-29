@@ -1,0 +1,180 @@
+name: 'Laracon EU 2015'
+description: ''
+location: Amsterdam
+venue: ''
+city: ''
+country: ''
+link: 'https://laracon.eu/2015/'
+playlist: ''
+from_date: '2015-08-25'
+to_date: '2015-08-26'
+tags: ''
+talks:
+  -
+    title: 'Package Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-26 00:00'
+    speakers:
+      -
+        name: 'Hannes Van De Vreken'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lreUaGnOOYs'
+    slides: null
+  -
+    title: 'Impostor Syndrome and Individual Competence'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-26 00:00'
+    speakers:
+      -
+        name: 'Jessica Rose'
+        twitter: jesslynnrose
+        github: null
+    videos:
+      - 'youtube:wtrF5C7Gv7E'
+    slides: null
+  -
+    title: 'The Tao Of Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-25 00:00'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:PRFO4YlHHQU'
+    slides: null
+  -
+    title: 'Things Laravel Made Me Believe'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-26 00:00'
+    speakers:
+      -
+        name: 'Jeffrey Way'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mDotS5BDqRM'
+    slides: null
+  -
+    title: 'Empathy Gives you Superpowers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-25 00:00'
+    speakers:
+      -
+        name: 'Matt Stauffer'
+        twitter: stauffermatt
+        github: null
+    videos:
+      - 'youtube:fMFjO2szDnk'
+    slides: null
+  -
+    title: 'Min-maxing Software Costs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-26 00:00'
+    speakers:
+      -
+        name: 'Konstantin Kudryashov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:uQUxJObxTUs'
+    slides: null
+  -
+    title: "Frontin' like a Back-er"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-25 00:00'
+    speakers:
+      -
+        name: 'Frank de Jonge'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Fj0vBVIjL4w'
+    slides: null
+  -
+    title: 'Advanced GIT for Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-26 00:00'
+    speakers:
+      -
+        name: 'Lorna Jane Mitchell'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:duqBHik7nRo'
+    slides: null
+  -
+    title: 'Chasing "Perfect"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-25 00:00'
+    speakers:
+      -
+        name: 'Adam Wathan'
+        twitter: adamwathan
+        github: null
+    videos:
+      - 'youtube:5DVDewOReoY'
+    slides: null
+  -
+    title: 'The Laravel Ecosystem'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-25 00:00'
+    speakers:
+      -
+        name: 'Dries Vints'
+        twitter: driesvints
+        github: driesvints
+    videos:
+      - 'youtube:uH9lWBdW8b0'
+    slides: null
+  -
+    title: 'Whistleblowing 101'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-26 00:00'
+    speakers:
+      -
+        name: 'Esther Kok'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Rq3vzpJWHZk'
+    slides: null
+  -
+    title: 'So You Can Code... Now What?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-08-25 00:00'
+    speakers:
+      -
+        name: 'Ben Corlett'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:H1zig8WvUW8'
+    slides: null

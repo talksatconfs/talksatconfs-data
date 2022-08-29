@@ -1,0 +1,84 @@
+name: 'Flutter Live 2018'
+description: 'Experience the latest from Flutter, Google’s free and open source SDK for building high-quality native iOS and Android apps from a single codebase.  Flutter Live is a global celebration of Flutter.'
+location: ''
+venue: ''
+city: London
+country: 'United Kingdom'
+link: 'https://developers.google.com/events/flutter-live/'
+playlist: 'youtube.com:PLOU2XLYxmsIJ3JNXox3w0NLQ20KPI18n8'
+from_date: '2018-12-04'
+to_date: '2018-12-04'
+tags: ''
+talks:
+  -
+    title: 'Announcing Flutter 1.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Tim Sneath'
+        twitter: timsneath
+        github: timsneath
+      -
+        name: 'Filip Hráček'
+        twitter: filiphracek
+        github: filiph
+    videos:
+      - 'youtube:kpcjBD1XDwU'
+    slides: null
+  -
+    title: 'Flutter Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Will Larche'
+        twitter: null
+        github: willlarche
+      -
+        name: 'Guido Rosso'
+        twitter: guidorosso
+        github: null
+    videos:
+      - 'youtube:6hmgkimeaEE'
+    slides: null
+  -
+    title: 'Flutter Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Emily Fortuna'
+        twitter: bouncingsheep
+        github: efortuna
+      -
+        name: 'Matt Sullivan'
+        twitter: mjohnsullivan
+        github: mjohnsullivan
+      -
+        name: 'Maurice Parrish'
+        twitter: null
+        github: bparrishMines
+    videos:
+      - 'youtube:OAEWySye0BQ'
+    slides: null
+  -
+    title: 'One More Thing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-04 00:00'
+    speakers:
+      -
+        name: 'Eric Seidel'
+        twitter: _eseidel
+        github: eseidelGoogle
+    videos:
+      - 'youtube:5SZZfpkVhwk'
+    slides: null

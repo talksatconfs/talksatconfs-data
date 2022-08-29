@@ -1,0 +1,424 @@
+name: 'PyCon APAC 2019'
+description: '"PyCon APAC is a volunteer-run, not-for-profit annual conference centered around the Python Programming language. The goal of the conference is to provide a venue where the Python programming language and surrounding technologies can be explored, discussed and exercised. PyCon APAC is the regional counterpart of PyCon in Asia-Pacific. It is hosted in one (1) of the following countries every year: Singapore, Malaysia, Indonesia, Philippines, Thailand, South Korea, Hong Kong, Vietnam, Japan, Taiwan, India and Bangladesh. This 2019, PyCon APAC will be hosted in the Philippines for the very first time. Learn something new, teach something new, find opportunities, build cool things, make friends, geek out! Come celebrate and enjoy this event with us! "'
+location: ''
+venue: ''
+city: 'Makati City'
+country: Philippines
+link: 'https://pycon.python.ph/'
+playlist: 'youtube.com:PLCBCxsuKTqkCnc9lcO1PJKScJ4GFKZHwP'
+from_date: '2019-02-23'
+to_date: '2019-02-24'
+tags: ''
+talks:
+  -
+    title: 'Opening Remarks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 00:00'
+    speakers:
+      -
+        name: 'Matt Lebrun'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Keynote 1: PyCon APAC - Back to the Future!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 00:00'
+    speakers:
+      -
+        name: 'Beng Keat Liew'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lFWSq0c6vPo'
+    slides: null
+  -
+    title: 'Keynote 2: Interviewing as a Python engineer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 00:00'
+    speakers:
+      -
+        name: 'Jacob Kaplan-Moss'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WtPzxEnDQog'
+    slides: null
+  -
+    title: 'Keynote 3: How did you know? Explaining Black Box Model Predictions in Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 00:00'
+    speakers:
+      -
+        name: 'Suzy Lee'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8dx42JUk8OE'
+    slides: null
+  -
+    title: 'Python’s role in accelerating biomedical science'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 00:00'
+    speakers:
+      -
+        name: 'Li Ting Chen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Qm3nbKB3-0Y'
+    slides: null
+  -
+    title: 'Data Science and Machine Learning with Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 00:00'
+    speakers:
+      -
+        name: 'Argeo Tuble Alecha'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lCq5qp_nHgA'
+    slides: null
+  -
+    title: 'Workshop: Django Girls Workshop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 00:00'
+    speakers:
+      -
+        name: 'Freilla Mae Espinola'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Using Asyncio in Python 3'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 00:00'
+    speakers:
+      -
+        name: 'Marte Soliza'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zhV-_pkUkyE'
+    slides: null
+  -
+    title: "Python's AI/ML for the Crypto-Industry"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 00:00'
+    speakers:
+      -
+        name: 'Phillip Andrew Espina'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hPlssCNUd9E'
+    slides: null
+  -
+    title: 'Property Based Testing in Python with Hypothesis'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 00:00'
+    speakers:
+      -
+        name: 'Anthony Khong'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:58pvnRJ0prI'
+    slides: null
+  -
+    title: 'A Framework for Transfer Learning on Multi-lingual Text Data for Sentiment Classification'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 00:00'
+    speakers:
+      -
+        name: 'Gyenn Neil Ibo'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9JA4sZ8BmJU'
+    slides: null
+  -
+    title: 'Empathy Maketh an Engineer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 00:00'
+    speakers:
+      -
+        name: Narendran
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-OROHOU5tkY'
+    slides: null
+  -
+    title: 'Homemade scientific clusters in Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 00:00'
+    speakers:
+      -
+        name: 'Taihsiang Ho'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fO3OOFxZlMU'
+    slides: null
+  -
+    title: 'Keynote 4: Here Come The Robots - Python and Machine Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-24 00:00'
+    speakers:
+      -
+        name: 'Tom Dyson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:k7dQm_TORqM'
+    slides: null
+  -
+    title: 'Building Analytics Workflow using Airflow and Spark'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-24 00:00'
+    speakers:
+      -
+        name: 'Yohei Onishi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fkCxgRDBNeI'
+    slides: null
+  -
+    title: 'Using Artificial Intelligence and Satellite Imagery to Zero In on the Philippines’ Most Vulnerable Communities'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-24 00:00'
+    speakers:
+      -
+        name: 'Ardie Orden'
+        twitter: null
+        github: null
+      -
+        name: 'Kevin Go'
+        twitter: null
+        github: null
+      -
+        name: 'Issa Tingzon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:apOYxPluPIo'
+    slides: null
+  -
+    title: 'Serverless Python on AWS Lambda using the Serverless Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-24 00:00'
+    speakers:
+      -
+        name: 'Ted Mathew dela Cruz'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Ac8JnFHRQ7g'
+    slides: null
+  -
+    title: 'Automate the Boring Stuff with Slackbot'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-24 00:00'
+    speakers:
+      -
+        name: 'Takanori Suzuki'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iex9DAGxl_o'
+    slides: null
+  -
+    title: 'Faster Python apps with open source APM'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-24 00:00'
+    speakers:
+      -
+        name: 'Aravind Putrevu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JKUncHxSAVM'
+    slides: null
+  -
+    title: 'Workshop: Demystifying Natural Language Processing using Python (Scikit-Learn/ Keras)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-24 00:00'
+    speakers:
+      -
+        name: 'Vaibhav Srivastav'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PdwjzX0J9_o'
+    slides: null
+  -
+    title: 'Workshop: Introduction to Testing in Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-24 00:00'
+    speakers:
+      -
+        name: 'Aniruddha Adhikary'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RReO5-a-Mj8'
+    slides: null
+  -
+    title: 'Workshop: Graphene for Beginners'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-24 00:00'
+    speakers:
+      -
+        name: 'Nicole Tibay'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FIT3R7CKf8Y'
+    slides: null
+  -
+    title: 'Workshop: Setting up Computer Vision with Kivy using Tensorflow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-24 00:00'
+    speakers:
+      -
+        name: 'Jairus Jimenez'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jT1L9-hRpI4'
+    slides: null
+  -
+    title: 'Workshop: Learn How to Dockerize Your Python Application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-24 00:00'
+    speakers:
+      -
+        name: 'Paul de Paula'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:uKVAgX6iyHA'
+    slides: null
+  -
+    title: 'Best tools for Jupyter notebooks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-24 00:00'
+    speakers:
+      -
+        name: 'Dmitry Trofimov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JO-sysLpXZ4'
+    slides: null
+  -
+    title: 'Exploiting Auxiliary Information for Better Recommendation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-24 00:00'
+    speakers:
+      -
+        name: 'Sun Zhu'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fDoekg_Usjg'
+    slides: null
+  -
+    title: 'Turn your Flask App into Async using Quart'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-24 00:00'
+    speakers:
+      -
+        name: 'Doni Rubiagatra'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WXSn6SsmELE'
+    slides: null
+  -
+    title: 'The Use of Python in the Data World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-24 00:00'
+    speakers:
+      -
+        name: 'Lai-Man Sung'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0Qk1041wkPY'
+    slides: null
+  -
+    title: 'Python with NoSQL + SQL = MySQL 8.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-24 00:00'
+    speakers:
+      -
+        name: 'Ronen Baran'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yaqevCd8rU8'
+    slides: null

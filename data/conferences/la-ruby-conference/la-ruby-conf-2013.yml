@@ -1,0 +1,133 @@
+name: 'LA Ruby Conf 2013'
+description: ''
+location: ''
+venue: ''
+city: 'Burbank, California'
+country: 'United States'
+link: 'https://web.archive.org/web/20131020063840/http://larubyconf.com/schedule'
+playlist: ''
+from_date: '2013-02-21'
+to_date: '2013-02-23'
+tags: ''
+talks:
+  -
+    title: 'Refactoring Fat Models with Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 09:10'
+    speakers:
+      -
+        name: 'Bryan Helmkamp'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Impressive Ruby Productivity with Vim and Tmux'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 10:00'
+    speakers:
+      -
+        name: 'Chris Hunt'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Where is my scalable API?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 10:50'
+    speakers:
+      -
+        name: 'Juan Pablo Genovese'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: nphcoisbwu
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 11:40'
+    speakers:
+      -
+        name: 'Corey Haines'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Python for Ruby Programmers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 13:30'
+    speakers:
+      -
+        name: 'Mike Leone'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Backbone.js, Jasmine and Rails: The Lust Story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 14:20'
+    speakers:
+      -
+        name: 'Austin Fonacier'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Why I like JRuby (and you should too)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 15:00'
+    speakers:
+      -
+        name: 'Fiona Tay'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "It's not your test framework, it's you"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 16:00'
+    speakers:
+      -
+        name: 'Robbie Clutton '
+        twitter: null
+        github: null
+      -
+        name: ' Matt Parker'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'People who liked this talk also liked … Building Recommendation Systems Using Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-02-23 16:50'
+    speakers:
+      -
+        name: 'Ryan Weald'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

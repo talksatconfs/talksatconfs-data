@@ -1,0 +1,486 @@
+name: 'The Rolling Scopes Conference 2018'
+description: 'The largest JavaScript/Front-end conference in Belarus. Two full days of delicious content for amazing people of the front-end scene.'
+location: ''
+venue: ''
+city: Minsk
+country: Belarus
+link: 'https://2018.conf.rollingscopes.com/'
+playlist: 'youtube:PLe--kalBDwjgH1MQpttWyHmDR98Q404Tn'
+from_date: '2018-02-10'
+to_date: '2018-02-11'
+tags: ''
+talks:
+  -
+    title: 'Tricky JS and WebGL practices to achieve the best performance on mobile'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-10 00:00'
+    speakers:
+      -
+        name: 'Andrei Lesnitsky'
+        twitter: r1zzu
+        github: null
+    videos:
+      - 'youtube:hpJw9GFLn90'
+    slides: null
+  -
+    title: 'Developing and maintaining a coding community'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-10 00:00'
+    speakers:
+      -
+        name: 'Kristi Progri'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YNAtuKUx9Og'
+    slides: null
+  -
+    title: 'Tale of microservices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-10 00:00'
+    speakers:
+      -
+        name: 'Konstantin Krivlenia'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VohMqI_HY1I'
+    slides: null
+  -
+    title: 'Cross browser extensions - lets make one'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-10 00:00'
+    speakers:
+      -
+        name: 'Trishul Goel'
+        twitter: trishulgoel
+        github: null
+    videos:
+      - 'youtube:13rl5j24BbY'
+    slides: null
+  -
+    title: 'Introduction to Micro Frontends'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-10 00:00'
+    speakers:
+      -
+        name: 'Ivan Jovanovic'
+        twitter: ivanjov96
+        github: ivanjov
+    videos:
+      - 'youtube:LH3QoDWAD8k'
+    slides: null
+  -
+    title: 'Пробуем Flow в бою'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-10 00:00'
+    speakers:
+      -
+        name: 'Alexander Shushunov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xSHPFcdVj2A'
+    slides: null
+  -
+    title: 'How to hack a node app?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-10 00:00'
+    speakers:
+      -
+        name: 'Asim Hussain'
+        twitter: jawache
+        github: jawache
+    videos:
+      - 'youtube:_P5aiH1RLOI'
+    slides: null
+  -
+    title: 'Что не так с мобильным вебом?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-10 00:00'
+    speakers:
+      -
+        name: 'Denis Ilin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5aNhBdyv9-4'
+    slides: null
+  -
+    title: 'Journey through VR and AR with React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-10 00:00'
+    speakers:
+      -
+        name: 'Tomasz Lakomy'
+        twitter: tlakomy
+        github: tlakomy
+    videos:
+      - 'youtube:2G6Eo6Z9n9I'
+    slides: null
+  -
+    title: 'Making mobile web app better with WEB APIs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-10 00:00'
+    speakers:
+      -
+        name: 'Timofey Lavrenyuk'
+        twitter: geek_timofey
+        github: null
+    videos:
+      - 'youtube:AlRCcx5g3L4'
+    slides: null
+  -
+    title: Rock’n’scroll
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-10 00:00'
+    speakers:
+      -
+        name: 'Anna Selezniova'
+        twitter: asktwi
+        github: null
+    videos:
+      - 'youtube:oBkcozjgtuA'
+    slides: null
+  -
+    title: 'Beyond React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-10 00:00'
+    speakers:
+      -
+        name: 'Marek Piasecki'
+        twitter: mad_maniak
+        github: null
+    videos:
+      - 'youtube:b6vD9ASIoxo'
+    slides: null
+  -
+    title: 'On JAM Stack Architectures'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-10 00:00'
+    speakers:
+      -
+        name: 'Ilya Pukhalski'
+        twitter: pukhalski
+        github: null
+    videos:
+      - 'youtube:s-v3WkIyUck'
+    slides: null
+  -
+    title: 'Stream API, through Redux-Observable in Electron-based app'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-10 00:00'
+    speakers:
+      -
+        name: 'Ales Tsvil'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:57m27q_xE68'
+    slides: null
+  -
+    title: 'Как заработать больше в фронтенде?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-10 00:00'
+    speakers:
+      -
+        name: 'Alexey Migutsky'
+        twitter: mr_mig_by
+        github: null
+    videos:
+      - 'youtube:A2RNBIHe8t0'
+    slides: null
+  -
+    title: 'Navigating the Frontend landscape without encountering JS fatigue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-10 00:00'
+    speakers:
+      -
+        name: 'Pavel Birukou'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:p7h8hMnjF4I'
+    slides: null
+  -
+    title: 'Evolution of Web Perfomance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-10 00:00'
+    speakers:
+      -
+        name: 'Denis Artyuhovich'
+        twitter: null
+        github: zaqqaz
+    videos:
+      - 'youtube:BIJF0-FyV8M'
+    slides: null
+  -
+    title: 'All-You-Can-Eat-Types: Monad Buffet'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-11 00:00'
+    speakers:
+      -
+        name: 'Alexander Gerasimov'
+        twitter: da_quirm
+        github: null
+    videos:
+      - 'youtube:gpd_vwQmonM'
+    slides: null
+  -
+    title: 'Как рефакторить и оставаться в живых? (Рефакторинг клиентского кода)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-11 00:00'
+    speakers:
+      -
+        name: 'Irina Levina'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:10NIA60SLj4'
+    slides: null
+  -
+    title: 'Защита сервиса при помощи CSP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-11 00:00'
+    speakers:
+      -
+        name: 'Vsevolod Shmyrov'
+        twitter: v_shmyrov
+        github: null
+    videos:
+      - 'youtube:W41Pn9gimYw'
+    slides: null
+  -
+    title: 'How developers can upgrade their visual design skills for better front end development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-11 00:00'
+    speakers:
+      -
+        name: 'Tomasz Jonasz Kujawski'
+        twitter: zachwytupiewca
+        github: null
+    videos:
+      - 'youtube:V5enef11Bjw'
+    slides: null
+  -
+    title: 'Когда продуктов много, а дизайнеров чуть-чуть'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-11 00:00'
+    speakers:
+      -
+        name: 'Vitali Novikau'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_qBJvY_kbyU'
+    slides: null
+  -
+    title: 'DI: DIY'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-11 00:00'
+    speakers:
+      -
+        name: 'James Akwuh'
+        twitter: jamesakwuh
+        github: null
+    videos:
+      - 'youtube:qQnzVTOqzio'
+    slides: null
+  -
+    title: 'The elegance of decorated Redux'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-11 00:00'
+    speakers:
+      -
+        name: 'Ilja Satchok'
+        twitter: _ifours_
+        github: null
+    videos:
+      - 'youtube:NaEiH3Z1qqI'
+    slides: null
+  -
+    title: 'Ресерчили-ресерчили, да не выресерчавали'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-11 00:00'
+    speakers:
+      -
+        name: 'Dzmitry Vanitski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hMNys-hRrmI'
+    slides: null
+  -
+    title: 'How to improve test coverage up to 80% with generated unit testing approach and be calm.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-11 00:00'
+    speakers:
+      -
+        name: 'Aliaksandr Pasynkau'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:V-6hEsziY8M'
+    slides: null
+  -
+    title: 'И снова телевизоры!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-11 00:00'
+    speakers:
+      -
+        name: 'Egor Malkevich'
+        twitter: wegorelax
+        github: wegorich
+    videos:
+      - 'youtube:g7OBtXP69oQ'
+    slides: null
+  -
+    title: 'Codemods и трансформация JavaScript кода'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-11 00:00'
+    speakers:
+      -
+        name: 'Mikhail Hatsilau'
+        twitter: gatik9306
+        github: null
+    videos:
+      - 'youtube:p8F-UIzuJtA'
+    slides: null
+  -
+    title: 'Ускорение UI тестов'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-11 00:00'
+    speakers:
+      -
+        name: 'Vasiliy Vanchuk'
+        twitter: vvscode
+        github: null
+    videos:
+      - 'youtube:Vh7vXXN599s'
+    slides: null
+  -
+    title: 'Дизайнерская неожиданность'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-11 00:00'
+    speakers:
+      -
+        name: 'Yauheniya Zhur'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OIs_03m_ED4'
+    slides: null
+  -
+    title: 'Front-end для блокчейн проекта децентрализованной исследовательской платформы'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-11 00:00'
+    speakers:
+      -
+        name: 'Alex Shkorh'
+        twitter: alexshkor
+        github: null
+    videos:
+      - 'youtube:oyjsUbv97yw'
+    slides: null
+  -
+    title: 'Workshop: Думай, как дизайнер'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-11 00:00'
+    speakers:
+      -
+        name: 'Kate Bosakova'
+        twitter: null
+        github: null
+      -
+        name: 'Krystsina Svirydzenka'
+        twitter: null
+        github: null
+      -
+        name: 'Hanna Kolesava'
+        twitter: null
+        github: null
+      -
+        name: 'Svetlana Jeltok'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:x1vAevI5kIg'
+    slides: null
+  -
+    title: 'Разработка редактора документов'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-11 00:00'
+    speakers:
+      -
+        name: 'Dmitry Volokh'
+        twitter: davolokh
+        github: null
+    videos:
+      - 'youtube:LKBC2Gr5Wgw'
+    slides: null

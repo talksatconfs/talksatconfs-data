@@ -1,0 +1,197 @@
+name: 'The Lead Developer Austin 2018'
+description: 'A 1-day conference for technical leads and engineering managers.'
+location: ''
+venue: ''
+city: Austin
+country: 'United States'
+link: 'https://austin2018.theleaddeveloper.com/'
+playlist: 'youtube.com:PLBzScQzZ83I8aBUZtZXNWZkWKEgWRffH6'
+from_date: '2018-12-06'
+to_date: '2018-12-06'
+tags: ''
+talks:
+  -
+    title: 'Navigating team friction'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-06 00:00'
+    speakers:
+      -
+        name: 'Lara Hogan'
+        twitter: lara_hogan
+        github: null
+    videos:
+      - 'youtube:QArfW-IcQls'
+    slides: null
+  -
+    title: 'Is Kotlin right for you?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-06 00:00'
+    speakers:
+      -
+        name: 'Todd Ginsberg'
+        twitter: toddginsberg
+        github: null
+    videos:
+      - 'youtube:uDXUMjOSaW0'
+    slides: null
+  -
+    title: 'Code reviews, for the culture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-06 00:00'
+    speakers:
+      -
+        name: 'Erica Stanley'
+        twitter: ericastanley
+        github: null
+    videos:
+      - 'youtube:xT3oFHBDEZY'
+    slides: null
+  -
+    title: 'How to get away with refactoring'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-06 00:00'
+    speakers:
+      -
+        name: 'Maude Lemaire'
+        twitter: qcmaude
+        github: null
+    videos:
+      - 'youtube:34tLTZgvOxM'
+    slides:
+      - 'http://maudethecodetoad.com/how_to_get_away_with_refactoring.pdf'
+  -
+    title: 'Building and scaling distributed teams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-06 00:00'
+    speakers:
+      -
+        name: 'Katie Womersley'
+        twitter: katie_womers
+        github: null
+    videos:
+      - 'youtube:lam-94VHHsM'
+    slides:
+      - 'https://speakerdeck.com/katielo/building-and-scaling-distributed-teams'
+  -
+    title: 'Bootstrapping inclusion'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-06 00:00'
+    speakers:
+      -
+        name: 'Jason Wong'
+        twitter: attackgecko
+        github: null
+    videos:
+      - 'youtube:YEWTgeQGJKA'
+    slides:
+      - 'https://speakerdeck.com/jwongworks/bootstrapping-inclusion'
+  -
+    title: 'Suplexes and superpowers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-06 00:00'
+    speakers:
+      -
+        name: 'Kevin Stewart'
+        twitter: kstewart
+        github: null
+    videos:
+      - 'youtube:eswdhgANzrc'
+    slides: null
+  -
+    title: 'Why GraphQL?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-06 00:00'
+    speakers:
+      -
+        name: 'Chris Arcand'
+        twitter: chrisarcand
+        github: null
+    videos:
+      - 'youtube:-2bbLuW8lmk'
+    slides: null
+  -
+    title: 'Zero to data infrastructure'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-06 00:00'
+    speakers:
+      -
+        name: 'Brad Urani'
+        twitter: bradurani
+        github: null
+    videos:
+      - 'youtube:iANzEw0t5GM'
+    slides: null
+  -
+    title: 'A retro of retros: how Sprint retrospectives can be both fun and productive'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-06 00:00'
+    speakers:
+      -
+        name: 'Cecy Correa'
+        twitter: cecycorrea
+        github: null
+    videos:
+      - 'youtube:qX3yrzvLWmc'
+    slides: null
+  -
+    title: 'Experiential learning for developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-06 00:00'
+    speakers:
+      -
+        name: 'Allison McMillan'
+        twitter: allie_p
+        github: null
+    videos:
+      - 'youtube:FI-WvXYCmIM'
+    slides: null
+  -
+    title: 'A tour of Apache Pulsar'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-06 00:00'
+    speakers:
+      -
+        name: 'Jowanza Joseph'
+        twitter: jowanza
+        github: null
+    videos:
+      - 'youtube:7h7hA7APa5Y'
+    slides: null
+  -
+    title: "Eiffel's tower"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-12-06 00:00'
+    speakers:
+      -
+        name: 'Nickolas Means'
+        twitter: nmeans
+        github: null
+    videos:
+      - 'youtube:dLPi4lfk8is'
+    slides: null

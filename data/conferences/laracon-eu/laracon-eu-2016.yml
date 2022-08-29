@@ -1,0 +1,323 @@
+name: 'Laracon EU 2016'
+description: ''
+location: Amsterdam
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2016-08-23'
+to_date: '2016-08-24'
+tags: ''
+talks:
+  -
+    title: 'Build Your own recommendation Engine with Neo4j AND Reco4PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-24 00:00'
+    speakers:
+      -
+        name: 'Christophe Willemsen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wSXYos7Jvsc'
+    slides: null
+  -
+    title: 'How to Effectively grow a Development team'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-24 00:00'
+    speakers:
+      -
+        name: 'Jeroen V.D. Gulik'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pqr0_qRLPA0'
+    slides: null
+  -
+    title: 'Future is a thing of the past'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-23 00:00'
+    speakers:
+      -
+        name: 'Mitchell Van Wijngaarden'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Kq3wgGRsVvs'
+    slides: null
+  -
+    title: 'Curing the common loop (With Collection Pipelines)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-24 00:00'
+    speakers:
+      -
+        name: 'Adam Wathan'
+        twitter: adamwathan
+        github: null
+    videos:
+      - 'youtube:crSUWtRYw-M'
+    slides: null
+  -
+    title: 'Taking care of backups with Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-24 00:00'
+    speakers:
+      -
+        name: 'Freek van der Herten'
+        twitter: freekmurze
+        github: freekmurze
+      -
+        name: 'Freek Van Der Verten'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fORNQ06K8LY'
+    slides: null
+  -
+    title: 'How to avoid database migration hell'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-23 00:00'
+    speakers:
+      -
+        name: 'Edward Coleridge Smith'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lH-FLJ363-Q'
+    slides: null
+  -
+    title: 'Modern Frontend with Vue.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-23 00:00'
+    speakers:
+      -
+        name: 'Evan You'
+        twitter: youyuxi
+        github: yyx990803
+    videos:
+      - 'youtube:D_z-RAweP1k'
+    slides: null
+  -
+    title: 'IOC container beyond constructor injection'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-23 00:00'
+    speakers:
+      -
+        name: 'Hannes Van De Vreken'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WMT8txJHdKI'
+    slides: null
+  -
+    title: 'Bringing User Stories to Life'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-23 00:00'
+    speakers:
+      -
+        name: 'Gemma Cameron'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pvWQCuyTPsg'
+    slides: null
+  -
+    title: 'Varnish for PHP developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-23 00:00'
+    speakers:
+      -
+        name: 'Mattias Geniar'
+        twitter: mattiasgeniar
+        github: mattiasgeniar
+    videos:
+      - 'youtube:nAFpkV5-vuI'
+    slides: null
+  -
+    title: 'No Excuse, User Research'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-23 00:00'
+    speakers:
+      -
+        name: 'Lily Dart'
+        twitter: lily_dart
+        github: null
+    videos:
+      - 'youtube:yGj_r_4vQH8'
+    slides: null
+  -
+    title: 'Embrace chatops, stop installing deployment software'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-23 00:00'
+    speakers:
+      -
+        name: 'Geshan Manandhar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SZ3UfwBACIo'
+    slides: null
+  -
+    title: 'BUILDING REAL-TIME APPS THE NODE WAY USING LARAVEL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-24 00:00'
+    speakers:
+      -
+        name: 'Sriram Ranganathan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TDD is dead, long live TDD'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-23 00:00'
+    speakers:
+      -
+        name: 'Jon Acker'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Q9wSvlmywhI'
+    slides: null
+  -
+    title: 'The lucid architecture for building scalable applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-24 00:00'
+    speakers:
+      -
+        name: 'Abed Halawi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wSnM4JkyxPw'
+    slides: null
+  -
+    title: 'Making the most out of MySQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-24 00:00'
+    speakers:
+      -
+        name: "Gabriela D'avila"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DlVESXLNyAc'
+    slides: null
+  -
+    title: "One Box Doesn't fit all"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-23 00:00'
+    speakers:
+      -
+        name: 'Frank de Jonge'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0bq8619JijU'
+    slides: null
+  -
+    title: 'Project Utopia'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-24 00:00'
+    speakers:
+      -
+        name: "Caryn Humphreys & Jesse O'Brien"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WARtjv330mg'
+    slides: null
+  -
+    title: 'Please Understand Me'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-24 00:00'
+    speakers:
+      -
+        name: 'Matthias Noback'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2A1CykoizgY'
+    slides: null
+  -
+    title: 'The State Of Content Management'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-24 00:00'
+    speakers:
+      -
+        name: 'Tihomir Opacic'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:E-YimAMyIcE'
+    slides: null
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-23 00:00'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:mTRH6vjWG_E'
+    slides: null
+  -
+    title: 'Conversations with a screen reader - Web accessibility for Artisans'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-08-24 00:00'
+    speakers:
+      -
+        name: 'Franz Liedke'
+        twitter: franzliedke
+        github: franzliedke
+    videos:
+      - 'youtube:Lgc8vTYj5sI'
+    slides: null

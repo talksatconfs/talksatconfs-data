@@ -1,0 +1,180 @@
+name: 'Goruco 2016'
+description: ''
+location: 'New York'
+venue: ''
+city: ''
+country: ''
+link: 'http://2016.goruco.com/'
+playlist: ''
+from_date: '2016-06-25'
+to_date: '2016-06-25'
+tags: ''
+talks:
+  -
+    title: 'Keynote: Cult(ure)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 00:00'
+    speakers:
+      -
+        name: 'Adam Cuppy'
+        twitter: adamcuppy
+        github: null
+    videos:
+      - 'youtube:ChVSV9vCs4Y'
+    slides: null
+  -
+    title: 'Ruby Racing: Challenging Ruby Methods'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 00:00'
+    speakers:
+      -
+        name: 'Danielle Adams'
+        twitter: adamzdanielle
+        github: danielleadams
+    videos:
+      - 'youtube:oKZgnntMTBM'
+    slides: null
+  -
+    title: 'Introducing the Crystal Programming Language'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 00:00'
+    speakers:
+      -
+        name: 'Will Leinweber'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oC9IknG40po'
+    slides: null
+  -
+    title: 'Database Performance at Scale for RoR Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 00:00'
+    speakers:
+      -
+        name: 'Rocio Delgado'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:01SISs0ni1o'
+    slides: null
+  -
+    title: 'Impactful Refactors: Refactoring for Readability'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 00:00'
+    speakers:
+      -
+        name: 'Kinsey Ann Durham'
+        twitter: KinseyAnnDurham
+        github: durhamka
+    videos:
+      - 'youtube:T4reLGtp4fA'
+    slides: null
+  -
+    title: 'Exploring Big Data with rubygems.org Download Data'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 00:00'
+    speakers:
+      -
+        name: 'Aja Hammerly'
+        twitter: the_thagomizer
+        github: null
+    videos:
+      - 'youtube:0mzNNg62_kM'
+    slides: null
+  -
+    title: 'Keynote: Code Quality Lessons Learned'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 00:00'
+    speakers:
+      -
+        name: 'Bryan Helmkamp'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vcH0RBe4Eew'
+    slides: null
+  -
+    title: 'The Guest: A Guide To Code Hospitality'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 00:00'
+    speakers:
+      -
+        name: 'Nadia Odunayo'
+        twitter: nodunayo
+        github: null
+    videos:
+      - 'youtube:GUuAp6c1ylM'
+    slides: null
+  -
+    title: "Enumerable's Ugly Cousin"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 00:00'
+    speakers:
+      -
+        name: 'Ross Kaffenberger'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:D2E7t19pG0E'
+    slides: null
+  -
+    title: 'Pipe Operator for Ruby'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 00:00'
+    speakers:
+      -
+        name: 'Fabio Akita'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ThB2cpPsb1o'
+    slides: null
+  -
+    title: 'Symmetric API Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 00:00'
+    speakers:
+      -
+        name: 'Aditya Mukerjee'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6BdUV1pAWa8'
+    slides: null
+  -
+    title: 'Just A Ruby Minute'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 00:00'
+    speakers:
+      -
+        name: 'Andrew Faraday'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RhtITcsM2UE'
+    slides: null

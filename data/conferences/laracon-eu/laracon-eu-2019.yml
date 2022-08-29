@@ -1,0 +1,268 @@
+name: 'Laracon EU 2019'
+description: ''
+location: Amsterdam
+venue: ''
+city: ''
+country: ''
+link: 'https://laracon.eu/'
+playlist: ''
+from_date: '2019-08-28'
+to_date: '2019-08-30'
+tags: ''
+talks:
+  -
+    title: 'Be nice, help the person who hacks your servers to get your data.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Srdjan Vranac'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TF-E5FPHQaY'
+    slides: null
+  -
+    title: 'Cache busting using Laravel Mix and CDN'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Ryuta Hamasaki'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nhpjNXHfa80'
+    slides: null
+  -
+    title: 'Our Secret Project'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Freek van der Herten'
+        twitter: freekmurze
+        github: freekmurze
+      -
+        name: 'Marcel Pociot'
+        twitter: marcelpociot
+        github: mpociot
+    videos:
+      - 'youtube:RP1mU4gfNeQ'
+    slides: null
+  -
+    title: 'Infinite Scale: Deploying and Scaling Laravel on Kubernetes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Leo Sjöberg'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:UTXuslWrH1Q'
+    slides: null
+  -
+    title: 'The Art of Form Validation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: Caneco
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rkdlJeHTeCY'
+    slides: null
+  -
+    title: 'Event Storming for Everyone'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Beau Simensen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:aoaBU__dfDw'
+    slides: null
+  -
+    title: 'Estimation as Uncertainty Reduction'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Michael Godeck'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dOtRvhjTRww'
+    slides: null
+  -
+    title: 'Performance optimisation: how do I go about it?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Kasia Zien'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hOajLLej68Y'
+    slides: null
+  -
+    title: 'How your Laravel application can get hacked, and how to prevent that from happening.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Antti Rössi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kKGGVGiq2y8'
+    slides: null
+  -
+    title: 'The world is NOT cruddy by design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-08-29 09:30'
+    speakers:
+      -
+        name: 'Adel Faizrakhmanov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iI1F6lrU88E'
+    slides: null
+  -
+    title: 'Event Sourcing in Laravel with EventSauce'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Dries Vints'
+        twitter: driesvints
+        github: driesvints
+    videos:
+      - 'youtube:dL6186yr9nI'
+    slides: null
+  -
+    title: 'The State of Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:Hfgcg09srSo'
+    slides: null
+  -
+    title: 'SOLID in Architecture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Michal Ksionek'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JNvX1Pge9CY'
+    slides: null
+  -
+    title: "The Beauty of Laravel's Notification System"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Christoph Rumpel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rcaZbrhfi6M'
+    slides: null
+  -
+    title: 'Demystifying Dependency Injection Containers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Kai Sassnowski'
+        twitter: warsh33p
+        github: ksassnowski
+    videos:
+      - 'youtube:y7EbrV4ChJs'
+    slides: null
+  -
+    title: 'Have your cake and eat it too with Inertia.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Sebastian De Deyne'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8to7QtuD3is'
+    slides: null
+  -
+    title: "Close the Gate! Using Laravel's Authorization Layer"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Chris Brown'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:B2M3FCjRz6w'
+    slides: null
+  -
+    title: 'Time Driven Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Katerina Trajchevska'
+        twitter: ktrajchevska
+        github: trajchevska
+    videos:
+      - 'youtube:79otgjveYzI'
+    slides: null

@@ -1,0 +1,337 @@
+name: 'LOADays 2018'
+description: ''
+location: Belgium
+venue: ''
+city: ''
+country: ''
+link: 'https://web.archive.org/web/20180831232646/http://loadays.org/pages/schedule.html'
+playlist: ''
+from_date: '2018-04-21'
+to_date: '2018-04-22'
+tags: ''
+talks:
+  -
+    title: 'Scheduling data Pipelines'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 14:00'
+    speakers:
+      -
+        name: 'Bert Desmet'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Using Gluster for your Storage Workloads'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 15:00'
+    speakers:
+      -
+        name: 'Niels de Vos'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Prometheus for the traditional DC'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 12:00'
+    speakers:
+      -
+        name: 'Julien Pivotto'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Is Your DNS Server Up-To-Da'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 14:00'
+    speakers:
+      -
+        name: 'Pieter Lexis'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'GDPR for Nerds'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 10:00'
+    speakers:
+      -
+        name: 'Frank Louwers'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Applying SOLID principles to Infrastructure as Cod'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 10:00'
+    speakers:
+      -
+        name: 'Bram Vogelaar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Troubleshooting Workshop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 10:00'
+    speakers:
+      -
+        name: 'Bert Van Vreckem'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Varnish
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 17:00'
+    speakers:
+      -
+        name: 'Mattias Geniar'
+        twitter: mattiasgeniar
+        github: mattiasgeniar
+    videos: null
+    slides: null
+  -
+    title: 'Lan Party using Open Source tools'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 17:00'
+    speakers:
+      -
+        name: 'Christophe Vanlancker'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'ZFS on Linux'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 14:00'
+    speakers:
+      -
+        name: 'Wouter Verhelst'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Jinja2 and Data Manipulation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 12:00'
+    speakers:
+      -
+        name: 'Dag Wieers'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Zabbix 4.0 : New feautres'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 11:00'
+    speakers:
+      -
+        name: 'Patrik uytterhoeven'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Dealing with complexity and abstractions in config managemen'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 12:00'
+    speakers:
+      -
+        name: 'Simon Peeters'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Simple system testing with Roundup and Ansib'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 15:00'
+    speakers:
+      -
+        name: 'Pieter Hollants'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Your app lives on a network'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 17:00'
+    speakers:
+      -
+        name: 'Wim Godden'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Relax-and-Recover Automated testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 15:00'
+    speakers:
+      -
+        name: "Gratien D'haese"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Tesla Hacking'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 16:00'
+    speakers:
+      -
+        name: 'Jasper Nuyens'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Ansible Role testing with Molecu'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 16:00'
+    speakers:
+      -
+        name: 'Ton Kersten'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'OAuth 2.0 And OpenID Connec'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 10:00'
+    speakers:
+      -
+        name: 'Tim Speetjens'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'From Boot to root, pentesting with Docker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 16:00'
+    speakers:
+      -
+        name: 'Jean-François Maes'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Ansible AWX'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 14:00'
+    speakers:
+      -
+        name: 'Jan-Piet Mens'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'FreeBSD is not a Linux distro'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 16:00'
+    speakers:
+      -
+        name: 'Kristof Provost'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Making Sense of SyslogNG'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 15:00'
+    speakers:
+      -
+        name: 'Peter Czanik'
+        twitter: Pczanik
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Infrastructure As Data'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-22 11:00'
+    speakers:
+      -
+        name: 'Serge van Ginderachter'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Jenkins as SysAdmin too'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-04-21 11:00'
+    speakers:
+      -
+        name: 'Fabian Arrotin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

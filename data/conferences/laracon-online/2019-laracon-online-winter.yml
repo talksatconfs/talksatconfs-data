@@ -1,0 +1,138 @@
+name: '2019 - Laracon Online (Winter)'
+description: "There’s nothing like attending a Laracon, but unfortunately, not everyone can take part in Laracon US or EU in person.\r\n\r\nThat’s why we’ve created Laracon Online. The easiest and most affordable way to get the Laracon experience.\r\n\r\nWe’ve put together a full day of talks featuring some of Laravel’s brightest minds, and streaming them directly to your home or office."
+location: ''
+venue: ''
+city: ''
+country: ''
+link: 'https://web.archive.org/web/20190710152018/https://laracon.net/'
+playlist: 'youtube:PLyfOROdV5_9MOqNM-yqBTBjbiPLu-gBvd'
+from_date: '2019-03-06'
+to_date: '2019-03-06'
+tags: ''
+talks:
+  -
+    title: 'Freek Van der Herten - Getting started with event sourcing in Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-06 03:30'
+    speakers:
+      -
+        name: 'Freek Van Der Verten'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DTjCcmh2U-k'
+    slides: null
+  -
+    title: 'Jason McCreary - Writing less complex, more readable code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-06 04:30'
+    speakers:
+      -
+        name: 'Jason McCreary'
+        twitter: jasonmccreary
+        github: jasonmccreary
+    videos:
+      - 'youtube:TdPrfAmbVWY'
+    slides: null
+  -
+    title: 'Marcel Pociot - Realtime applications with Laravel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-06 05:30'
+    speakers:
+      -
+        name: 'Marcel Pociot'
+        twitter: marcelpociot
+        github: mpociot
+    videos:
+      - 'youtube:xN3LIznFwZc'
+    slides: null
+  -
+    title: "Wes Bos - What's new in React?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-06 06:45'
+    speakers:
+      -
+        name: 'Wes Bos'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-qzSKMAbqiQ'
+    slides: null
+  -
+    title: 'Taylor Otwell - Exploring Laravel 5.8'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-06 07:45'
+    speakers:
+      -
+        name: 'Taylor Otwell'
+        twitter: taylorotwell
+        github: taylorotwell
+    videos:
+      - 'youtube:zzd13Qd4ImE'
+    slides: null
+  -
+    title: 'Samantha Geitz - Laravel, the Blockchain, and You!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-06 09:00'
+    speakers:
+      -
+        name: 'Samantha Geitz'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4dPpOV0FfZ4'
+    slides: null
+  -
+    title: 'Matt Stauffer - Databases in space'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-06 10:00'
+    speakers:
+      -
+        name: 'Matt Stauffer'
+        twitter: stauffermatt
+        github: null
+    videos:
+      - 'youtube:WSXJVikZ0E0'
+    slides: null
+  -
+    title: 'Steve Schoger - Practical Solutions to Common UI Design Problems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-06 11:15'
+    speakers:
+      -
+        name: 'Steve Schoger'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:VfRE0ah3NxE'
+    slides: null
+  -
+    title: 'Adam Wathan - Tailwind CSS by Example'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-03-06 12:15'
+    speakers:
+      -
+        name: 'Adam Wathan'
+        twitter: adamwathan
+        github: null
+    videos:
+      - 'youtube:cUBsTtZ97Fs'
+    slides: null

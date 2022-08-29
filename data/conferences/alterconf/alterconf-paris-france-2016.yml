@@ -1,0 +1,180 @@
+name: 'AlterConf Paris, France - 2016'
+description: ''
+location: 'Paris, France'
+venue: ''
+city: ''
+country: ''
+link: 'https://alterconf.com/conferences/2016/paris-france'
+playlist: ''
+from_date: '2016-07-09'
+to_date: '2016-07-09'
+tags: ''
+talks:
+  -
+    title: "Le point de vue d'une femme trans sur le sexisme de la presse vidéoludique française"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-09 00:00'
+    speakers:
+      -
+        name: 'Gabrielle Barboteau'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2fl06WACpMw'
+    slides: null
+  -
+    title: 'The transatlantic journey to success'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-09 00:00'
+    speakers:
+      -
+        name: 'Claudia Hernández'
+        twitter: koste4
+        github: claudiahdz
+    videos:
+      - 'youtube:nZtOvJ8IGPA'
+    slides: null
+  -
+    title: "Inclusivity in the hacker background : where we are, where we've come from and where to go"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-09 00:00'
+    speakers:
+      -
+        name: 'Scar Hervé'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8_QvDYFOP04'
+    slides: null
+  -
+    title: 'Honoring Your Struggle by Hacking Company Culture with UX'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-09 00:00'
+    speakers:
+      -
+        name: "Qa'id Jacobs"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rY4iMLzSNJY'
+    slides: null
+  -
+    title: 'Tech Beyond Borders'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-09 00:00'
+    speakers:
+      -
+        name: 'Ludwine Probst'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wfSIpkRaEPM'
+    slides: null
+  -
+    title: 'Accessibility vs. Ethics in the Sharing Economy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-09 00:00'
+    speakers:
+      -
+        name: 'Heather Davidson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:uVuEE6satmo'
+    slides: null
+  -
+    title: "Not just a Boy's Club - Entering the Game Industry as a Girl"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-09 00:00'
+    speakers:
+      -
+        name: 'Jana Stadeler'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yUox_6i23tY'
+    slides: null
+  -
+    title: 'Be Kind to Yourself'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-09 00:00'
+    speakers:
+      -
+        name: 'Shelly Coen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mWTMvTyLOEA'
+    slides: null
+  -
+    title: 'Why I No Longer Identify as a Games Journalist'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-09 00:00'
+    speakers:
+      -
+        name: 'Xalavier Nelson Jr.'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:e-jCyWoEIT8'
+    slides: null
+  -
+    title: 'Creating a voice: Why starting the Scottish Rainbow LGBT+ group is important.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-09 00:00'
+    speakers:
+      -
+        name: 'Steven Taarland'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HnT5VTAb_eE'
+    slides: null
+  -
+    title: 'Teaching programming to someone: do’s and don’ts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-09 00:00'
+    speakers:
+      -
+        name: 'Lucie Daeye'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2102eHEJaDs'
+    slides: null
+  -
+    title: 'How we infuse our biases in the products we make and what we can do to change it'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-07-09 00:00'
+    speakers:
+      -
+        name: 'Anna-Livia Cardin-Gomart'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FqD9mKbuPxM'
+    slides: null

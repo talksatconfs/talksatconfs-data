@@ -1,0 +1,174 @@
+name: 'ReactFoo 2017'
+description: 'A conference on React.js and React Native'
+location: 'Bangalore, India'
+venue: ''
+city: Bangalore
+country: India
+link: 'https://reactfoo.in/2017/'
+playlist: ''
+from_date: '2017-09-14'
+to_date: '2017-09-14'
+tags: ''
+talks:
+  -
+    title: 'Shared Element Transition with React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-14 00:00'
+    speakers:
+      -
+        name: 'Narendra N Shetty'
+        twitter: narendra_shetty
+        github: narendrashetty
+    videos: null
+    slides:
+      - 'https://www.slideshare.net/narendrashetty/shared-elementtransitions'
+  -
+    title: 'Delivering instant update patches for React Native to 50+ million people'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-14 00:00'
+    speakers:
+      -
+        name: 'Surya Kanoria'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3G6tMg29Wnw'
+    slides:
+      - 'https://docs.google.com/presentation/d/1hxtYmpz3ILcItRtBQHim7fmXt_a2vhrLhbv7oXj1Z2U/edit?usp=sharing'
+  -
+    title: 'Importance of testing & the right way to test React components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-14 00:00'
+    speakers:
+      -
+        name: 'Manjula Dube'
+        twitter: manjula_dube
+        github: manjula91
+    videos:
+      - 'youtube:SqIkOIjrbI4'
+    slides:
+      - 'http://slides.com/manjuladube/w'
+  -
+    title: 'Isolated React Components as a Black Box with Automated UI Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-14 00:00'
+    speakers:
+      -
+        name: 'Vivek Jagtap'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:exLuxbhLrlk'
+    slides:
+      - 'https://youtu.be/4Mn0qprfZ2A'
+  -
+    title: 'The road to styled components, and the road ahead'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-14 00:00'
+    speakers:
+      -
+        name: 'Glen Maddern'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PvM2WijDxxI'
+    slides:
+      - 'https://speakerdeck.com/geelen/the-road-to-styled-components'
+  -
+    title: 'A portal to the future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-14 00:00'
+    speakers:
+      -
+        name: 'Siddharth Kshetrapal'
+        twitter: siddharthkp
+        github: siddharthkp
+    videos:
+      - 'youtube:qJnlhB7Jqls'
+    slides: null
+  -
+    title: 'Better Async with Redux Saga'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-14 00:00'
+    speakers:
+      -
+        name: 'Kushan Joshi'
+        twitter: null
+        github: kepta
+    videos:
+      - 'youtube:5j4JKtwdLt8'
+    slides:
+      - 'https://speakerdeck.com/kepta/better-async-redux-saga'
+  -
+    title: 'Consuming services reliably in Redux without losing your mind'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-14 00:00'
+    speakers:
+      -
+        name: 'Sidhartha Chatterjee'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JVy0pkvVuPY'
+    slides: null
+  -
+    title: 'Componentization Patterns in React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-14 00:00'
+    speakers:
+      -
+        name: 'Abraar Syed'
+        twitter: null
+        github: abraarsyed
+    videos:
+      - 'youtube:Ho7g6pHxaW0'
+    slides:
+      - 'https://www.slideshare.net/abraarsyed/react-design-patterns'
+  -
+    title: 'Improving Load time of a Production React App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-14 00:00'
+    speakers:
+      -
+        name: 'Kanav Arora'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hurp86gBtI0'
+    slides:
+      - 'https://docs.google.com/presentation/d/1Fq9fBIfx_GfUyyXTYNc2O49LrIbqMQ4k8c4ISS2x8HA/edit'
+  -
+    title: 'An intro to DraftJS, and its immutable data model'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-09-14 00:00'
+    speakers:
+      -
+        name: 'Sai Kishore Komanduri'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CoXzeO7gojU'
+    slides:
+      - 'https://speakerdeck.com/saiki/rich-text-editors-in-reactjs-an-intro-to-draftjs'

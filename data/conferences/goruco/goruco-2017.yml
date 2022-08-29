@@ -1,0 +1,208 @@
+name: 'Goruco 2017'
+description: ''
+location: 'New York City'
+venue: ''
+city: ''
+country: ''
+link: 'http://2017.goruco.com/'
+playlist: ''
+from_date: '2017-06-24'
+to_date: '2017-06-24'
+tags: ''
+talks:
+  -
+    title: "The Rubyist's Illustrated Rust Adventure Survival Guide"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-24 00:00'
+    speakers:
+      -
+        name: 'Lee Baillie'
+        twitter: _lbaillie
+        github: null
+    videos:
+      - 'youtube:CrqsXO_4Za8'
+    slides: null
+  -
+    title: 'Front-End Sadness to Happiness: The React on Rails Story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-24 00:00'
+    speakers:
+      -
+        name: 'Justin Gordon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:SGkTvKRPYrk'
+    slides: null
+  -
+    title: 'How to Load 1m Lines of Ruby in 5s'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-24 00:00'
+    speakers:
+      -
+        name: 'Andrew Metcalf'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lKMOETQAdzs'
+    slides: null
+  -
+    title: 'Difficult Conversations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-24 00:00'
+    speakers:
+      -
+        name: 'Adam Cuppy'
+        twitter: adamcuppy
+        github: null
+    videos:
+      - 'youtube:usLWMtJlBeo'
+    slides: null
+  -
+    title: 'Scars: On Handling Adversity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-24 00:00'
+    speakers:
+      -
+        name: 'Ross Kaffenberger'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:KyylfG9lXjY'
+    slides: null
+  -
+    title: 'Beyond OSS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-24 00:00'
+    speakers:
+      -
+        name: 'Veronica Lopez'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NUaHcomZ8FA'
+    slides: null
+  -
+    title: 'Optimizing for API Consumers with GraphQL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-24 00:00'
+    speakers:
+      -
+        name: 'Brooks Swinnerton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:psPnEUAL08w'
+    slides: null
+  -
+    title: 'What I Learned to Love About Ruby When I Switched to Python'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-24 00:00'
+    speakers:
+      -
+        name: 'Lauren Ellsworth'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GC-XIchAcqM'
+    slides: null
+  -
+    title: 'Trust and Teams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-24 00:00'
+    speakers:
+      -
+        name: 'Rebecca Miller-Webster'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Y16EuIKYszs'
+    slides: null
+  -
+    title: 'Shaving my head made me a better programmer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-24 00:00'
+    speakers:
+      -
+        name: 'Alex Qin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:99C6CphdpTg'
+    slides: null
+  -
+    title: 'Object Oriented Thinking with Elixir and OTP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-24 00:00'
+    speakers:
+      -
+        name: 'Ryan Findley'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:2C_IUMYzM7A'
+    slides: null
+  -
+    title: 'Type. Context.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-24 00:00'
+    speakers:
+      -
+        name: 'Sam Phippen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qzTOnnDePtc'
+    slides: null
+  -
+    title: 'SQL to NoSQL to NewSQL and the rise of polyglot persistence'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-24 00:00'
+    speakers:
+      -
+        name: 'Paul Dix'
+        twitter: pauldix
+        github: pauldix
+    videos:
+      - 'youtube:CmbbtpGW_YY'
+    slides: null
+  -
+    title: 'Developer Productivity Engineering'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-06-24 00:00'
+    speakers:
+      -
+        name: 'Panayiotis Thomakos'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mL6kOPxuQTI'
+    slides: null

@@ -1,0 +1,309 @@
+name: 'International PHP Conference 2016'
+description: "International PHP Conference is the world's first PHP conference for top-notch expertise in PHP and web technologies."
+location: ''
+venue: ''
+city: Munich
+country: Germany
+link: 'https://phpconference.com/archiv-2016/'
+playlist: PLjODKYi0WiE5X2p3enNRLTBb4hpVEwySa
+from_date: '2016-10-23'
+to_date: '2016-10-25'
+tags: ''
+talks:
+  -
+    title: 'Conference Opening & Welcome'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 09:00'
+    speakers:
+      -
+        name: 'Sebastian Meyen  '
+        twitter: null
+        github: null
+      -
+        name: ' Thomas Wiesseckel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Querschnitt durch die Web-App-Security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 09:45'
+    speakers:
+      -
+        name: 'Philipp Friberg'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Silo-based Architectures for high availability Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 09:45'
+    speakers:
+      -
+        name: 'Georgiana Gligor'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Testing: the more you do it, the more you’ll like it'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 09:45'
+    speakers:
+      -
+        name: 'Sebastian Bergmann  '
+        twitter: null
+        github: null
+      -
+        name: ' Jeffrey A. McGuire'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'SPA-Framework-Ratatouille: Angular, React und Co. im gleichen Projekt'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 09:45'
+    speakers:
+      -
+        name: 'Marco Frodl  '
+        twitter: null
+        github: null
+      -
+        name: ' Manuel Rauber'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Legacy-PHP-Projekte - sanieren oder ablösen?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 11:15'
+    speakers:
+      -
+        name: 'Johann-Peter Hartmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Auf Nachtwache mit der QS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 11:15'
+    speakers:
+      -
+        name: 'Carsten Sandtner'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Keep your Users up to date in Real-Time with WebSockets!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 11:15'
+    speakers:
+      -
+        name: 'Ondřej Mirtes'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Machine Intelligence at Google Scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 11:15'
+    speakers:
+      -
+        name: 'Kaz Soto'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP 7 - One Year After'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 13:30'
+    speakers:
+      -
+        name: 'Sebastian Bergmann  '
+        twitter: null
+        github: null
+      -
+        name: 'Robert Lemke'
+        twitter: null
+        github: null
+      -
+        name: ' Stefan Priebsch  '
+        twitter: null
+        github: null
+      -
+        name: ' Thomas Wiesseckel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Silent Migration of PHP 4 to PHP 7 Stateless Restful API with React Frontend'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 14:15'
+    speakers:
+      -
+        name: 'Mike Lohmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Universal Rendering with React, Redux, and Flow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 14:15'
+    speakers:
+      -
+        name: 'Oliver Zeigermann'
+        twitter: DJCordhose
+        github: DJCordhose
+    videos: null
+    slides: null
+  -
+    title: 'Escaping Dependency Hell'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 14:15'
+    speakers:
+      -
+        name: 'Michael Haeuslmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Angular 2: Getting Started'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 14:15'
+    speakers:
+      -
+        name: 'Philipp Burgmer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Software Design in PHP 7'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 15:45'
+    speakers:
+      -
+        name: 'Paul Dragoonis'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Kommunizieren mit JavaScript: Was aktuelle Browser können'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 15:45'
+    speakers:
+      -
+        name: 'Christian Wenz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Single Sign-on – You’re probably doing it wrong'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 15:45'
+    speakers:
+      -
+        name: 'Arne Blankerts'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'HTTP Caching with Varnish'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 15:45'
+    speakers:
+      -
+        name: 'David Buchmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Grids und Glory'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 17:00'
+    speakers:
+      -
+        name: 'Sven Wolfermann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'JavaScript Frameworks for Single Page Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 17:00'
+    speakers:
+      -
+        name: 'Oliver Zeigermann'
+        twitter: DJCordhose
+        github: DJCordhose
+    videos: null
+    slides: null
+  -
+    title: 'Content Strategy for Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-10-24 17:00'
+    speakers:
+      -
+        name: 'Robert Lemke'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

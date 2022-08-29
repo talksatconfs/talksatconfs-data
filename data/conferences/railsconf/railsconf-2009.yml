@@ -1,0 +1,153 @@
+name: 'RailsConf 2009'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2009-05-04'
+to_date: '2009-05-07'
+tags: ''
+talks:
+  -
+    title: Announcements
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-05-05 00:00'
+    speakers:
+      -
+        name: 'Rich Kilmer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-BbksZrPR6k'
+    slides: null
+  -
+    title: 'Ruby Heroes Award Ceremony'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-05-05 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:xk1iUPyKBog'
+    slides: null
+  -
+    title: 'Rails 3 ...and the real secret to high productivity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-05-04 00:00'
+    speakers:
+      -
+        name: 'David Heinemeier Hansson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:up0kiOJvUpI'
+    slides: null
+  -
+    title: 'Women in Rails'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-05-04 00:00'
+    speakers:
+      -
+        name: 'Desi McAdam'
+        twitter: null
+        github: null
+      -
+        name: 'Lori Olson'
+        twitter: null
+        github: null
+      -
+        name: 'Sarah Mei'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XC0H7_6Rcr0'
+    slides: null
+  -
+    title: 'Rails Core Panel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-05-05 00:00'
+    speakers:
+      -
+        name: 'David Heinemeier Hansson'
+        twitter: null
+        github: null
+      -
+        name: 'Yehuda Katz'
+        twitter: wycats
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Agility in Deployment - Rails in the Cloud'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-05-05 00:00'
+    speakers:
+      -
+        name: 'Andy Delcomb'
+        twitter: null
+        github: null
+      -
+        name: 'Jon Crosby'
+        twitter: null
+        github: null
+      -
+        name: 'Jon Arnold'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RRKktIFGjRs'
+    slides: null
+  -
+    title: 'How to become a famous Rails Developer, Ruby Rockstar or Code Ninja'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-05-05 00:00'
+    speakers:
+      -
+        name: 'Chris Wanstrath'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JUUvq48Gb3w'
+    slides: null
+  -
+    title: 'A Conversation with Tim Ferriss'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-05-05 00:00'
+    speakers:
+      -
+        name: 'Tim Ferriss'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CUJGOq46jC8'
+    slides: null
+  -
+    title: 'Welcome and Announcements'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-05-04 00:00'
+    speakers:
+      -
+        name: 'Chad Fowler '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tPLO6Ipth0U'
+    slides: null

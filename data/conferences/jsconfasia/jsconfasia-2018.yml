@@ -1,0 +1,508 @@
+name: 'JSConf.Asia 2018'
+description: "Southeast Asia's largest web developer conference."
+location: ''
+venue: ''
+city: Singapore
+country: Singapore
+link: 'https://2018.jsconf.asia/'
+playlist: 'youtube:PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl'
+from_date: '2018-01-25'
+to_date: '2018-01-27'
+tags: ''
+talks:
+  -
+    title: 'CSS Blend Modes, Because...'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 09:30'
+    speakers:
+      -
+        name: 'Una Kravets'
+        twitter: una
+        github: null
+    videos:
+      - 'youtube:XZmvHVVj0Ns'
+    slides: null
+  -
+    title: 'Performing Dynamic Analysis of JS Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 10:40'
+    speakers:
+      -
+        name: 'Inian Parameshwaran'
+        twitter: everConfusedGuy
+        github: null
+    videos:
+      - 'youtube:obkdza-dPco'
+    slides: null
+  -
+    title: 'Write Perfect Code with Standard and ESLint'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 11:10'
+    speakers:
+      -
+        name: 'Feross Aboukhadijeh'
+        twitter: feross
+        github: feross
+    videos:
+      - 'youtube:kuHfMw8j4xk'
+    slides: null
+  -
+    title: 'Be a No-Mouse Ninja: How People with Visual Impairment use Websites'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 11:30'
+    speakers:
+      -
+        name: 'Giang Nguyen'
+        twitter: null
+        github: null
+      -
+        name: 'GrabDickson Tan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7cEfxhsn3Bg'
+    slides: null
+  -
+    title: 'data sketch|es: a year of exotic data visualizations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 13:00'
+    speakers:
+      -
+        name: 'Shirley Wu'
+        twitter: sxywu
+        github: null
+      -
+        name: 'Nadieh Bremer'
+        twitter: NadiehBremer
+        github: null
+    videos:
+      - 'youtube:Ww57lUS9dF4'
+    slides: null
+  -
+    title: 'Micro Frontend: a microservice architecture from your frontend web apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 13:30'
+    speakers:
+      -
+        name: 'Wilson Mendes'
+        twitter: willmendesneto
+        github: null
+    videos:
+      - 'youtube:Kphwg2IsJfA'
+    slides: null
+  -
+    title: 'Serverless Apps with Node.JS in OpenWhisk and Adobe I/O Runtime'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 14:00'
+    speakers:
+      -
+        name: 'Shazron Abdullah'
+        twitter: shazron
+        github: null
+    videos:
+      - 'youtube:ne6YvKWbQYg'
+    slides: null
+  -
+    title: 'Honey, I Shrunk the Scripts! — the secret life of JS on microcontrollers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 14:15'
+    speakers:
+      -
+        name: 'István Szmozsánszky "Flaki"'
+        twitter: slsoftworks
+        github: null
+    videos:
+      - 'youtube:8n4jCTbvYwI'
+    slides: null
+  -
+    title: 'Evolving DBS Frontend'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 15:30'
+    speakers:
+      -
+        name: 'Tony Sebastian'
+        twitter: tsktony
+        github: null
+    videos:
+      - 'youtube:sltPORiz1Ks'
+    slides: null
+  -
+    title: 'When East meets West: web typography and how it can inspire modern layouts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 15:45'
+    speakers:
+      -
+        name: 'Chen Hui Jing'
+        twitter: hj_chen
+        github: huijing
+    videos:
+      - 'youtube:Tqxo269aORM'
+    slides: null
+  -
+    title: 'My Node.js process is on fire'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 16:15'
+    speakers:
+      -
+        name: 'Matteo Collina'
+        twitter: matteocollina
+        github: null
+    videos:
+      - 'youtube:G9Vkpe55Gu8'
+    slides: null
+  -
+    title: 'Enabling New Web Experiences'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 16:30'
+    speakers:
+      -
+        name: 'David Bryant'
+        twitter: david_bryant
+        github: null
+    videos:
+      - 'youtube:yqZYAM2es9Q'
+    slides: null
+  -
+    title: 'WebVR with A-Frame - Getting started'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 09:00'
+    speakers:
+      -
+        name: 'Martin Splitt'
+        twitter: g33konaut
+        github: g33konaut
+    videos:
+      - 'youtube:9SgDOtfuYhc'
+    slides: null
+  -
+    title: 'Enliven UX with React/Redux'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 09:00'
+    speakers:
+      -
+        name: 'Gurudath Reddy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5WyOtacc8Xs'
+    slides: null
+  -
+    title: 'CSS Grid is the new black'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 09:00'
+    speakers:
+      -
+        name: 'Chen Hui Jing'
+        twitter: hj_chen
+        github: huijing
+    videos:
+      - 'youtube:nx0yboEhUNc'
+    slides: null
+  -
+    title: "Ethereum and Javascript - what's the big deal?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 13:30'
+    speakers:
+      -
+        name: 'Dave Appleton'
+        twitter: appletondave
+        github: null
+      -
+        name: 'Raman Shalupau'
+        twitter: ksaitor
+        github: null
+    videos:
+      - 'youtube:1YNV-NYxDDo'
+    slides: null
+  -
+    title: 'Coding Blindly: Intro to Web A11Y'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 13:30'
+    speakers:
+      -
+        name: 'Giang Nguyen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3xvxV5QsENo'
+    slides: null
+  -
+    title: 'Creative Data Visualizations with SVG and D3.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 13:30'
+    speakers:
+      -
+        name: 'Shirley Wu'
+        twitter: sxywu
+        github: null
+      -
+        name: 'Nadieh Bremer'
+        twitter: NadiehBremer
+        github: null
+    videos:
+      - 'youtube:TKv_cUZd9sM'
+    slides: null
+  -
+    title: 'PUSHing web app performance with HTTP/2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 13:30'
+    speakers:
+      -
+        name: 'Inian Parameshwaran'
+        twitter: everConfusedGuy
+        github: null
+      -
+        name: 'Sebastiaan Deckers'
+        twitter: sebdeckers
+        github: null
+    videos:
+      - 'youtube:m0R4joKAPuE'
+    slides: null
+  -
+    title: 'Virtual Reality in your browser'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 09:00'
+    speakers:
+      -
+        name: 'Martin Splitt'
+        twitter: g33konaut
+        github: g33konaut
+    videos:
+      - 'youtube:QYnJUrvzlLk'
+    slides: null
+  -
+    title: 'In the loop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 09:30'
+    speakers:
+      -
+        name: 'Jake Archibald'
+        twitter: jaffathecake
+        github: null
+    videos:
+      - 'youtube:cCOL7MC4Pl0'
+    slides: null
+  -
+    title: 'How To Do Augmented Reality On The Web — The AR.js Open-Source Project'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 11:10'
+    speakers:
+      -
+        name: 'Jerome Etienne'
+        twitter: jerome_etienne
+        github: null
+    videos:
+      - 'youtube:NBrM7YVznzk'
+    slides: null
+  -
+    title: 'Jolly JS Journeys'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 13:20'
+    speakers:
+      -
+        name: 'Tim Holman'
+        twitter: twholman
+        github: null
+    videos:
+      - 'youtube:iGPzwotXgfk'
+    slides: null
+  -
+    title: 'Smells in React apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 13:45'
+    speakers:
+      -
+        name: 'Thai Pangsakulyanont'
+        twitter: dtinth
+        github: null
+    videos:
+      - 'youtube:xBa0_b-5XDw'
+    slides: null
+  -
+    title: 'Accessibility and You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 14:15'
+    speakers:
+      -
+        name: 'Sareh Heidari'
+        twitter: sareh88
+        github: null
+    videos:
+      - 'youtube:pOqX-TdyvXU'
+    slides: null
+  -
+    title: 'Automating User Journey Testing Is A Piece Of Cake'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 14:45'
+    speakers:
+      -
+        name: 'Shi Ling Tai'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0wjqnkrvYz4'
+    slides: null
+  -
+    title: 'Boarding The Choo Train'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 14:45'
+    speakers:
+      -
+        name: 'Yoshua Wuyts'
+        twitter: yoshuawuyts
+        github: yoshuawuyts
+    videos:
+      - 'youtube:L41IrT-WnNE'
+    slides: null
+  -
+    title: 'For The Love Of Web Assembly'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 14:45'
+    speakers:
+      -
+        name: 'Phoomparin Mano'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-2iJG0FVGaY'
+    slides: null
+  -
+    title: 'CSS Pranks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 14:45'
+    speakers:
+      -
+        name: 'Tim Holman'
+        twitter: twholman
+        github: null
+    videos:
+      - 'youtube:04zfAyPD9Tk'
+    slides: null
+  -
+    title: 'JavaScript Pranks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 14:45'
+    speakers:
+      -
+        name: 'Feross Aboukhadijeh'
+        twitter: feross
+        github: feross
+    videos:
+      - 'youtube:rLgBqT_e6Yo'
+    slides: null
+  -
+    title: 'Using SVG Circles For Charting'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 14:45'
+    speakers:
+      -
+        name: 'Chris Lienert'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qvkI44LLDWM'
+    slides: null
+  -
+    title: 'What writing about frontend dev taught me about communicating with the world'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 15:45'
+    speakers:
+      -
+        name: 'Zell Liew'
+        twitter: zellwk
+        github: null
+    videos:
+      - 'youtube:XnDGJrvEzJg'
+    slides: null
+  -
+    title: 'Storytelling with Performance Observers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 16:00'
+    speakers:
+      -
+        name: 'Irina Shestak'
+        twitter: _lrlna
+        github: lrlna
+    videos:
+      - 'youtube:dpxq4QWVhc0'
+    slides: null
+  -
+    title: "If you're going out of San Francisco, be sure to wear Web Standards in your hair"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-01-25 16:30'
+    speakers:
+      -
+        name: 'Bruce Lawson'
+        twitter: brucel
+        github: null
+    videos:
+      - 'youtube:OZ7rc0_Ps68'
+    slides: null

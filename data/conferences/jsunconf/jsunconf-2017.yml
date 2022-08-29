@@ -1,0 +1,366 @@
+name: 'JSUnconf 2017'
+description: 'The heart of JSUnconf is people. This guideline is meant to support a happy, productive and safe event experience that can welcome new ideas and inspiration for all attendees. Regardless of gender, sexual orientation, age, ability, ethnicity, socioeconomic status, and religion (or lack thereof). We gain strength from diversity, and actively seek participation from those who enhance it.'
+location: 'Hamburg, Germany'
+venue: ''
+city: Hamburg
+country: Germany
+link: 'https://2017.jsunconf.eu/'
+playlist: 'youtube:PL37ZVnwpeshGfcG3idK0sFCH62U7mLYXg'
+from_date: '2017-03-25'
+to_date: '2017-03-26'
+tags: ''
+talks:
+  -
+    title: 'coffee.js? How I hacked my coffee machine'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-25 00:00'
+    speakers:
+      -
+        name: 'Dominik Kundel'
+        twitter: dkundel
+        github: kundel
+    videos:
+      - 'youtube:v02PMZherEI'
+    slides:
+      - 'https://speakerdeck.com/dkundel/jsunconf-17-how-i-hacked-my-coffee-machine-with-javascript-1'
+  -
+    title: 'vue.js and vuex, an introduction'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-25 00:00'
+    speakers:
+      -
+        name: 'Christian Wlatschiha'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Alpha2048 - how I taught my computer to play 1024'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-25 00:00'
+    speakers:
+      -
+        name: 'LIAN LI'
+        twitter: Chimney42
+        github: Chimney42
+    videos:
+      - 'youtube:I8HIDRYlTb4'
+    slides: null
+  -
+    title: 'Styling React Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-25 00:00'
+    speakers:
+      -
+        name: 'Felix Gnass'
+        twitter: fgnass
+        github: fgnass
+    videos: null
+    slides: null
+  -
+    title: 'How to mess up talking on a stage'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-25 00:00'
+    speakers:
+      -
+        name: 'Tobias Hartmann'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'http://slides.com/tobiashartmann/how-to-mess-up-talking#/'
+  -
+    title: 'Browser Security in 2017'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-25 00:00'
+    speakers:
+      -
+        name: 'Johann Hofmann'
+        twitter: johannh
+        github: johannhof
+    videos:
+      - 'youtube:vvZRYUBFX-8'
+    slides: null
+  -
+    title: 'React + Redux + TypeScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-25 00:00'
+    speakers:
+      -
+        name: 'Dave Brotherstone'
+        twitter: bruderstein
+        github: bruderstein
+    videos: null
+    slides: null
+  -
+    title: 'How close is far aka working in a remote team'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-25 00:00'
+    speakers:
+      -
+        name: Svetlana
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How browsers work?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-25 00:00'
+    speakers:
+      -
+        name: Kruno
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0IsQqJ7pwhw'
+    slides: null
+  -
+    title: 'Micro Frontends - Building a modern webapp with multiple teams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-25 00:00'
+    speakers:
+      -
+        name: 'Michael Geers'
+        twitter: naltatis
+        github: naltatis
+    videos: null
+    slides:
+      - 'https://speakerdeck.com/naltatis/micro-frontends-building-a-modern-webapp-with-multiple-teams'
+  -
+    title: 'Measuring Web Performance - Metrics & Tools'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-25 00:00'
+    speakers:
+      -
+        name: 'Michael Geers'
+        twitter: naltatis
+        github: naltatis
+    videos:
+      - 'youtube:FX8ORsF1tdM'
+    slides:
+      - 'https://speakerdeck.com/naltatis/measuring-web-performance-metrics-and-tools'
+  -
+    title: 'React-Native: Tipps & Tricks for building your first native app'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-25 00:00'
+    speakers:
+      -
+        name: 'Anna Melzer'
+        twitter: wellendonner
+        github: amelzer
+    videos: null
+    slides: null
+  -
+    title: 'Reactive Micro Services'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-25 00:00'
+    speakers:
+      -
+        name: 'Alexander Thiel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '7 web technologies you might not know yet'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-25 00:00'
+    speakers:
+      -
+        name: 'Robin Drexler'
+        twitter: RobinDrexler
+        github: robin-drexler
+    videos:
+      - 'youtube:4ev8zWpKhzI'
+    slides: null
+  -
+    title: 'twist your head - RxJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-25 00:00'
+    speakers:
+      -
+        name: 'Meno Abels'
+        twitter: fastandfearless
+        github: mabels
+    videos: null
+    slides: null
+  -
+    title: 'Awesome serverless JS cloud microservices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-25 00:00'
+    speakers:
+      -
+        name: 'Gojko Adzic'
+        twitter: gojkoadzic
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Understanding Neural Networks with TensorFlow Playground'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-26 00:00'
+    speakers:
+      -
+        name: 'Oliver Zeigermann'
+        twitter: DJCordhose
+        github: DJCordhose
+    videos:
+      - 'youtube:WRuQQ9bwgGM'
+    slides: null
+  -
+    title: 'You too can build games'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-26 00:00'
+    speakers:
+      -
+        name: 'Anna Melzer'
+        twitter: wellendonner
+        github: amelzer
+    videos: null
+    slides: null
+  -
+    title: 'Minesweeper, the obvious thing to build with a launchpad and WebMIDI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-26 00:00'
+    speakers:
+      -
+        name: 'Jan Krutisch'
+        twitter: halfbyte
+        github: halfbyte
+    videos:
+      - 'youtube:pDPVDVzXTYE'
+    slides: null
+  -
+    title: 'Just another ECMAScript Trait Syntax Proposal'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-26 00:00'
+    speakers:
+      -
+        name: 'Peter Seliger'
+        twitter: petsel
+        github: petsel
+    videos:
+      - 'youtube:pDPVDVzXTYE'
+    slides: null
+  -
+    title: 'Just another ECMAScript Trait Syntax ProposalStop breaking the web and start building server-rendered web apps using next.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-26 00:00'
+    speakers:
+      -
+        name: 'Henrik Wenz'
+        twitter: null
+        github: HaNdTriX
+    videos:
+      - 'youtube:uKN8Vyl_fBc'
+    slides: null
+  -
+    title: 'Comparing Redux and MobX by looking at code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-26 00:00'
+    speakers:
+      -
+        name: 'Oliver Zeigermann'
+        twitter: DJCordhose
+        github: DJCordhose
+    videos: null
+    slides: null
+  -
+    title: 'Wanna have an awesome team? Invest time'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-26 00:00'
+    speakers:
+      -
+        name: 'Nils Schnell'
+        twitter: Schnellus
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'There will be grid'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-26 00:00'
+    speakers:
+      -
+        name: 'Marco Pantaleo'
+        twitter: peeofive
+        github: null
+    videos:
+      - 'youtube:8wyJ_c2P6CM'
+    slides:
+      - 'https://speakerdeck.com/peeofive/there-will-be-grid-why-css-grid-layout-may-be-the-portal-into-a-new-world'
+  -
+    title: 'Testing Discussion. Demo of unexpected + unexpected react'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-26 00:00'
+    speakers:
+      -
+        name: 'Dave Brotherstone'
+        twitter: bruderstein
+        github: bruderstein
+    videos: null
+    slides: null
+  -
+    title: 'Choosing a frontend framework - A business perspective'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-03-26 00:00'
+    speakers:
+      -
+        name: 'Kai Kroker'
+        twitter: nohypeActivist
+        github: kaikroker
+    videos: null
+    slides: null

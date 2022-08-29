@@ -1,0 +1,129 @@
+name: 'reactjsday 2015'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2015-10-30'
+to_date: '2015-10-30'
+tags: ''
+talks:
+  -
+    title: 'Rethinking mobile with react-native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-30 14:05'
+    speakers:
+      -
+        name: 'Fatos Hoti'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'What the Flux? Let’s Redux!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-30 11:30'
+    speakers:
+      -
+        name: 'Massimiliano Mantione'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Inline Styles'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-30 10:30'
+    speakers:
+      -
+        name: 'Michele Bertoli'
+        twitter: MicheleBertoli
+        github: MicheleBertoli
+    videos: null
+    slides: null
+  -
+    title: 'From Ember to React, One way ticket'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-30 15:30'
+    speakers:
+      -
+        name: 'Francesca Barbazeni'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'React.js: Rethinking UI development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-30 09:55'
+    speakers:
+      -
+        name: 'Stefano Ceschi Berrini'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Developer Experience in the React ecosystem'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-30 12:20'
+    speakers:
+      -
+        name: 'Matteo Ronchi'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building a desktop streaming console with electron and React.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-30 16:50'
+    speakers:
+      -
+        name: 'Emanuele Rampichini'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How we used React to tame the single-page beast'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-30 16:15'
+    speakers:
+      -
+        name: 'Erik Wendel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Front End That Ran On The Server'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-10-30 14:40'
+    speakers:
+      -
+        name: 'Marek Stasikowski'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

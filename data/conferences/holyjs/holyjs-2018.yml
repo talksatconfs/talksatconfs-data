@@ -1,0 +1,221 @@
+name: 'HolyJS 2018'
+description: 'HolyJS is a specialized conference for JavaScript developers conducted by the JUG.ru Group. More than 600 JS developers gather under one roof to discuss the news of a rapidly developing ecosystem, fresh tools, frameworks, patterns and hundreds of changes with experts from around the world and hear dozens of reports on the frontend and not only. We are talking about backend, and about the desktop.'
+location: ''
+venue: ''
+city: Moscow
+country: 'Russian Federation'
+link: 'https://2018.holyjs-moscow.ru/en/'
+playlist: 'youtube.com:PL8sJahqnzh8KeXLLPIasdrnqMy-JkTGVM'
+from_date: '2018-11-24'
+to_date: '2018-11-25'
+tags: ''
+talks:
+  -
+    title: 'State management beyond the libraries'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-24 00:00'
+    speakers:
+      -
+        name: 'Michel Weststrate'
+        twitter: mweststrate
+        github: mweststrate
+    videos: null
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/Ezk73ofhW8sCC8wuIA4iE/f6c12f39312901e55889a5fda0d410e9/Michel_Weststrate_State_management_beyond_libraries.pdf'
+  -
+    title: 'JavaScript ❤ binary data'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-24 00:00'
+    speakers:
+      -
+        name: 'Kirill Cherkashin'
+        twitter: kirjs
+        github: null
+    videos:
+      - 'youtube:ILSpvViUlPU'
+    slides:
+      - 'https://kirjs.com/binary/intro'
+  -
+    title: 'Naked truth about files at Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-24 00:00'
+    speakers:
+      -
+        name: 'Egor Malkevich'
+        twitter: wegorelax
+        github: wegorich
+    videos: null
+    slides:
+      - 'https://downloads.ctfassets.net/nn534z2fqr9f/6YB3HXOGzeyMQ4M0cm0Img/3cd63548e8a84875cbba35e4962a5446/Egor_Malkevich_Naked_truth_about_files_at_Web.pdf'
+  -
+    title: 'Revealing framework fundamentals: NestJS behind the curtain'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-24 00:00'
+    speakers:
+      -
+        name: 'Kamil Myśliwiec'
+        twitter: kammysliwiec
+        github: kamilmysliwiec
+    videos: null
+    slides:
+      - 'https://downloads.ctfassets.net/nn534z2fqr9f/3So323TYJO080w2g4oA8QC/dbcdea22f11ffea831cdb1cbe2b9f2f3/Kamil_Mysliwiec_Revealing_framework_fundamentals__NestJS_behind_the_curtain.pdf'
+  -
+    title: 'Service Worker: Using gathered experience and looking into the future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-24 00:00'
+    speakers:
+      -
+        name: 'Maxim Salnikov'
+        twitter: webmaxru
+        github: webmaxru
+    videos: null
+    slides:
+      - 'https://slides.com/webmax/serviceworker-holyjs/#/'
+  -
+    title: 'Diving deep into webpack'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-24 00:00'
+    speakers:
+      -
+        name: 'Stas Kurilov'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/4AS3hkBXbi6wSOYUoa444y/dd811bfc6d3b37a0e63e6e3d3eb5b35d/Stas_Kurilov_Glubokoye_pogruzheniye_v_webpack.pdf'
+  -
+    title: 'An introduction to distributed tracing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-24 00:00'
+    speakers:
+      -
+        name: 'Thomas Watson'
+        twitter: wa7son
+        github: null
+    videos: null
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/5aPRuBSqEosCsCqsKQ8aAk/85c176bb7683ba139a105ce1df43bd0a/Thomas_Watson_An_introduction_to_distributed_tracing.pdf'
+  -
+    title: 'Building GraphQL Server'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-24 00:00'
+    speakers:
+      -
+        name: 'Pavel Chertorogov'
+        twitter: nodkz
+        github: null
+    videos: null
+    slides:
+      - 'https://downloads.ctfassets.net/nn534z2fqr9f/1EyPLtP3Qcc6wUYOEmsuIg/a503c12215254823f41311baf194700a/Pavel_Chertorogov_Building_GraphQL_Server.pdf'
+  -
+    title: 'Paranoid Service Worker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-24 00:00'
+    speakers:
+      -
+        name: 'Vsevolod Rodionov'
+        twitter: jabher
+        github: null
+    videos: null
+    slides:
+      - 'https://slides.com/jabher/paranoid-service-worker-holyjs/#/'
+  -
+    title: 'Bringing mixed reality to the web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-24 00:00'
+    speakers:
+      -
+        name: 'Marko Letic'
+        twitter: NisamProgramer
+        github: mletic
+    videos: null
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/5NZEeYNtvygS8YeaaIgYIe/e88c1c7b4ef6e94ccc7009f9cf7947e0/Marko_Letic_Bringing_mixed_reality_to_the_web.pdf'
+  -
+    title: 'JS battle" How I wrote my own eval()"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-24 00:00'
+    speakers:
+      -
+        name: 'Alexander Korotaev'
+        twitter: mamu_eval
+        github: null
+    videos: null
+    slides:
+      - 'http://lekzd.ru/presentations/js_battle_holy/'
+  -
+    title: 'Asynchronous zero'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-24 00:00'
+    speakers:
+      -
+        name: 'Victor Vershanskij'
+        twitter: went_out
+        github: null
+    videos: null
+    slides:
+      - 'https://downloads.ctfassets.net/nn534z2fqr9f/4JG7XeeyTucWioeuYsqqcy/1fa3d2f3b2d7feb297ca4ffe2fea5f22/Viktor_Vershanskiy_Asinkhronnyy_nol.pdf'
+  -
+    title: 'A11Y IRL (Accessibility in real life)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-24 00:00'
+    speakers:
+      -
+        name: 'Theodore Vorillas'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'https://assets.ctfassets.net/nn534z2fqr9f/E7jAy6u7Mk86gqkYk8gyK/2e257b856ea8dbe65207b7e9fe16616f/Theodore_Vorillas_A11Y_IRL__Accessibility_in_real_life_.pdf'
+  -
+    title: 'Surviving death by complexity (*offline only)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-24 00:00'
+    speakers:
+      -
+        name: 'Mattias Petter Johansson'
+        twitter: mpjme
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Decentralized web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-11-25 00:00'
+    speakers:
+      -
+        name: 'Victor Grishchenko'
+        twitter: gritzko
+        github: null
+    videos: null
+    slides: null

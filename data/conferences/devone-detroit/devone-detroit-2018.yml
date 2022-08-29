@@ -1,0 +1,187 @@
+name: 'DevOne Detroit 2018'
+description: '"The cloud, the final frontier. These are the voyages of the conference DevOne. Its one-day mission: To explore the hottest topics of DevOps, to seek out new challenges in Software development, to boldly go where no human has continuously integrated before."'
+location: ''
+venue: ''
+city: Detroit
+country: 'United States'
+link: 'https://devone.us/'
+playlist: 'youtube.com:PLfi6VUNSzNYkbwLvRfqIxXbRh0qOrTEcK'
+from_date: '2018-10-16'
+to_date: '2018-10-16'
+tags: ''
+talks:
+  -
+    title: 'Our DevOps journey – Microsoft’s internal transformation story'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-16 00:00'
+    speakers:
+      -
+        name: 'Donovan Brown'
+        twitter: DonovanBrown
+        github: DarqueWarrior
+    videos:
+      - 'youtube:cbFzojQOjyA'
+    slides: null
+  -
+    title: 'Making Security an integrated part of the SW Dev Lifecycle'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-16 00:00'
+    speakers:
+      -
+        name: 'Siren Hofvander'
+        twitter: SecurityPony
+        github: null
+    videos:
+      - 'youtube:8NzkYsY7TOk'
+    slides: null
+  -
+    title: 'Building a high quality product'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-16 00:00'
+    speakers:
+      -
+        name: 'Finn Lorbeer'
+        twitter: finnlorbeer
+        github: FinnVonFriesland
+    videos:
+      - 'youtube:DDJemeyPaCM'
+    slides: null
+  -
+    title: 'Reactive Spring'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-16 00:00'
+    speakers:
+      -
+        name: 'Jürgen Höller'
+        twitter: springjuergen
+        github: jhoeller
+      -
+        name: 'Josh Long'
+        twitter: starbuxman
+        github: joshlong
+    videos:
+      - 'youtube:Gc1x65tZWG4'
+    slides: null
+  -
+    title: 'Electricity Comes from the Socket and IT Comes from the Cloud'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-16 00:00'
+    speakers:
+      -
+        name: 'Rainer Stropek'
+        twitter: rstropek
+        github: rstropek
+    videos:
+      - 'youtube:O3-UW1Uk8Fc'
+    slides:
+      - 'https://github.com/rstropek/Samples/blob/master/AzureFunctions/DevOne-Serverless.pptx'
+  -
+    title: 'Google - Load-shedding'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-16 00:00'
+    speakers:
+      -
+        name: 'Acacio Cruz'
+        twitter: acaciocruz
+        github: null
+    videos:
+      - 'youtube:XNEIkivvaV4'
+    slides: null
+  -
+    title: 'Serverless by Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-16 00:00'
+    speakers:
+      -
+        name: 'Danilo Poccia'
+        twitter: danilop
+        github: danilop
+    videos:
+      - 'youtube:7Ibgp9EetNo'
+    slides: null
+  -
+    title: "Old code doesn't stink - Refactor or Rewrite"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-16 00:00'
+    speakers:
+      -
+        name: 'Martin Gutenbrunner'
+        twitter: MartinGoodwell
+        github: MartinGoodwell
+    videos:
+      - 'youtube:NE7NwPpg0aE'
+    slides:
+      - 'https://www.slideshare.net/MartinGoodwell/old-code-doesnt-stink'
+  -
+    title: 'CI/CD in the OpenStack community and beyond'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-16 00:00'
+    speakers:
+      -
+        name: 'Maria Bracho'
+        twitter: mariabracho
+        github: null
+    videos:
+      - 'youtube:KPGFcWFRi88'
+    slides: null
+  -
+    title: 'Writing end to end tests with a smile'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-16 00:00'
+    speakers:
+      -
+        name: 'Ekaterina Budnikov'
+        twitter: KatjaBudnikov
+        github: null
+    videos:
+      - 'youtube:DXye37RcdWE'
+    slides: null
+  -
+    title: 'Evolution of the Runtastic Backend'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-16 00:00'
+    speakers:
+      -
+        name: 'Simon Lasselsberger'
+        twitter: lasssim
+        github: lister
+    videos:
+      - 'youtube:iEFTwtFa07Q'
+    slides:
+      - 'https://speakerdeck.com/lister/evolution-of-the-runtastic-backend-at-devone-2018'
+  -
+    title: "Let's put U in UX!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-10-16 00:00'
+    speakers:
+      -
+        name: 'Holger Weissböck'
+        twitter: holgua
+        github: holgua
+    videos:
+      - 'youtube:qi19hls9LfY'
+    slides: null

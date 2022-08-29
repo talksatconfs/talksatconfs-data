@@ -1,0 +1,336 @@
+name: 'Cold Front 2018'
+description: 'The front-end role has evolved, and yet our conferences are still focused around a religious set of technologies. With ColdFront we are changing that by focusing on the challenges of building a modern interface and a front-end that runs everywhere.'
+location: ''
+venue: ''
+city: Copenhagen
+country: Denmark
+link: 'https://2018.coldfront.co/'
+playlist: 'youtube.com:PLl0kzWeYVmgt_k-4Yh2ld-T858sHjbHtC'
+from_date: '2018-11-13'
+to_date: '2018-11-15'
+tags: ''
+talks:
+  -
+    title: 'The future of web animation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Sarah Drasner'
+        twitter: sarah_edo
+        github: sdras
+    videos:
+      - 'youtube:qdlL9Z8PdIo'
+    slides: null
+  -
+    title: 'Designing for Augmented Reality'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Michael Flarup'
+        twitter: flarup
+        github: null
+    videos:
+      - 'youtube:QqZcvG44C0U'
+    slides:
+      - 'https://www.dropbox.com/sh/b8lxdl6ufzpvxmb/AADhdNmHCGpgCRaqfVm1PmUda?dl=0'
+  -
+    title: "What's next for React Native and Expo"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Brent Vatne'
+        twitter: notbrent
+        github: brentvatne
+    videos:
+      - 'youtube:LMSrRSYDWmg'
+    slides: null
+  -
+    title: 'A fresh perspective on multi-platform UI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Michael Thomsen'
+        twitter: MiSvTh
+        github: null
+    videos:
+      - 'youtube:sl5TaN7EwjQ'
+    slides: null
+  -
+    title: 'Will the future of front-end be AI-assisted? (Ideal Bar)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Tony Beltramelli'
+        twitter: Tbeltramelli
+        github: null
+      -
+        name: 'Henrik Haugbølle'
+        twitter: haugboelle
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Debate What will AI and ML mean for software developers? (Ideal Bar)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Hans Ravnkjær Larsen'
+        twitter: hrlarsen_dk
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Working with AR by Jayway (Main Stage)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Lars Cimber'
+        twitter: null
+        github: null
+      -
+        name: 'Mina Ashena'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BiUzKOVKFyo'
+    slides: null
+  -
+    title: 'Building AR apps with ARKit on iOS by Shape (Main Stage)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: srdanrasic
+        twitter: 'Srđan Rašić'
+        github: null
+    videos:
+      - 'youtube:Cb32EaFHz74'
+    slides: null
+  -
+    title: 'It’s My (Third) Party, and I’ll Cry if I Want To'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Harry Roberts'
+        twitter: csswizardry
+        github: null
+    videos:
+      - 'youtube:1Kd-ZHmMzD4'
+    slides:
+      - 'https://speakerdeck.com/csswizardry/its-my-third-party-and-ill-cry-if-i-want-to'
+  -
+    title: 'Data visualizations on the web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Shirley Wu'
+        twitter: sxywu
+        github: null
+    videos:
+      - 'youtube:Y1Wb4a1M-Xc'
+    slides:
+      - 'https://twitter.com/sxywu/status/1063037082057261057'
+  -
+    title: 'New Adventures In Responsive Web Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-13 00:00'
+    speakers:
+      -
+        name: 'Vitaly Friedman'
+        twitter: smashingmag
+        github: vitalyfriedman
+    videos:
+      - 'youtube:FjkYhz-2YeE'
+    slides:
+      - 'https://www.dropbox.com/s/zxgkbfflz3a8ys0/coldfront-design-patterns.pdf?dl=0'
+  -
+    title: 'Inclusively Responsive UIs with CSS and SVG'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Sara Soueidan'
+        twitter: SaraSoueidan
+        github: SaraSoueidan
+    videos:
+      - 'youtube:TbOxPhcVzCc'
+    slides:
+      - 'https://www.sarasoueidan.com/slides/css-for-ux-v2.pdf'
+  -
+    title: 'How a design tool changes relationships'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Jessica Liu'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Top-Level Awaiting for Godot'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Myles Borins'
+        twitter: 'Myles Borins'
+        github: MylesBorins
+    videos:
+      - 'youtube:L87aCMJuWNM'
+    slides: null
+  -
+    title: 'Mind control in JavaScript - Experimenting with alternative interactions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Charlie Gerard'
+        twitter: devdevcharlie
+        github: charliegerard
+    videos:
+      - 'youtube:-PbpWYBRBgM'
+    slides: null
+  -
+    title: 'WebRTC streaming to large audiences using mobile devices by TwentyThree (Ideal Bar)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Daniel Pouzemski'
+        twitter: null
+        github: null
+      -
+        name: 'Vasil Dimitrov'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Debate How to foster collaboration between Designers and Engineering?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Hans Ravnkjær Larsen'
+        twitter: hrlarsen_dk
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Architecture for an ever changing environment” by Zendesk (Main Stage)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Sune Simonsen'
+        twitter: 'Sune Simonsen'
+        github: null
+    videos:
+      - 'youtube:HYTUkLhb0UY'
+    slides:
+      - 'https://www.dropbox.com/s/lqd4nfa8w7c5zez/ColdFront2018.pdf?dl=0'
+  -
+    title: 'On the fly WebP decoding with Web Assembly and Service Workers (Main Stage)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Kenneth Christiansen'
+        twitter: kennethrohde
+        github: kenchris
+    videos:
+      - 'youtube:gI-P9HB2lf8'
+    slides: null
+  -
+    title: 'The Untold Benefits of Ethical Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Holger Bartel'
+        twitter: foobartel
+        github: null
+    videos:
+      - 'youtube:bGy9-zp5amU'
+    slides:
+      - 'https://noti.st/foobartel/iNBMSA/the-untold-benefits-of-ethical-design'
+  -
+    title: 'Uniting the real world with the virtual'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Jacob Rossi'
+        twitter: jacobrossi
+        github: null
+    videos:
+      - 'youtube:NfLzmPO_gUE'
+    slides:
+      - 'https://speakerdeck.com/jacobrossi/uniting-the-real-world-with-the-virtual'
+  -
+    title: 'Do the Most Good'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-14 00:00'
+    speakers:
+      -
+        name: 'Mina Markham'
+        twitter: 'Mina Markham'
+        github: null
+    videos:
+      - 'youtube:WGa7U0E9sbU'
+    slides:
+      - 'https://speakerdeck.com/jacobrossi/uniting-the-real-world-with-the-virtual'

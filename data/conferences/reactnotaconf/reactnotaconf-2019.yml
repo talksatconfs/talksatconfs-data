@@ -1,0 +1,160 @@
+name: '<React.NotAConf /> 2019'
+description: '<React.NotAConf /> is an initiative brought to live by <React.Sofia /> meetup - a community of 700+ React enthusiasts. ⚛️ In 2018, we successfully shipped the first edition of the conference. 🚀 In 2019 we are planning something even better. 🤩'
+location: ''
+venue: ''
+city: Sofia
+country: Bulgaria
+link: 'http://react-not-a-conf.com'
+playlist: 'youtube.com:PLOEJ0eNOcZeosJfuT0dRcRWvNz4pru7SD'
+from_date: '2019-05-11'
+to_date: '2019-05-11'
+tags: ''
+talks:
+  -
+    title: Opening
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-11 00:00'
+    speakers:
+      -
+        name: 'Janet Todorova'
+        twitter: janettodorova
+        github: janettt
+    videos:
+      - 'youtube:yCB0rJ3F5Co'
+    slides: null
+  -
+    title: 'The evolution of React APIs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-11 00:00'
+    speakers:
+      -
+        name: 'Mihail Mikov'
+        twitter: debelbot
+        github: debel
+    videos:
+      - 'youtube:3ctNyxoDNsc'
+    slides:
+      - 'https://debel.github.io/react-evolution/'
+  -
+    title: 'An SVG’s Tale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-11 00:00'
+    speakers:
+      -
+        name: 'Elizabet Oliveira'
+        twitter: miuki_miu
+        github: miukimiu
+    videos:
+      - 'youtube:vMHHsREvAiE'
+    slides:
+      - 'https://docs.google.com/presentation/d/1kPlu6nIYiR-aGPG5DJP9dE9qg1u0wxi6JxQ3sp3oYd4/edit?fbclid=IwAR2fmFHb2mP06j9DMToJ0B1tqhngdWuvrWZt_WTLfS3H6PBNUsOco5Oept8'
+  -
+    title: 'Conversational sign up with chatbot-like experience with React and Redux'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-11 00:00'
+    speakers:
+      -
+        name: 'Ilona Demidenko'
+        twitter: ilonacodes
+        github: ilonacodes
+    videos:
+      - 'youtube:06oBhxzQpj8'
+    slides:
+      - 'https://www.slideshare.net/IlonaDemidenko/conversational-sign-up-with-chatbotlike-experience-with-react-and-redux?fbclid=IwAR2H7oarLjC0_BiGj5KLtYQ45Rh_d3yWhDLmog7ng7dHw4dq2-1rjJqPL3k'
+  -
+    title: 'Write better React with ReasonML'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-11 00:00'
+    speakers:
+      -
+        name: 'David Kopal'
+        twitter: coding_lawyer
+        github: codinglawyer
+    videos:
+      - 'youtube:pS1YSew89Gg'
+    slides:
+      - 'https://speakerdeck.com/codinglawyer/write-better-react-v3-reasonreact'
+  -
+    title: 'How not to hate your life when dealing with forms'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-11 00:00'
+    speakers:
+      -
+        name: 'Radoslav Stankov'
+        twitter: rstankov
+        github: rstankov
+    videos:
+      - 'youtube:kIi9OV338c4'
+    slides:
+      - 'https://speakerdeck.com/rstankov/how-not-to-hate-your-life-when-dealing-with-forms'
+  -
+    title: 'Serverless - a backend thing that gives superpowers to frontend developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-11 00:00'
+    speakers:
+      -
+        name: 'Slobodan Stojanović'
+        twitter: slobodan_
+        github: stojanovic
+    videos:
+      - 'youtube:zgCiii0wWE8'
+    slides:
+      - 'https://speakerdeck.com/slobodan/2d70d0cd-66b9-4363-8ad5-5518bae4bcf6'
+  -
+    title: 'Building resilient frontend architecture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-11 00:00'
+    speakers:
+      -
+        name: 'Monica Lent'
+        twitter: monicalent
+        github: mlent
+    videos:
+      - 'youtube:W3HQII-l8Tk'
+    slides:
+      - 'https://monicalent.com/building-resilient-frontend-architecture.pdf'
+  -
+    title: 'Architecting React plugins'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-11 00:00'
+    speakers:
+      -
+        name: 'Martin Chaov'
+        twitter: null
+        github: mchaov
+    videos:
+      - 'youtube:hNDsPrYE_CE'
+    slides:
+      - 'https://github.com/mchaov/plugins-with-typescript-mobx-and-react'
+  -
+    title: 'Nadcast Panel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-11 00:00'
+    speakers:
+      -
+        name: 'Krasimir Tsonev'
+        twitter: KrasimirTsonev
+        github: krasimir
+    videos:
+      - 'youtube:iUzIiT9tdUU'
+    slides: null

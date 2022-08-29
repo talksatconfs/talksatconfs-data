@@ -1,0 +1,346 @@
+name: 'JSConfCO 2018'
+description: 'Bringing the Colombian JavaScript community under one roof.'
+location: ''
+venue: ''
+city: Medellín
+country: Colombia
+link: 'https://jsconf.co/#home'
+playlist: 'youtube.com:PL9pxtKnZMKErsjly4HFVAavaHApFNx0Y_'
+from_date: '2018-11-16'
+to_date: '2018-11-17'
+tags: ''
+talks:
+  -
+    title: Interferencia
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Alexandra Cárdenas'
+        twitter: tiemposdelruido
+        github: tiemposdelruido
+      -
+        name: 'Olivia Jack'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '10KB or Bust" The Delicate Power of Webpack and Babel"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Brian Holt'
+        twitter: holtbt
+        github: btholt
+    videos:
+      - 'youtube:4XBzjCWQpis'
+    slides: null
+  -
+    title: 'Shipyard" summarize, navigate and explore multidimensional data without coding"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Juan Guillermo Murillo Castillo'
+        twitter: juangmurillo2
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Creating Your Own Image Format in the Browser'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Trent Willis'
+        twitter: trentmwillis
+        github: trentmwillis
+    videos:
+      - 'youtube:DEY38hGrmLg'
+    slides: null
+  -
+    title: 'El error en dar un error por hecho'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Gabrielle von Koss'
+        twitter: gvonkoss
+        github: null
+    videos:
+      - 'youtube:4UIFX3bR3LE'
+    slides: null
+  -
+    title: 'Linear Algebra for FE Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Elizabeth Ramírez'
+        twitter: eramirem
+        github: null
+    videos:
+      - 'youtube:gRLqjJTlk9s'
+    slides: null
+  -
+    title: 'Finding and debugging memory leaks in Node.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Giovanny Gongora'
+        twitter: Gioyik
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Migrating Pinterest profiles to React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Imad Elyafi'
+        twitter: eelyafi
+        github: eelyafi
+    videos:
+      - 'youtube:h1NWWsHp0tI'
+    slides: null
+  -
+    title: 'Una historia de amor entre JavaScript y C++'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Fredy Andrade'
+        twitter: xfry
+        github: null
+    videos:
+      - 'youtube:MtUPDLW8olw'
+    slides: null
+  -
+    title: 'Teaching Programming to Kids - by a 13 year old'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Jason Straughan'
+        twitter: jdstraughan
+        github: null
+    videos:
+      - 'youtube:6A62QNA94A4'
+    slides: null
+  -
+    title: 'Web & Mobile Convergence @Univision'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Camilo Quimbayo'
+        twitter: vxcamiloxv
+        github: null
+    videos:
+      - 'youtube:MmVDUYcZ4vQ'
+    slides: null
+  -
+    title: 'The Lost Art of MIDI – Bringing < bgsound> Back to the Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-16 00:00'
+    speakers:
+      -
+        name: 'Feross Aboukhadijeh'
+        twitter: feross
+        github: feross
+    videos:
+      - 'youtube:BmfDMylKo5I'
+    slides: null
+  -
+    title: 'Muses Code JS or How Communities Change People'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-17 00:00'
+    speakers:
+      -
+        name: 'Tanya Butenko'
+        twitter: ButenkoMe
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'IA para videojuegos con JS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-17 00:00'
+    speakers:
+      -
+        name: 'Jorge Palacios'
+        twitter: 'Jorge Palacios'
+        github: null
+    videos:
+      - 'youtube:hHVMJSLwQnM'
+    slides: null
+  -
+    title: 'How I started mocking my GraphQL Schema'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-17 00:00'
+    speakers:
+      -
+        name: 'Alejandro Estrada'
+        twitter: estrada9166
+        github: null
+    videos:
+      - 'youtube:V8P4R4UfXWI'
+    slides: null
+  -
+    title: 'There is a Bluebird in my talk that wants to get out'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-17 00:00'
+    speakers:
+      -
+        name: 'Lucas da Costa'
+        twitter: lfernandescosta
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Preprocessors, Components, and CSS in JS or" How I Learned to Stop Worrying and Love the Website"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-17 00:00'
+    speakers:
+      -
+        name: 'Jackie Balzer'
+        twitter: jackiebackwards
+        github: null
+    videos:
+      - 'youtube:EyCbMIo-up0'
+    slides: null
+  -
+    title: 'De 2D a 3D" cómo diseñar interfaces de usuario en Realidad Virtual"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-17 00:00'
+    speakers:
+      -
+        name: 'Fabio Cortés'
+        twitter: fabiojcortes
+        github: null
+    videos:
+      - 'youtube:3tfiXDk57Ck'
+    slides: null
+  -
+    title: 'Programming Visual Art'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-17 00:00'
+    speakers:
+      -
+        name: 'Estefany Aguilar'
+        twitter: teffcode
+        github: null
+    videos:
+      - 'youtube:LTBEIdc712o'
+    slides: null
+  -
+    title: 'Tracing Node. The Open Source Edition'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-17 00:00'
+    speakers:
+      -
+        name: 'Daniel Khan'
+        twitter: dkhan
+        github: null
+    videos:
+      - 'youtube:DuJBB-OVq18'
+    slides: null
+  -
+    title: 'Automated Testing for the Modern Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-17 00:00'
+    speakers:
+      -
+        name: 'Jennifer Shehane'
+        twitter: jennifershehane
+        github: null
+    videos:
+      - 'youtube:ggJ1-ChxHrQ'
+    slides: null
+  -
+    title: 'How I ended up automating my curtains and shouting at my laptop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-17 00:00'
+    speakers:
+      -
+        name: 'Luke Bonaccorsi'
+        twitter: LukeB_UK
+        github: null
+    videos:
+      - 'youtube:FiJTDwCPYVw'
+    slides: null
+  -
+    title: 'To see what others can not... You must climb the mountain, A Introduction to Load Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-17 00:00'
+    speakers:
+      -
+        name: 'Luke Bonaccorsi'
+        twitter: LukeB_UK
+        github: null
+    videos:
+      - 'youtube:raqdtZX8Jos'
+    slides: null
+  -
+    title: 'Speed, Speed, Speed" JavaScript vs C++ vs WebAssembly"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-17 00:00'
+    speakers:
+      -
+        name: 'Franziska Hinkelmann'
+        twitter: fhinkel
+        github: fhinkel
+    videos: null
+    slides: null

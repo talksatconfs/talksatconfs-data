@@ -1,0 +1,2044 @@
+name: 'Øredev 2018'
+description: "Øredev is the Premier developer's conference in Europe, focused on the whole software development process. This year, we are going to explore advances in biohacking and transhumanism and their implications for humankind. Will they be to our benefit, further enhancing quality of life? How mindful should we be of the potential social and ethical pitfalls whilst we transform?"
+location: ''
+venue: ''
+city: Malmö
+country: Sweden
+link: 'http://oredev.org/2018'
+playlist: 'youtube.com:PLOUKmSqExtAGXIDVerwzO-_TD2reKUd36'
+from_date: '2018-11-19'
+to_date: '2018-11-22'
+tags: ''
+talks:
+  -
+    title: 'Hacking the World with Digital Biology'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 09:00'
+    speakers:
+      -
+        name: 'Elsa Sotiriadis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hMGZZm-TBW0'
+    slides: null
+  -
+    title: 'Building Mixed Reality Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 10:30'
+    speakers:
+      -
+        name: 'Andras Velvart'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '12-Factor, Cloud Native Enterprise Java Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 10:30'
+    speakers:
+      -
+        name: 'Sebastian Daschner'
+        twitter: DaschnerS
+        github: null
+    videos:
+      - 'youtube:d3e3coq_Ulw'
+    slides: null
+  -
+    title: 'Building Evolutionary Architectures'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 10:30'
+    speakers:
+      -
+        name: 'Patrick Kua'
+        twitter: patkua
+        github: null
+    videos:
+      - 'youtube:D4z5TEOqutY'
+    slides: null
+  -
+    title: "What's New in CSS?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 10:30'
+    speakers:
+      -
+        name: 'Rachel Andrew'
+        twitter: rachelandrew
+        github: null
+    videos:
+      - 'youtube:W0q-DLOfxu4'
+    slides: null
+  -
+    title: 'Building Performant Backends with Elixir'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 10:30'
+    speakers:
+      -
+        name: 'Ari Lerner '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CMqhv5KRWAE'
+    slides: null
+  -
+    title: 'ASP.NET Core in Production: Lessons Learned'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 10:30'
+    speakers:
+      -
+        name: 'Iris Classon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0qdGjC0I580'
+    slides: null
+  -
+    title: 'Stop Building Useless Software'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 10:30'
+    speakers:
+      -
+        name: 'Diane Zajac'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XamH2C55sYY'
+    slides: null
+  -
+    title: 'GDPR Compliance for Your Datastore'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 11:30'
+    speakers:
+      -
+        name: 'Philipp Krenn'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Having Your Cake and Eating It Too — GraphQL in Reason'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 11:30'
+    speakers:
+      -
+        name: 'Sean Grove'
+        twitter: sgrove
+        github: sgrove
+    videos:
+      - 'youtube:bdjvLiI5tzA'
+    slides: null
+  -
+    title: 'The New Paradigm For Leading Teams in the Digital Age'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 11:30'
+    speakers:
+      -
+        name: 'Max Larcombe'
+        twitter: null
+        github: null
+      -
+        name: 'Alex Neuman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mCxvVHAz5rs'
+    slides: null
+  -
+    title: 'Dissecting the stdlib'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 11:30'
+    speakers:
+      -
+        name: 'Huyen Dao'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rpWfdiJJWa0'
+    slides: null
+  -
+    title: 'Reality is Becoming Virtual'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 11:30'
+    speakers:
+      -
+        name: 'Roshan Khan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Functional Patterns for the Object Oriented'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 11:30'
+    speakers:
+      -
+        name: 'Øystein Kolsrud'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:h89E7SU5ZpI'
+    slides: null
+  -
+    title: 'Designing Distributed Systems with TLA+'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 11:30'
+    speakers:
+      -
+        name: 'Hillel Wayne'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8saFY-87gvQ'
+    slides: null
+  -
+    title: 'TDD on Android: Why and how?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 12:50'
+    speakers:
+      -
+        name: 'Danny Preussler'
+        twitter: PreusslerBerlin
+        github: dpreussler
+    videos: null
+    slides: null
+  -
+    title: 'Practice Safe Networking'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 12:50'
+    speakers:
+      -
+        name: 'Zoë Rose'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vgOtNrwvWhE'
+    slides: null
+  -
+    title: 'Crafting Faster in the Dark'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 12:50'
+    speakers:
+      -
+        name: 'Richard Feldman'
+        twitter: rtfeldman
+        github: null
+    videos:
+      - 'youtube:V_HveL2OVkc'
+    slides: null
+  -
+    title: 'Behind the Scenes at Gapminder: A Story about Data and Visualizations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 12:50'
+    speakers:
+      -
+        name: 'Jasper Heeffer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:n5nHk8SKuRA'
+    slides: null
+  -
+    title: 'The Future of QA in the Age of AI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 12:50'
+    speakers:
+      -
+        name: 'Nivia Henry'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Blazor, a New .NET Single Page Application Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 12:50'
+    speakers:
+      -
+        name: 'Steve Sanderson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qrf3OrLHeFI'
+    slides: null
+  -
+    title: 'How to Be a High Performing Distributed Agile Team'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 12:50'
+    speakers:
+      -
+        name: 'Lisette Sutherland'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xzvt8qGafUo'
+    slides: null
+  -
+    title: 'Java with a Clojure Mindset'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 13:50'
+    speakers:
+      -
+        name: 'Dan Lebrero'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Functional Programming in the Cloud: Simpler Application Development with Datomic Cloud'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 13:50'
+    speakers:
+      -
+        name: 'David Nolen'
+        twitter: swannodette
+        github: null
+    videos:
+      - 'youtube:qXTidbMcjH8'
+    slides: null
+  -
+    title: 'Science based Design Decision Making for Virtual Reality'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 13:50'
+    speakers:
+      -
+        name: 'Az Balabanian'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lvDXPEoc3Vo'
+    slides: null
+  -
+    title: 'Hackers Gonna Hack: Identifying and Fixing Vulnerabilities Proactively'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 13:50'
+    speakers:
+      -
+        name: 'Peter Yaworski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CzP6-NmH7g0'
+    slides: null
+  -
+    title: 'Building cross-platform mobile apps with Flutter.io'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 13:50'
+    speakers:
+      -
+        name: 'Ari Lerner '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Client Library Design Stories'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 13:50'
+    speakers:
+      -
+        name: 'Jon Skeet'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ls3WwdrGRFI'
+    slides: null
+  -
+    title: 'Lean vs Agile vs Design Thinking'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 13:50'
+    speakers:
+      -
+        name: 'Jeff Gothelf'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MDY8IZX3IXY'
+    slides: null
+  -
+    title: 'Designing Intuitive Tools'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 15:10'
+    speakers:
+      -
+        name: 'Tyler Wolf'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Tuckman was Wrong — Dynamic Teaming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 15:10'
+    speakers:
+      -
+        name: 'Doc Norton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:S9aQMlvv6vE'
+    slides: null
+  -
+    title: '10 Surprises for a JVM Engineer in Real Life Java Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 15:10'
+    speakers:
+      -
+        name: 'Bengt Rutisson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:7I1O6q5D5Zw'
+    slides: null
+  -
+    title: "Oops! OOP's not what I thought"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 15:10'
+    speakers:
+      -
+        name: 'Anjana Vakil'
+        twitter: AnjanaVakil
+        github: vakila
+    videos:
+      - 'youtube:qMdxExJCD5s'
+    slides: null
+  -
+    title: 'Nailing down bugs in distributed systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 15:10'
+    speakers:
+      -
+        name: 'Kamil Szymański'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'C# 8 and Beyond'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 15:10'
+    speakers:
+      -
+        name: 'Filip Ekberg'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1TOHgeUdjRw'
+    slides: null
+  -
+    title: 'A New Model for Software Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 15:10'
+    speakers:
+      -
+        name: 'Jason Gorman'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Future of VR Cinematography: Photogrammetry, Volumetric Videos, Mocap Animations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 16:10'
+    speakers:
+      -
+        name: 'Az Balabanian'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Istio on Kubernetes: Chaos, Canaries, Dark Launches'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 16:10'
+    speakers:
+      -
+        name: 'Burr Sutter'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0tixf7ws0sE'
+    slides: null
+  -
+    title: 'Compiler Errors in rustc: A UX Perspective'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 16:10'
+    speakers:
+      -
+        name: 'Steve Klabnik'
+        twitter: steveklabnik
+        github: steveklabnik
+    videos:
+      - 'youtube:78cwd_7Rgx4'
+    slides: null
+  -
+    title: 'Hyped About Hyperapp'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 16:10'
+    speakers:
+      -
+        name: 'Gleb Bahmutov'
+        twitter: bahmutov
+        github: null
+    videos:
+      - 'youtube:b1Vp5ncwrJU'
+    slides: null
+  -
+    title: "Safe Interaction with Java through Eta's FFI"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 16:10'
+    speakers:
+      -
+        name: 'Rahul Muttineni'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Mapping Well-Designed Domain Models with EF Core 2.1'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 16:10'
+    speakers:
+      -
+        name: 'Julie Lerman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9Vp2iXlhK-s'
+    slides: null
+  -
+    title: 'Turn Up the Good'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 16:10'
+    speakers:
+      -
+        name: 'Woody Zuill'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Y1u6Hzve6rk'
+    slides: null
+  -
+    title: 'Diving into Functional Programming — Beyond the Basics'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 17:10'
+    speakers:
+      -
+        name: 'Ashic Mahtab'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Intro to Web Graphics with HTML5 Canvas'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 17:10'
+    speakers:
+      -
+        name: 'Kai Chang'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qVQzSJ19oOw'
+    slides: null
+  -
+    title: 'The Good, The Bad and The Ugly - An Event Sourcing Retrospective'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 17:10'
+    speakers:
+      -
+        name: 'Dennis Doomen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qaMUYAG4njY'
+    slides: null
+  -
+    title: 'History of the Occult and Technology -Downloading Paganism'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 17:10'
+    speakers:
+      -
+        name: 'Chris Dancy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-cdreTv9NHk'
+    slides: null
+  -
+    title: 'Brain-Computer Interfaces — Science Fiction or Reality?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 17:10'
+    speakers:
+      -
+        name: 'Piotr Wittchen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Writing Allocation Free Code in C#'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 17:10'
+    speakers:
+      -
+        name: 'Matthew Ellis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hVhxqRMpHNE'
+    slides: null
+  -
+    title: 'Getting Them To Get It'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 17:10'
+    speakers:
+      -
+        name: 'Judy Rees'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:T9FJhVhR1cU'
+    slides: null
+  -
+    title: 'Hacking a Cat — Going Beyond Traditional Attack Vectors'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-19 18:20'
+    speakers:
+      -
+        name: 'Niall Merrigan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:L-U2cmz_SV4'
+    slides: null
+  -
+    title: 'Designing Compassionate Systems'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 09:00'
+    speakers:
+      -
+        name: 'Chris Dancy'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OOOTqFwmzTo'
+    slides: null
+  -
+    title: 'Multifaceted Visualization'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 10:30'
+    speakers:
+      -
+        name: 'Kai Chang'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Serverless or Serverfull with Kubernetes: Microservices & Functions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 10:30'
+    speakers:
+      -
+        name: 'Burr Sutter'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Next generation message driven systems with Akka'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 10:30'
+    speakers:
+      -
+        name: 'Johan Andrén'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:L26kGCBHcsw'
+    slides: null
+  -
+    title: 'The Psychology of Social Engineering'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 10:30'
+    speakers:
+      -
+        name: 'Niall Merrigan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Deep Oracles: Multiplying the Value of Automated Tests'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 10:30'
+    speakers:
+      -
+        name: 'Emanuil Slavov'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Managing the Conversation Flow within a Bot'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 10:30'
+    speakers:
+      -
+        name: 'Rabeb Othmani'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-f0r63Gdw6s'
+    slides: null
+  -
+    title: 'Managing Distributed Teams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 10:30'
+    speakers:
+      -
+        name: 'Lisette Sutherland'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:W-xDkEnoFZ4'
+    slides: null
+  -
+    title: 'Testing in DevOps for Engineers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 11:30'
+    speakers:
+      -
+        name: 'Katrina Clokie'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Headers for Hackers: Wrangling HTTP Like a Pro'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 11:30'
+    speakers:
+      -
+        name: 'Andrew Betts'
+        twitter: triblondon
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Beyond Conway's Law: Meet the Social Side of Your Code"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 11:30'
+    speakers:
+      -
+        name: 'Adam Tornhill'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Your 2019 CSS Layout Toolkit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 11:30'
+    speakers:
+      -
+        name: 'Rachel Andrew'
+        twitter: rachelandrew
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'In-depth path morphing w/ Shape Shifter'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 11:30'
+    speakers:
+      -
+        name: 'Alex Lockwood'
+        twitter: alexjlockwood
+        github: fabiendevos
+    videos: null
+    slides: null
+  -
+    title: 'Security in ASP.NET Core 2.1'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 11:30'
+    speakers:
+      -
+        name: 'Barry Dorrans'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:W6-OK2v94rU'
+    slides: null
+  -
+    title: 'Overcoming the Difficulties of Remote Meetings'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 11:30'
+    speakers:
+      -
+        name: 'Judy Rees'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qLDc0Yk-vkw'
+    slides: null
+  -
+    title: 'Navigating to the Navigation Architecture Component'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 12:50'
+    speakers:
+      -
+        name: 'Huyen Dao'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TimescaleDB: Re-engineering PostgreSQL as a time-series database'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 12:50'
+    speakers:
+      -
+        name: 'Erik Nordström'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JVv65FkHcLY'
+    slides: null
+  -
+    title: 'Staging Systems are Overrated - Docker-Based System Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 12:50'
+    speakers:
+      -
+        name: 'Peter Neubauer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BTRxX2Thie0'
+    slides: null
+  -
+    title: 'Well Tested Software'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 12:50'
+    speakers:
+      -
+        name: 'Gleb Bahmutov'
+        twitter: bahmutov
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'From Overnight to Always-On'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 12:50'
+    speakers:
+      -
+        name: 'Enno Runne'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Sociotechnical Architecture: Aligning Teams and Software for Continuous Delivery'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 12:50'
+    speakers:
+      -
+        name: 'Nick Tune'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Pmz3FXu-Dzk'
+    slides: null
+  -
+    title: 'Escape Velocity - Better Metrics for Software Teams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 12:50'
+    speakers:
+      -
+        name: 'Doc Norton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:o-Rv8UNUVxA'
+    slides: null
+  -
+    title: 'How We Support Informed Decisions at IKEA IT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 13:50'
+    speakers:
+      -
+        name: 'Christian Runnevik'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Vue and Vuex: Structure your app with centralized state management'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 13:50'
+    speakers:
+      -
+        name: 'Christoffer Noring'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wv09zxowApE'
+    slides: null
+  -
+    title: 'Idiomatic Interop with Kotlin'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 13:50'
+    speakers:
+      -
+        name: 'Kevin Most'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YydqalTh6NI'
+    slides: null
+  -
+    title: 'Attacking "Modern" Web Technologies'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 13:50'
+    speakers:
+      -
+        name: 'Frans Rosén'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Escape from Flatland! How to design captivating 3D experiences'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 13:50'
+    speakers:
+      -
+        name: 'Andras Velvart'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Working with Dates and Times (It's Possible!)"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 13:50'
+    speakers:
+      -
+        name: 'Jon Skeet'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0mGeDEMe3Jc'
+    slides: null
+  -
+    title: 'Development X Design - From Chaos to Cosmos'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 13:50'
+    speakers:
+      -
+        name: 'Juha Rouvinen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-HK71AXu9z4'
+    slides: null
+  -
+    title: 'Understanding Blockchain : A Developers View of How Blockchain Works'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 15:10'
+    speakers:
+      -
+        name: 'Stephen Haunts'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Sniffing Out the Strange — A Look at Anomaly Detection'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 15:10'
+    speakers:
+      -
+        name: 'Ashic Mahtab'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tD7QLcxH4FE'
+    slides: null
+  -
+    title: 'Design Tools and Design Handoffs — Closing the Gap Between Design and Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 15:10'
+    speakers:
+      -
+        name: 'Taylor Ling'
+        twitter: taylorling
+        github: null
+    videos:
+      - 'youtube:5yBVsRgMUiE'
+    slides: null
+  -
+    title: 'APIs on the Scale of Decades'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 15:10'
+    speakers:
+      -
+        name: 'Gary Fleming'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Machine Learning on mobile with MLKit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 15:10'
+    speakers:
+      -
+        name: 'Erik Hellman'
+        twitter: ErikHellman
+        github: ErikHellman
+    videos: null
+    slides: null
+  -
+    title: 'The Code Behind The Vulnerability'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 15:10'
+    speakers:
+      -
+        name: 'Barry Dorrans'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zLqbIfnigoI'
+    slides: null
+  -
+    title: 'Leading Lasting Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 15:10'
+    speakers:
+      -
+        name: 'Karl Scotland'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4dxWe1t2GyQ'
+    slides: null
+  -
+    title: 'Discussion Panel: Security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 16:10'
+    speakers:
+      -
+        name: 'Øredev Øredevsson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'DevTools and Headless Chrome - The Automation Power-Couple'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 16:10'
+    speakers:
+      -
+        name: 'Yonatan Mevorach'
+        twitter: cowchimp
+        github: cowchimp
+    videos:
+      - 'youtube:9niUVAmhkMw'
+    slides: null
+  -
+    title: 'Communicating in Types'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 16:10'
+    speakers:
+      -
+        name: 'Kris Jenkins'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:R2afqbzWDiU'
+    slides: null
+  -
+    title: 'Finding your service boundaries - a practical guide'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 16:10'
+    speakers:
+      -
+        name: 'Adam Ralph'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Functional Reactive Programming on Android with Eta'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 16:10'
+    speakers:
+      -
+        name: 'Jyothsna Patnam'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Serverless Data APIs with Azure Functions and Cosmos DB'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 16:10'
+    speakers:
+      -
+        name: 'Julie Lerman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fp9bB3L5utM'
+    slides: null
+  -
+    title: 'Ghost in the Machine: The Unexpected Results of Not Understanding Your Users'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 16:10'
+    speakers:
+      -
+        name: 'Nivia Henry'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zOZE6qLnXSo'
+    slides: null
+  -
+    title: 'Natural Born Cyborgs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 17:10'
+    speakers:
+      -
+        name: 'Liviu Babitz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Programming with Math'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 17:10'
+    speakers:
+      -
+        name: 'Bartosz Milewski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cvjOESfPoVg'
+    slides: null
+  -
+    title: 'VR gaming as a fitness biohack, re-visited (now with metrics!)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 17:10'
+    speakers:
+      -
+        name: 'Ray Kawalec'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Making A11y Easy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 17:10'
+    speakers:
+      -
+        name: 'Ire Aderinokun'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building a Smart IoT App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 17:10'
+    speakers:
+      -
+        name: 'Hans Boef'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Material is dead, long live the Material 2 — is the Material Design worn out?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 17:10'
+    speakers:
+      -
+        name: 'Anna Kamieniak'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:p_l8X2BYD48'
+    slides: null
+  -
+    title: 'How The West Was Lost - A Heartwarming Tale of Software Developers Who Were Just Following Orders'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 17:10'
+    speakers:
+      -
+        name: 'Jason Gorman'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'On Bioethics: The Ethics of Manipulating (the Future of) Humanity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 18:20'
+    speakers:
+      -
+        name: 'Alex Pearlman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3r8P1UolM14'
+    slides: null
+  -
+    title: 'Earthbeat: The Art of Creating your own Senses'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-20 20:00'
+    speakers:
+      -
+        name: 'Moon Ribas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:v4Lp0WbPieM'
+    slides: null
+  -
+    title: 'Sense & Respond: Continuously learning our way to better outcomes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 09:00'
+    speakers:
+      -
+        name: 'Jeff Gothelf'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hKQKSAM1M8Q'
+    slides: null
+  -
+    title: 'Monitoring vs Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 10:30'
+    speakers:
+      -
+        name: 'Mark Hrynczak'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'WebAssembly: A Deep Dive'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 10:30'
+    speakers:
+      -
+        name: 'Steve Klabnik'
+        twitter: steveklabnik
+        github: steveklabnik
+    videos: null
+    slides: null
+  -
+    title: 'Chrono-Cyborgology -Learning to hack your sense of time with technology, Pt. 1'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 10:30'
+    speakers:
+      -
+        name: 'Chris Dancy'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building Streaming Microservices with Apache Kafka'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 10:30'
+    speakers:
+      -
+        name: 'Benjamin Stopford'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Domain Modeling with Haskell Data Structures'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 10:30'
+    speakers:
+      -
+        name: 'Oskar Wickström'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Sign here, please!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 10:30'
+    speakers:
+      -
+        name: 'Ana Baotić'
+        twitter: abaotic
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '7 Principles of Productive Software Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 10:30'
+    speakers:
+      -
+        name: 'Sebastian Daschner'
+        twitter: DaschnerS
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Mobile Augmented Reality with ARCore'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 11:30'
+    speakers:
+      -
+        name: 'Erik Hellman'
+        twitter: ErikHellman
+        github: ErikHellman
+    videos: null
+    slides: null
+  -
+    title: 'Rust in the Browser for Javascripters: New Frontiers, New Possibilities'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 11:30'
+    speakers:
+      -
+        name: 'Sean Grove'
+        twitter: sgrove
+        github: sgrove
+    videos: null
+    slides: null
+  -
+    title: 'Chrono-Cyborgology -Learning to hack your sense of time with technology, Pt. 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 11:30'
+    speakers:
+      -
+        name: 'Chris Dancy'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Spring Boot 2 Web Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 11:30'
+    speakers:
+      -
+        name: 'Stéphane Nicoll'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Patterns for Building Zero-Support Distributed Systems in Erlang'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 11:30'
+    speakers:
+      -
+        name: 'Robert Ashton'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Azure Kubernetes Services'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 11:30'
+    speakers:
+      -
+        name: 'Gustav Kaleta'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'On the Road with Imogen Heap: The Diaries of a Music and Tech Adventurist'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 11:30'
+    speakers:
+      -
+        name: 'Imogen Heap'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Discussion Panel: Transhumanism'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 12:50'
+    speakers:
+      -
+        name: 'Øredev Øredevsson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Moving beyond Virtual DOM and State Management'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 12:50'
+    speakers:
+      -
+        name: 'Sindre Osen Aarsaether'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Domain-driven Design with Kotlin'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 12:50'
+    speakers:
+      -
+        name: 'Simon Harrer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Designing Events-First Microservices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 12:50'
+    speakers:
+      -
+        name: 'Jonas Bonér'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'When You Are Your Money: Testing in the Evolving World of Payment Services'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 12:50'
+    speakers:
+      -
+        name: 'Katrina Clokie'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'What Developers Want'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 12:50'
+    speakers:
+      -
+        name: 'Rabeb Othmani'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Make Equal Organizations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 13:50'
+    speakers:
+      -
+        name: 'Kim Hof'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Future of Templating on the Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 13:50'
+    speakers:
+      -
+        name: 'Filip Bech-Larsen'
+        twitter: Filipbech
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Decomposing Java Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 13:50'
+    speakers:
+      -
+        name: 'Milen Dyankov'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Any Update? Lessons Learned From Running a Bug Bounty Program for Over 5 Years'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 13:50'
+    speakers:
+      -
+        name: 'Peter Yaworski'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Augmented Reality — The State of Play'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 13:50'
+    speakers:
+      -
+        name: 'Rafał Legiędź'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Failure is not an Option'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 13:50'
+    speakers:
+      -
+        name: 'Karl Scotland'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Houdini: Breaking Out from the CSS Straightjacket'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 15:10'
+    speakers:
+      -
+        name: 'Pontus Lundin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Creative Analogies For The Underpinnings of Deep Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 15:10'
+    speakers:
+      -
+        name: 'Robert Luciani'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to the Unison Language'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 15:10'
+    speakers:
+      -
+        name: 'Rúnar Bjarnason'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Achieving 7 Seconds'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 15:10'
+    speakers:
+      -
+        name: 'Zoë Rose'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Talking about Software Testing — Conversations between a Developer and a Tester'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 15:10'
+    speakers:
+      -
+        name: 'Peter Kedemo'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Web Payment APIs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 15:10'
+    speakers:
+      -
+        name: 'AMahdy Abdelaziz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building Intelligent Agents Using Deep Reinforcement Learning'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 16:10'
+    speakers:
+      -
+        name: 'Ali Kheyrollahi'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Making software security a part of your development culture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 16:10'
+    speakers:
+      -
+        name: 'Fredrik Larsson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Unbundling the JavaScript module bundler'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 16:10'
+    speakers:
+      -
+        name: 'Luciano Mammino'
+        twitter: loige
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Thread Safety with Phaser, StampedLock and VarHandle'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 16:10'
+    speakers:
+      -
+        name: 'Heinz Kabutz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Book of Wishes for 2019'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 16:10'
+    speakers:
+      -
+        name: 'Øredev Øredevsson'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Vector workflows'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 16:10'
+    speakers:
+      -
+        name: 'Alex Lockwood'
+        twitter: alexjlockwood
+        github: fabiendevos
+    videos: null
+    slides: null
+  -
+    title: 'PWA: Is a new cross-platform development era coming?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 16:10'
+    speakers:
+      -
+        name: 'Maxim Salnikov'
+        twitter: webmaxru
+        github: webmaxru
+    videos: null
+    slides: null
+  -
+    title: 'Upgraded Huma^ns In the Age of Biological Machines'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-21 17:20'
+    speakers:
+      -
+        name: 'Teemu Arina'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:a8Q_wm1NeRk'
+    slides: null
+  -
+    title: "Let's Make a Web App Progressive in a Workday"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-22 09:00'
+    speakers:
+      -
+        name: 'Maxim Salnikov'
+        twitter: webmaxru
+        github: webmaxru
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to Elm'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-22 09:00'
+    speakers:
+      -
+        name: 'Richard Feldman'
+        twitter: rtfeldman
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Hacking Web Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-22 09:00'
+    speakers:
+      -
+        name: 'Linus Kvarnhammar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Third-Generation Software Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-22 09:00'
+    speakers:
+      -
+        name: 'Jason Gorman'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Hands-on on Design Tools and Design Handoff'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-22 09:00'
+    speakers:
+      -
+        name: 'Taylor Ling'
+        twitter: taylorling
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Java performance and efficiency - practical guide'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-22 09:00'
+    speakers:
+      -
+        name: 'Heinz Kabutz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Work Together Anywhere Workshop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-11-22 09:00'
+    speakers:
+      -
+        name: 'Lisette Sutherland'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
