@@ -1,0 +1,534 @@
+name: 'ng-conf 2015'
+description: ''
+location: ''
+venue: ''
+city: 'Salt Lake City, Utah'
+country: 'United States'
+link: 'https://web.archive.org/web/20150207004653/http://ng-conf.org/'
+playlist: 'youtube:PLOETEcp3DkCoNnlhE-7fovYvqwVPrRiY7'
+from_date: '2015-03-05'
+to_date: '2015-03-06'
+tags: ''
+talks:
+  -
+    title: ngTasty
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-05 13:09'
+    speakers:
+      -
+        name: 'Leonardo Zizzamia'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:e6J_JZaIOAQ'
+    slides: null
+  -
+    title: 'TypeScript and ES6'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-05 13:11'
+    speakers:
+      -
+        name: 'Dan Wahlin'
+        twitter: DanWahlin
+        github: null
+      -
+        name: ' Andrew Connell'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:U7NYTKgkZgo'
+    slides: null
+  -
+    title: 'ng-conf 2015 Day 1 Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-05 13:14'
+    speakers:
+      -
+        name: 'Brad Green '
+        twitter: bradlygreen
+        github: null
+      -
+        name: 'Igor Minar'
+        twitter: IgorMinar
+        github: null
+    videos:
+      - 'youtube:QHulaj5ZxbI'
+    slides: null
+  -
+    title: 'State of Angular 1'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-05 13:19'
+    speakers:
+      -
+        name: 'Pawel Kozlowski '
+        twitter: null
+        github: null
+      -
+        name: ' Lucas Galfaso'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ihAeffWJEIc'
+    slides: null
+  -
+    title: 'The New Router'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-05 13:21'
+    speakers:
+      -
+        name: 'Brian Ford'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vecg70fPDFw'
+    slides: null
+  -
+    title: 'Prototyping with Angular? YES'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-05 13:22'
+    speakers:
+      -
+        name: 'Kelly Kelly '
+        twitter: null
+        github: null
+      -
+        name: ' Dirk Ginader'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ufZpHuiyepg'
+    slides: null
+  -
+    title: 'Fast from the Start'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-05 13:24'
+    speakers:
+      -
+        name: 'Jeff Cross '
+        twitter: jeffbcross
+        github: jeffbcross
+    videos:
+      - 'youtube:x1PJn5qMUT4'
+    slides: null
+  -
+    title: 'Creating Container Components with Web Components and Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-05 13:25'
+    speakers:
+      -
+        name: 'Kara Erickson '
+        twitter: karaforthewin
+        github: null
+      -
+        name: ' Rachael L Moore'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AbunztfV5vU'
+    slides: null
+  -
+    title: ng-wat
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-05 13:27'
+    speakers:
+      -
+        name: 'Shai Reznik'
+        twitter: shai_reznik
+        github: null
+    videos:
+      - 'youtube:M_Wp-2XA9ZU'
+    slides: null
+  -
+    title: 'Community Building How To Make More Angular Devs Now'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-05 13:33'
+    speakers:
+      -
+        name: 'Judy Tuan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jAjAMAPtZ1I'
+    slides: null
+  -
+    title: 'Accessibility Design Made Easy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-05 13:35'
+    speakers:
+      -
+        name: 'Julie Ralph'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_2Pt6Xx94Bc'
+    slides: null
+  -
+    title: 'Why Realtime Matters'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-05 13:36'
+    speakers:
+      -
+        name: 'James Tamplin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:4nD5fjpIesk'
+    slides: null
+  -
+    title: 'ngModelOptions in 5 minutes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-05 13:38'
+    speakers:
+      -
+        name: 'Kent C Dodds'
+        twitter: kentcdodds
+        github: kentcdodds
+    videos:
+      - 'youtube:k3t3ov6xHDw'
+    slides: null
+  -
+    title: 'How to Teach Angular to your Kids'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-05 13:39'
+    speakers:
+      -
+        name: 'Katya Eames'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:aH9Plt77cjM'
+    slides: null
+  -
+    title: 'Run digest cycle in web worker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-05 13:41'
+    speakers:
+      -
+        name: 'Dr Gleb Bahmutov PhD'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lceLw8ROUP8'
+    slides: null
+  -
+    title: 'Sasqwatch is Real'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-05 13:42'
+    speakers:
+      -
+        name: 'William Scott Moss'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wbcJfg-d5nI'
+    slides: null
+  -
+    title: 'Ionic and Angular Superpowers for Mobile App Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-05 13:43'
+    speakers:
+      -
+        name: 'Adam Bradley'
+        twitter: adamdbradley
+        github: adamdbradley
+    videos:
+      - 'youtube:wvr11fvCeu4'
+    slides: null
+  -
+    title: 'Angular Behind The Scenes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-05 13:45'
+    speakers:
+      -
+        name: 'Rodric Haddad'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MqCSWx9CJMo'
+    slides: null
+  -
+    title: 'Build an Angular Material App'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-05 14:02'
+    speakers:
+      -
+        name: 'Thomas Burleson '
+        twitter: null
+        github: null
+      -
+        name: ' Naomi Black'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Qi31oO5u33U'
+    slides: null
+  -
+    title: 'TypeScript and Angular 20'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-06 13:46'
+    speakers:
+      -
+        name: 'Jonathan Turner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Xw93oketp18'
+    slides: null
+  -
+    title: 'Binding to the Cloud with Falcor'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-06 13:47'
+    speakers:
+      -
+        name: 'Jafar Husain'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WiO1f6h15c8'
+    slides: null
+  -
+    title: 'ng-conf 2015 Keynote 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-06 13:49'
+    speakers:
+      -
+        name: ' Misko Hevery '
+        twitter: mhevery
+        github: null
+      -
+        name: ' Rado Kirov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-dMBcqwvYA0'
+    slides: null
+  -
+    title: 'Building Platforms with Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-06 13:51'
+    speakers:
+      -
+        name: 'Jen Bourey'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cVTN8msr5DE'
+    slides: null
+  -
+    title: 'Reactive all the Things'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-06 13:52'
+    speakers:
+      -
+        name: 'Ben Lesh '
+        twitter: benlesh
+        github: null
+      -
+        name: ' Martin Gontovnikas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zbBVG8bOoXk'
+    slides: null
+  -
+    title: 'Angular 1.3 meets Angular 2.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-06 13:53'
+    speakers:
+      -
+        name: 'Michał Gołębiowski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pai1ZdFI2dg'
+    slides: null
+  -
+    title: 'Digging into Angular Style Guide Decisions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-06 13:55'
+    speakers:
+      -
+        name: 'John Papa'
+        twitter: john_papa
+        github: johnpapa
+    videos:
+      - 'youtube:hG-ARy0oqjI'
+    slides: null
+  -
+    title: 'Better i18n for your Angular apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-06 13:58'
+    speakers:
+      -
+        name: 'Chirayu Krishnappa '
+        twitter: null
+        github: null
+      -
+        name: ' Pascal Precht'
+        twitter: pascalprecht
+        github: null
+    videos:
+      - 'youtube:iBBkCA1M-mc'
+    slides: null
+  -
+    title: "Badges We don't need no stinkin' badges"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-06 14:01'
+    speakers:
+      -
+        name: 'Lukas Ruebbelke '
+        twitter: simpulton
+        github: null
+      -
+        name: ' Geoff Goodman'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hYXEuQZMLSM'
+    slides: null
+  -
+    title: 'Change Detection Reinvented'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-06 14:04'
+    speakers:
+      -
+        name: 'Victor Savkin'
+        twitter: victorsavkin
+        github: null
+    videos:
+      - 'youtube:jvKGQSFQf10'
+    slides: null
+  -
+    title: '(Super)Power Management'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-06 14:05'
+    speakers:
+      -
+        name: 'Igor Minar'
+        twitter: IgorMinar
+        github: null
+    videos:
+      - 'youtube:IGeaXo2ZBr0'
+    slides: null
+  -
+    title: 'Angular Team PanelQA'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-06 14:11'
+    speakers:
+      -
+        name: Googlers
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5Sy2bgKhaAo'
+    slides: null
+  -
+    title: 'Whats new in ngAnimate'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-06 14:12'
+    speakers:
+      -
+        name: 'Matias Niemelä'
+        twitter: yearofmoo/
+        github: null
+    videos:
+      - 'youtube:R0OrxxJNcjU'
+    slides: null
+  -
+    title: 'Angular + React = Speed'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-08 14:13'
+    speakers:
+      -
+        name: 'Dave Smith '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XQM0K6YG18s'
+    slides: null
+  -
+    title: 'Adventures in Angular Live Podcast'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-09 14:14'
+    speakers: {  }
+    videos:
+      - 'youtube:z0-dkOavwsg'
+    slides: null
+  -
+    title: 'Girl Scout Cookies @ ng-conf 2015'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2015-03-09 14:15'
+    speakers: {  }
+    videos:
+      - 'youtube:yh4ExTTrScQ'
+    slides: null

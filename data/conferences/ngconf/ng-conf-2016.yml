@@ -1,0 +1,623 @@
+name: 'ng-conf 2016'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: 'https://2016.ng-conf.org/#/'
+playlist: 'youtube:PLOETEcp3DkCq788xapkP_OU-78jhTf68j'
+from_date: '2016-05-04'
+to_date: '2016-05-06'
+tags: ''
+talks:
+  -
+    title: 'Keynote 1'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 09:05'
+    speakers:
+      -
+        name: 'Brad Green '
+        twitter: bradlygreen
+        github: null
+      -
+        name: ' Jules Kremer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gdlpE9vPQFs'
+    slides: null
+  -
+    title: 'An Angular 2 Force Awakens'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 09:50'
+    speakers:
+      -
+        name: 'John Papa'
+        twitter: john_papa
+        github: johnpapa
+    videos:
+      - 'youtube:WAPQF_GA7Qg'
+    slides: null
+  -
+    title: "Angular 2's Fresh Approach to Style"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 10:15'
+    speakers:
+      -
+        name: 'Justin Schwartzenberger'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:J5Bvy4KhIs0'
+    slides: null
+  -
+    title: "TypeScript: Angular 2's Secret Weapon"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 10:40'
+    speakers:
+      -
+        name: 'Dan Wahlin'
+        twitter: DanWahlin
+        github: null
+    videos:
+      - 'youtube:e3djIqAGqZo'
+    slides: null
+  -
+    title: 'Angular 2 Universal Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 11:05'
+    speakers:
+      -
+        name: 'Jeffrey Whelpley'
+        twitter: null
+        github: null
+      -
+        name: ' Patrick Stapleton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TCj_oC3m6_U'
+    slides: null
+  -
+    title: 'Adjusting the Dials in the Circuits of the Human Brain with Deep Brain Stimulation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 11:30'
+    speakers:
+      -
+        name: 'Dr Andres Lozano'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IEMLGrKJeK0'
+    slides: null
+  -
+    title: Routing
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 13:30'
+    speakers:
+      -
+        name: ' Misko Hevery '
+        twitter: mhevery
+        github: null
+    videos:
+      - 'youtube:d8yAdeshpcw'
+    slides: null
+  -
+    title: 'Components, Components, Components! ... and Angular 1.5'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 13:55'
+    speakers:
+      -
+        name: 'Peter Bacon Darwin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AMwjDibFxno'
+    slides: null
+  -
+    title: 'Look Deeply Into Your App with Augury (formerly known as Batarangle)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 14:20'
+    speakers:
+      -
+        name: 'Igor Kamenetsky '
+        twitter: null
+        github: null
+      -
+        name: ' Vanessa Yuen'
+        twitter: vanessayuenn
+        github: null
+    videos:
+      - 'youtube:b1YV9vJKXEA'
+    slides: null
+  -
+    title: 'The ng-show: Angular 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 14:35'
+    speakers:
+      -
+        name: 'Shai Reznik'
+        twitter: shai_reznik
+        github: null
+    videos:
+      - 'youtube:aSFfLVxT5vA'
+    slides: null
+  -
+    title: 'Angular Material: Titanium Octopus'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 15:20'
+    speakers:
+      -
+        name: 'Kara Erickson '
+        twitter: karaforthewin
+        github: null
+      -
+        name: ' Jeremy Elbourn'
+        twitter: jelbourn
+        github: null
+    videos:
+      - 'youtube:rRiV_b3WsoY'
+    slides: null
+  -
+    title: 'Testing all your Tasks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 15:45'
+    speakers:
+      -
+        name: 'Julie Ralph'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DltUEDy7ItY'
+    slides: null
+  -
+    title: "Functional Reactive JavaScript- Let's stop the Conversational Remorse!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 16:10'
+    speakers:
+      -
+        name: 'Anas Raza Firdousi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mmWCuSxSXeY'
+    slides: null
+  -
+    title: "Rockin' 'Round The Docs"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 16:35'
+    speakers:
+      -
+        name: 'Ward Bell'
+        twitter: wardbell
+        github: null
+    videos:
+      - 'youtube:hAA6rk71ZqI'
+    slides: null
+  -
+    title: 'Sharing Code Between Web and Native Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 16:45'
+    speakers:
+      -
+        name: 'Jen Looper '
+        twitter: jenlooper
+        github: jlooper
+      -
+        name: ' TJ VanToll'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:R3nyG2xtzeQ'
+    slides: null
+  -
+    title: 'Generative Art in Angular 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 17:10'
+    speakers:
+      -
+        name: 'Tero Parviainen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vsl5O4ps7LE'
+    slides: null
+  -
+    title: 'Progressive Web Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-04 17:35'
+    speakers:
+      -
+        name: 'Jeff Cross '
+        twitter: jeffbcross
+        github: jeffbcross
+      -
+        name: ' Alex Rickabaugh'
+        twitter: synalx
+        github: null
+    videos:
+      - 'youtube:wLWVASD0dvU'
+    slides: null
+  -
+    title: 'Keynote 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 09:05'
+    speakers:
+      -
+        name: 'Brad Green '
+        twitter: bradlygreen
+        github: null
+      -
+        name: ' Misko Hevery '
+        twitter: mhevery
+        github: null
+      -
+        name: 'Rob Wormald'
+        twitter: robwormald
+        github: null
+    videos:
+      - 'youtube:bSssb9AmiJU'
+    slides: null
+  -
+    title: 'ng-conf newsroom'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 10:00'
+    speakers:
+      -
+        name: 'Dave Smith '
+        twitter: null
+        github: null
+      -
+        name: ' Thomas A. Valletta'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Angular Air Recording'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 12:00'
+    speakers:
+      -
+        name: 'Jeffrey Whelpley'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Wanting it all vs. Being Great'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 13:00'
+    speakers:
+      -
+        name: 'Alyssa Nicoll'
+        twitter: AlyssaNicoll
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Isolating and Improving performance in Angular 1 Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 15:00'
+    speakers:
+      -
+        name: 'Taylor Everding'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Code Lab: New Data Architecture in Angular 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 15:00'
+    speakers:
+      -
+        name: 'Gerard Sans'
+        twitter: gerardsans
+        github: gsans
+    videos: null
+    slides: null
+  -
+    title: 'Unit Testing with Angular 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-05 16:00'
+    speakers:
+      -
+        name: 'Raul Jimenez'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Typescript
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 09:00'
+    speakers:
+      -
+        name: 'Daniel Rosenwasser'
+        twitter: drosenwasser
+        github: DanielRosenwasser
+    videos:
+      - 'youtube:dzPjBWLdGz0'
+    slides: null
+  -
+    title: 'Promises are probably older than you.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 09:25'
+    speakers:
+      -
+        name: 'Sam Saccone'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:24FzHoAVC10'
+    slides: null
+  -
+    title: '​Pipe Hype'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 09:50'
+    speakers:
+      -
+        name: 'Aysegul Yonet'
+        twitter: AysSomething
+        github: null
+    videos:
+      - 'youtube:joSHg-4ZBZ8'
+    slides: null
+  -
+    title: 'Multi-Slot Transclusion'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 10:15'
+    speakers:
+      -
+        name: 'Ken Snyder'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:59IY2MIl5u0'
+    slides: null
+  -
+    title: Animations
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 10:25'
+    speakers:
+      -
+        name: 'Matias Niemelä'
+        twitter: yearofmoo/
+        github: null
+    videos:
+      - 'youtube:Hr4IKlr9mhg'
+    slides: null
+  -
+    title: 'Learn Clingon'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 10:50'
+    speakers:
+      -
+        name: 'Mike Brocchi'
+        twitter: Brocco
+        github: null
+    videos:
+      - 'youtube:wHZe6gGI5RY'
+    slides: null
+  -
+    title: 'Angular 2 for the rest of us'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 11:15'
+    speakers:
+      -
+        name: 'Scott Moss'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'React Native'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 11:40'
+    speakers:
+      -
+        name: 'Marc Laval'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yDbaihb1eIs'
+    slides: null
+  -
+    title: 'Reactive Programming, changing the world at Netflix, Microsoft, Slack and beyond!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 13:30'
+    speakers:
+      -
+        name: 'Matthew Podwysocki'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yEeDbHvg1vQ'
+    slides: null
+  -
+    title: 'Async data patterns with AngularFire'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 13:55'
+    speakers:
+      -
+        name: 'David East'
+        twitter: _davideast
+        github: null
+    videos:
+      - 'youtube:oLG5TXLeuHQ'
+    slides: null
+  -
+    title: 'Unhappiness at Work'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 14:20'
+    speakers:
+      -
+        name: 'Ryan Martinsen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cGnU3GaALOQ'
+    slides: null
+  -
+    title: 'Demystifying Decorators'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 14:35'
+    speakers:
+      -
+        name: 'Michael Bennett'
+        twitter: null
+        github: bennett000
+    videos:
+      - 'youtube:Drt0S6rrZ9I'
+    slides: null
+  -
+    title: 'Becoming an Angular 2 Contributor'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 14:47'
+    speakers:
+      -
+        name: 'Alex Castillo'
+        twitter: castillo__io
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Reactive Angular2 with ngRx'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 15:25'
+    speakers:
+      -
+        name: 'Rob Wormald'
+        twitter: robwormald
+        github: null
+    videos:
+      - 'youtube:mhA7zZ23Odw'
+    slides: null
+  -
+    title: "It's Just a Textbox, What Could Go Wrong?: Angular 2 Forms and Validation"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 15:50'
+    speakers:
+      -
+        name: 'Deborah Kurata'
+        twitter: DeborahKurata
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Automated Angular 2 Style Checking with Codelyzer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 16:15'
+    speakers:
+      -
+        name: 'Minko Gechev'
+        twitter: mgechev
+        github: null
+    videos:
+      - 'youtube:bci-Z6nURgE'
+    slides: null
+  -
+    title: 'Enhancing performance without steroids'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 16:30'
+    speakers:
+      -
+        name: 'Zackary Chapple'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jxt8qe6DSOw'
+    slides: null
+  -
+    title: 'Angular Team Panel/QA'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-05-06 17:00'
+    speakers: {  }
+    videos:
+      - 'youtube:byoL6epzLKM'
+    slides: null

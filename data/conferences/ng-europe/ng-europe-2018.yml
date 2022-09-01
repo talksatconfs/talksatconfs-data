@@ -116,7 +116,7 @@ talks:
     talk_date: '2018-02-02 00:00'
     speakers:
       -
-        name: 'Jen Looper'
+        name: 'Jen Looper '
         twitter: jenlooper
         github: jlooper
     videos:
@@ -214,7 +214,7 @@ talks:
     talk_date: '2018-02-02 00:00'
     speakers:
       -
-        name: 'GERARD SANS'
+        name: 'Gerard Sans'
         twitter: gerardsans
         github: gsans
     videos:
