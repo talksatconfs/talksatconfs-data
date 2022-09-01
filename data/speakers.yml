@@ -5788,7 +5788,7 @@
   github: ankit-m
   youtube: null
 -
-  name: 'Ben Lesh'
+  name: 'Ben Lesh '
   bio: null
   website: null
   twitter: benlesh
@@ -8833,7 +8833,7 @@
   github: null
   youtube: null
 -
-  name: 'Pawel Kozlowski'
+  name: 'Pawel Kozlowski '
   bio: null
   website: null
   twitter: null
@@ -13404,7 +13404,7 @@
   github: miukimiu
   youtube: null
 -
-  name: 'Kent C. Dodds'
+  name: 'Kent C Dodds'
   bio: null
   website: 'https://kentcdodds.com/'
   twitter: kentcdodds
@@ -18661,7 +18661,7 @@
   github: kof
   youtube: null
 -
-  name: 'GERARD SANS'
+  name: 'Gerard Sans'
   bio: null
   website: null
   twitter: gerardsans
@@ -21706,7 +21706,7 @@
   github: null
   youtube: null
 -
-  name: 'Brad Green'
+  name: 'Brad Green '
   bio: null
   website: 'https://angular.io/'
   twitter: bradlygreen
@@ -21944,7 +21944,7 @@
   github: chliebel
   youtube: null
 -
-  name: 'Jen Looper'
+  name: 'Jen Looper '
   bio: null
   website: null
   twitter: jenlooper
@@ -22672,7 +22672,7 @@
   github: manekinekko
   youtube: null
 -
-  name: 'Pascal Precht'
+  name: ' Pascal Precht'
   bio: null
   website: null
   twitter: pascalprecht
@@ -23890,14 +23890,14 @@
   github: null
   youtube: null
 -
-  name: 'Miško Hevery'
+  name: ' Misko Hevery '
   bio: null
   website: null
   twitter: mhevery
   github: null
   youtube: null
 -
-  name: 'Kara Erickson'
+  name: 'Kara Erickson '
   bio: null
   website: null
   twitter: karaforthewin
@@ -23946,7 +23946,7 @@
   github: null
   youtube: null
 -
-  name: 'Lukas Ruebbelke'
+  name: 'Lukas Ruebbelke '
   bio: null
   website: null
   twitter: simpulton
@@ -23967,7 +23967,7 @@
   github: null
   youtube: null
 -
-  name: 'Jeremy Elbourn'
+  name: ' Jeremy Elbourn'
   bio: null
   website: null
   twitter: jelbourn
@@ -28405,7 +28405,7 @@
   github: null
   youtube: null
 -
-  name: 'Vanessa Yuen'
+  name: ' Vanessa Yuen'
   bio: null
   website: null
   twitter: vanessayuenn
@@ -29434,7 +29434,7 @@
   github: sis0k0
   youtube: null
 -
-  name: 'Alex Rickabaugh'
+  name: ' Alex Rickabaugh'
   bio: null
   website: null
   twitter: synalx
@@ -31541,7 +31541,7 @@
   github: null
   youtube: null
 -
-  name: 'Jeff Cross'
+  name: 'Jeff Cross '
   bio: null
   website: 'http://nrwl.io/'
   twitter: jeffbcross
@@ -37730,6 +37730,307 @@
   youtube: null
 -
   name: Aja
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Leonardo Zizzamia'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: ' Andrew Connell'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: ' Lucas Galfaso'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Kelly Kelly '
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: ' Dirk Ginader'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: ' Rachael L Moore'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Judy Tuan'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Julie Ralph'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'James Tamplin'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Katya Eames'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Dr Gleb Bahmutov PhD'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'William Scott Moss'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Rodric Haddad'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Thomas Burleson '
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: ' Naomi Black'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Jonathan Turner'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: ' Rado Kirov'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Jen Bourey'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: ' Martin Gontovnikas'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Michał Gołębiowski'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Chirayu Krishnappa '
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: ' Geoff Goodman'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: Googlers
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Dave Smith '
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: ' Jules Kremer'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Justin Schwartzenberger'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Jeffrey Whelpley'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: ' Patrick Stapleton'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Dr Andres Lozano'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Peter Bacon Darwin'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Igor Kamenetsky '
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Anas Raza Firdousi'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: ' TJ VanToll'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Tero Parviainen'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: ' Thomas A. Valletta'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Taylor Everding'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Raul Jimenez'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Sam Saccone'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Ken Snyder'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Scott Moss'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Marc Laval'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Ryan Martinsen'
+  bio: null
+  website: null
+  twitter: null
+  github: null
+  youtube: null
+-
+  name: 'Zackary Chapple'
   bio: null
   website: null
   twitter: null

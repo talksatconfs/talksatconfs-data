@@ -18,15 +18,15 @@ talks:
     talk_date: '2018-04-18 00:00'
     speakers:
       -
-        name: 'Brad Green'
+        name: 'Brad Green '
         twitter: bradlygreen
         github: null
       -
-        name: 'Miško Hevery'
+        name: ' Misko Hevery '
         twitter: mhevery
         github: null
       -
-        name: 'Kara Erickson'
+        name: 'Kara Erickson '
         twitter: karaforthewin
         github: null
     videos:
@@ -154,7 +154,7 @@ talks:
         twitter: john_papa
         github: johnpapa
       -
-        name: 'Lukas Ruebbelke'
+        name: 'Lukas Ruebbelke '
         twitter: simpulton
         github: null
       -
@@ -194,7 +194,7 @@ talks:
     talk_date: '2018-04-18 00:00'
     speakers:
       -
-        name: 'Jeremy Elbourn'
+        name: ' Jeremy Elbourn'
         twitter: jelbourn
         github: null
     videos:
@@ -925,7 +925,7 @@ talks:
     talk_date: '2018-04-20 00:00'
     speakers:
       -
-        name: 'Ben Lesh'
+        name: 'Ben Lesh '
         twitter: benlesh
         github: null
     videos:
@@ -1007,11 +1007,11 @@ talks:
         twitter: null
         github: null
       -
-        name: 'Jeremy Elbourn'
+        name: ' Jeremy Elbourn'
         twitter: jelbourn
         github: null
       -
-        name: 'Kara Erickson'
+        name: 'Kara Erickson '
         twitter: karaforthewin
         github: null
       -
@@ -1023,11 +1023,11 @@ talks:
         twitter: tinayuangao
         github: null
       -
-        name: 'Brad Green'
+        name: 'Brad Green '
         twitter: bradlygreen
         github: null
       -
-        name: 'Miško Hevery'
+        name: ' Misko Hevery '
         twitter: mhevery
         github: null
       -
@@ -1039,7 +1039,7 @@ talks:
         twitter: hanslatwork
         github: null
       -
-        name: 'Ben Lesh'
+        name: 'Ben Lesh '
         twitter: benlesh
         github: null
       -

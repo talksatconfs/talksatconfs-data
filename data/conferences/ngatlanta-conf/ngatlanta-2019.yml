@@ -116,7 +116,7 @@ talks:
     talk_date: '2019-01-10 15:00'
     speakers:
       -
-        name: 'Brad Green'
+        name: 'Brad Green '
         twitter: bradlygreen
         github: null
     videos:
@@ -186,7 +186,7 @@ talks:
     talk_date: '2019-01-11 09:30'
     speakers:
       -
-        name: 'Jeff Cross'
+        name: 'Jeff Cross '
         twitter: jeffbcross
         github: jeffbcross
     videos:
