@@ -9,4 +9,1018 @@ playlist: ''
 from_date: '2017-04-05'
 to_date: '2017-04-07'
 tags: ''
-talks: {  }
+talks:
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-05 00:00'
+    speakers:
+      -
+        name: 'Stephen Fluin'
+        twitter: stephenfluin
+        github: null
+      -
+        name: ' Igor Minor and Josh Thomas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:anzsE2TbCyk'
+    slides:
+      - 'https://docs.google.com/presentation/d/17XEE7dNq2e8CAgC68vM7Hn_1hR5jwnPoBiRmqzAF9DQ/preview?slide=id.p'
+  -
+    title: 'I am One with Angular, Angular is One with Me'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-05 00:00'
+    speakers:
+      -
+        name: 'John Papa'
+        twitter: john_papa
+        github: johnpapa
+    videos: null
+    slides:
+      - 'https://www.slideshare.net/johnpapa/i-amonewithangular'
+  -
+    title: 'Mad Science with the Angular Compiler'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-05 00:00'
+    speakers:
+      -
+        name: ' Minko Gechev'
+        twitter: mgechev
+        github: null
+    videos:
+      - 'youtube:tBV4IQwPssU'
+    slides:
+      - 'https://speakerdeck.com/mgechev/mad-science-with-the-angular-compiler'
+  -
+    title: 'Creating VR Experiences with Angular and WebGL'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-05 00:00'
+    speakers:
+      -
+        name: 'Austin McDaniel'
+        twitter: amcdnl
+        github: null
+    videos:
+      - 'youtube:L_eQKnl8sao'
+    slides:
+      - 'http://slides.com/austinmcdaniel/new-realities-angular#/'
+  -
+    title: 'Module VS Module'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-05 00:00'
+    speakers:
+      -
+        name: 'Deborah Kurata'
+        twitter: DeborahKurata
+        github: null
+    videos:
+      - 'youtube:ntJ-P-Cvo7o'
+    slides:
+      - 'https://t.co/igMGVQeATK'
+  -
+    title: 'Embrace Component Tranquility'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-05 00:00'
+    speakers:
+      -
+        name: 'Justin Schwartzenberger'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:d7fLYenKy-I'
+    slides:
+      - 'https://jschwarty.github.io/ngconf-2017-embrace-component-tranquility/'
+  -
+    title: 'Animations in Angular 4.0.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-05 00:00'
+    speakers:
+      -
+        name: 'Matias Niemela'
+        twitter: yearofmoo/
+        github: null
+    videos:
+      - 'youtube:Oh9wj-1p2BM'
+    slides:
+      - 'http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/'
+  -
+    title: ng-rap
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-05 00:00'
+    speakers:
+      -
+        name: 'Shai Reznik'
+        twitter: shai_reznik
+        github: null
+    videos:
+      - 'youtube:vztUMbRARoo'
+    slides: null
+  -
+    title: 'Keeping the Sand Out of Your Eyes: No Sandbox, No Problem'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-05 00:00'
+    speakers:
+      -
+        name: 'Tim Ehat'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Lkda4xNPi5M'
+    slides:
+      - 'https://drive.google.com/file/d/0B9CWa-AmFMvHR0hTVTEyQWdNMFk/view'
+  -
+    title: 'Thoughtful Component Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-05 00:00'
+    speakers:
+      -
+        name: 'Jeremy Elbourne'
+        twitter: null
+        github: null
+      -
+        name: ' Miles Malerba'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0BikjL858OQ'
+    slides:
+      - 'https://goo.gl/TvRLlu'
+  -
+    title: 'Back from the past: A tale of helping others upgrade from Angular 1.x'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-05 00:00'
+    speakers:
+      -
+        name: 'Sergio Cruz'
+        twitter: hashtagserg
+        github: null
+    videos:
+      - 'youtube:FFhJSkI35U8'
+    slides:
+      - 'https://cl.ly/1T141I0a1n2T'
+  -
+    title: 'Mischief Maker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-05 00:00'
+    speakers:
+      -
+        name: 'Lukas Ruebbelke '
+        twitter: simpulton
+        github: null
+      -
+        name: ' Roger Tipping'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kW37RU5k8xM'
+    slides:
+      - 'https://www.slideshare.net/simpul/ngconf-2017-angular-mischief-maker'
+  -
+    title: ng-STEAM
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-05 00:00'
+    speakers:
+      -
+        name: 'Joe Skeen'
+        twitter: null
+        github: null
+      -
+        name: ' Gwen Skeen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:39vCAvW0a7E'
+    slides: null
+  -
+    title: 'The Memory Leak Brain Drain'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-05 00:00'
+    speakers:
+      -
+        name: 'Jon Boyd'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:cWHR-Eqe8q4'
+    slides:
+      - 'https://www.slideshare.net/biznasapps/ngconf2017-memory-leak-brain-drain-5-minute-talk'
+  -
+    title: 'There and Back Again: a developer’s tale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-05 00:00'
+    speakers:
+      -
+        name: 'Jacob Turner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IFblumxIFW8'
+    slides: null
+  -
+    title: 'The Little Tool That Dreams Big'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-05 00:00'
+    speakers:
+      -
+        name: 'Hans Larsen'
+        twitter: hanslatwork
+        github: null
+    videos:
+      - 'youtube:f9hhzDZXWPM'
+    slides:
+      - 'https://docs.google.com/presentation/d/12AUE0Tyy-3fCSGCjeBBImT0MVLzJG6h__1Bvt0ZKBYw/edit#slide=id.g1d5c0db042_1_0'
+  -
+    title: 'The Angular Compiler 4.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-05 00:00'
+    speakers:
+      -
+        name: 'Tobias Bosch'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RXYjPYkFwy4'
+    slides: null
+  -
+    title: 'Reactive Programming with RxJS: A Beginner’s Perspective'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-05 00:00'
+    speakers:
+      -
+        name: ' Ben Lesh'
+        twitter: benlesh
+        github: null
+      -
+        name: 'Tracy Lee'
+        twitter: ladyleet
+        github: ladyleet
+    videos:
+      - 'youtube:aZRJOVPMW4k'
+    slides:
+      - 'https://www.slideshare.net/ladyleet/rxjs-a-beginner-experts-perspective-ngconf-2017'
+  -
+    title: 'How to Scratch an Itch'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-05 00:00'
+    speakers:
+      -
+        name: 'Justin Searls'
+        twitter: searls
+        github: searls
+    videos:
+      - 'youtube:7YB1I5h2ujw'
+    slides:
+      - 'http://blog.testdouble.com/posts/2016-12-01-a-creativity-talk.html'
+  -
+    title: 'Building a roboarmy with Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Sebastian Witalec'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RE7m-BcGukQ'
+    slides:
+      - 'https://t.co/0rdQsDxETs'
+  -
+    title: 'Angular Performance Birds of a Feather'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Jeff Cross '
+        twitter: jeffbcross
+        github: jeffbcross
+    videos: null
+    slides:
+      - '`'
+  -
+    title: 'RxJS: The Good Parts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Christopher Gosselin '
+        twitter: null
+        github: null
+      -
+        name: 'Daniel Figueiredo Caetano '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TszoFCFydiM'
+    slides:
+      - 'https://github.com/danielfigueiredo/rxjs-goodparts'
+  -
+    title: 'Turbocharge Your Angular Testing Workflow'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Victor Mejia'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:wj3dStoEhso'
+    slides:
+      - 'https://ngtest-turbo.firebaseapp.com'
+  -
+    title: 'Diving into TypeScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'John Papa'
+        twitter: john_papa
+        github: johnpapa
+      -
+        name: ' Dan Wahlin'
+        twitter: DanWahlin
+        github: null
+    videos:
+      - 'youtube:4xScMnaasG0'
+    slides:
+      - 'http://codewithdan.me/ts-es2015-in60'
+  -
+    title: 'Docker: What Every Angular Developer Should Know About It!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: ' Dan Wahlin'
+        twitter: DanWahlin
+        github: null
+    videos:
+      - 'youtube:socWfhPJptE'
+    slides:
+      - 'http://codewithdan.me/angular-docker'
+  -
+    title: 'FormControl Freaks: Redux Edition'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Daniel Figueiredo Caetano '
+        twitter: null
+        github: null
+      -
+        name: ' Renee Vrantsidis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vxJUBgTsLgs'
+    slides:
+      - 'https://github.com/renvrant/formcontrol-freaks'
+  -
+    title: 'From Inactive to Reactive with ngrx'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Brandon Roberts'
+        twitter: brandontroberts
+        github: null
+      -
+        name: ' Mike Ryan'
+        twitter: MikeRyanDev
+        github: null
+    videos:
+      - 'youtube:cyaAhXHhxgk'
+    slides:
+      - 'https://codesequence.github.io/ngrx-workshop/assets/player/KeynoteDHTMLPlayer.html#0'
+  -
+    title: 'Everything is a plugin! Mastering webpack from the inside-out.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Sean Larkin'
+        twitter: TheLarkInn
+        github: thelarkinn
+    videos:
+      - 'youtube:4tQiJaFzuJ8'
+    slides:
+      - 'https://docs.google.com/presentation/d/11lzTCDkXwqjhvIQ4K-NtO2ChJVpdnWtblQLpmo7obGo/edit#slide=id.p'
+  -
+    title: 'Interactive video apps with Videogular2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Raul Jimenez Herrando'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-wXfJvb9Ae0'
+    slides:
+      - 'http://slides.com/elecash/interactive-video-apps-with-videogular2#/'
+  -
+    title: 'Angular and GraphQL – A modern API for a modern Platform'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: Urigo
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rb5i8Bs7-k0'
+    slides:
+      - 'https://www.icloud.com/keynote/0Jx0mAQ1jgJ8u9Ui0uFhGl6UQ#ng-conf_2017_copy_version_2'
+  -
+    title: 'Automatic Progressive Web Apps using the Angular Mobile Toolkit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Maxium Salnikov'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ecu1vAO23ZM'
+    slides:
+      - 'http://slides.com/webmax/pwa-ng-conf#/'
+  -
+    title: 'When You Can’t Use the Word “BIG BANG'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Asim Hussain'
+        twitter: jawache
+        github: jawache
+    videos:
+      - 'youtube:4p1jG2QNc4U'
+    slides:
+      - 'https://www.slideshare.net/jawache/migrating-from-angularjs-when-you-cant-use-the-word-big-bang'
+  -
+    title: 'Build, Measure, and Machine Learn with Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Anna Karpacheva '
+        twitter: null
+        github: null
+      -
+        name: ' Sumit Arora'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:P_FSpwfERAg'
+    slides:
+      - 'https://github.com/sumitarora/build-measure-machine-learn/blob/master/Build%2C%20Measure%2C%20and%20Machine%20Learn%20with%20Angular.pdf'
+  -
+    title: 'The Memory Leak Brain Drain - Workshop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Jon Boyd'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nS53gCp2swc'
+    slides:
+      - 'https://www.slideshare.net/biznasapps/ngconf2017-memory-leak-brain-drain-1-hour-talk'
+  -
+    title: 'Kick Your Components up a Notch with Directives BAM!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Mike Brocchi'
+        twitter: Brocco
+        github: null
+    videos:
+      - 'youtube:VkfHZiMqEd4'
+    slides:
+      - 'https://docs.google.com/presentation/d/17_RMceQBuTrR2m2vgnJaE7raVh8-69ipCnu6uFk8vJI/edit#slide=id.g128d8fde34_1_2'
+  -
+    title: 'Lost in Translation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Oliver Combe'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dihyu1a2bPc'
+    slides:
+      - 'https://docs.google.com/presentation/d/1l7kr_OdSxiobAVkTrMG-LGxqsJcj9Fd1zJTNpVXSu7A/edit#slide=id.g128d8fde34_1_2'
+  -
+    title: 'Step by Step Improving Startup Performance with Lazy Loading in Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos:
+      - 'youtube:8VLYjt81-fE'
+    slides:
+      - 'https://speakerdeck.com/manfredsteyer/improving-start-up-performance-with-lazy-loading-in-angular-3'
+  -
+    title: 'Angular Material 2 Workshop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Elad Bezalel '
+        twitter: Elad_Bezalel
+        github: null
+      -
+        name: ' Paul Gschwendtner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8hIBy2VCUSc'
+    slides: null
+  -
+    title: 'DiY Angular Compiler'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Uri Shaked'
+        twitter: UriShaked
+        github: urish
+    videos:
+      - 'youtube:QQ2plVD0gDI'
+    slides:
+      - 'https://goo.gl/6qlZIY'
+  -
+    title: 'Using Components in Angular 1.5'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:7eQbQN-Dzm0'
+    slides: null
+  -
+    title: 'Powering Content Driven Applications with the World’s Most Popular CMS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Roy Sivan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-PxlDHSgXQY'
+    slides:
+      - 'https://www.slideshare.net/royssivan/powering-content-driven-applications-with-the-worlds-most-popular-cms-ngconf'
+  -
+    title: 'Alexa, create a voice activated chat bot.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Terence Carrol'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rq23g0YoYGg'
+    slides: null
+  -
+    title: 'The day i met Steve'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Alyssa Nicoll'
+        twitter: AlyssaNicoll
+        github: null
+    videos:
+      - 'youtube:tfw3bhaDbsA'
+    slides: null
+  -
+    title: 'TypeScript: What’s New in 2.2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Daniel Rossenwasser'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0Q1lQKE2qbI'
+    slides: null
+  -
+    title: 'Voice User Interfaces with Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Jeremy Wilken'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Exol_iDLxbA'
+    slides:
+      - 'https://speakerdeck.com/gnomeontherun/voice-activated-ui-ngconf-2017'
+  -
+    title: 'Firebase/Cloud Functions Workshop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:QVAkTFiTr34'
+    slides: null
+  -
+    title: 'PrimeNG: Native UI Components for Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-06 00:00'
+    speakers:
+      -
+        name: 'Kito Mann'
+        twitter: null
+        github: null
+    videos: null
+    slides:
+      - 'http://virtua.tech/slides/primeng'
+  -
+    title: 'Keynote - 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-07 00:00'
+    speakers:
+      -
+        name: 'Brad Green '
+        twitter: bradlygreen
+        github: null
+      -
+        name: 'Rob Wormald'
+        twitter: robwormald
+        github: null
+    videos:
+      - 'youtube:lOOyxwADTjI'
+    slides:
+      - 'https://docs.google.com/presentation/d/1mBsDEF0XfvzKHA047nez8V5uH8JIE8A4gsIX0-w1WRY/edit#slide=id.g128d8fde34_1_2'
+  -
+    title: 'Angular Router Authentication & Authorization – REAL LIVE LIVE LIVE LIVE LIVE DEMO'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-07 00:00'
+    speakers:
+      -
+        name: 'Shai Reznik'
+        twitter: shai_reznik
+        github: null
+    videos:
+      - 'youtube:yjxOYsRkozQ'
+    slides: null
+  -
+    title: 'Upgrading Enterprise Angular Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-07 00:00'
+    speakers:
+      -
+        name: 'Victor Sevkin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:izpqQpD8RQ0'
+    slides: null
+  -
+    title: 'Building EmotiNg: The Real-Time Cross-Platform Service You’ve Always Wanted 👌'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-07 00:00'
+    speakers:
+      -
+        name: 'Jen Looper '
+        twitter: jenlooper
+        github: jlooper
+      -
+        name: ' Tara Manicsic '
+        twitter: Tzmanics
+        github: null
+      -
+        name: ' TJ Vantoll'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:j2S5OrMUj9g'
+    slides:
+      - 'http://slides.com/telerikdevrel/emoting#/'
+  -
+    title: 'Using the Angular Template Language Service'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-07 00:00'
+    speakers:
+      -
+        name: 'Chuck Jazdzewski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ez3R0Gi4z5A'
+    slides: null
+  -
+    title: 'Angular Form Validation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-07 00:00'
+    speakers:
+      -
+        name: 'Kara Erickson'
+        twitter: karaforthewin
+        github: null
+    videos:
+      - 'youtube:kM5QBOWrUVI'
+    slides:
+      - 'https://docs.google.com/presentation/d/1jn52fjrmvuXn5Jv2gP8ckETiKCW057Q63faMRfW3bkw/pub?start=false&loop=false&delayms=3000&slide=id.g128d8fde34_1_2'
+  -
+    title: 'Breaking The Eyes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-07 00:00'
+    speakers:
+      -
+        name: 'Uri Shaked'
+        twitter: UriShaked
+        github: urish
+    videos:
+      - 'youtube:MMxJe4W1P4A'
+    slides: null
+  -
+    title: 'Super TypeScript II Turbo – FP Remix'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-07 00:00'
+    speakers:
+      -
+        name: 'Sean May'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9oVKjZrgXmU'
+    slides: null
+  -
+    title: 'Reducing package size and complexity with NgModule'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-07 00:00'
+    speakers:
+      -
+        name: 'James Daniels '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Q6tfr23fS98'
+    slides: null
+  -
+    title: 'Addicted to AngularJS?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-07 00:00'
+    speakers:
+      -
+        name: 'Peter Becon Darwin '
+        twitter: null
+        github: null
+      -
+        name: ' George Kalpakas'
+        twitter: gkalpakas
+        github: null
+    videos:
+      - 'youtube:RyY8Brjs-Hg'
+    slides:
+      - 'https://docs.google.com/presentation/d/1enzWLYFCL9NzM19BhJp_Agax7RtoSk2lgs-3Sc4s7Yw/pub'
+  -
+    title: 'Angular Pre-Rendering for SEO, Speed, and Happy Users'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-07 00:00'
+    speakers:
+      -
+        name: 'Jeff Cross '
+        twitter: jeffbcross
+        github: jeffbcross
+    videos:
+      - 'youtube:oXt-d2qG2po'
+    slides:
+      - 'https://drive.google.com/file/d/0Bw6GBXhPGkUGbEZHbEYwaU1QaDQ/view'
+  -
+    title: 'Giving Bootstrap the Boot'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-07 00:00'
+    speakers:
+      -
+        name: 'Alyssa Nicoll'
+        twitter: AlyssaNicoll
+        github: null
+    videos:
+      - 'youtube:34qOyGf8LEo'
+    slides: null
+  -
+    title: 'Packaging Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-07 00:00'
+    speakers:
+      -
+        name: 'Jason Aden'
+        twitter: jasonaden1
+        github: null
+    videos:
+      - 'youtube:unICbsPGFIA'
+    slides:
+      - 'https://drive.google.com/file/d/0B7cAwqYk3HgnSTJKYnRYZ0dSdmM/view?usp=sharing'
+  -
+    title: 'Do More with Less'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-07 00:00'
+    speakers:
+      -
+        name: 'Doguhan Uluca'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Sd1aM8181kc'
+    slides:
+      - 'https://www.dropbox.com/s/iyaa468j035jm77/do-more-with-less-js.pdf?dl=0'
+  -
+    title: 'Create and Attend Meetups'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-07 00:00'
+    speakers:
+      -
+        name: 'Ken Snyder'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:siGPF6Eng5A'
+    slides: null
+  -
+    title: 'ngGirls Just Want to Have Fun'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-07 00:00'
+    speakers:
+      -
+        name: 'Shmuela Jacobs'
+        twitter: ShmuelaJ
+        github: shmool
+    videos:
+      - 'youtube:DTBCJ92FDUI'
+    slides: null
+  -
+    title: 'Firebase and Google Cloud Functions: Serverless Peanut Butter and Jelly'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-07 00:00'
+    speakers:
+      -
+        name: 'Bret McGowen'
+        twitter: BretMcG
+        github: null
+    videos:
+      - 'youtube:kG71Hg9cUhQ'
+    slides: null
+  -
+    title: 'Best Practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-07 00:00'
+    speakers:
+      -
+        name: 'Stephen Fluin'
+        twitter: stephenfluin
+        github: null
+    videos:
+      - 'youtube:hHNUohOPCCo'
+    slides:
+      - 'https://docs.google.com/presentation/d/1dlEE3JMmFtsb1FdFmxhj-vxEfWPfDVp5pXf-YbqAj8o/preview?slide=id.p'
+  -
+    title: 'Angular Team Panel - ngPanel - Q/A'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2017-04-07 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:rboo-s9yq8s'
+    slides: null

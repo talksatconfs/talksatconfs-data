@@ -1,0 +1,912 @@
+name: 'ng-conf 2019'
+description: ''
+location: ''
+venue: ''
+city: 'Salt Lake City, Utah'
+country: 'United States'
+link: 'https://2019.ng-conf.org/'
+playlist: 'youtube:PLOETEcp3DkCpimylVKTDe968yNmNIajlR'
+from_date: '2019-05-01'
+to_date: '2019-05-03'
+tags: ''
+talks:
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-03 00:00'
+    speakers:
+      -
+        name: 'Stephen Fluin'
+        twitter: stephenfluin
+        github: null
+      -
+        name: 'Misko Hevery'
+        twitter: mhevery
+        github: null
+    videos:
+      - 'youtube:-kYtw3CSe6s'
+    slides:
+      - 'http://g.co/ng/ng-conf-2019-keynote1'
+      - 'http://bit.ly/angular-rd-report'
+  -
+    title: 'The Control Value Accessor – Like a Wormhole in Space for Your Forms, Only More Useful!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-01 00:00'
+    speakers:
+      -
+        name: 'Jennifer Wadella'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kVbLSN0AW-Y'
+    slides:
+      - 'https://tehfedaykin.github.io/WormholesandCVAs/'
+  -
+    title: 'Building Sub States w/ NgRx Selectors'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-01 00:00'
+    speakers:
+      -
+        name: 'Brandon Roberts'
+        twitter: brandontroberts
+        github: null
+    videos:
+      - 'youtube:RXuSDiLmcN0'
+    slides: null
+  -
+    title: 'Web Components with Angular Elements: Beyond the Basics'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-01 00:00'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos:
+      - 'youtube:E9i3YBFxSSE'
+    slides:
+      - 'https://speakerdeck.com/manfredsteyer/web-components-with-angular-elements-beyond-the-basics-at-ngconf-2019'
+  -
+    title: 'Angular Console – Architecting A Cross Platform Application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-01 00:00'
+    speakers:
+      -
+        name: 'Dan Muller'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YzkMFFkzrls'
+    slides:
+      - 'https://docs.google.com/presentation/d/1TrPQ5Gq8DFeRXH_h2E9RsNZ6NUsyET5d0B_eQ4TZzcE'
+  -
+    title: 'A is for Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-01 00:00'
+    speakers:
+      -
+        name: 'Jo Hanna Pearce'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lgGpU_o8Kqw'
+    slides: null
+  -
+    title: 'Convince Your Boss to Upgrade in 5 Minutes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-01 00:00'
+    speakers:
+      -
+        name: ' Sam Julien'
+        twitter: samjulien
+        github: null
+    videos:
+      - 'youtube:VS2qZe6ewZA'
+    slides:
+      - 'https://speakerdeck.com/samjulien/convince-your-boss-to-upgrade-in-5-minutes-ng-conf-2019'
+  -
+    title: 'Black Holes and Angular Interceptors'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-01 00:00'
+    speakers:
+      -
+        name: 'Luis Aviles'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:peFWJYFvfQU'
+    slides:
+      - 'http://luixaviles.com/ngconf-2019'
+  -
+    title: 'Why you want humans to establish a self-sustaining second home on Mars as soon as possible and exactly how we’ll do that.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-01 00:00'
+    speakers:
+      -
+        name: 'Stephen Petranek'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_Up7GU-F9zc'
+    slides: null
+  -
+    title: 'Angular for Enterprise'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-01 00:00'
+    speakers:
+      -
+        name: 'Stephen Fluin'
+        twitter: stephenfluin
+        github: null
+    videos:
+      - 'youtube:4d1HYKL2tt4'
+    slides: null
+  -
+    title: 'IoT for Introverts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-01 00:00'
+    speakers:
+      -
+        name: 'Chloe Condon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_K30eBabb3A'
+    slides: null
+  -
+    title: 'These ARE the Angular tips you are looking for'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-01 00:00'
+    speakers:
+      -
+        name: 'John Papa'
+        twitter: john_papa
+        github: johnpapa
+    videos:
+      - 'youtube:2ZFgcTOcnUg'
+    slides:
+      - 'https://slides.com/johnpapa/ngconf2019-3-angular-tips#/'
+  -
+    title: 'Tools for Fast Angular Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-01 00:00'
+    speakers:
+      -
+        name: ' Minko Gechev'
+        twitter: mgechev
+        github: null
+    videos:
+      - 'youtube:5VlBaaXO6ok'
+    slides:
+      - 'https://speakerdeck.com/mgechev/tools-for-fast-angular-applications'
+  -
+    title: 'Not Every App is a SPA'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-01 00:00'
+    speakers:
+      -
+        name: 'Rob Wormald'
+        twitter: robwormald
+        github: null
+    videos:
+      - 'youtube:JX5GGu_7JKc'
+    slides: null
+  -
+    title: 'The Future of Machine Learning & Javascript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-01 00:00'
+    speakers:
+      -
+        name: 'Asim Hussain'
+        twitter: jawache
+        github: jawache
+    videos:
+      - 'youtube:hfSjaChrGpI'
+    slides: null
+  -
+    title: 'Data Composition with RxJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-01 00:00'
+    speakers:
+      -
+        name: 'Deborah Kurata'
+        twitter: DeborahKurata
+        github: null
+    videos:
+      - 'youtube:Z76QlSpYcck'
+    slides:
+      - 'http://bit.ly/deborahk-ngconf2019'
+  -
+    title: 'What if your dev environment was a PWA? 🤯'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-01 00:00'
+    speakers:
+      -
+        name: 'Eric Simons'
+        twitter: ericsimons40
+        github: null
+    videos:
+      - 'youtube:i01V52I56TA'
+    slides: null
+  -
+    title: 'Productivity Revolution: Angular Principles in Node'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'Kamil Mysliwiec'
+        twitter: kammysliwiec
+        github: kamilmysliwiec
+    videos:
+      - 'youtube:RSIX4Olo2Vg'
+    slides:
+      - 'https://speakerdeck.com/kamilmysliwiec/productivity-revolution-angular-principles-in-node'
+  -
+    title: 'ng generate universal, now what?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'James Daniels '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:DZ6J9mGpEZ8'
+    slides:
+      - 'https://docs.google.com/presentation/d/1jvUwdSFSHqVoVqfRdEt6QfqUXkXytzqm4xF8tGCOVwI/edit#slide=id.g56dd87dd51_0_0'
+  -
+    title: 'Can you imagine a future without zones?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'Maxim Koretskyi'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TRfDXG98_Qg'
+    slides: null
+  -
+    title: 'RxJS Schedulers form outer space – performance, animations, asynchrony'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'Michael Hladky'
+        twitter: Michael_Hladky
+        github: null
+    videos:
+      - 'youtube:wfSKE7GtKhU'
+    slides:
+      - 'http://bit.ly/scheduling-in-RxJS-v7_ngConf'
+  -
+    title: 'The Forms Awakens'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: '  Sander Elias '
+        twitter: esosanderelias
+        github: null
+    videos:
+      - 'youtube:JCjyjdlaoaI'
+    slides:
+      - 'https://docs.google.com/presentation/d/1HyoAuf9_kiBp9B-9mTHPuTTzhgRvHBR5V-AQs81oXNU/edit#slide=id.p'
+  -
+    title: 'Use decorator to beat ngOnChanges – Decoupling ngOnChanges'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'Kern Zhao'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rVDMmlCRvkg'
+    slides: null
+  -
+    title: 'MAAS: Mind as a Service'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'Alex Castillo'
+        twitter: castillo__io
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Schematics: an untapped frontier'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: '  Brian Love'
+        twitter: null
+        github: null
+      -
+        name: ' Kevin Schuchard'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FeZ40kXS0OI'
+    slides:
+      - 'https://docs.google.com/presentation/d/156wl847PwJE5kUQ4PiiS8Qw74tI8Fpj2q3hQTrg8e4U/edit?usp=sharing'
+  -
+    title: 'Personalization, Performance, and Probably Dynamic Content'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'Jeff Cross '
+        twitter: jeffbcross
+        github: jeffbcross
+      -
+        name: ' Kaitlyn Ekdahl'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fOsLM8tPcDQ'
+    slides: null
+  -
+    title: 'Subjecting State to Good Behavior'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'Kim Maida '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XuRpn8KXw6g'
+    slides:
+      - 'https://cloud.kmaida.io/KimMaida-SubjectingStateToGoodBehavior.pdf'
+  -
+    title: 'Crossing Across Platforms'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'Sani Yusuf '
+        twitter: haibridco
+        github: null
+    videos:
+      - 'youtube:7_k4JvnZ88c'
+    slides: null
+  -
+    title: 'A Schematic Odyssey'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: '  Brian Love'
+        twitter: null
+        github: null
+      -
+        name: ' Kevin Schuchard'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:X06tuCohJPQ'
+    slides: null
+  -
+    title: 'Testing is a Black hole of time and effort: Avoiding the suck using Cypress'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'Jesse Sanders '
+        twitter: JesseS_BrieBug
+        github: null
+      -
+        name: ' Joe Eames'
+        twitter: josepheames
+        github: null
+    videos:
+      - 'youtube:GH9Dvo_BYkk'
+    slides: null
+  -
+    title: 'Turning an Aircraft Carrier: From a Monolithic angular.js App to Scalable, Federated Angular Development with Elements, the CDK, Schematics, and an Nx-Powered Monorepo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'Dylan Johnson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WFzph5uTdmw'
+    slides: null
+  -
+    title: 'Deep Dive – Angular Universal in the cloud with Google’s latest Serverless technology'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'Jason Dobry'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-6kF824823o'
+    slides: null
+  -
+    title: 'How to be a speaker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'John Papa'
+        twitter: john_papa
+        github: johnpapa
+      -
+        name: 'Kim Maida '
+        twitter: null
+        github: null
+      -
+        name: ' Nicole Oliver'
+        twitter: nixallover
+        github: null
+      -
+        name: ' Joe Eames'
+        twitter: josepheames
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Crash Course: Angular and ngRx'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'Aspen Payton'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:272KDxSIQBw'
+    slides:
+      - 'https://bit.ly/2GV8XY9'
+  -
+    title: 'RxJS Advanced Patterns – Operate Heavily Dynamic UI’s'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'Michael Hladky'
+        twitter: Michael_Hladky
+        github: null
+    videos:
+      - 'youtube:XKfhGntZROQ'
+    slides: null
+  -
+    title: 'Reactive Forms DEmistified'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'Sani Yusuf '
+        twitter: haibridco
+        github: null
+      -
+        name: 'Katerina Skroumpelou'
+        twitter: psybercity
+        github: null
+    videos:
+      - 'youtube:Rq4vjSkidPk'
+    slides:
+      - 'http://bit.ly/2GQhxGo'
+  -
+    title: 'Amazing Backends for Angular Devs with NestJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: ' Ely Lucas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XkEA8L_4IUY'
+    slides: null
+  -
+    title: 'Bazel Office Hours'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'Alex Eagle'
+        twitter: null
+        github: null
+      -
+        name: ' Minko Gechev'
+        twitter: mgechev
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A Deep Look at Angular Elements'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos:
+      - 'youtube:_QU0mpyF7bQ'
+    slides:
+      - 'https://speakerdeck.com/manfredsteyer/a-deep-look-at-angular-elements'
+  -
+    title: 'Cross Platform with Angular and Ionic 4'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: '  Mike Hartington'
+        twitter: mhartington
+        github: mhartington
+    videos:
+      - 'youtube:TqdOBkY0ZFg'
+    slides: null
+  -
+    title: 'Blast Off with Angular Material'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'Rachel Noccioli'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PPhkGNOgaNM'
+    slides:
+      - 'https://drive.google.com/a/oasisdigital.com/file/d/1eTHOtAWx48WVdP0jzXNg4LkKDnPm8ufa/view?usp=drivesdk'
+  -
+    title: 'Angular and CSS Grid: Get ready to fall in love'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'Bill Odom'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:lh6n0JxXD_g'
+    slides:
+      - 'https://github.com/wnodom/spacewalk'
+  -
+    title: 'It’s just a compliment after all!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-02 00:00'
+    speakers:
+      -
+        name: 'Katerina Skroumpelou'
+        twitter: psybercity
+        github: null
+    videos:
+      - 'youtube:6RobEjMnHtQ'
+    slides: null
+  -
+    title: 'Wrapping it up with Decorators'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-03 00:00'
+    speakers:
+      -
+        name: ' Nicole Oliver'
+        twitter: nixallover
+        github: null
+    videos:
+      - 'youtube:Guvd5BYocYg'
+    slides:
+      - 'https://slides.com/nixallover/decorators-ngconf2019#/'
+  -
+    title: 'Astronomical NgRx Anti-patterns for Job Security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-03 00:00'
+    speakers:
+      -
+        name: 'Reid Villeneuve'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:pY49sCqbDQE'
+    slides:
+      - 'https://docs.google.com/presentation/d/1VsgupNTuuupljQJRqDqUsDRhsFwipA9f3EyP872WnwQ/edit?usp=sharing'
+  -
+    title: 'The CDK is the coolest thing you are not using'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-03 00:00'
+    speakers:
+      -
+        name: 'Jeremy Elbourn '
+        twitter: jelbourn
+        github: null
+    videos:
+      - 'youtube:4EXQKP-Sihw'
+    slides:
+      - 'http://g.co/ng/conf19-components-slides'
+  -
+    title: 'Mastering the Subject: Communication Options in RxJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-03 00:00'
+    speakers:
+      -
+        name: ' Dan Wahlin'
+        twitter: DanWahlin
+        github: null
+    videos:
+      - 'youtube:_q-HL9YX_pk'
+    slides:
+      - 'https://www.dropbox.com/s/sfqyjksou18b399/Mastering%20the%20Subject%20-%20Communication%20Options%20in%20RxJS.pdf?dl=0'
+  -
+    title: 'Why we teach Angular to our Computer Science Masters’ students?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-03 00:00'
+    speakers:
+      -
+        name: 'Asaad Saad'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:YilT45_-esk'
+    slides:
+      - 'http://tiny.cc/ngconf2019'
+  -
+    title: 'How tech communities can change your life'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-03 00:00'
+    speakers:
+      -
+        name: 'Melina Mejía Bedoya'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:piVDXDefsts'
+    slides:
+      - 'https://docs.google.com/presentation/d/1d_I55TduB6jy6w71ck3yuUBzYZMNLO6cV__IkLuCaV4/edit?usp=drivesdk'
+  -
+    title: 'The Bazel Opt-in Preview is Here!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-03 00:00'
+    speakers:
+      -
+        name: 'Alex Eagle'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:J1lnp-nU4wM'
+    slides: null
+  -
+    title: 'UFO: Un-identified Forgettable Operators – 20 operators in 20 minutes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-03 00:00'
+    speakers:
+      -
+        name: 'Mike Brocchi'
+        twitter: Brocco
+        github: null
+      -
+        name: ' John Niedzwiecki'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ak3MvMn8u18'
+    slides:
+      - 'https://drive.google.com/file/d/1zP3PIQ_sXxmdnLypQy2q3BfP7IzmOu0l/view'
+  -
+    title: 'Angular Elements Make The Best React Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-03 00:00'
+    speakers:
+      -
+        name: 'Brad McAlister '
+        twitter: null
+        github: null
+      -
+        name: ' Ryan Chenkie'
+        twitter: ryanchenkie
+        github: null
+    videos:
+      - 'youtube:tHclHHs7nmo'
+    slides:
+      - 'https://slides.com/ryanchenkie/angular-elements-make-the-best-react-components?token=cd8vfMFQ'
+  -
+    title: 'Thinking Reactively: Most Difficult'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-03 00:00'
+    speakers:
+      -
+        name: 'Mike Pearson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-4cwkHNguXE'
+    slides: null
+  -
+    title: 'How To Build Your Own RxJS Operators'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-03 00:00'
+    speakers:
+      -
+        name: ' Ben Lesh'
+        twitter: benlesh
+        github: null
+    videos:
+      - 'youtube:E6R_1QB8q4o'
+    slides: null
+  -
+    title: 'RxJS Updates'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-03 00:00'
+    speakers:
+      -
+        name: 'Tracy Lee'
+        twitter: ladyleet
+        github: ladyleet
+    videos: null
+    slides: null
+  -
+    title: 'Appetite for production: build, scale, and monitor your app in the cloud with Google’s newest serverless tools'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-03 00:00'
+    speakers:
+      -
+        name: 'Bret McGowen'
+        twitter: BretMcG
+        github: null
+    videos:
+      - 'youtube:WvVLfuCGuWU'
+    slides: null
+  -
+    title: 'Before NgRx: Superpowers with RxJS + Facades'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-03 00:00'
+    speakers:
+      -
+        name: 'Thomas Burleson'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:h-F5uYM69a4'
+    slides:
+      - 'http://bit.ly/2VgrxCX'
+  -
+    title: 'For Flux Sake'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-03 00:00'
+    speakers:
+      -
+        name: 'Aaron Frost '
+        twitter: null
+        github: null
+      -
+        name: ' Chris Noring'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MlQOdTutrro'
+    slides: null
+  -
+    title: 'Landing at Ground Control (Angular Team Panel + Closing Remarks)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-05-03 00:00'
+    speakers: {  }
+    videos:
+      - 'youtube:PjHIqx0w4do'
+    slides: null

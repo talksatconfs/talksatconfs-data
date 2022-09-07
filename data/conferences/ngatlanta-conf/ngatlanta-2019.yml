@@ -46,7 +46,7 @@ talks:
     talk_date: '2019-01-10 10:00'
     speakers:
       -
-        name: 'Nicole Oliver'
+        name: ' Nicole Oliver'
         twitter: nixallover
         github: null
     videos:
@@ -102,7 +102,7 @@ talks:
     talk_date: '2019-01-10 14:00'
     speakers:
       -
-        name: 'Mike Hartington'
+        name: '  Mike Hartington'
         twitter: mhartington
         github: mhartington
     videos:
@@ -228,7 +228,7 @@ talks:
     talk_date: '2019-01-11 11:30'
     speakers:
       -
-        name: 'Kamil Myśliwiec'
+        name: 'Kamil Mysliwiec'
         twitter: kammysliwiec
         github: kamilmysliwiec
     videos:

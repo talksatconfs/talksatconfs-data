@@ -1,0 +1,679 @@
+name: 'ng-conf Hardwired 2020'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: ''
+from_date: '2020-04-01'
+to_date: '2020-04-03'
+tags: ''
+talks:
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-03 00:00'
+    speakers:
+      -
+        name: ' Igor Minar'
+        twitter: IgorMinar
+        github: null
+    videos:
+      - 'youtube:HuOHJYAkEFI'
+    slides: null
+  -
+    title: 'Http Interceptors: The Room Where It Happens'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-01 00:00'
+    speakers:
+      -
+        name: 'Ward Bell'
+        twitter: wardbell
+        github: null
+    videos:
+      - 'youtube:BVzNDETj-CA'
+    slides: null
+  -
+    title: 'How Ivy will improve your application architecture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-01 00:00'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos:
+      - 'youtube:6jqIw4dBpZk'
+    slides: null
+  -
+    title: 'Deep dive into CLI Builders'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-01 00:00'
+    speakers:
+      -
+        name: '  Mike Hartington'
+        twitter: mhartington
+        github: mhartington
+    videos:
+      - 'youtube:HyvZ26ofTvY'
+    slides: null
+  -
+    title: 'Session #1 Q&A'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-01 00:00'
+    speakers:
+      -
+        name: 'Ward Bell'
+        twitter: wardbell
+        github: null
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+      -
+        name: '  Mike Hartington'
+        twitter: mhartington
+        github: mhartington
+    videos:
+      - 'youtube:zhffyWQ7z3U'
+    slides: null
+  -
+    title: 'A Philosophy for Designing Components with Composition'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-01 00:00'
+    speakers:
+      -
+        name: 'Jeremy Elbourn '
+        twitter: jelbourn
+        github: null
+    videos:
+      - 'youtube:oHTm5LYkgEY'
+    slides: null
+  -
+    title: 'The Makings of Scully'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-01 00:00'
+    speakers:
+      -
+        name: '  Sander Elias '
+        twitter: esosanderelias
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Why Should You Care About RxJS Higher-order Mapping Operators?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-01 00:00'
+    speakers:
+      -
+        name: 'Deborah Kurata'
+        twitter: DeborahKurata
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Phantom of the Template Error'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-01 00:00'
+    speakers:
+      -
+        name: '  Brian Love'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_8gx2QsuI74'
+    slides: null
+  -
+    title: 'Session #2 Q&A'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-01 00:00'
+    speakers:
+      -
+        name: 'Jeremy Elbourn '
+        twitter: jelbourn
+        github: null
+      -
+        name: '  Sander Elias '
+        twitter: esosanderelias
+        github: null
+      -
+        name: 'Deborah Kurata'
+        twitter: DeborahKurata
+        github: null
+      -
+        name: '  Brian Love'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BjUmpzXg8Fc'
+    slides: null
+  -
+    title: 'Resilient Angular Testing – Jaw dropping magic tricks by the magnificent Shairezniko'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-01 00:00'
+    speakers:
+      -
+        name: 'Shai Reznik'
+        twitter: shai_reznik
+        github: null
+    videos:
+      - 'youtube:ufHfs67xtXg'
+    slides: null
+  -
+    title: 'Preload Strategies: Step in Time, Step in Time!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-01 00:00'
+    speakers:
+      -
+        name: 'John Papa'
+        twitter: john_papa
+        github: johnpapa
+    videos:
+      - 'youtube:rr5whHCdVCY'
+    slides: null
+  -
+    title: 'Common Challenges facing Angular Enterprises'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-01 00:00'
+    speakers:
+      -
+        name: 'Stephen Fluin'
+        twitter: stephenfluin
+        github: null
+    videos:
+      - 'youtube:rMOufrAXUog'
+    slides: null
+  -
+    title: 'Session #3 Q&A'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-01 00:00'
+    speakers:
+      -
+        name: 'Shai Reznik'
+        twitter: shai_reznik
+        github: null
+      -
+        name: 'John Papa'
+        twitter: john_papa
+        github: johnpapa
+      -
+        name: 'Stephen Fluin'
+        twitter: stephenfluin
+        github: null
+    videos:
+      - 'youtube:kAX5LaulE_w'
+    slides: null
+  -
+    title: 'Domain-Driven Design and Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-02 00:00'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos:
+      - 'youtube:N1JZNHep8YQ'
+    slides: null
+  -
+    title: 'Stronger Type-Checking in Templates with Ivy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-02 00:00'
+    speakers:
+      -
+        name: 'Alex Rickabaugh'
+        twitter: synalx
+        github: null
+    videos:
+      - 'youtube:7yge1cHFExI'
+    slides: null
+  -
+    title: 'Facing the music when millions of daily users hit Delta.com after every release'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-02 00:00'
+    speakers:
+      -
+        name: 'Vishal Kumar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Getting through the awkwardness of networking'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-02 00:00'
+    speakers:
+      -
+        name: '  Wesley Faulkner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Bi7I2X5l2c0'
+    slides: null
+  -
+    title: 'Session #4 Q&A'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-02 00:00'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+      -
+        name: 'Alex Rickabaugh'
+        twitter: synalx
+        github: null
+      -
+        name: 'Vishal Kumar'
+        twitter: null
+        github: null
+      -
+        name: '  Wesley Faulkner'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zZLflCvDXzA'
+    slides: null
+  -
+    title: 'From Google Analytics to Universal deploy schematics!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-02 00:00'
+    speakers:
+      -
+        name: 'James Daniels '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:aMicMiHMrXA'
+    slides: null
+  -
+    title: 'Revisiting a Reactive Router with Ivy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-02 00:00'
+    speakers:
+      -
+        name: 'Brandon Roberts'
+        twitter: brandontroberts
+        github: null
+    videos:
+      - 'youtube:Nwp7IckoHxI'
+    slides: null
+  -
+    title: 'A Journey into the World Of Machine Learning with TensorFlow.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-02 00:00'
+    speakers:
+      -
+        name: '  Aaron Ma'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:zIbeUR0eAvg'
+    slides: null
+  -
+    title: 'Session #5 Q&A'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-02 00:00'
+    speakers:
+      -
+        name: 'James Daniels '
+        twitter: null
+        github: null
+      -
+        name: 'Brandon Roberts'
+        twitter: brandontroberts
+        github: null
+      -
+        name: '  Aaron Ma'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:41zksebuVbc'
+    slides: null
+  -
+    title: 'Bazel + Angular Today'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-02 00:00'
+    speakers:
+      -
+        name: 'Jorge Cano '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vTdZWZGYsN0'
+    slides: null
+  -
+    title: 'Debugging Like a Boss with Angular 9'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-02 00:00'
+    speakers:
+      -
+        name: '  Anthony Humes '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nK7gi_c_zrw'
+    slides: null
+  -
+    title: 'INTO THE UNKNOWN'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-02 00:00'
+    speakers:
+      -
+        name: 'Craig Spence'
+        twitter: phenomnominal
+        github: null
+    videos:
+      - 'youtube:W2-Djx-brxo'
+    slides: null
+  -
+    title: 'A Whole New Way to Build Ivy Apps ⚡️'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-02 00:00'
+    speakers:
+      -
+        name: 'Eric Simons'
+        twitter: ericsimons40
+        github: null
+    videos:
+      - 'youtube:oaenxcJJArg'
+    slides: null
+  -
+    title: 'Session #6 Q&A'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-02 00:00'
+    speakers:
+      -
+        name: 'Jorge Cano '
+        twitter: null
+        github: null
+      -
+        name: '  Anthony Humes '
+        twitter: null
+        github: null
+      -
+        name: 'Craig Spence'
+        twitter: phenomnominal
+        github: null
+      -
+        name: 'Eric Simons'
+        twitter: ericsimons40
+        github: null
+    videos:
+      - 'youtube:dxSYPa53k48'
+    slides: null
+  -
+    title: 'The Control Container and I'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-03 00:00'
+    speakers:
+      -
+        name: 'Jennifer Wadella'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mShzv9QE1Qc'
+    slides: null
+  -
+    title: 'The Role of Effects in NgRx Authentication'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-03 00:00'
+    speakers:
+      -
+        name: ' Sam Julien'
+        twitter: samjulien
+        github: null
+    videos:
+      - 'youtube:SFXaCADPkcE'
+    slides: null
+  -
+    title: 'Stepping Up: Observable Services to Observable Store'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-03 00:00'
+    speakers:
+      -
+        name: ' Dan Wahlin'
+        twitter: DanWahlin
+        github: null
+    videos:
+      - 'youtube:jn4AH5pGWhA'
+    slides: null
+  -
+    title: 'Session #7 Q&A'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-03 00:00'
+    speakers:
+      -
+        name: 'Jennifer Wadella'
+        twitter: null
+        github: null
+      -
+        name: ' Sam Julien'
+        twitter: samjulien
+        github: null
+      -
+        name: ' Dan Wahlin'
+        twitter: DanWahlin
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The best 20 minute Angular & Firebase video you’ll ever see'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-03 00:00'
+    speakers:
+      -
+        name: 'David East '
+        twitter: _davideast
+        github: null
+    videos:
+      - 'youtube:NyHIFofBkGo'
+    slides: null
+  -
+    title: 'State of RxJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-03 00:00'
+    speakers:
+      -
+        name: ' Ben Lesh'
+        twitter: benlesh
+        github: null
+    videos:
+      - 'youtube:OC6g4yFsw0w'
+    slides: null
+  -
+    title: 'The State of NgRx'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-03 00:00'
+    speakers:
+      -
+        name: 'Brandon Roberts'
+        twitter: brandontroberts
+        github: null
+      -
+        name: ' Mike Ryan'
+        twitter: MikeRyanDev
+        github: null
+    videos:
+      - 'youtube:PIbyYVSFbcw'
+    slides: null
+  -
+    title: 'Session #8 Q&A'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-03 00:00'
+    speakers:
+      -
+        name: 'David East '
+        twitter: _davideast
+        github: null
+      -
+        name: ' Ben Lesh'
+        twitter: benlesh
+        github: null
+      -
+        name: 'Brandon Roberts'
+        twitter: brandontroberts
+        github: null
+      -
+        name: ' Mike Ryan'
+        twitter: MikeRyanDev
+        github: null
+    videos:
+      - 'youtube:s7BxCijKrRQ'
+    slides: null
+  -
+    title: 'Angular Universal & Our New Prerenderer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-03 00:00'
+    speakers:
+      -
+        name: 'Wagner Maciel '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BmWYmoMeprU'
+    slides: null
+  -
+    title: 'Angular Language Service: What’s New'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-03 00:00'
+    speakers:
+      -
+        name: '  Keen Yee Liau '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Non-Server Side Story: When JAMstack met Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-03 00:00'
+    speakers:
+      -
+        name: '  Divya Tagtachian '
+        twitter: null
+        github: null
+      -
+        name: '  Tara Z. Manicsic'
+        twitter: tzmanics
+        github: tzmanics
+    videos: null
+    slides: null
+  -
+    title: 'Session #9 Q&A'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-04-03 00:00'
+    speakers:
+      -
+        name: 'Wagner Maciel '
+        twitter: null
+        github: null
+      -
+        name: '  Keen Yee Liau '
+        twitter: null
+        github: null
+      -
+        name: '  Divya Tagtachian '
+        twitter: null
+        github: null
+      -
+        name: '  Tara Z. Manicsic'
+        twitter: tzmanics
+        github: tzmanics
+    videos: null
+    slides: null
+  -
+    title: 'Farewell Entry Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Yvonne Allen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Caxqi75y-SA'
+    slides: null

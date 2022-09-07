@@ -1,0 +1,869 @@
+name: 'ng-conf 2022'
+description: ''
+location: ''
+venue: 'Grand America Hotel'
+city: 'Salt Lake City, Utah'
+country: 'United States'
+link: 'https://2022.ng-conf.org/'
+playlist: 'youtube:PLOETEcp3DkCpNBWRSCq82AK2LTDfR2zDf'
+from_date: '2022-08-31'
+to_date: '2022-09-02'
+tags: ''
+talks:
+  -
+    title: 'ANGULAR FOR ARCHITECTS DAY 1/2: DATA PATTERNS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-29 09:30'
+    speakers:
+      -
+        name: 'John Papa'
+        twitter: john_papa
+        github: johnpapa
+      -
+        name: ' Dan Wahlin'
+        twitter: DanWahlin
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'ENTERPRISE MICROFRONTENDS & MODULE FEDERATION'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-29 10:00'
+    speakers:
+      -
+        name: 'Owen Mecham'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'NX WORKSHOP: BUILD A BOARD GAME STORE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-29 10:00'
+    speakers:
+      -
+        name: 'Zack DeRose '
+        twitter: null
+        github: null
+      -
+        name: ' Philip Fulcher'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'END-TO-END TESTING WEB APPLICATIONS USING CYPRESS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-29 10:00'
+    speakers:
+      -
+        name: 'Gleb Bahmutov, PhD'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'ANGULAR FOR ARCHITECTS DAY 2/2: COMPONENT AND ROUTING PATTERNS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-30 09:30'
+    speakers:
+      -
+        name: 'John Papa'
+        twitter: john_papa
+        github: johnpapa
+      -
+        name: ' Dan Wahlin'
+        twitter: DanWahlin
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'ADVANCED RXJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-30 09:30'
+    speakers:
+      -
+        name: 'Brian F Love '
+        twitter: null
+        github: null
+      -
+        name: ' Mike Ryan'
+        twitter: MikeRyanDev
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'BUILDING ANGULAR CI/CD SERVERLESS PIPELINES WITH AWS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-30 10:00'
+    speakers:
+      -
+        name: 'Lara Newsom'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PERFORMANCE AT SCALE HIGH-SPEED ANGULAR APPLICATIONS ON ANY DEVICE'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-30 10:00'
+    speakers:
+      -
+        name: 'Michael Hladky'
+        twitter: Michael_Hladky
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TAILWIND & ANGULAR — THE UI SAGA CONTINUES'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-30 10:00'
+    speakers:
+      -
+        name: 'Alyssa Nicoll'
+        twitter: AlyssaNicoll
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'FREE WORKSHOP - Building Fast WebApplications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-30 20:00'
+    speakers:
+      -
+        name: 'Misko Hevery'
+        twitter: mhevery
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Angular+ Show Live Recording'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-30 20:00'
+    speakers:
+      -
+        name: 'Brian F Love '
+        twitter: null
+        github: null
+      -
+        name: 'Jennifer Wadella'
+        twitter: null
+        github: null
+      -
+        name: 'Lara Newsom'
+        twitter: null
+        github: null
+      -
+        name: ' Nicole Oliver'
+        twitter: nixallover
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Angular Team Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-31 09:14'
+    speakers:
+      -
+        name: 'Sarah Drasner '
+        twitter: sarah_edo
+        github: sdras
+      -
+        name: ' Madleina Scheidegger '
+        twitter: null
+        github: null
+      -
+        name: ' Minko Gechev'
+        twitter: mgechev
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Tell Tale Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-31 10:08'
+    speakers:
+      -
+        name: 'Lara Newsom'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'There’s safety in Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-31 10:32'
+    speakers:
+      -
+        name: 'Alisa Duncan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'OAyDaBy AAmn=/y SAinRe9L TArT, wait what?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-31 11:06'
+    speakers:
+      -
+        name: 'Joey Perrott '
+        twitter: null
+        github: null
+      -
+        name: ' Jessica Janiuk'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Just One More Change: A Developer's Story for Pushing Angular to the Cloud"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-31 11:32'
+    speakers:
+      -
+        name: 'John Papa'
+        twitter: john_papa
+        github: johnpapa
+    videos: null
+    slides: null
+  -
+    title: 'Angular TDD Like You Never Seen Before'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-31 11:56'
+    speakers:
+      -
+        name: 'Shai Reznik'
+        twitter: shai_reznik
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Quick context about host-context()'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-31 14:06'
+    speakers:
+      -
+        name: 'Ankita Sood'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TSLint to ESLint in 5 minutes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-31 14:12'
+    speakers:
+      -
+        name: 'James Henry'
+        twitter: MrJamesHenry
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Migrating From Protractor To Cypress E2E in Under 5 Minutes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-31 14:18'
+    speakers:
+      -
+        name: 'Jordan Powell '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'NgRx Feature Creator'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-31 14:24'
+    speakers:
+      -
+        name: 'Marko Stanimirović'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'RxWut?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-31 14:36'
+    speakers:
+      -
+        name: 'Kim Maida '
+        twitter: null
+        github: null
+      -
+        name: ' Sam Julien'
+        twitter: samjulien
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Standalone Components: The Motivation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-31 15:00'
+    speakers:
+      -
+        name: 'Pawel Kozlowski'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Partially Zoneless - Performance tuning without big bang refactorings'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-31 15:26'
+    speakers:
+      -
+        name: 'Michael Hladky'
+        twitter: Michael_Hladky
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'State Management Techniques and Family Therapy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-31 15:50'
+    speakers:
+      -
+        name: 'Kate Sky'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Shit, our site is down! Let’s build a culture of reliability.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-31 16:46'
+    speakers:
+      -
+        name: 'Brian F Love '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Angular: A design review 10 years later'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-08-31 17:10'
+    speakers:
+      -
+        name: 'Jeremy Elbourn '
+        twitter: jelbourn
+        github: null
+      -
+        name: 'Alex Rickabaugh'
+        twitter: synalx
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Greatest Mystery is Realtime with Angular, NestJS, and websockets!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 09:00'
+    speakers:
+      -
+        name: ' Ely Lucas'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Become a content projection artist'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 10:00'
+    speakers:
+      -
+        name: 'Alain Chautard'
+        twitter: AlainChautard
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Angular-based Micro Frontends with Module Federation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 11:00'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos: null
+    slides: null
+  -
+    title: 'LeTS Play A Game'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 12:00'
+    speakers:
+      -
+        name: 'Craig Spence'
+        twitter: phenomnominal
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'State Management at Scale w/NgRx'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 12:25'
+    speakers:
+      -
+        name: 'Brandon Roberts'
+        twitter: brandontroberts
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Why are web-applications slow, and what to do about it?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 12:50'
+    speakers:
+      -
+        name: 'Misko Hevery'
+        twitter: mhevery
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Angular Community Feud Game Show'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 13:30'
+    speakers:
+      -
+        name: 'Mark Thompson '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Future-Proof Your Company by Effectively Scaling Engineering Teams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 14:30'
+    speakers:
+      -
+        name: 'Jennifer Wadella'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'D & D Actual Play Viewing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 14:30'
+    speakers:
+      -
+        name: 'Jeremy Elbourne'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Simplifying deep Angular forms with DI-equipped custom components.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 14:55'
+    speakers:
+      -
+        name: 'Rafael Mestre'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'What and Why NX? 20 Reasons in 20 Minutes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 15:20'
+    speakers:
+      -
+        name: 'Erik Slack '
+        twitter: null
+        github: null
+      -
+        name: ' Michael Madsen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'B.L.A.Z.I.N.G. - 7 Core principles of fast Angular applications.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 15:45'
+    speakers:
+      -
+        name: 'Ady Ngom'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Deciphering the Secrets of Blockchain with Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 16:10'
+    speakers:
+      -
+        name: 'Stephen Fluin'
+        twitter: stephenfluin
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Typescript Meta-Programming from 0 to 100.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 16:35'
+    speakers:
+      -
+        name: 'Daniel Ostrovsky'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Micro Frontends and the Multiverse of Frameworks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 17:00'
+    speakers:
+      -
+        name: 'Adrian Iskandar Espinosa Caballero'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Write Once, Run Anywhere with an Angular PWA'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 09:00'
+    speakers:
+      -
+        name: 'Michael Dowden'
+        twitter: mrdowden
+        github: null
+      -
+        name: 'Martine Dowden'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Testable Angular Forms'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 11:00'
+    speakers:
+      -
+        name: 'Martine Dowden'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'RxJs from scratch'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 14:30'
+    speakers:
+      -
+        name: 'Alain Chautard'
+        twitter: AlainChautard
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Cypress for Angular Devs Hands-on Workshop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 16:30'
+    speakers:
+      -
+        name: 'Jordan Powell '
+        twitter: null
+        github: null
+      -
+        name: ' Ely Lucas'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Angular Pull Request Coaching'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 19:00'
+    speakers: {  }
+    videos: null
+    slides: null
+  -
+    title: 'Hackathon sponsored by ag-Grid'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 20:00'
+    speakers:
+      -
+        name: 'Joe Skeen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'FREE WORKSHOP: Getting Started with AG Grid - the best JavaScript grid in the world!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-01 20:00'
+    speakers:
+      -
+        name: 'Brian F Love '
+        twitter: null
+        github: null
+      -
+        name: ' Mike Ryan'
+        twitter: MikeRyanDev
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Community Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-02 09:14'
+    speakers:
+      -
+        name: 'Mark Thompson '
+        twitter: null
+        github: null
+      -
+        name: 'Emma Twersky'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Solving the Puzzle of Real-Time Collaboration using the Fluid Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-02 10:11'
+    speakers:
+      -
+        name: ' Dan Wahlin'
+        twitter: DanWahlin
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Accessibility! is! important!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-02 10:37'
+    speakers:
+      -
+        name: 'Emma Twersky'
+        twitter: null
+        github: null
+      -
+        name: ' Zach Arend'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Image Optimization Best Practices with Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-02 11:01'
+    speakers:
+      -
+        name: 'Kara Erickson'
+        twitter: karaforthewin
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'I Let Strangers Design My Slides using NgRx Component Store.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-02 11:27'
+    speakers:
+      -
+        name: ' Mike Ryan'
+        twitter: MikeRyanDev
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Form Validation Done Right'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-02 13:26'
+    speakers:
+      -
+        name: 'Ward Bell'
+        twitter: wardbell
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Angular's Future Without NgModules: Architectures with Standalone Components"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-02 13:50'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos: null
+    slides: null
+  -
+    title: 'Run Code When Leaving Your Angular Application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-02 14:14'
+    speakers:
+      -
+        name: 'Preston Lamb'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Slow Down to Get Ahead'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-02 14:20'
+    speakers:
+      -
+        name: 'Michael Callaghan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Safer Forms with Strict Types'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-02 14:32'
+    speakers:
+      -
+        name: 'Dylan Hunn'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "RxJS Best Practices Aren't Always Black and White"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-02 15:34'
+    speakers:
+      -
+        name: 'Deborah Kurata'
+        twitter: DeborahKurata
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Angular Team Q & A and Closing Remarks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-09-02 16:00'
+    speakers: {  }
+    videos: null
+    slides: null

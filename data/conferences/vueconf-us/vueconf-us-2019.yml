@@ -140,7 +140,7 @@ talks:
     talk_date: '2019-03-26 00:00'
     speakers:
       -
-        name: 'Sarah Drasner'
+        name: 'Sarah Drasner '
         twitter: sarah_edo
         github: sdras
     videos:
@@ -238,7 +238,7 @@ talks:
     talk_date: '2019-03-27 00:00'
     speakers:
       -
-        name: 'Mike Hartington'
+        name: '  Mike Hartington'
         twitter: mhartington
         github: mhartington
     videos:
