@@ -1,0 +1,706 @@
+name: 'Reliable Web Summit 2021'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: 'https://pages.ng-conf.org/reliable-web-summit-2021/'
+playlist: 'vimeo:8969458'
+from_date: null
+to_date: null
+tags: ''
+talks:
+  -
+    title: 'The Immutable Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Stephen Fluin'
+        twitter: stephenfluin
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639698586'
+    slides: null
+  -
+    title: 'Architecting for Accessibility'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Martine Dowden'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639697651'
+    slides: null
+  -
+    title: 'The New Web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Stephen Fluin'
+        twitter: stephenfluin
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639697147'
+    slides: null
+  -
+    title: 'Clean code is no Longer a Myth'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Karan Balkar'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639696260'
+    slides: null
+  -
+    title: 'Independent Open Source Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Owen Buckley'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639695540'
+    slides: null
+  -
+    title: "Maintainable JavaScript with Functional\_Patterns"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Luis Fernando Alvarez'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639694418'
+    slides: null
+  -
+    title: 'Betterer: Incremental Improvement'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Craig Spence'
+        twitter: phenomnominal
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639693282'
+    slides: null
+  -
+    title: 'Keep Running at Runtime'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Christoph Guttandin'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639692913'
+    slides: null
+  -
+    title: 'Testing with Component Harnesses for the Win'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Alain Chautard'
+        twitter: AlainChautard
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639692517'
+    slides: null
+  -
+    title: 'Climbing to the top of the Lighthouse with Scully'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Robert Willemelis'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639691300'
+    slides: null
+  -
+    title: 'Dear Performant app,'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Nishu Goel'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639690953'
+    slides: null
+  -
+    title: 'Testable Architecture in Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Rainer Hahnekamp'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639689955'
+    slides: null
+  -
+    title: 'Autoscaling Apps without Supersizing Costs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Lara Newsom'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639688129'
+    slides: null
+  -
+    title: 'The Legend of Zelda, ASCII Art, Hexagonal Architecture, and You'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jonathan Turner'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639687086'
+    slides: null
+  -
+    title: 'Mindblowing Google PageSpeed Scores with Qwik'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Misko Hevery'
+        twitter: mhevery
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639686313'
+    slides: null
+  -
+    title: "3L-C's - Three Level Components Technique"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Azizi Yazit'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639685386'
+    slides: null
+  -
+    title: 'Patterns and Practices for Building Resilient Serverless Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Yan Cui'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639684583'
+    slides: null
+  -
+    title: 'Challenges in Building Micro Front Ends'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Vishal Kumar'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639682875'
+    slides: null
+  -
+    title: 'Angular + Jest: Testing Titbits'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Maria Korneeva'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639676210'
+    slides: null
+  -
+    title: "Users Don't Have to Suffer in the Cloud"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Melissa Jurkoic'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639675732'
+    slides: null
+  -
+    title: 'Gaining Confidence with Cypress Tests'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Rob Richardson'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639674819'
+    slides: null
+  -
+    title: 'Adding a Second Pair of Eyes with Visual Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Colby Fayock'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639671540'
+    slides: null
+  -
+    title: 'Content is King: How Contentful and CaaS are Changing the CMS GameSPEAKER'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Aaron Ladage'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639671540'
+    slides: null
+  -
+    title: 'High-Performance Web UI with Web Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Cory Rylan'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639664852'
+    slides: null
+  -
+    title: 'Develop from Anywhere with GitHub Codespaces'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Brigit Murtaugh'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639639331'
+    slides: null
+  -
+    title: 'Multi-Framework Micro-Frontends with Module Federation and Angular Elements: The good, the bad, the ugly'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639638621'
+    slides: null
+  -
+    title: 'Good Code is a Balancing Act'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jonathan Warrington'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639635344'
+    slides: null
+  -
+    title: 'Achieving Zero Frontend Crashes in Production'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Josh Goldberg'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639634526'
+    slides: null
+  -
+    title: 'Crafting Reliable and Testable Code with TypeScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Doguhan Uluca'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639632634'
+    slides: null
+  -
+    title: 'A more Fluid Test Pyramid'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Steve Upton'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639631879'
+    slides: null
+  -
+    title: 'Performance Innovations with FAST Web Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Rob Eisenberg '
+        twitter: null
+        github: null
+      -
+        name: ' David Rickard'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639631431'
+    slides: null
+  -
+    title: 'Beware the New Shiny'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Lara Newsom'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639630798'
+    slides: null
+  -
+    title: 'Using Storybook to Maintain Components in RedwoodJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Milecia McGregor'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639630162'
+    slides: null
+  -
+    title: "All the World's A Staging Server"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Heidi Waterhouse'
+        twitter: wiredferret
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639605823'
+    slides: null
+  -
+    title: 'From Cobol to Node with DevOps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Alejandro Mercado Peña'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639604014'
+    slides: null
+  -
+    title: "Observability 101:\_Monitoring Your Apps is not About Devops"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Iván Olivares Rojas'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639602725'
+    slides: null
+  -
+    title: 'Test Effective Development - End 2 (What) End?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Shai Reznik'
+        twitter: shai_reznik
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639599157'
+    slides: null
+  -
+    title: 'From Horror Story to Fairy Tale: Writing Code People Want to Read'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Michael Dowden'
+        twitter: mrdowden
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639597774'
+    slides: null
+  -
+    title: 'Blazor Stability Testing Tools for Bullet Proof Application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Ed Charbeneau'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639594420'
+    slides: null
+  -
+    title: 'Level-up Your DevOps with GitHub Actions & Kubernetes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Rob Richardson'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639593471'
+    slides: null
+  -
+    title: "TDD - It's About More Than Just the Tests"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jonathan Turner'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639280809'
+    slides: null
+  -
+    title: 'The Worlds Most Expensive React Component and How to Stop Writing It'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Michael Chan'
+        twitter: chantastic
+        github: chantastic
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639280139'
+    slides: null
+  -
+    title: "Maintainable Styles - That's a Thing?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Alyssa Nicoll'
+        twitter: AlyssaNicoll
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639279466'
+    slides: null
+  -
+    title: 'Reliability and Engineering Requirements'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Giorgio Natili'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639276709'
+    slides: null
+  -
+    title: 'Azure Static Web Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jon Papa '
+        twitter: null
+        github: null
+      -
+        name: ' Dan Wahlin'
+        twitter: DanWahlin
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639275843'
+    slides: null
+  -
+    title: 'Reliable Systems + Azure Static Web Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Craig Shoemaker'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639273690'
+    slides: null
+  -
+    title: 'Tools of Intentional Architectures'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Dinesh Ramadoss'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639241423'
+    slides: null
+  -
+    title: 'Collaborative Code with Nx'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Brandon Roberts'
+        twitter: brandontroberts
+        github: null
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/639164915'
+    slides: null
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Justin Searls'
+        twitter: searls
+        github: searls
+    videos:
+      - 'vimeo.com:/showcase/8969458/video/638870534'
+    slides: null

@@ -22,11 +22,11 @@ talks:
         twitter: bradlygreen
         github: null
       -
-        name: ' Misko Hevery '
+        name: 'Misko Hevery'
         twitter: mhevery
         github: null
       -
-        name: 'Kara Erickson '
+        name: 'Kara Erickson'
         twitter: karaforthewin
         github: null
     videos:
@@ -54,7 +54,7 @@ talks:
     talk_date: '2018-04-18 00:00'
     speakers:
       -
-        name: 'Igor Minar'
+        name: ' Igor Minar'
         twitter: IgorMinar
         github: null
     videos:
@@ -110,7 +110,7 @@ talks:
     talk_date: '2018-04-18 00:00'
     speakers:
       -
-        name: 'Dan Wahlin'
+        name: ' Dan Wahlin'
         twitter: DanWahlin
         github: null
     videos:
@@ -146,7 +146,7 @@ talks:
         twitter: null
         github: null
       -
-        name: 'Joe Eames'
+        name: ' Joe Eames'
         twitter: josepheames
         github: null
       -
@@ -194,7 +194,7 @@ talks:
     talk_date: '2018-04-18 00:00'
     speakers:
       -
-        name: ' Jeremy Elbourn'
+        name: 'Jeremy Elbourn '
         twitter: jelbourn
         github: null
     videos:
@@ -272,7 +272,7 @@ talks:
     talk_date: '2018-04-18 00:00'
     speakers:
       -
-        name: 'Nathan Walker'
+        name: 'Nathan Walker '
         twitter: wwwalkerrun
         github: null
       -
@@ -322,7 +322,7 @@ talks:
         twitter: brandontroberts
         github: null
       -
-        name: 'Mike Ryan'
+        name: ' Mike Ryan'
         twitter: MikeRyanDev
         github: null
     videos:
@@ -367,7 +367,7 @@ talks:
     talk_date: '2018-04-19 00:00'
     speakers:
       -
-        name: 'Minko Gechev'
+        name: ' Minko Gechev'
         twitter: mgechev
         github: null
     videos:
@@ -381,7 +381,7 @@ talks:
     talk_date: '2018-04-19 00:00'
     speakers:
       -
-        name: 'Sani Yusuf'
+        name: 'Sani Yusuf '
         twitter: haibridco
         github: null
     videos:
@@ -395,7 +395,7 @@ talks:
     talk_date: '2018-04-19 00:00'
     speakers:
       -
-        name: 'Jesse Sanders'
+        name: 'Jesse Sanders '
         twitter: JesseS_BrieBug
         github: null
     videos:
@@ -469,7 +469,7 @@ talks:
     talk_date: '2018-04-19 00:00'
     speakers:
       -
-        name: 'Mike Ryan'
+        name: ' Mike Ryan'
         twitter: MikeRyanDev
         github: null
     videos:
@@ -511,7 +511,7 @@ talks:
     talk_date: '2018-04-19 00:00'
     speakers:
       -
-        name: 'Jesse Sanders'
+        name: 'Jesse Sanders '
         twitter: JesseS_BrieBug
         github: null
     videos:
@@ -539,7 +539,7 @@ talks:
     talk_date: '2018-04-19 00:00'
     speakers:
       -
-        name: 'Ryan Chenkie'
+        name: ' Ryan Chenkie'
         twitter: ryanchenkie
         github: null
     videos:
@@ -571,7 +571,7 @@ talks:
         twitter: brandontroberts
         github: null
       -
-        name: 'Mike Ryan'
+        name: ' Mike Ryan'
         twitter: MikeRyanDev
         github: null
     videos:
@@ -613,7 +613,7 @@ talks:
     talk_date: '2018-04-19 00:00'
     speakers:
       -
-        name: 'David East'
+        name: 'David East '
         twitter: _davideast
         github: null
       -
@@ -659,7 +659,7 @@ talks:
     talk_date: '2018-04-19 00:00'
     speakers:
       -
-        name: 'Elad Bezalel'
+        name: 'Elad Bezalel '
         twitter: Elad_Bezalel
         github: null
       -
@@ -727,7 +727,7 @@ talks:
     talk_date: '2018-04-19 00:00'
     speakers:
       -
-        name: 'Jesse Sanders'
+        name: 'Jesse Sanders '
         twitter: JesseS_BrieBug
         github: null
     videos:
@@ -741,7 +741,7 @@ talks:
     talk_date: '2018-04-19 00:00'
     speakers:
       -
-        name: 'Dan Wahlin'
+        name: ' Dan Wahlin'
         twitter: DanWahlin
         github: null
     videos:
@@ -755,7 +755,7 @@ talks:
     talk_date: '2018-04-19 00:00'
     speakers:
       -
-        name: 'Sander Elias'
+        name: '  Sander Elias '
         twitter: esosanderelias
         github: null
       -
@@ -897,7 +897,7 @@ talks:
     talk_date: '2018-04-20 00:00'
     speakers:
       -
-        name: 'Sani Yusuf'
+        name: 'Sani Yusuf '
         twitter: haibridco
         github: null
     videos:
@@ -925,7 +925,7 @@ talks:
     talk_date: '2018-04-20 00:00'
     speakers:
       -
-        name: 'Ben Lesh '
+        name: ' Ben Lesh'
         twitter: benlesh
         github: null
     videos:
@@ -967,7 +967,7 @@ talks:
     talk_date: '2018-04-20 00:00'
     speakers:
       -
-        name: 'James Daniels'
+        name: 'James Daniels '
         twitter: null
         github: null
     videos:
@@ -1007,11 +1007,11 @@ talks:
         twitter: null
         github: null
       -
-        name: ' Jeremy Elbourn'
+        name: 'Jeremy Elbourn '
         twitter: jelbourn
         github: null
       -
-        name: 'Kara Erickson '
+        name: 'Kara Erickson'
         twitter: karaforthewin
         github: null
       -
@@ -1027,11 +1027,11 @@ talks:
         twitter: bradlygreen
         github: null
       -
-        name: ' Misko Hevery '
+        name: 'Misko Hevery'
         twitter: mhevery
         github: null
       -
-        name: 'George Kalpakas'
+        name: ' George Kalpakas'
         twitter: gkalpakas
         github: null
       -
@@ -1039,7 +1039,7 @@ talks:
         twitter: hanslatwork
         github: null
       -
-        name: 'Ben Lesh '
+        name: ' Ben Lesh'
         twitter: benlesh
         github: null
       -
@@ -1047,7 +1047,7 @@ talks:
         twitter: gregmagolan
         github: null
       -
-        name: 'Igor Minar'
+        name: ' Igor Minar'
         twitter: IgorMinar
         github: null
       -

@@ -48,7 +48,7 @@ talks:
     talk_date: '2018-04-11 10:00'
     speakers:
       -
-        name: 'Chris Noring'
+        name: ' Chris Noring'
         twitter: null
         github: null
     videos: null
@@ -109,7 +109,7 @@ talks:
     talk_date: '2018-04-11 11:15'
     speakers:
       -
-        name: 'Sani Yusuf'
+        name: 'Sani Yusuf '
         twitter: haibridco
         github: null
     videos: null
@@ -366,7 +366,7 @@ talks:
     talk_date: '2018-04-11 09:00'
     speakers:
       -
-        name: 'Chris Noring'
+        name: ' Chris Noring'
         twitter: null
         github: null
     videos:
@@ -450,7 +450,7 @@ talks:
     talk_date: '2018-04-11 11:30'
     speakers:
       -
-        name: 'Chris Noring'
+        name: ' Chris Noring'
         twitter: null
         github: null
     videos: null

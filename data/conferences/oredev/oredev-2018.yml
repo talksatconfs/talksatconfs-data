@@ -557,7 +557,7 @@ talks:
     talk_date: '2018-11-19 16:10'
     speakers:
       -
-        name: 'Gleb Bahmutov'
+        name: 'Gleb Bahmutov '
         twitter: bahmutov
         github: null
     videos:
@@ -964,7 +964,7 @@ talks:
     talk_date: '2018-11-20 12:50'
     speakers:
       -
-        name: 'Gleb Bahmutov'
+        name: 'Gleb Bahmutov '
         twitter: bahmutov
         github: null
     videos: null

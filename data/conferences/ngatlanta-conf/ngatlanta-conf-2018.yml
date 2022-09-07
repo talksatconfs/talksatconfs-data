@@ -102,7 +102,7 @@ talks:
     talk_date: '2018-02-01 00:00'
     speakers:
       -
-        name: 'Nathan Walker'
+        name: 'Nathan Walker '
         twitter: wwwalkerrun
         github: null
     videos:
@@ -204,7 +204,7 @@ talks:
     talk_date: '2018-02-01 00:00'
     speakers:
       -
-        name: 'Minko Gechev'
+        name: ' Minko Gechev'
         twitter: mgechev
         github: null
     videos:
@@ -232,11 +232,11 @@ talks:
     talk_date: '2018-02-01 00:00'
     speakers:
       -
-        name: 'Kim Maida'
+        name: 'Kim Maida '
         twitter: null
         github: null
       -
-        name: 'Ryan Chenkie'
+        name: ' Ryan Chenkie'
         twitter: ryanchenkie
         github: null
     videos:
@@ -250,7 +250,7 @@ talks:
     talk_date: '2018-02-01 00:00'
     speakers:
       -
-        name: 'Tara Manicsic'
+        name: ' Tara Manicsic '
         twitter: Tzmanics
         github: null
     videos:
@@ -426,7 +426,7 @@ talks:
     talk_date: '2018-02-02 00:00'
     speakers:
       -
-        name: 'Sani Yusuf'
+        name: 'Sani Yusuf '
         twitter: haibridco
         github: null
     videos:

@@ -18,7 +18,7 @@ talks:
     talk_date: '2018-03-01 00:00'
     speakers:
       -
-        name: 'Matias Niemelä'
+        name: 'Matias Niemela'
         twitter: yearofmoo/
         github: null
     videos:
@@ -46,7 +46,7 @@ talks:
     talk_date: '2018-03-01 00:00'
     speakers:
       -
-        name: 'Sani Yusuf'
+        name: 'Sani Yusuf '
         twitter: haibridco
         github: null
     videos:
@@ -242,7 +242,7 @@ talks:
     talk_date: '2018-03-01 00:00'
     speakers:
       -
-        name: 'Tara Z. Manicsic'
+        name: '  Tara Z. Manicsic'
         twitter: tzmanics
         github: tzmanics
     videos:
@@ -350,7 +350,7 @@ talks:
     talk_date: '2018-03-01 00:00'
     speakers:
       -
-        name: 'Sander Elias'
+        name: '  Sander Elias '
         twitter: esosanderelias
         github: null
     videos:

@@ -32,7 +32,7 @@ talks:
     talk_date: '2015-03-05 13:11'
     speakers:
       -
-        name: 'Dan Wahlin'
+        name: ' Dan Wahlin'
         twitter: DanWahlin
         github: null
       -
@@ -54,7 +54,7 @@ talks:
         twitter: bradlygreen
         github: null
       -
-        name: 'Igor Minar'
+        name: ' Igor Minar'
         twitter: IgorMinar
         github: null
     videos:
@@ -68,7 +68,7 @@ talks:
     talk_date: '2015-03-05 13:19'
     speakers:
       -
-        name: 'Pawel Kozlowski '
+        name: 'Pawel Kozlowski'
         twitter: null
         github: null
       -
@@ -132,7 +132,7 @@ talks:
     talk_date: '2015-03-05 13:25'
     speakers:
       -
-        name: 'Kara Erickson '
+        name: 'Kara Erickson'
         twitter: karaforthewin
         github: null
       -
@@ -290,7 +290,7 @@ talks:
     talk_date: '2015-03-05 14:02'
     speakers:
       -
-        name: 'Thomas Burleson '
+        name: 'Thomas Burleson'
         twitter: null
         github: null
       -
@@ -336,7 +336,7 @@ talks:
     talk_date: '2015-03-06 13:49'
     speakers:
       -
-        name: ' Misko Hevery '
+        name: 'Misko Hevery'
         twitter: mhevery
         github: null
       -
@@ -368,7 +368,7 @@ talks:
     talk_date: '2015-03-06 13:52'
     speakers:
       -
-        name: 'Ben Lesh '
+        name: ' Ben Lesh'
         twitter: benlesh
         github: null
       -
@@ -464,7 +464,7 @@ talks:
     talk_date: '2015-03-06 14:05'
     speakers:
       -
-        name: 'Igor Minar'
+        name: ' Igor Minar'
         twitter: IgorMinar
         github: null
     videos:
@@ -492,7 +492,7 @@ talks:
     talk_date: '2015-03-06 14:12'
     speakers:
       -
-        name: 'Matias Niemelä'
+        name: 'Matias Niemela'
         twitter: yearofmoo/
         github: null
     videos:

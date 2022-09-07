@@ -1,0 +1,420 @@
+name: 'ng-conf 2021'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: 'https://www.2021.ng-conf.org/'
+playlist: 'youtube:PLOETEcp3DkCp9sGzP_Gz_dBpB_zASqLla'
+from_date: '2021-04-22'
+to_date: '2021-04-23'
+tags: ''
+talks:
+  -
+    title: 'Day 1 Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-22 00:00'
+    speakers:
+      -
+        name: ' Jessica Janiuk'
+        twitter: null
+        github: null
+      -
+        name: 'Emma Twersky'
+        twitter: null
+        github: null
+      -
+        name: 'Stephen Fluin'
+        twitter: stephenfluin
+        github: null
+    videos:
+      - 'youtube:uqYf9gEAlvw'
+    slides: null
+  -
+    title: 'Increase Your Productivity with Component Stories'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-22 00:00'
+    speakers:
+      -
+        name: ' Dan Wahlin'
+        twitter: DanWahlin
+        github: null
+    videos:
+      - 'youtube:-A5QeEKTMHE'
+    slides: null
+  -
+    title: 'Federated Angular: Why and How?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-22 00:00'
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos:
+      - 'youtube:5QfcT1BZbZA'
+    slides: null
+  -
+    title: 'SPA as Platform with Micro-Frontends & Capabilities'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-22 00:00'
+    speakers:
+      -
+        name: 'Saranya Thangaraj'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:y5X1WdETuCg'
+    slides: null
+  -
+    title: 'Ionic Angular: Making Capacitor Flux with NativeScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-22 00:00'
+    speakers:
+      -
+        name: 'Nathan Walker '
+        twitter: wwwalkerrun
+        github: null
+      -
+        name: ' Osei Fortune'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qbvxw5eKPBs'
+    slides: null
+  -
+    title: 'Routeception! How to use the Angular Router in Micro-Frontends'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-22 00:00'
+    speakers:
+      -
+        name: 'Kyle Cannon'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:fQrUGill9M0'
+    slides: null
+  -
+    title: 'Living La Vida Transloco - On the New Player in i18n/l10n'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-22 00:00'
+    speakers:
+      -
+        name: 'Inbal Sinai'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:s0HbUYz73yo'
+    slides: null
+  -
+    title: 'Using WebAssembly to Build Fast & Secure Web Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-22 00:00'
+    speakers:
+      -
+        name: 'Eric Simons'
+        twitter: ericsimons40
+        github: null
+    videos:
+      - 'youtube:ZZC1SVkdmBY'
+    slides: null
+  -
+    title: 'Reactive Error-Handling in Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-22 00:00'
+    speakers:
+      -
+        name: 'Maria Korneeva'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qOH9XsN8aEs'
+    slides: null
+  -
+    title: 'Switch Map Wizard'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-22 00:00'
+    speakers:
+      -
+        name: 'Lara Newsom'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Easy healthy tests with component harnesses'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-22 00:00'
+    speakers:
+      -
+        name: 'Annie Wang'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:P-rQejsal6A'
+    slides: null
+  -
+    title: 'Prefer Template-Driven Forms'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-22 00:00'
+    speakers:
+      -
+        name: 'Ward Bell'
+        twitter: wardbell
+        github: null
+    videos:
+      - 'youtube:L7rGogdfe2Q'
+    slides: null
+  -
+    title: 'Crafting Bespoke PWA experiences with Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-22 00:00'
+    speakers:
+      -
+        name: 'Mark Thompson '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:swTi3n5Vx-0'
+    slides: null
+  -
+    title: 'Day 2 Keynote'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-23 00:00'
+    speakers:
+      -
+        name: 'Brandon Roberts'
+        twitter: brandontroberts
+        github: null
+      -
+        name: ' Mike Ryan'
+        twitter: MikeRyanDev
+        github: null
+      -
+        name: ' Ben Lesh'
+        twitter: benlesh
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Angular and Core Web Vitals'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-23 00:00'
+    speakers:
+      -
+        name: ' Minko Gechev'
+        twitter: mgechev
+        github: null
+      -
+        name: ' Houssein'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:g04Lry655_g'
+    slides: null
+  -
+    title: 'Scully Scully Bo Bully Banana Fana Bo Fully Me My Mo Mully'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-23 00:00'
+    speakers:
+      -
+        name: 'Mike Brocchi'
+        twitter: Brocco
+        github: null
+    videos:
+      - 'youtube:1gWixtaSmLo'
+    slides: null
+  -
+    title: 'Choose Your Own { Form } Adventure'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-23 00:00'
+    speakers:
+      -
+        name: 'Jennifer Wadella'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nfVe55EWe_A'
+    slides: null
+  -
+    title: 'Best Friends Forever: Reactive Code + Animations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-23 00:00'
+    speakers:
+      -
+        name: ' Nicole Oliver'
+        twitter: nixallover
+        github: null
+      -
+        name: 'Zack DeRose '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:d7JX2e4AZ-8'
+    slides: null
+  -
+    title: '5 Typescript Tricks for Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-23 00:00'
+    speakers:
+      -
+        name: 'Alain Chautard'
+        twitter: AlainChautard
+        github: null
+    videos:
+      - 'youtube:ng54XmeWgWs'
+    slides: null
+  -
+    title: 'The Dance of the Decorated Classes: Inside the Angular Compiler'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-23 00:00'
+    speakers:
+      -
+        name: 'Joost Koehoorn '
+        twitter: null
+        github: null
+      -
+        name: 'Alex Rickabaugh'
+        twitter: synalx
+        github: null
+    videos:
+      - 'youtube:FARnqSZaHMs'
+    slides: null
+  -
+    title: '4 Wicked RxJS Pipelines for the Real World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-23 00:00'
+    speakers:
+      -
+        name: 'Deborah Kurata'
+        twitter: DeborahKurata
+        github: null
+    videos:
+      - 'youtube:SPy35fOjRyU'
+    slides: null
+  -
+    title: 'Making Techno Reactive with RxJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-23 00:00'
+    speakers:
+      -
+        name: 'Max Bendick'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gXXW1rqubk0'
+    slides: null
+  -
+    title: 'Tailwind: The Future of CSS is Here!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-23 00:00'
+    speakers:
+      -
+        name: 'Amadou Sall'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8OGE2hOLrq8'
+    slides: null
+  -
+    title: "Control Your Data's Flow with HTTP Interceptors"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-23 00:00'
+    speakers:
+      -
+        name: 'John Papa'
+        twitter: john_papa
+        github: johnpapa
+    videos:
+      - 'youtube:OHbWHO1Iq5o'
+    slides: null
+  -
+    title: 'My Observable Will Go On!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-23 00:00'
+    speakers:
+      -
+        name: 'Jan-Niklas Wortmann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:-tfUq1Ro9_k'
+    slides: null
+  -
+    title: 'Headless CMS - Build Apps, Not Content'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-23 00:00'
+    speakers:
+      -
+        name: 'Erik Slack '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:oFv1lWe9xUs'
+    slides: null
+  -
+    title: 'Get to Know the Angular Team | '
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-04-23 00:00'
+    speakers:
+      -
+        name: 'Christina Brink'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5aiix9xdITU'
+    slides: null

@@ -48,7 +48,7 @@ talks:
     talk_date: '2018-07-19 11:20'
     speakers:
       -
-        name: 'Mike Hartington'
+        name: '  Mike Hartington'
         twitter: mhartington
         github: mhartington
     videos:
@@ -182,7 +182,7 @@ talks:
     talk_date: '2018-07-20 12:00'
     speakers:
       -
-        name: 'Kamil Myśliwiec'
+        name: 'Kamil Mysliwiec'
         twitter: kammysliwiec
         github: kamilmysliwiec
     videos:

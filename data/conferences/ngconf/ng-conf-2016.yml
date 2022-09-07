@@ -22,7 +22,7 @@ talks:
         twitter: bradlygreen
         github: null
       -
-        name: ' Jules Kremer'
+        name: 'Jules Kremer '
         twitter: null
         github: null
     videos:
@@ -64,7 +64,7 @@ talks:
     talk_date: '2016-05-04 10:40'
     speakers:
       -
-        name: 'Dan Wahlin'
+        name: ' Dan Wahlin'
         twitter: DanWahlin
         github: null
     videos:
@@ -110,7 +110,7 @@ talks:
     talk_date: '2016-05-04 13:30'
     speakers:
       -
-        name: ' Misko Hevery '
+        name: 'Misko Hevery'
         twitter: mhevery
         github: null
     videos:
@@ -170,11 +170,11 @@ talks:
     talk_date: '2016-05-04 15:20'
     speakers:
       -
-        name: 'Kara Erickson '
+        name: 'Kara Erickson'
         twitter: karaforthewin
         github: null
       -
-        name: ' Jeremy Elbourn'
+        name: 'Jeremy Elbourn '
         twitter: jelbourn
         github: null
     videos:
@@ -234,7 +234,7 @@ talks:
         twitter: jenlooper
         github: jlooper
       -
-        name: ' TJ VanToll'
+        name: ' TJ Vantoll'
         twitter: null
         github: null
     videos:
@@ -266,7 +266,7 @@ talks:
         twitter: jeffbcross
         github: jeffbcross
       -
-        name: ' Alex Rickabaugh'
+        name: 'Alex Rickabaugh'
         twitter: synalx
         github: null
     videos:
@@ -284,7 +284,7 @@ talks:
         twitter: bradlygreen
         github: null
       -
-        name: ' Misko Hevery '
+        name: 'Misko Hevery'
         twitter: mhevery
         github: null
       -
@@ -440,7 +440,7 @@ talks:
     talk_date: '2016-05-06 10:25'
     speakers:
       -
-        name: 'Matias Niemelä'
+        name: 'Matias Niemela'
         twitter: yearofmoo/
         github: null
     videos:
@@ -509,7 +509,7 @@ talks:
     talk_date: '2016-05-06 13:55'
     speakers:
       -
-        name: 'David East'
+        name: 'David East '
         twitter: _davideast
         github: null
     videos:
@@ -591,7 +591,7 @@ talks:
     talk_date: '2016-05-06 16:15'
     speakers:
       -
-        name: 'Minko Gechev'
+        name: ' Minko Gechev'
         twitter: mgechev
         github: null
     videos:

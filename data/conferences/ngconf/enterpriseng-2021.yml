@@ -1,0 +1,276 @@
+name: 'EnterpriseNG 2021'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: 'https://pages.ng-conf.org/enterpriseng-2021/'
+playlist: 'vimeo:9142919'
+from_date: null
+to_date: null
+tags: ''
+talks:
+  -
+    title: 'Engineering Scalable Angular Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Alex Rickabaugh'
+        twitter: synalx
+        github: null
+    videos:
+      - 'vimeo:showcase/9142919/video/657951004'
+    slides: null
+  -
+    title: 'Using Kendo UI to make your Angular App Shine'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Alyssa Nicoll'
+        twitter: AlyssaNicoll
+        github: null
+    videos:
+      - 'vimeo:showcase/9142919/video/657946904'
+    slides: null
+  -
+    title: 'Eliminating XSS in Angular applications by adopting Trusted Types'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Bjarki Ágúst Guðmundsson'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo:showcase/9142919/video/657945274'
+    slides: null
+  -
+    title: 'Achieving Highly Performant Angular Apps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Brian F Love '
+        twitter: null
+        github: null
+      -
+        name: ' Mike Ryan'
+        twitter: MikeRyanDev
+        github: null
+    videos:
+      - 'vimeo:showcase/9142919/video/660961511'
+    slides: null
+  -
+    title: 'Demystify module federation, and deployment strategy on AWS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Chengwei Lim'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo:showcase/9142919/video/657949516'
+    slides: null
+  -
+    title: 'Designing Reactive Angular Components (RxJS)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Deborah Kurata'
+        twitter: DeborahKurata
+        github: null
+    videos:
+      - 'vimeo:showcase/9142919/video/657933593'
+    slides: null
+  -
+    title: 'Make your Angular Material components prettier and more accessible'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Emma Twersky'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo:showcase/9142919/video/657946356'
+    slides: null
+  -
+    title: 'Answers to Your Burning Questions About Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Gleb Bahmutov '
+        twitter: bahmutov
+        github: null
+      -
+        name: ' Andrae Ambrose'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo:showcase/9142919/video/660962461'
+    slides: null
+  -
+    title: 'Scaling Effective Angular Teams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Jennifer Wadella'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo:showcase/9142919/video/657938448'
+    slides: null
+  -
+    title: 'Micro-frontends: anti-patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Luca Mezzalira'
+        twitter: lucamezzalira
+        github: Apress/front-end-reactive-architectures
+    videos:
+      - 'vimeo:showcase/9142919/video/657948894'
+    slides: null
+  -
+    title: 'Micro-Frontends with Module Federation: Beyond the Basics'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Manfred Steyer'
+        twitter: ManfredSteyer
+        github: manfredsteyer
+    videos:
+      - 'vimeo:showcase/9142919/video/657944003'
+    slides: null
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Mark Thompson '
+        twitter: null
+        github: null
+      -
+        name: ' Igor Minar'
+        twitter: IgorMinar
+        github: null
+    videos:
+      - 'vimeo:showcase/9142919/video/657931614'
+    slides: null
+  -
+    title: 'Concurrent Mode in Angular - Non-blocking UIs at scale'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Michael Hladky'
+        twitter: Michael_Hladky
+        github: null
+    videos:
+      - 'vimeo:showcase/9142919/video/657935987'
+    slides: null
+  -
+    title: 'Angular Performance Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Mink Gechev'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo:showcase/9142919/video/657942454'
+    slides: null
+  -
+    title: 'Maintainable Tests while maintaining Sanity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Niklaas Baudet von Gersdorff'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo:showcase/9142919/video/657937511'
+    slides: null
+  -
+    title: 'Testing RxJs observables effectively - “Look Ma, No Marbles!”'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Shai Reznik'
+        twitter: shai_reznik
+        github: null
+    videos:
+      - 'vimeo:showcase/9142919/video/657940869'
+    slides: null
+  -
+    title: 'NoSQL Data Modeling for Front-end Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Stanimira Vlaeva'
+        twitter: StanimiraVlaeva
+        github: sis0k0
+    videos:
+      - 'vimeo:showcase/9142919/video/657934859'
+    slides: null
+  -
+    title: 'Crafting Kubernetes with Functions - EKS and the CDK for Terraform'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: null
+    speakers:
+      -
+        name: 'Taylor James Dolezal'
+        twitter: null
+        github: null
+    videos:
+      - 'vimeo:showcase/9142919/video/657947987'
+    slides: null
