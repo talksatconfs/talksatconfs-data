@@ -481,7 +481,7 @@ talks:
     talk_date: '2020-04-03 00:00'
     speakers:
       -
-        name: ' Sam Julien'
+        name: 'Sam Julien'
         twitter: samjulien
         github: null
     videos:
@@ -513,7 +513,7 @@ talks:
         twitter: null
         github: null
       -
-        name: ' Sam Julien'
+        name: 'Sam Julien'
         twitter: samjulien
         github: null
       -

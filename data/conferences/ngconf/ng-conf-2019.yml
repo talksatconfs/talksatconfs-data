@@ -111,7 +111,7 @@ talks:
     talk_date: '2019-05-01 00:00'
     speakers:
       -
-        name: ' Sam Julien'
+        name: 'Sam Julien'
         twitter: samjulien
         github: null
     videos:
@@ -455,7 +455,7 @@ talks:
     talk_date: '2019-05-02 00:00'
     speakers:
       -
-        name: 'Jesse Sanders '
+        name: 'Jesse Sanders'
         twitter: JesseS_BrieBug
         github: null
       -

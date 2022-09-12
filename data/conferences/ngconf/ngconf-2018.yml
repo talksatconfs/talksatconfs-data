@@ -395,7 +395,7 @@ talks:
     talk_date: '2018-04-19 00:00'
     speakers:
       -
-        name: 'Jesse Sanders '
+        name: 'Jesse Sanders'
         twitter: JesseS_BrieBug
         github: null
     videos:
@@ -511,7 +511,7 @@ talks:
     talk_date: '2018-04-19 00:00'
     speakers:
       -
-        name: 'Jesse Sanders '
+        name: 'Jesse Sanders'
         twitter: JesseS_BrieBug
         github: null
     videos:
@@ -727,7 +727,7 @@ talks:
     talk_date: '2018-04-19 00:00'
     speakers:
       -
-        name: 'Jesse Sanders '
+        name: 'Jesse Sanders'
         twitter: JesseS_BrieBug
         github: null
     videos:
@@ -939,7 +939,7 @@ talks:
     talk_date: '2018-04-20 00:00'
     speakers:
       -
-        name: 'Vikram Subramanian'
+        name: 'Vikram Subramanian '
         twitter: vikerman
         github: null
     videos:
@@ -1063,7 +1063,7 @@ talks:
         twitter: filipematossilv
         github: null
       -
-        name: 'Vikram Subramanian'
+        name: 'Vikram Subramanian '
         twitter: vikerman
         github: null
       -
