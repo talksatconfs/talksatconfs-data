@@ -1,0 +1,268 @@
+name: 'ng-india 2020'
+description: ''
+location: ''
+venue: 'The Leela Ambience Convention Hotel'
+city: Delhi
+country: India
+link: 'https://www.ng-ind.com/ngIndia-2020/'
+playlist: 'youtube:PL4ghowaPhrX1lN6-An81AsQrASeQ45atk'
+from_date: '2020-02-29'
+to_date: '2020-02-29'
+tags: ''
+talks:
+  -
+    title: 'Angular Builders In Depth'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-29 08:00'
+    speakers:
+      -
+        name: 'Santosh Yadav'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AAh4RWsIkxM'
+    slides: null
+  -
+    title: 'Angular Service Worker'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-29 08:30'
+    speakers:
+      -
+        name: 'Srashti Jain'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QdRS47dotKE'
+    slides: null
+  -
+    title: Bazel
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-29 09:00'
+    speakers:
+      -
+        name: 'Siddharth Ajmera'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PStYTCZ7ZeI'
+    slides: null
+  -
+    title: 'Global Error Handling in Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-29 09:30'
+    speakers:
+      -
+        name: 'Darpan Kumar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:U6-cM8212do'
+    slides: null
+  -
+    title: 'Building native mobile apps using Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-29 09:45'
+    speakers:
+      -
+        name: 'Dewansh Parashar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_QQk4oLZqS0'
+    slides: null
+  -
+    title: 'Welcome Note'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-29 10:15'
+    speakers:
+      -
+        name: 'Dhananjay Kumar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-29 10:25'
+    speakers:
+      -
+        name: 'Rob Wormald'
+        twitter: robwormald
+        github: null
+    videos:
+      - 'youtube:I-eP4lraPLQ'
+    slides: null
+  -
+    title: 'Enabling college students from remote part of India'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-29 10:55'
+    speakers:
+      -
+        name: 'Shivprasad Koirala'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mJ3rtpyBtf4'
+    slides: null
+  -
+    title: 'Making the Angular team work for you'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-29 11:15'
+    speakers:
+      -
+        name: 'Manu Murthy'
+        twitter: manu_murthy
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'What I wish I would have known about NgRx before starting my project'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-29 11:45'
+    speakers:
+      -
+        name: 'Jesse Sanders'
+        twitter: JesseS_BrieBug
+        github: null
+    videos:
+      - 'youtube:140lY9zFF6A'
+    slides: null
+  -
+    title: 'Demystifying Token Authentication in NgRx'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-29 12:15'
+    speakers:
+      -
+        name: 'Sam Julien'
+        twitter: samjulien
+        github: null
+    videos:
+      - 'youtube:C3cMrbZAahU'
+    slides: null
+  -
+    title: 'The future of Angular in the post-Ivy release'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-29 02:00'
+    speakers:
+      -
+        name: 'Martina Kraus'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rk8T3qgMwA0'
+    slides: null
+  -
+    title: 'Tackling component-state reactively'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-29 02:30'
+    speakers:
+      -
+        name: 'Michael Hladky'
+        twitter: Michael_Hladky
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Change Detection for dummies'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-29 03:00'
+    speakers:
+      -
+        name: 'Dhananjay Kumar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Framework-agnostic web components in Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-29 03:30'
+    speakers:
+      -
+        name: 'Nishu Goel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:b0keOzkknuU'
+    slides: null
+  -
+    title: 'Google Maps, YouTube Player, Clipboard, and other Angular Components'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-29 04:30'
+    speakers:
+      -
+        name: 'Jinal Shah'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qNlqQZsRoKY'
+    slides: null
+  -
+    title: 'Higher Order Components in Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-29 05:00'
+    speakers:
+      -
+        name: 'Pankaj Parkar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kFHV6Cr5cDY'
+    slides: null
+  -
+    title: 'Panel Discussion'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-29 05:30'
+    speakers:
+      -
+        name: 'Rob Wormald, Jesse Sanders, Sam Julien, Manu Murthy'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Talk to Speakers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-02-29 05:50'
+    speakers: {  }
+    videos: null
+    slides: null

@@ -1,0 +1,281 @@
+name: 'ng-india 2019'
+description: ''
+location: ''
+venue: ''
+city: Gurgaon
+country: India
+link: 'https://www.ng-ind.com/ngIndia-2019/'
+playlist: 'youtube:PL4ghowaPhrX3PxiScj4vAqKI1kjv_qi1E'
+from_date: '2019-02-23'
+to_date: '2019-02-23'
+tags: ''
+talks:
+  -
+    title: 'Demystifying Change Detection in Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 08:00'
+    speakers:
+      -
+        name: 'Pankaj Parkar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XTNL4WJRCrM'
+    slides: null
+  -
+    title: 'View Encapsulation in Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 08:30'
+    speakers:
+      -
+        name: 'Anchal Bhandari'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8cbsEcICv5o'
+    slides: null
+  -
+    title: 'Introduction to Angular Material'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 08:45'
+    speakers:
+      -
+        name: 'Jinal Shah'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OXgF9GeoX8o'
+    slides: null
+  -
+    title: 'What is @HostBinding and @HostListener()'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 09:00'
+    speakers:
+      -
+        name: 'Nishu Goel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nRrbYGXE8xQ'
+    slides: null
+  -
+    title: 'Native, Hybrid, PWA? How to deal with it?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 09:15'
+    speakers:
+      -
+        name: 'Marta Wisniewska'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:GV9YRDw0_sI'
+    slides: null
+  -
+    title: 'Supercharging your Angular library with `ng add`'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 09:30'
+    speakers:
+      -
+        name: 'Stanimira Vlaeva'
+        twitter: StanimiraVlaeva
+        github: sis0k0
+    videos:
+      - 'youtube:9TSZ97-IH28'
+    slides: null
+  -
+    title: Welcome
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 10:30'
+    speakers:
+      -
+        name: 'Dhananjay Kumar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1CEWDQyCrmc'
+    slides: null
+  -
+    title: Keynote
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 10:40'
+    speakers:
+      -
+        name: 'Jason Beres'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_P0AzBjBFTc'
+    slides: null
+  -
+    title: "Overview of Ivy, Angular's new renderer"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 11:15'
+    speakers:
+      -
+        name: 'Vikram Subramanian '
+        twitter: vikerman
+        github: null
+    videos:
+      - 'youtube:_Z_XMhNzLCQ'
+    slides: null
+  -
+    title: '10KB or Bust: The Delicate Balance of Webpack and Babel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 12:00'
+    speakers:
+      -
+        name: ' Brian Holt '
+        twitter: holtbt
+        github: btholt
+    videos: null
+    slides: null
+  -
+    title: 'I am not ready for NgRx'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 12:45'
+    speakers:
+      -
+        name: 'Jesse Sanders'
+        twitter: JesseS_BrieBug
+        github: null
+    videos:
+      - 'youtube:mYZivgSCVGw'
+    slides: null
+  -
+    title: 'Everything you need to know about RxJS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 14:15'
+    speakers:
+      -
+        name: 'Jan Niklas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QHCjT3jRzB0'
+    slides: null
+  -
+    title: 'Higher Order Observables and Marble Diagrams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 15:00'
+    speakers:
+      -
+        name: ' Michael Haldky'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:My6fBeYRKyA'
+    slides: null
+  -
+    title: 'Progressive Web App using Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 15:45'
+    speakers:
+      -
+        name: 'Maxim Salnikov'
+        twitter: webmaxru
+        github: webmaxru
+    videos:
+      - 'youtube:J9nayOrYSQ0'
+    slides: null
+  -
+    title: 'Building mobile applications using Angular & NativeScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 17:00'
+    speakers:
+      -
+        name: 'Dariusz Kalbarczyk'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:8e2mXHs2UKA'
+    slides: null
+  -
+    title: 'You do not know about JavaScript Objects'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 17:30'
+    speakers:
+      -
+        name: 'Dhananjay Kumar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:h9eW0zSiFaw'
+    slides: null
+  -
+    title: 'Ask questions to speakers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 18:00'
+    speakers:
+      -
+        name: 'Vikram Subramanian '
+        twitter: vikerman
+        github: null
+      -
+        name: ' Brian Holt '
+        twitter: holtbt
+        github: btholt
+      -
+        name: 'Jesse Sanders'
+        twitter: JesseS_BrieBug
+        github: null
+      -
+        name: 'Shivprasad Koirala'
+        twitter: null
+        github: null
+      -
+        name: ' Michael Haldky'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Speaker Felicitation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-02-23 18:30'
+    speakers:
+      -
+        name: 'Dhananjay Kumar'
+        twitter: null
+        github: null
+      -
+        name: 'Shivprasad Koirala'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

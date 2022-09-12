@@ -1,0 +1,116 @@
+name: 'ng-India 2018'
+description: ''
+location: ''
+venue: 'Fortune Select Excalibur'
+city: Gurgaon
+country: India
+link: 'https://www.ng-ind.com/ngIndia2018/'
+playlist: ''
+from_date: '2018-02-24'
+to_date: '2018-02-24'
+tags: ''
+talks:
+  -
+    title: 'Capture the mobile market with your web skills using NativeScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-24 08:30'
+    speakers:
+      -
+        name: 'Shiva Prasad'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Create cross framework Components using Angular Elements'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-24 09:00'
+    speakers:
+      -
+        name: 'Pankaj Parkar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Practitioner's view on Angular Server Side Rendering"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-24 09:30'
+    speakers:
+      -
+        name: 'Rahul Gupta'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Keynote session'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-24 10:15'
+    speakers:
+      -
+        name: 'Shradha Sharma'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Frameworks and Tools for Progressive Web Apps, How, What & Why'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-24 12:15'
+    speakers:
+      -
+        name: 'Manjula Dube'
+        twitter: manjula_dube
+        github: manjula91
+    videos: null
+    slides: null
+  -
+    title: 'Angular Components beyond the basics'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-24 03:35'
+    speakers:
+      -
+        name: 'Dhananjay Kumar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'What is Angular CDK'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-24 04:45'
+    speakers:
+      -
+        name: 'Jinal Shah'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Unit Testing in Angular'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2018-02-24 05:15'
+    speakers:
+      -
+        name: 'Shailendra Chauhan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
