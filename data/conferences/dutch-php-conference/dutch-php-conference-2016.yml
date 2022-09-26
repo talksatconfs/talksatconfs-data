@@ -1,0 +1,1152 @@
+name: 'Dutch PHP Conference 2016'
+description: ''
+location: ''
+venue: ''
+city: Amsterdam
+country: Netherlands
+link: 'https://joind.in/event/dutch-php-conference-2016'
+playlist: 'youtube:PLV9OnTq0kQ5wA-h8h_KqsN2Hs7e9CfjYK'
+from_date: '2016-06-23'
+to_date: '2016-06-25'
+tags: ''
+talks:
+  -
+    title: 'Hexagonal BDD - Part 1'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-23 09:30'
+    speakers:
+      -
+        name: 'Scato Eggen '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Going Elastic'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-23 09:30'
+    speakers:
+      -
+        name: 'Philipp Krenn'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Modern Databases'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-23 09:30'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos: null
+    slides: null
+  -
+    title: 'Basic CQRS and Event Sourcing with Prooph'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-23 09:30'
+    speakers:
+      -
+        name: 'Jefersson Nathan '
+        twitter: null
+        github: null
+      -
+        name: 'Marco Pivetta'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'React.js Workshop - Part 1'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-23 09:30'
+    speakers:
+      -
+        name: 'Pratik Patel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Migrating PHP extension from PHP 5 to PHP 7 - Part 1'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-23 09:30'
+    speakers:
+      -
+        name: 'Julien Pauli'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Lightning fast tests'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 13:30'
+    speakers:
+      -
+        name: 'Jakub Zalas'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Containerizing a production environment - Part 1'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-23 09:30'
+    speakers:
+      -
+        name: 'Lucas van Lierop'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Hexagonal BDD - Part 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-23 13:45'
+    speakers:
+      -
+        name: 'Scato Eggen '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Get started with Graph Databases and Neo4j'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-23 13:45'
+    speakers:
+      -
+        name: 'Christophe Willemsen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Message oriented architectures with RabbitMQ'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-23 13:45'
+    speakers:
+      -
+        name: 'Mariusz Gil'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'React.js Workshop - Part 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-23 13:45'
+    speakers:
+      -
+        name: 'Pratik Patel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Migrating PHP extension from PHP 5 to PHP 7 - Part 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-23 13:45'
+    speakers:
+      -
+        name: 'Julien Pauli'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Choose Extreme continuous delivery - a experiment'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-23 13:45'
+    speakers:
+      -
+        name: 'Sebastian Schürmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Containerizing a production environment - Part 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-23 13:45'
+    speakers:
+      -
+        name: 'Lucas van Lierop'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Mirror, mirror on the wall: Building a new PHP reflection library'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 10:45'
+    speakers:
+      -
+        name: 'James Titcumb'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Build your own Recommendation Engine with Neo4j and Reco4PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 10:45'
+    speakers:
+      -
+        name: 'Christophe Willemsen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A Functional Guide to Cat Herding with PHP Generators'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 10:45'
+    speakers:
+      -
+        name: 'Mark Baker'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Restructuring classes and behaviour to remove inheritance with composition'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 10:45'
+    speakers:
+      -
+        name: 'Wouter de Wild '
+        twitter: null
+        github: null
+      -
+        name: ' Jasper Stafleu'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Debugging: past, present and future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 10:45'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos: null
+    slides: null
+  -
+    title: 'JWT: To authentication and beyond!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 10:45'
+    speakers:
+      -
+        name: 'Luis Cobucci'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The secrets of Cryptography'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 11:45'
+    speakers:
+      -
+        name: 'Christopher Riley'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Solving Cross-Cutting Concerns in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 11:45'
+    speakers:
+      -
+        name: 'Alexander Lisachenko'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Identify All the Things With UUIDs!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 11:45'
+    speakers:
+      -
+        name: 'Ben Ramsey'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'React.js: Super-fast Single Page Web Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 11:45'
+    speakers:
+      -
+        name: 'Pratik Patel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Microservices with Thrift, or why I stopped worrying about REST'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 11:45'
+    speakers:
+      -
+        name: 'David Soria Parra'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Gary Hockin Step into debugging'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 11:45'
+    speakers:
+      -
+        name: 'Gary Hockin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Elasticsearch, the story so far'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 13:30'
+    speakers:
+      -
+        name: 'Frank Koornstra '
+        twitter: null
+        github: null
+      -
+        name: ' Jordy Moos'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Machine Learning for the rescue'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 13:30'
+    speakers:
+      -
+        name: 'Mariusz Gil'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'From source to code: an introduction into compilers, interpreters and JIT'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 13:30'
+    speakers:
+      -
+        name: 'Joshua Thijssen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Architectural Anti-patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 13:30'
+    speakers:
+      -
+        name: 'Jakub Gadkowski'
+        twitter: null
+        github: null
+      -
+        name: ' Dimitrios Psarrou'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A year of continuous delivery'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 13:30'
+    speakers:
+      -
+        name: 'Marc Veldman'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Jeroen vd Gulk Growing a development team'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 13:30'
+    speakers:
+      -
+        name: 'Jeroen v.d. Gulik'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Breaking Boundaries with FastCGI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 14:30'
+    speakers:
+      -
+        name: 'Andrew Carter'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A Talk About Naming Things Talk'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 14:30'
+    speakers:
+      -
+        name: 'Shawn McCool '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Road to Technical Team Lead'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 14:30'
+    speakers:
+      -
+        name: 'Ben Waine'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Play PHP Like a Puzzle with Puli'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 14:30'
+    speakers:
+      -
+        name: 'Bernhard Schussek'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Extending without pulling a muscle'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 14:30'
+    speakers:
+      -
+        name: 'Sara Golemon'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Deploy to Microsoft Azure in 15 minutes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 14:30'
+    speakers:
+      -
+        name: 'Michelangelo van Dam'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Integrating Bounded Contexts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 15:45'
+    speakers:
+      -
+        name: 'Carlos Buenosvinos'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Extremely defensive PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 15:45'
+    speakers:
+      -
+        name: 'Marco Pivetta'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Frontin' like a Backer"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 15:45'
+    speakers:
+      -
+        name: 'Frank de Jonge'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Programming in Hack'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 15:45'
+    speakers:
+      -
+        name: 'Alejandro Marcu'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Crafting beautiful software'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 15:45'
+    speakers:
+      -
+        name: 'Jorn Oomen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Generation REST API's in SF"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 15:45'
+    speakers:
+      -
+        name: 'Arjan Kleene'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Live broadcasting with PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 15:45'
+    speakers:
+      -
+        name: 'Martin de Keijzer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Hacking your way to better security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 16:45'
+    speakers:
+      -
+        name: "Colin O'Dell"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Deploying PHP 7'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 16:45'
+    speakers:
+      -
+        name: 'Rasmus Lerdorf'
+        twitter: rasmus
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Deploy your application in a box'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 16:45'
+    speakers:
+      -
+        name: 'Willem-Jan Zijderveld'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Beyond Testing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 16:45'
+    speakers:
+      -
+        name: 'Michael Bodnarchuk'
+        twitter: null
+        github: DavertMik
+    videos: null
+    slides: null
+  -
+    title: 'Extreme Programming 2016 Edition'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 16:45'
+    speakers:
+      -
+        name: 'Sebastian Schürmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "The pro's and cons of highly sensitive people in your organisation"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-24 16:45'
+    speakers:
+      -
+        name: 'Christiaan Nieuwlaat'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'CQRS and Domain Events for integration'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 09:45'
+    speakers:
+      -
+        name: 'Giorgio Sironi'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Driving Design through Examples'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 09:45'
+    speakers:
+      -
+        name: 'Ciaran McNulty'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Being functional in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 09:45'
+    speakers:
+      -
+        name: 'David de Boer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '53 Minutes or Less - Architecting For Failure In The Cloud'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 09:45'
+    speakers:
+      -
+        name: 'Ben Waine'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Extracting wisdom from stupidity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 09:45'
+    speakers:
+      -
+        name: 'Ramon de la Fuente '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Mob Programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 09:45'
+    speakers:
+      -
+        name: 'John Le Drew'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Getting started with ReactPHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 10:45'
+    speakers:
+      -
+        name: 'Cees-Jan Kiewiet'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Mutation Testing in PHP with Humbug'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 10:45'
+    speakers:
+      -
+        name: 'Mark Redeman'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Machine Learning - Support Vector Machines'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 10:45'
+    speakers:
+      -
+        name: 'Sjoerd Maessen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Debugging Effectively'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 10:45'
+    speakers:
+      -
+        name: "Colin O'Dell"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "You're just my type"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 10:45'
+    speakers:
+      -
+        name: 'Sara Golemon'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Niels van Esch The treacherous road to microservices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 10:45'
+    speakers:
+      -
+        name: 'Niels van Esch'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'From doctor to coder: A whole new world?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 10:45'
+    speakers:
+      -
+        name: 'Aisha Sie'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Going micro with SF micro kernel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 10:45'
+    speakers:
+      -
+        name: 'Jakub Zalas'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Event Sourcing: the good, the bad and the complicated'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 11:45'
+    speakers:
+      -
+        name: 'Jefferson Nathan '
+        twitter: null
+        github: null
+      -
+        name: 'Marco Pivetta'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Diving Deep Into JavaScript Functions'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 11:45'
+    speakers:
+      -
+        name: 'Colin DeCarlo'
+        twitter: colindecarlo
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Things I was unprepared for as a lead developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 11:45'
+    speakers:
+      -
+        name: 'Pascal de Vink'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Being effective with legacy projects'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 11:45'
+    speakers:
+      -
+        name: 'Konstantin Kudryashov'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The IoC Hydra'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 11:45'
+    speakers:
+      -
+        name: 'Kacper Gunia'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Jildert Miedema Advanced building blocks for simple applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 11:45'
+    speakers:
+      -
+        name: 'Jildert Miedema'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Microservices: Packs small, plays BIG!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 13:30'
+    speakers:
+      -
+        name: 'Stephan Hochdörfer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introducing Eager Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 13:30'
+    speakers:
+      -
+        name: 'Marcello Duarte'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Scaling your website'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 13:30'
+    speakers:
+      -
+        name: 'Alejandro Marcu'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Unglue all the things!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 13:30'
+    speakers:
+      -
+        name: 'Beau Simensen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Automating deployment with Accompli'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 13:30'
+    speakers:
+      -
+        name: 'Niels Nijens'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Could you pass me the holy grail?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 13:30'
+    speakers:
+      -
+        name: 'Dennis de Greef'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How I Built A Video Game using Event Sourcing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 14:30'
+    speakers:
+      -
+        name: 'Shawn McCool '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PSR-7 HTTP messages in the wild'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 14:30'
+    speakers:
+      -
+        name: 'Hannes Van De Vreken'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Feature Flags are Flawed: Let's Make Them Better"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 14:30'
+    speakers:
+      -
+        name: 'Stephen Young'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The road to continuous deployment: a case study'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 14:30'
+    speakers:
+      -
+        name: 'Michiel Rook'
+        twitter: michieltcs
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Refactoring node.js microservices with the "12 factor app" methods'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 14:30'
+    speakers:
+      -
+        name: 'Sebastian Schürmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'CSS architectures'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 14:30'
+    speakers:
+      -
+        name: 'Rafael Lyra'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How We Talk About Tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 15:45'
+    speakers:
+      -
+        name: 'Ross Tuck'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jSbEo1fWbxw'
+    slides: null
+  -
+    title: 'Event Sourcing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2016-06-25 00:00'
+    speakers:
+      -
+        name: 'Greg Young'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:I3uH3iiiDqY'
+    slides: null

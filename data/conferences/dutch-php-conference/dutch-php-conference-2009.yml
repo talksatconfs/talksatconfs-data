@@ -1,0 +1,483 @@
+name: 'Dutch PHP Conference 2009'
+description: ''
+location: ''
+venue: ''
+city: Amsterdam
+country: Netherlands
+link: 'https://joind.in/event/dutch-php-conference-2009'
+playlist: ''
+from_date: '2009-06-12'
+to_date: '2009-06-13'
+tags: ''
+talks:
+  -
+    title: 'Crash Course Security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-11 02:00'
+    speakers:
+      -
+        name: 'Stefan Esser'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Crash Course Certification'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-11 02:00'
+    speakers:
+      -
+        name: 'Christian Wenz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Zend Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-11 02:00'
+    speakers:
+      -
+        name: "Matthew Weier O'Phinney"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Caching/Performance
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-11 02:00'
+    speakers:
+      -
+        name: 'Helgi Þormar Þorbjörnsson '
+        twitter: null
+        github: null
+      -
+        name: 'Scott MacVicar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Running PHP on Embedded Devices - PHPing your Mobile Phone, NAS or Router'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-12 02:00'
+    speakers:
+      -
+        name: 'Michael Wittke'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Grokking the REST Architectural Style'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-12 02:00'
+    speakers:
+      -
+        name: 'Ben Ramsey'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Easy Problems are the Hard Problems: An in-depth look at the easy/hard parts of web applications.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-12 02:00'
+    speakers:
+      -
+        name: 'Paul Reinheimer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Advanced CouchDB'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-12 02:00'
+    speakers:
+      -
+        name: 'Jan Lehnardt'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'SPL, not a bridge too far'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-12 02:00'
+    speakers:
+      -
+        name: 'Michelangelo van Dam'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '8 Reasons Every PHP Developer Should Love JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-12 02:00'
+    speakers:
+      -
+        name: 'Boy Baukema'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'All the Little Pieces: Distributed systems with PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-12 02:00'
+    speakers:
+      -
+        name: 'Andrei Zmievski'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to Silverlight for PHP developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-12 02:00'
+    speakers:
+      -
+        name: 'Kevin Dockx '
+        twitter: null
+        github: null
+      -
+        name: ' Maarten Balliauw'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Contribute!
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-12 02:00'
+    speakers:
+      -
+        name: "Matthew Weier O'Phinney"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Alternative Databases'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-12 02:00'
+    speakers:
+      -
+        name: 'Scott MacVicar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'An Introduction to IBM WebSphere sMash for PHP Programmers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-12 02:00'
+    speakers:
+      -
+        name: 'Jonathan Lawrence '
+        twitter: null
+        github: null
+      -
+        name: ' Robin Fernandes'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Keeping Web Applications Lean and Mean'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-12 02:00'
+    speakers:
+      -
+        name: 'Robert Brouwer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Secure Programming with the Zend Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-12 02:00'
+    speakers:
+      -
+        name: 'Stefan Esser'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Web Accessibility – A Primer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-12 02:00'
+    speakers:
+      -
+        name: 'Christian Wenz'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Surviving the Plan Crash (NU.nl)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-12 02:00'
+    speakers:
+      -
+        name: 'Peter C. Verhage'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP: People, Code, Ideas'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-12 02:00'
+    speakers:
+      -
+        name: 'Andrei Zmievski'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Making the Most of HTTP In Your Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-13 02:00'
+    speakers:
+      -
+        name: 'Ben Ramsey'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'State & Ajax - How to Maintain Browser and Application State in an Asynchronous World'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-13 02:00'
+    speakers:
+      -
+        name: 'Paul Reinheimer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Caching for performance'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-13 02:00'
+    speakers:
+      -
+        name: 'Rob Allen'
+        twitter: akrabat
+        github: akrabat
+    videos: null
+    slides: null
+  -
+    title: 'PHP on the D-BUS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-13 02:00'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos: null
+    slides: null
+  -
+    title: 'Analysing PHP web applications with dtrace'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-13 02:00'
+    speakers:
+      -
+        name: 'David Soria Parra'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP Compiler Internals'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-13 02:00'
+    speakers:
+      -
+        name: 'Sebastian Bergmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Everything you always wanted to know about UTF-8 (but never dared to ask)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-13 02:00'
+    speakers:
+      -
+        name: 'Juliette Reinders Folmer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Trees in the Database: advanced data structures'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-13 02:00'
+    speakers:
+      -
+        name: 'Lorenzo Alberton'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'What are you talking about? Document classification in PHP.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-13 02:00'
+    speakers:
+      -
+        name: 'Ian Barber'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Habits of Highly Scalable Web Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-13 02:00'
+    speakers:
+      -
+        name: 'Eli White'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Code & Release Management'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-13 02:00'
+    speakers:
+      -
+        name: 'Eli White'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building a platform from open source at Yahoo!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-13 02:00'
+    speakers:
+      -
+        name: 'Dustin Whittle'
+        twitter: dustinwhittle
+        github: dustinwhittle
+    videos: null
+    slides: null
+  -
+    title: 'Digg: The First Two Years'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-13 02:00'
+    speakers:
+      -
+        name: 'Owen Byrne'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Ivo and Cal Show (With friends)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-13 02:00'
+    speakers:
+      -
+        name: 'Cal Evans '
+        twitter: null
+        github: null
+      -
+        name: ' Ivo Jansch'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Oracle InstallFest'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2009-06-13 02:00'
+    speakers:
+      -
+        name: 'Christopher Jones'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

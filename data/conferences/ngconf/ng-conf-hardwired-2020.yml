@@ -110,7 +110,7 @@ talks:
     talk_date: '2020-04-01 00:00'
     speakers:
       -
-        name: '  Sander Elias '
+        name: 'Sander Elias'
         twitter: esosanderelias
         github: null
     videos: null
@@ -154,7 +154,7 @@ talks:
         twitter: jelbourn
         github: null
       -
-        name: '  Sander Elias '
+        name: 'Sander Elias'
         twitter: esosanderelias
         github: null
       -
@@ -399,7 +399,7 @@ talks:
     talk_date: '2020-04-02 00:00'
     speakers:
       -
-        name: '  Anthony Humes '
+        name: 'Anthony Humes'
         twitter: null
         github: null
     videos:
@@ -445,7 +445,7 @@ talks:
         twitter: null
         github: null
       -
-        name: '  Anthony Humes '
+        name: 'Anthony Humes'
         twitter: null
         github: null
       -
@@ -616,7 +616,7 @@ talks:
     talk_date: '2020-04-03 00:00'
     speakers:
       -
-        name: '  Keen Yee Liau '
+        name: 'Keen Yee Liau'
         twitter: null
         github: null
     videos: null
@@ -629,7 +629,7 @@ talks:
     talk_date: '2020-04-03 00:00'
     speakers:
       -
-        name: '  Divya Tagtachian '
+        name: 'Divya Tagtachian'
         twitter: null
         github: null
       -
@@ -650,11 +650,11 @@ talks:
         twitter: null
         github: null
       -
-        name: '  Keen Yee Liau '
+        name: 'Keen Yee Liau'
         twitter: null
         github: null
       -
-        name: '  Divya Tagtachian '
+        name: 'Divya Tagtachian'
         twitter: null
         github: null
       -

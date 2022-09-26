@@ -1,0 +1,1201 @@
+name: 'Dutch PHP Conference 2019'
+description: ''
+location: ''
+venue: ''
+city: Amsterdam
+country: Netherlands
+link: ''
+playlist: 'youtube:PLV9OnTq0kQ5w8Nuxfrfchq_rKyQuC4ABM'
+from_date: '2019-06-06'
+to_date: '2019-06-08'
+tags: ''
+talks:
+  -
+    title: 'Progressive Web Apps for PHP Developers in action! - Full day'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-06 09:30'
+    speakers:
+      -
+        name: 'Christian Liebel'
+        twitter: ChristianLiebel
+        github: chliebel
+    videos: null
+    slides: null
+  -
+    title: 'From Zero to a Tested, Automated, and Documented Open Source Package'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-06 09:30'
+    speakers:
+      -
+        name: 'Ayesh Karunaratne'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'From Zero to App: A React Workshop - Full day'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-06 09:30'
+    speakers:
+      -
+        name: 'Joel Lord'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TDD, DDD & Teamwork'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-06 09:30'
+    speakers:
+      -
+        name: 'Pim Elshoff'
+        twitter: null
+        github: null
+      -
+        name: 'Joop Lammerts'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP Internals Deep Dive'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-06 09:30'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos: null
+    slides: null
+  -
+    title: 'Using the Symfony Messenger'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-06 09:30'
+    speakers:
+      -
+        name: 'Denis Brumann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Advanced Application Architecture - Full day'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-06 09:30'
+    speakers:
+      -
+        name: 'Matthias Noback'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Better and Faster: TDD-ing a Ride-Hailing Application w/ PHPUnit, Symfony and Doctrine'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-06 13:45'
+    speakers:
+      -
+        name: 'Chris Holland'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Build a GraphQL API with PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-06 13:45'
+    speakers:
+      -
+        name: 'Andrew Rota'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building Serverless PHP applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-06 13:45'
+    speakers:
+      -
+        name: 'Rob Allen'
+        twitter: akrabat
+        github: akrabat
+    videos: null
+    slides: null
+  -
+    title: 'Good Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-06 13:45'
+    speakers:
+      -
+        name: 'Kevlin Henney'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Agility ≠ Speed'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 09:40'
+    speakers:
+      -
+        name: 'Kevlin Henney'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:XQN9hYxWGa0'
+    slides: null
+  -
+    title: 'ᑌᑎIᑕOᗪE + P҉H҉P҉ for English Speakers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 10:45'
+    speakers:
+      -
+        name: 'Ayesh Karunaratne'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bcWI7M3m53s'
+    slides: null
+  -
+    title: 'Developing for Privacy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 10:45'
+    speakers:
+      -
+        name: heather@webdevlaw.uk
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6cwmEoiqEWQ'
+    slides: null
+  -
+    title: 'Getting the most out of Postman'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 10:45'
+    speakers:
+      -
+        name: 'Evaldo Junior Bento'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Good or bad - a key skill for developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 10:45'
+    speakers:
+      -
+        name: 'Dan Ackroyd'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TS9BNa1MDW0'
+    slides: null
+  -
+    title: 'Dynamic programming - 101'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 10:45'
+    speakers:
+      -
+        name: 'Tobias Nyholm'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iWa3Q8UPi80'
+    slides: null
+  -
+    title: 'Uncon: Git hooked ARRR!!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 10:45'
+    speakers:
+      -
+        name: 'Sebastian Feldmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Xdebug 3.0'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 11:45'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos:
+      - 'youtube:KemV2XViUbQ'
+    slides: null
+  -
+    title: 'The UI is THE APPLICATION'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 11:45'
+    speakers:
+      -
+        name: 'Antonio Peric'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0nmGnpjQDLY'
+    slides: null
+  -
+    title: 'Centralized Logging Patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 11:45'
+    speakers:
+      -
+        name: 'Philipp Krenn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sVXc7feJZwM'
+    slides: null
+  -
+    title: PEBCAK
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 11:45'
+    speakers:
+      -
+        name: 'Nash van Gool'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xJSTFhAxmzU'
+    slides: null
+  -
+    title: 'Of representation and interpretation: A unified theory'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 11:45'
+    speakers:
+      -
+        name: 'Arnout Boks'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:K2zS6vbBb9A'
+    slides: null
+  -
+    title: 'Uncon: Live @ DPC Podcast Panel'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 11:45'
+    speakers:
+      -
+        name: 'Stefan Koopmanschap'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Performant APIs with GraphQL and PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 13:30'
+    speakers:
+      -
+        name: 'Andrew Rota'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:B9GWqVmCjuk'
+    slides: null
+  -
+    title: 'What can PHP Foreign Function Interface do for you?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 13:30'
+    speakers:
+      -
+        name: 'Bohuslav Simek'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PwRNlNueTrg'
+    slides: null
+  -
+    title: 'Why I am hooked on the future of React'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 13:30'
+    speakers:
+      -
+        name: 'Maurice de Beijer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:9Klx27QQzW0'
+    slides: null
+  -
+    title: 'DevCorp: Choose Your Own Adventure'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 13:30'
+    speakers:
+      -
+        name: 'Pauline Vos'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mjnnDgWUroU'
+    slides: null
+  -
+    title: "HTTP/3: It's all about the transport!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 13:30'
+    speakers:
+      -
+        name: 'Benoit Jacquemont'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RzdquJdJBGw'
+    slides: null
+  -
+    title: 'Uncon: Why, How & Extending PSR-18'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 13:30'
+    speakers:
+      -
+        name: 'Timo Schinkel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Uncon: Emoji-PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 13:30'
+    speakers:
+      -
+        name: 'Cees-Jan Kiewiet'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The making of a great API'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 14:30'
+    speakers:
+      -
+        name: 'Rob Allen'
+        twitter: akrabat
+        github: akrabat
+    videos:
+      - 'youtube:02vL7E2tk5c'
+    slides: null
+  -
+    title: 'More Than a Query Language: SQL in the 21st Century'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 14:30'
+    speakers:
+      -
+        name: 'Markus Winand'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xvR4sOVvE50'
+    slides: null
+  -
+    title: '5 architectures of asynchronous JavaScript'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 14:30'
+    speakers:
+      -
+        name: 'Tomasz Ducin'
+        twitter: tomasz_ducin
+        github: ducin
+    videos:
+      - 'youtube:C4ZuJQ_5Ik0'
+    slides: null
+  -
+    title: 'PHP and R - Putting the PoweR in PHP Statistics'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 14:30'
+    speakers:
+      -
+        name: 'Mark Baker'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:91TQJ8S58jk'
+    slides: null
+  -
+    title: 'Becoming a tech lead - Lessons learned'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 14:30'
+    speakers:
+      -
+        name: 'Jayesh Kawli'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:FcdZuQWkj7o'
+    slides: null
+  -
+    title: 'Uncon: PHP as PHPstorm Development Tool'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 14:30'
+    speakers:
+      -
+        name: 'Kirill Smelov'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Uncon: Truth Behind Evangelism in PHP Projects'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 14:30'
+    speakers:
+      -
+        name: 'Muhammed Akbulut'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'DDD, CQRS, Hexagonal, Onion,... Putting it together'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 15:45'
+    speakers:
+      -
+        name: 'Jeroen Keppens'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:1fEuDTTf3p0'
+    slides: null
+  -
+    title: 'Anatomy of a DDoS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 15:45'
+    speakers:
+      -
+        name: 'Janna Hilferty'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nq7GwyA2hTc'
+    slides: null
+  -
+    title: 'Refactoring the Domain Guided by Tests'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 15:45'
+    speakers:
+      -
+        name: 'Pim Elshoff'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Automatic Web Page Optimisation in Pure PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 15:45'
+    speakers:
+      -
+        name: 'Albert Peschar'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yhiFkj_C1N4'
+    slides: null
+  -
+    title: 'Get on stage!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 15:45'
+    speakers:
+      -
+        name: 'Rowdy Rabouw'
+        twitter: RowdyRabouw
+        github: rowdyrabouw
+    videos:
+      - 'youtube:8QSUKitARNg'
+    slides: null
+  -
+    title: 'Uncon: OCD & Me'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 15:45'
+    speakers:
+      -
+        name: 'Kathryn Reeve'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Uncon: Low Level Programming For High Level Programmers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 15:45'
+    speakers:
+      -
+        name: 'Nash van Gool'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A Glimpse Into Accessibility'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 16:45'
+    speakers:
+      -
+        name: 'PJ Hagerty'
+        twitter: aspleenic
+        github: null
+    videos:
+      - 'youtube:HrztBvLG1qk'
+    slides: null
+  -
+    title: 'Event driven development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 16:45'
+    speakers:
+      -
+        name: 'Christopher Riley'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Zz-z-dx7dzY'
+    slides: null
+  -
+    title: 'Managing a (component) zoo - DIY web component catalogues'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 16:45'
+    speakers:
+      -
+        name: 'Sebastian Schürmann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:jqw-b5NdxwA'
+    slides: null
+  -
+    title: 'Software Management Lessons from the 1960s'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 16:45'
+    speakers:
+      -
+        name: 'Larry Garfield'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZkG-CWXezoQ'
+    slides: null
+  -
+    title: 'Post Burnout Thoughts'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 16:45'
+    speakers:
+      -
+        name: 'Joel Lord'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:JQ1-SBEdV5s'
+    slides: null
+  -
+    title: 'Uncon: Know When Your Stuff Breaks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 16:45'
+    speakers:
+      -
+        name: 'Mike Lehan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Uncon: Unexptected Type Juggling'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-07 16:45'
+    speakers:
+      -
+        name: 'Arnold Daniels'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Website performance beyond the code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 09:45'
+    speakers:
+      -
+        name: 'Tomasz Kajtoch'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "PHP Opcode? What's that?"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 09:45'
+    speakers:
+      -
+        name: 'Benoit Jacquemont'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:beT-yLxvPo8'
+    slides: null
+  -
+    title: 'Do you really need that relational DB?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 09:45'
+    speakers:
+      -
+        name: 'Donatas Aleksandravičius'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:iRjJKMc2M4Q'
+    slides: null
+  -
+    title: 'Brand Humanizing: A humane turn on AI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 09:45'
+    speakers:
+      -
+        name: 'Jonathan Flores'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:HHZDQLi7CzE'
+    slides: null
+  -
+    title: 'Backwards Incompatible Tales'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 09:45'
+    speakers:
+      -
+        name: 'Marco Pivetta'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:WJkS3uF11pA'
+    slides: null
+  -
+    title: 'Uncon: Enlarge Your Team Skills With a Bit of Time'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 09:45'
+    speakers:
+      -
+        name: 'Van Belle Jonathan (Grummfy)'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Uncon Maintaining an Open Source Repo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 09:45'
+    speakers:
+      -
+        name: 'Mario Blazek'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Async non-blocking code reviews'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 10:45'
+    speakers:
+      -
+        name: 'Frank Koornstra '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:p0RbvAXM7RA'
+    slides: null
+  -
+    title: 'Interface Segregation for PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 10:45'
+    speakers:
+      -
+        name: 'Dan Ackroyd'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:hz7CeuRDF-M'
+    slides: null
+  -
+    title: 'Automating PHP upgrades with Ansible'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 10:45'
+    speakers:
+      -
+        name: 'Janna Hilferty'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:r9rDpOG37SU'
+    slides: null
+  -
+    title: 'Keeping it Real(time)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 10:45'
+    speakers:
+      -
+        name: 'Mike Lehan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:MW8kJs3sRkQ'
+    slides: null
+  -
+    title: 'Senior Developer Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 10:45'
+    speakers:
+      -
+        name: 'Szymon Skórczyński'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:emIUjvVqI8g'
+    slides: null
+  -
+    title: 'Uncon: Scrum in Practice'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 10:45'
+    speakers:
+      -
+        name: 'Erik de Bos'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The First Contact'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 11:45'
+    speakers:
+      -
+        name: 'Andreas Heigl'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:3MKxDwOHmUc'
+    slides: null
+  -
+    title: 'Crazy Fun Experiments with PHP (Not for Production)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 11:45'
+    speakers:
+      -
+        name: 'Zan Baldwin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:LuQ2Zbd9FUc'
+    slides: null
+  -
+    title: 'Exception design - the art of making debugging more accurate'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 11:45'
+    speakers:
+      -
+        name: 'Szymon Szymański'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Y2NGlSfnhZ4'
+    slides: null
+  -
+    title: 'Improve your team synergy w/The Attitude Model'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 11:45'
+    speakers:
+      -
+        name: 'Joop Lammerts'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:rXjnlfy5v94'
+    slides: null
+  -
+    title: 'PageRank all the things!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 11:45'
+    speakers:
+      -
+        name: 'Arnout Boks'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AeZJnG9lfRs'
+    slides: null
+  -
+    title: 'Uncon: Hating Wordpress Less with WP CLI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 11:45'
+    speakers:
+      -
+        name: 'Jenny Wong'
+        twitter: miss_jwo
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Uncon: Serializing Complex Data 10x Faster'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 11:45'
+    speakers:
+      -
+        name: 'Michelle Sanver'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Uncon: Legacy to Symfony'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 11:45'
+    speakers:
+      -
+        name: 'Alexander M. Turek'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Refactoring Huge Legacy PHP Applications - From 100 hours to minutes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 13:30'
+    speakers:
+      -
+        name: 'Tomas Votruba'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZkjERf6BlaM'
+    slides: null
+  -
+    title: 'Leveraging Typed Exceptions for Cleaner Error Handling'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 13:30'
+    speakers:
+      -
+        name: 'Chris Holland'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kyTDjintL60'
+    slides: null
+  -
+    title: 'Integrating React.js into a PHP application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 13:30'
+    speakers:
+      -
+        name: 'Andrew Rota'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nNOoMJTOh_I'
+    slides: null
+  -
+    title: 'PSR-14: A major PHP Event'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 13:30'
+    speakers:
+      -
+        name: 'Larry Garfield'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tKMQl1d_894'
+    slides: null
+  -
+    title: 'Effective Mentorship'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 13:30'
+    speakers:
+      -
+        name: 'Jayesh Kawli'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Ls98y0tzp9g'
+    slides: null
+  -
+    title: 'Uncon: Sample App for CQRS, DDD, Ponts & Adapters, Onion Architecture, Events, Putting it together'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 13:30'
+    speakers:
+      -
+        name: 'Jeroen Keppens'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Time Zones and Calendars are a PITA'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 14:30'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos:
+      - 'youtube:C1y7udQk8pg'
+    slides: null
+  -
+    title: 'Get GOing with a New Language'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 14:30'
+    speakers:
+      -
+        name: 'Kat Zien'
+        twitter: kasiazien
+        github: null
+    videos:
+      - 'youtube:WNMbEp8DO8Y'
+    slides: null
+  -
+    title: 'How to use teaching as a learning tool'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 14:30'
+    speakers:
+      -
+        name: 'Carl Alexander'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:f401D04gT2g'
+    slides: null
+  -
+    title: 'Beyond design patterns and principles - writing good OO code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 14:30'
+    speakers:
+      -
+        name: 'Matthias Noback'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:efkObNHqMFk'
+    slides: null
+  -
+    title: 'Hello my name is "if"'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 14:30'
+    speakers:
+      -
+        name: 'Sebastian Feldmann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:S26mRlFUaAQ'
+    slides: null
+  -
+    title: 'Uncon: YAGNI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 14:30'
+    speakers:
+      -
+        name: 'Jeroen Smit'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Uncon: Haskell for PHP Deverlopers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 14:30'
+    speakers:
+      -
+        name: 'Marco Pivetta'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: RTFM
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2019-06-08 15:45'
+    speakers:
+      -
+        name: 'Jessica Mauerhan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:umTU2p4SSzU'
+    slides: null

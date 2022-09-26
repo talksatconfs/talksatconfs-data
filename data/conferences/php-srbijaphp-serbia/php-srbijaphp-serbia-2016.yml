@@ -18,7 +18,7 @@ talks:
     talk_date: '2016-05-29 05:30'
     speakers:
       -
-        name: 'Rafael Dohms'
+        name: ' Rafael Dohms'
         twitter: null
         github: null
     videos:
@@ -32,7 +32,7 @@ talks:
     talk_date: '2016-05-28 06:30'
     speakers:
       -
-        name: 'Sebastian Bergmann  '
+        name: 'Sebastian Bergmann'
         twitter: null
         github: null
     videos:
@@ -87,7 +87,7 @@ talks:
     talk_date: '2016-05-29 10:30'
     speakers:
       -
-        name: 'Sebastian Bergmann  '
+        name: 'Sebastian Bergmann'
         twitter: null
         github: null
       -
@@ -133,7 +133,7 @@ talks:
     talk_date: '2016-05-28 09:00'
     speakers:
       -
-        name: 'Rafael Dohms'
+        name: ' Rafael Dohms'
         twitter: null
         github: null
     videos:

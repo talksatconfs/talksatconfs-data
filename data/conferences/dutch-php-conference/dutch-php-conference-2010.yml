@@ -1,0 +1,770 @@
+name: 'Dutch PHP Conference 2010'
+description: ''
+location: ''
+venue: ''
+city: Amsterdam
+country: Netherlands
+link: 'https://joind.in/event/dutch-php-conference-2010'
+playlist: ''
+from_date: '2010-06-10'
+to_date: '2010-06-12'
+tags: ''
+talks:
+  -
+    title: 'Writing a PHP extension in C - part 1'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-10 09:30'
+    speakers:
+      -
+        name: 'Melanie Rhianna Lewis'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building a social networking site with Drupal'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-10 09:30'
+    speakers:
+      -
+        name: 'Marcus Deglos'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Quality Assurance in PHP Projects'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-10 09:30'
+    speakers:
+      -
+        name: 'Sebastian Bergmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Zend Framework Application Patterns - Part 1'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-10 09:30'
+    speakers:
+      -
+        name: "Matthew Weier O'Phinney and Rob Allen"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Scrum Workshop - Working projects the iterative way - Part 1'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-10 09:30'
+    speakers:
+      -
+        name: 'Sebastian Schürmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP through the eyes of a hoster'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-10 13:30'
+    speakers:
+      -
+        name: 'Thijs Feryn'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Writing a PHP extension in C - part 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-10 13:30'
+    speakers:
+      -
+        name: 'Melanie Rhianna Lewis'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Evolution of Web Security: Fundamentals, Emerging Trends, and Ideas for the Future'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-10 13:30'
+    speakers:
+      -
+        name: 'Chris Shiflett'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Debugging techniques with Xdebug'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-10 13:30'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos: null
+    slides: null
+  -
+    title: 'Zend Framework Application Patterns - Part 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-10 13:30'
+    speakers:
+      -
+        name: "Matthew Weier O'Phinney"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Scrum Workshop - Working projects the iterative way - Part 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-10 13:30'
+    speakers:
+      -
+        name: 'Sebastian Schürmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: '97 Things Every Programmer Should Know'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 09:30'
+    speakers:
+      -
+        name: 'Kevlin Henney'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Designing for Reusability'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 10:45'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos: null
+    slides: null
+  -
+    title: 'Premature Optimization Mistakes'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 10:45'
+    speakers:
+      -
+        name: 'Ilia Alshanetsky'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP on Windows'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 10:45'
+    speakers:
+      -
+        name: 'Brian Swan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Hows and Whys of (Un)Conference Speaking'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 10:45'
+    speakers:
+      -
+        name: 'Stefan Koopmanschap'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Technical Debt'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 11:45'
+    speakers:
+      -
+        name: 'Elizabeth Naramore Barron'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Cake Is A Lie'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 11:45'
+    speakers:
+      -
+        name: 'Sebastian Bergmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Working with Zend_Form'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 11:45'
+    speakers:
+      -
+        name: 'Rob Allen'
+        twitter: akrabat
+        github: akrabat
+    videos: null
+    slides: null
+  -
+    title: 'Scrum in the Wild'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 11:45'
+    speakers:
+      -
+        name: 'Mike van Riel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Art of Scalability'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 13:30'
+    speakers:
+      -
+        name: 'Lorenzo Alberton'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Graphics with Cairo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 13:30'
+    speakers:
+      -
+        name: 'Michael MacLean'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Layering Services'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 13:30'
+    speakers:
+      -
+        name: 'Nick Belhomme'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Practical Usage of HipHop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 13:45'
+    speakers:
+      -
+        name: 'Scott MacVicar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Multithreading in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 14:00'
+    speakers:
+      -
+        name: 'Dimitriy Remerov'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Writing Re-usable, RESTful Web Services with Zend Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 14:30'
+    speakers:
+      -
+        name: "Matthew Weier O'Phinney"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Under PHP's hood"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 14:30'
+    speakers:
+      -
+        name: 'Johannes Schlüter'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Database version control without pain'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 14:30'
+    speakers:
+      -
+        name: 'Harrie Verveer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Scala (Programming Language)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 14:30'
+    speakers:
+      -
+        name: 'David Soria Parra'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Testing untestable code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 15:45'
+    speakers:
+      -
+        name: 'Stephan Hochdörfer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Web services for consumer devices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 15:45'
+    speakers:
+      -
+        name: 'Melanie Rhianna Lewis'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Advanced Git'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 15:45'
+    speakers:
+      -
+        name: 'David Soria Parra'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Bayesian Filtering For Twitter'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 15:45'
+    speakers:
+      -
+        name: 'Rowan Merewood'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'HiPHoP for PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 16:45'
+    speakers:
+      -
+        name: 'Scott MacVicar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Agile PHP Software Development'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 16:45'
+    speakers:
+      -
+        name: 'Thorsten Rinne'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Crash! Burn! Recover!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 16:45'
+    speakers:
+      -
+        name: 'Cal Evans '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Ways To Migrate And Refactor Your Application And Still Keep Your Boss Happy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-11 16:45'
+    speakers:
+      -
+        name: 'Robert-Jan de Dreu'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Security-Centered Design: Exploring the Impact of Human Behavior'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 09:30'
+    speakers:
+      -
+        name: 'Chris Shiflett'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Stress-free deployment'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 10:45'
+    speakers:
+      -
+        name: 'Rob Allen'
+        twitter: akrabat
+        github: akrabat
+    videos: null
+    slides: null
+  -
+    title: 'Async webservices with php and nodejs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 10:45'
+    speakers:
+      -
+        name: 'Sebastian Schürmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Real World Dependency Injection'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 10:45'
+    speakers:
+      -
+        name: 'Stephan Hochdörfer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Starting Continuous Integration, Why and How?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 10:45'
+    speakers:
+      -
+        name: 'Martin de Keijzer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Edge side includes in Zend Framework Without Varnish'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 11:15'
+    speakers:
+      -
+        name: 'Jeroen van Dijk'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'APC & Memcache the High Performance Duo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 11:45'
+    speakers:
+      -
+        name: 'Ilia Alshanetsky'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Where in the world: Geo data in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 11:45'
+    speakers:
+      -
+        name: 'Marcus Deglos'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Embracing Constraints with CouchDB'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 11:45'
+    speakers:
+      -
+        name: 'David Zuelke'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'MySQL Client Side Caching'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 11:45'
+    speakers:
+      -
+        name: 'Johannes Schlüter'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'In Search Of... Integrating Site Search'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 13:30'
+    speakers:
+      -
+        name: 'Ian Barber'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Design for Scalability with Hierarchical MVC'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 13:30'
+    speakers:
+      -
+        name: 'Sam de Freyssinet'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Technical Writing 101'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 13:30'
+    speakers:
+      -
+        name: 'Elizabeth Naramore Barron'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Content Driven ACL in the Model Layer (ZF)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 13:30'
+    speakers:
+      -
+        name: 'Jeroen Keppens'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'iPhone Apps With HTML5'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 13:45'
+    speakers:
+      -
+        name: 'Thorsten Rinne'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Building on Cairo'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 14:00'
+    speakers:
+      -
+        name: 'Michael MacLean'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Reviewing PHP Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 14:30'
+    speakers:
+      -
+        name: 'Sebastian Bergmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Plant Pyrus in your system - A guide to a plugin system'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 14:30'
+    speakers:
+      -
+        name: 'Helgi Þormar Þorbjörnsson '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Domain NoSQL: Next Generation Models'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 14:30'
+    speakers:
+      -
+        name: "Matthew Weier O'Phinney"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Doctrine 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 14:30'
+    speakers:
+      -
+        name: 'Benjamin Eberlei '
+        twitter: null
+        github: null
+      -
+        name: ' Juozas Kaziukėnas'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Panel: The Future of PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2010-06-12 15:45'
+    speakers:
+      -
+        name: ' Ivo Jansch'
+        twitter: null
+        github: null
+    videos: null
+    slides: null

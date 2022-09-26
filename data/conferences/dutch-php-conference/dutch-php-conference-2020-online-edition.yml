@@ -1,0 +1,173 @@
+name: 'Dutch PHP Conference 2020 - Online Edition'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: 'youtube:PLV9OnTq0kQ5ygGrauB0lrIalHAupR5l8o'
+from_date: '2020-06-25'
+to_date: '2020-06-26'
+tags: ''
+talks:
+  -
+    title: 'Getting the Most Out of PHPStan'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-06-25 10:00'
+    speakers:
+      -
+        name: 'Ondřej Mirtes'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Efficient Domain-Driven Design with Event Storming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-06-25 10:00'
+    speakers:
+      -
+        name: 'Arne Blankerts'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A speed date with Alice and Bob'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-06-25 14:00'
+    speakers:
+      -
+        name: 'Andreas Heigl'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Decoupling from infrastructure'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-06-25 14:00'
+    speakers:
+      -
+        name: 'Matthias Noback'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Opening
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-06-26 09:30'
+    speakers:
+      -
+        name: 'Cal Evans '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "What's new in PHP 7.4, and coming up in PHP 8"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-06-26 09:45'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos:
+      - 'youtube:FZ8x-i_LPXA'
+    slides: null
+  -
+    title: 'Serverless PHP applications with Bref'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-06-26 10:45'
+    speakers:
+      -
+        name: 'Matthieu Napoli'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:109E4NMAou4'
+    slides: null
+  -
+    title: 'Improving Application Performance with ReactPHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-06-26 11:45'
+    speakers:
+      -
+        name: 'Sergey Zhuk'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ccfhFdVmq04'
+    slides: null
+  -
+    title: 'My Top 10 PHPUnit Tips & Tricks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-06-26 13:00'
+    speakers:
+      -
+        name: 'Juliette Reinders Folmer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ZpWdeDMAfuY'
+    slides: null
+  -
+    title: 'Top 10 PHP coding traps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-06-26 14:00'
+    speakers:
+      -
+        name: 'Damien Seguy'
+        twitter: faguo
+        github: dseguy
+    videos:
+      - 'youtube:3rtJWn6IyQo'
+    slides: null
+  -
+    title: 'Events are forever… until they’re not.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-06-26 15:00'
+    speakers:
+      -
+        name: 'Christopher Riley'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: Closing
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2020-06-26 15:45'
+    speakers:
+      -
+        name: 'Cal Evans '
+        twitter: null
+        github: null
+    videos: null
+    slides: null

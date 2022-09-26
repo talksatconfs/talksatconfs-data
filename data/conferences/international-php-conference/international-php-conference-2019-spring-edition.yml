@@ -168,11 +168,11 @@ talks:
         twitter: null
         github: null
       -
-        name: ' Fionn Kientzler  '
+        name: 'Fionn Kientzler'
         twitter: null
         github: null
       -
-        name: ' Stefan Priebsch  '
+        name: 'Stefan Priebsch'
         twitter: null
         github: null
       -
@@ -245,7 +245,7 @@ talks:
     talk_date: '2019-06-04 14:45'
     speakers:
       -
-        name: ' Stefan Priebsch  '
+        name: 'Stefan Priebsch'
         twitter: null
         github: null
     videos: null
@@ -338,7 +338,7 @@ talks:
     talk_date: '2019-06-04 17:15'
     speakers:
       -
-        name: 'Sebastian Bergmann  '
+        name: 'Sebastian Bergmann'
         twitter: null
         github: null
     videos:
@@ -459,7 +459,7 @@ talks:
     talk_date: '2019-06-05 10:45'
     speakers:
       -
-        name: ' Stefan Priebsch  '
+        name: 'Stefan Priebsch'
         twitter: null
         github: null
     videos:
@@ -580,7 +580,7 @@ talks:
     talk_date: '2019-06-05 15:00'
     speakers:
       -
-        name: 'Frank Koornstra'
+        name: 'Frank Koornstra '
         twitter: null
         github: null
     videos:
@@ -674,7 +674,7 @@ talks:
     talk_date: '2019-06-05 16:15'
     speakers:
       -
-        name: 'Sebastian Bergmann  '
+        name: 'Sebastian Bergmann'
         twitter: null
         github: null
     videos: null

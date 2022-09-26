@@ -70,7 +70,7 @@ talks:
     talk_date: '2017-05-30 10:45'
     speakers:
       -
-        name: ' Stefan Priebsch  '
+        name: 'Stefan Priebsch'
         twitter: null
         github: null
     videos: null
@@ -126,7 +126,7 @@ talks:
         twitter: null
         github: null
       -
-        name: ' Tobias Schlitt'
+        name: 'Tobias Schlitt '
         twitter: null
         github: null
     videos: null
@@ -165,7 +165,7 @@ talks:
     talk_date: '2017-05-30 15:45'
     speakers:
       -
-        name: 'Sebastian Bergmann  '
+        name: 'Sebastian Bergmann'
         twitter: null
         github: null
       -
@@ -293,7 +293,7 @@ talks:
     talk_date: '2017-05-31 09:30'
     speakers:
       -
-        name: 'Sebastian Bergmann  '
+        name: 'Sebastian Bergmann'
         twitter: null
         github: null
     videos: null
@@ -333,11 +333,11 @@ talks:
     talk_date: '2017-05-31 10:45'
     speakers:
       -
-        name: 'Benjamin Eberlei  '
+        name: 'Benjamin Eberlei '
         twitter: null
         github: null
       -
-        name: ' Tobias Schlitt'
+        name: 'Tobias Schlitt '
         twitter: null
         github: null
     videos: null
@@ -496,7 +496,7 @@ talks:
     talk_date: '2017-06-01 09:30'
     speakers:
       -
-        name: 'Benjamin Eberlei  '
+        name: 'Benjamin Eberlei '
         twitter: null
         github: null
       -
@@ -513,7 +513,7 @@ talks:
     talk_date: '2017-06-01 09:30'
     speakers:
       -
-        name: 'Luís Cobucci'
+        name: 'Luis Cobucci'
         twitter: null
         github: null
     videos: null
@@ -553,7 +553,7 @@ talks:
     talk_date: '2017-06-01 10:45'
     speakers:
       -
-        name: ' Stefan Priebsch  '
+        name: 'Stefan Priebsch'
         twitter: null
         github: null
     videos: null

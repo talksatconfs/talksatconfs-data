@@ -270,7 +270,7 @@ talks:
     talk_date: '2017-02-17 00:00'
     speakers:
       -
-        name: 'Luís Cobucci'
+        name: 'Luis Cobucci'
         twitter: null
         github: null
     videos:
@@ -466,7 +466,7 @@ talks:
     talk_date: '2017-02-17 00:00'
     speakers:
       -
-        name: 'Freek van der Herten'
+        name: 'Freek Van der Herten'
         twitter: freekmurze
         github: freekmurze
     videos:

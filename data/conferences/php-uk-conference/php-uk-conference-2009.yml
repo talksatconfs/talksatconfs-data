@@ -57,7 +57,7 @@ talks:
     talk_date: '2009-02-27 00:00'
     speakers:
       -
-        name: 'Sebastian Bergmann  '
+        name: 'Sebastian Bergmann'
         twitter: null
         github: null
     videos: null

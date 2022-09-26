@@ -1,0 +1,96 @@
+name: 'Dutch PHP Conference 2022 - Online Edition'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: 'https://www.phpconference.nl/'
+playlist: 'youtube:PLV9OnTq0kQ5x-Qgg4lw-cd39EJkmPxbG_'
+from_date: '2022-06-24'
+to_date: '2022-06-24'
+tags: ''
+talks:
+  -
+    title: 'Use an API contract for testing and development!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-06-24 09:45'
+    speakers:
+      -
+        name: 'Danny Verpoort'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:xFWLfEgPg1U'
+    slides: null
+  -
+    title: 'Love Your Monolith'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-06-24 10:45'
+    speakers:
+      -
+        name: 'Mike Lehan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:QqIH2dplcuo'
+    slides: null
+  -
+    title: 'Bugfixing your career'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-06-24 11:45'
+    speakers:
+      -
+        name: 'Diana Scharf'
+        twitter: DianaWebdev
+        github: null
+    videos:
+      - 'youtube:m0qsdgOQMPI'
+    slides: null
+  -
+    title: 'Building Recommender System in PHP8'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-06-24 13:00'
+    speakers:
+      -
+        name: 'Mihailo Joksimovic'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:_NVp-TnVmt4'
+    slides: null
+  -
+    title: 'Scaling: from 0 to 20 million users'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-06-24 14:00'
+    speakers:
+      -
+        name: 'Josip Stuhli'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:82R0GvERY20'
+    slides: null
+  -
+    title: 'How to lead brilliant developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2022-06-24 15:00'
+    speakers:
+      -
+        name: 'Bryce Embry'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:I9fRqBmJ2vE'
+    slides: null

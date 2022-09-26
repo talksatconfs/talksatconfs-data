@@ -226,7 +226,7 @@ talks:
     talk_date: '2015-02-06 17:15'
     speakers:
       -
-        name: 'Rafael Dohms'
+        name: ' Rafael Dohms'
         twitter: null
         github: null
     videos: null
@@ -590,7 +590,7 @@ talks:
     talk_date: '2015-02-07 18:15'
     speakers:
       -
-        name: 'Cal Evans'
+        name: 'Cal Evans '
         twitter: null
         github: null
     videos: null

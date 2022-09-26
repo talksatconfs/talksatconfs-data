@@ -32,7 +32,7 @@ talks:
     talk_date: '2016-08-24 00:00'
     speakers:
       -
-        name: 'Jeroen V.D. Gulik'
+        name: 'Jeroen v.d. Gulik'
         twitter: null
         github: null
     videos:
@@ -46,7 +46,7 @@ talks:
     talk_date: '2016-08-23 00:00'
     speakers:
       -
-        name: 'Mitchell Van Wijngaarden'
+        name: ' Mitchell van Wijngaarden'
         twitter: null
         github: null
     videos:
@@ -74,7 +74,7 @@ talks:
     talk_date: '2016-08-24 00:00'
     speakers:
       -
-        name: 'Freek van der Herten'
+        name: 'Freek Van der Herten'
         twitter: freekmurze
         github: freekmurze
       -

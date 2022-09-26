@@ -61,7 +61,7 @@ talks:
     talk_date: '2016-10-24 09:45'
     speakers:
       -
-        name: 'Sebastian Bergmann  '
+        name: 'Sebastian Bergmann'
         twitter: null
         github: null
       -
@@ -147,7 +147,7 @@ talks:
     talk_date: '2016-10-24 13:30'
     speakers:
       -
-        name: 'Sebastian Bergmann  '
+        name: 'Sebastian Bergmann'
         twitter: null
         github: null
       -
@@ -155,7 +155,7 @@ talks:
         twitter: null
         github: null
       -
-        name: ' Stefan Priebsch  '
+        name: 'Stefan Priebsch'
         twitter: null
         github: null
       -
@@ -263,7 +263,7 @@ talks:
     talk_date: '2016-10-24 15:45'
     speakers:
       -
-        name: 'David Buchmann'
+        name: 'David Buchmann '
         twitter: null
         github: null
     videos: null

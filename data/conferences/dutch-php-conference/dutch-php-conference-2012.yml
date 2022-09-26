@@ -1,0 +1,752 @@
+name: 'Dutch PHP Conference 2012'
+description: ''
+location: ''
+venue: ''
+city: Amsterdam
+country: Netherlands
+link: 'https://joind.in/event/dutch-php-conference-2012'
+playlist: 'youtube:PLV9OnTq0kQ5zOeBrNzNmqAWY127tpBU8a'
+from_date: '2012-06-06'
+to_date: '2012-06-09'
+tags: ''
+talks:
+  -
+    title: 'Web Services'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-07 09:30'
+    speakers:
+      -
+        name: 'Lorna Mitchell'
+        twitter: lornajane
+        github: lornajane
+    videos: null
+    slides: null
+  -
+    title: 'Acceptance and Integration Testing With Behat'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-07 09:30'
+    speakers:
+      -
+        name: 'Ben Waine'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Agile Toolbox 2012 - Practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-07 09:30'
+    speakers:
+      -
+        name: 'Sebastian Schürmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Agile Applications with ExtJS and Zend Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-09 13:30'
+    speakers:
+      -
+        name: 'Chris Cornutt'
+        twitter: enygma
+        github: enygma
+    videos:
+      - 'youtube:LT7IM3tAqFE'
+    slides: null
+  -
+    title: 'Creating Re-usable Modules for Zend Framework 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-07 09:30'
+    speakers:
+      -
+        name: "Matthew Weier O'Phinney"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Cooking up a Virtual Development Environment'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-07 09:30'
+    speakers:
+      -
+        name: 'Alistair Stead'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Getting into FLOW3'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-07 13:45'
+    speakers:
+      -
+        name: 'Robert Lemke'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:6POBa6PR6iI'
+    slides: null
+  -
+    title: "Estimation or 'How to Dig Your Own Grave"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-07 13:45'
+    speakers:
+      -
+        name: 'Rowan Merewood'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Learning backbone.js'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-07 13:45'
+    speakers:
+      -
+        name: 'Evert Pot'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP in the Dark - shell scripts, daemons & parallel processing'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-07 13:45'
+    speakers:
+      -
+        name: 'Jeroen Keppens'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Programming Style and Your Brain'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 09:40'
+    speakers:
+      -
+        name: 'Douglas Crockford'
+        twitter: null
+        github: douglascrockford
+    videos:
+      - 'youtube:Y0tEQyYCB6E'
+    slides: null
+  -
+    title: 'SPL in the Wild'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 10:45'
+    speakers:
+      -
+        name: 'Elizabeth Marie Smith'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:0rXUhEdJ5Aw'
+    slides: null
+  -
+    title: 'Hands on FLOW3'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 10:45'
+    speakers:
+      -
+        name: 'Robert Lemke'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How not to design a toad'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 10:45'
+    speakers:
+      -
+        name: 'Mike van Riel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:IhJs3MfBkmg'
+    slides: null
+  -
+    title: "Your code sucks! Let's fix it."
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 10:45'
+    speakers:
+      -
+        name: ' Rafael Dohms'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Designing Beautiful Software'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 11:45'
+    speakers:
+      -
+        name: "Matthew Weier O'Phinney"
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:sbxzJPGF9oI'
+    slides: null
+  -
+    title: 'OAuth: A Question of Trust'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 11:45'
+    speakers:
+      -
+        name: 'Lorna Mitchell'
+        twitter: lornajane
+        github: lornajane
+    videos:
+      - 'youtube:avenusGnU14'
+    slides: null
+  -
+    title: 'Mashing up JavaScript – Advanced techniques for modern web applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 11:45'
+    speakers:
+      -
+        name: 'Bastian Hofmann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:97saAMZvnkc'
+    slides: null
+  -
+    title: 'If you are developing FOR the cloud, you should be developing IN the cloud.'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 11:45'
+    speakers:
+      -
+        name: 'Cal Evans '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'ElasticSearch [R]evolution: Welcome'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 13:30'
+    speakers:
+      -
+        name: 'Andrei Zmievski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:nK4CpaX4Y5w'
+    slides: null
+  -
+    title: 'A quick start on Zend Framework 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 13:30'
+    speakers:
+      -
+        name: 'Enrico Zimuel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:gkxkS1zIFGU'
+    slides: null
+  -
+    title: 'Frisby.js: BDD for your REST API'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 13:30'
+    speakers:
+      -
+        name: 'Vance Lucas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qqhG6OJv6Tw'
+    slides: null
+  -
+    title: 'I Teach PHP - HELP!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 13:30'
+    speakers:
+      -
+        name: 'Clinton Ingrams'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Cranking Nginx up to 11'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 14:30'
+    speakers:
+      -
+        name: 'Helgi Þormar Þorbjörnsson '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:tfAcyVb6kd4'
+    slides: null
+  -
+    title: 'The API Dilemma'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 14:30'
+    speakers:
+      -
+        name: 'Chris Cornutt'
+        twitter: enygma
+        github: enygma
+    videos:
+      - 'youtube:qBG6axykME8'
+    slides: null
+  -
+    title: 'Travis CI - Distributed CI for the masses!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 14:30'
+    speakers:
+      -
+        name: 'Josh Kalderimis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RCSiKvBg8CI'
+    slides: null
+  -
+    title: 'Social Media APIs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 14:30'
+    speakers:
+      -
+        name: 'Werner Keil'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Fast, Not Furious'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 15:45'
+    speakers:
+      -
+        name: 'Davey Shafik'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ywzJrvSiJtE'
+    slides: null
+  -
+    title: 'Separating the concerns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 15:45'
+    speakers:
+      -
+        name: 'Joshua Thijssen'
+        twitter: null
+        github: null
+      -
+        name: 'Stephan Hochdörfer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:qEoccvWbPi4'
+    slides: null
+  -
+    title: 'Redis for the Everyday Developer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 15:45'
+    speakers:
+      -
+        name: 'Ross Tuck'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:vlzm59L3HsY'
+    slides: null
+  -
+    title: 'Aspect-Oriented Programming in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 15:45'
+    speakers:
+      -
+        name: 'Robert Lemke'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Hardcore Performance Testing with JMeter'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 16:15'
+    speakers:
+      -
+        name: 'Boy Baukema'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Designing HTTP Interfaces and RESTful Web Services'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 16:45'
+    speakers:
+      -
+        name: 'David Zuelke'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:I_jvaClTBWE'
+    slides: null
+  -
+    title: 'Scalability issues: cure first, prevent later'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 16:45'
+    speakers:
+      -
+        name: 'Thijs Feryn'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Pj_cvu_6OHI'
+    slides: null
+  -
+    title: 'Continuous data processing and PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 16:45'
+    speakers:
+      -
+        name: 'Michael Peacock'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:bBzGV-v9C1k'
+    slides: null
+  -
+    title: 'Annotating with Annotations'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-08 16:45'
+    speakers:
+      -
+        name: ' Rafael Dohms'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Rasmus Lerdorf will do the Saturday opening keynote!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-09 09:40'
+    speakers:
+      -
+        name: 'Rasmus Lerdorf'
+        twitter: rasmus
+        github: null
+    videos:
+      - 'youtube:AoSwZcNJwmE'
+    slides: null
+  -
+    title: 'Event and Signal Programming'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-09 10:45'
+    speakers:
+      -
+        name: 'Elizabeth Marie Smith'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The state of DI in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-09 10:45'
+    speakers:
+      -
+        name: 'Stephan Hochdörfer'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:PThWObN3JA8'
+    slides: null
+  -
+    title: 'Extending Doctrine 2 for your Domain Model'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-09 10:45'
+    speakers:
+      -
+        name: 'Ross Tuck'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:X-MFJV1vNHo'
+    slides: null
+  -
+    title: 'Cryptography in Zend Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-09 10:45'
+    speakers:
+      -
+        name: 'Enrico Zimuel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP 5.4: The New Bits'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-09 11:45'
+    speakers:
+      -
+        name: 'Davey Shafik'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Coupling Cohesion and more SUDO science'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-09 11:45'
+    speakers:
+      -
+        name: 'Sebastian Schürmann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:aBZcXxvzPFc'
+    slides: null
+  -
+    title: 'Puppet for dummies'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-09 11:45'
+    speakers:
+      -
+        name: 'Joshua Thijssen'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Y1c9SD3eDgg'
+    slides: null
+  -
+    title: 'Mini PHP Testfest'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-09 11:45'
+    speakers:
+      -
+        name: 'Michelangelo van Dam'
+        twitter: null
+        github: null
+      -
+        name: ' Rafael Dohms'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHAR, the PHP .exe format'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-09 13:30'
+    speakers:
+      -
+        name: 'Helgi Þormar Þorbjörnsson '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ULO5j1XqkrA'
+    slides: null
+  -
+    title: "Let's build a parser!"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-09 13:30'
+    speakers:
+      -
+        name: 'Boy Baukema'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:OQwL2PwnHak'
+    slides: null
+  -
+    title: 'HTML5 Canvas'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-09 13:30'
+    speakers:
+      -
+        name: 'Lineke Kerckhoffs-Willems'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'HTML5 Overview'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-09 14:00'
+    speakers:
+      -
+        name: 'Estelle Weyl'
+        twitter: estellevw
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A Knapsack of Geotools: More than Just Google Maps'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-09 14:30'
+    speakers:
+      -
+        name: 'Andrei Zmievski'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:BeLWg_DnHtc'
+    slides: null
+  -
+    title: 'From the Ground Up: Hands-on coding, deploying, and scaling with AWS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-09 14:30'
+    speakers:
+      -
+        name: 'Rowan Merewood'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:RIB4Bn09t6Q'
+    slides: null
+  -
+    title: 'Composer: Project Dependency Management for PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-09 14:30'
+    speakers:
+      -
+        name: 'Nils Adermann'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Pr_bl9nWgjY'
+    slides: null
+  -
+    title: 'REST APIs in Practice'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-09 14:30'
+    speakers:
+      -
+        name: 'Joshua Thijssen'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Mobile is huge in Japan'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2012-06-09 15:45'
+    speakers:
+      -
+        name: 'Joe Stump'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
