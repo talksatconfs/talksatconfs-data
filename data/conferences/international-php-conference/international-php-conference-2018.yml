@@ -70,7 +70,7 @@ talks:
     talk_date: '2018-10-16 10:15'
     speakers:
       -
-        name: 'Sebastian Bergmann  '
+        name: 'Sebastian Bergmann'
         twitter: null
         github: null
       -
@@ -204,7 +204,7 @@ talks:
     talk_date: '2018-10-16 16:00'
     speakers:
       -
-        name: ' Stefan Priebsch  '
+        name: 'Stefan Priebsch'
         twitter: null
         github: null
     videos: null
@@ -416,7 +416,7 @@ talks:
     talk_date: '2018-10-17 14:15'
     speakers:
       -
-        name: ' Stefan Priebsch  '
+        name: 'Stefan Priebsch'
         twitter: null
         github: null
     videos: null
@@ -455,7 +455,7 @@ talks:
     talk_date: '2018-10-17 16:00'
     speakers:
       -
-        name: 'Sebastian Bergmann  '
+        name: 'Sebastian Bergmann'
         twitter: null
         github: null
     videos: null
@@ -534,7 +534,7 @@ talks:
     talk_date: '2018-10-17 17:15'
     speakers:
       -
-        name: 'Sebastian Bergmann  '
+        name: 'Sebastian Bergmann'
         twitter: null
         github: null
     videos: null
@@ -722,7 +722,7 @@ talks:
     talk_date: '2018-10-18 11:45'
     speakers:
       -
-        name: 'Sebastian Bergmann  '
+        name: 'Sebastian Bergmann'
         twitter: null
         github: null
     videos: null

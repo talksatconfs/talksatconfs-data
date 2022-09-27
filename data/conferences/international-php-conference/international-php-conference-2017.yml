@@ -18,7 +18,7 @@ talks:
     talk_date: '2017-10-24 10:15'
     speakers:
       -
-        name: 'Sebastian Bergmann  '
+        name: 'Sebastian Bergmann'
         twitter: null
         github: null
     videos:
@@ -157,7 +157,7 @@ talks:
         twitter: null
         github: null
       -
-        name: ' Tobias Schlitt'
+        name: 'Tobias Schlitt '
         twitter: null
         github: null
     videos: null
@@ -170,7 +170,7 @@ talks:
     talk_date: '2017-10-24 14:15'
     speakers:
       -
-        name: ' Stefan Priebsch  '
+        name: 'Stefan Priebsch'
         twitter: null
         github: null
     videos: null
@@ -524,7 +524,7 @@ talks:
         twitter: null
         github: null
       -
-        name: ' Tobias Schlitt'
+        name: 'Tobias Schlitt '
         twitter: null
         github: null
     videos: null
@@ -590,7 +590,7 @@ talks:
     talk_date: '2017-10-25 14:15'
     speakers:
       -
-        name: 'Sebastian Bergmann  '
+        name: 'Sebastian Bergmann'
         twitter: null
         github: null
     videos: null
@@ -921,7 +921,7 @@ talks:
         twitter: null
         github: null
       -
-        name: ' Stefan Priebsch  '
+        name: 'Stefan Priebsch'
         twitter: null
         github: null
     videos:
@@ -935,7 +935,7 @@ talks:
     talk_date: '2017-10-26 14:30'
     speakers:
       -
-        name: 'Benjamin Eberlei  '
+        name: 'Benjamin Eberlei '
         twitter: null
         github: null
     videos:

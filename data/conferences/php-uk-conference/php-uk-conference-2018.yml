@@ -269,7 +269,7 @@ talks:
     talk_date: '2018-02-16 00:00'
     speakers:
       -
-        name: 'Kat Zień'
+        name: 'Kat Zien'
         twitter: kasiazien
         github: null
     videos:
@@ -297,7 +297,7 @@ talks:
     talk_date: '2018-02-15 00:00'
     speakers:
       -
-        name: 'Freek van der Herten'
+        name: 'Freek Van der Herten'
         twitter: freekmurze
         github: freekmurze
     videos:

@@ -83,7 +83,7 @@ talks:
     talk_date: '2013-02-09 09:00'
     speakers:
       -
-        name: 'Cal Evans'
+        name: 'Cal Evans '
         twitter: null
         github: null
     videos: null
@@ -200,7 +200,7 @@ talks:
     talk_date: '2013-02-09 19:00'
     speakers:
       -
-        name: 'David Buchmann'
+        name: 'David Buchmann '
         twitter: null
         github: null
     videos: null
@@ -395,7 +395,7 @@ talks:
     talk_date: '2013-02-09 10:15'
     speakers:
       -
-        name: 'Ligaya Turmelle'
+        name: ' Ligaya Turmelle'
         twitter: null
         github: null
     videos: null
@@ -434,7 +434,7 @@ talks:
     talk_date: '2013-02-09 10:15'
     speakers:
       -
-        name: 'David Buchmann'
+        name: 'David Buchmann '
         twitter: null
         github: null
     videos: null
@@ -447,7 +447,7 @@ talks:
     talk_date: '2013-02-09 11:30'
     speakers:
       -
-        name: 'Juozas Kaziukenas'
+        name: ' Juozas Kaziukėnas'
         twitter: null
         github: null
     videos: null
@@ -473,7 +473,7 @@ talks:
     talk_date: '2013-02-08 13:30'
     speakers:
       -
-        name: 'Sebastian Bergmann  '
+        name: 'Sebastian Bergmann'
         twitter: null
         github: null
     videos: null
@@ -499,7 +499,7 @@ talks:
     talk_date: '2013-02-08 10:15'
     speakers:
       -
-        name: 'David Buchmann'
+        name: 'David Buchmann '
         twitter: null
         github: null
     videos: null

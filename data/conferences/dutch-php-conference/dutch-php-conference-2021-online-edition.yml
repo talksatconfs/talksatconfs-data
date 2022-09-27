@@ -1,0 +1,178 @@
+name: 'Dutch PHP Conference 2021 - Online Edition'
+description: ''
+location: ''
+venue: ''
+city: ''
+country: ''
+link: ''
+playlist: 'youtube:PLV9OnTq0kQ5yXWj8TZ40laO_9ibeUxIWM'
+from_date: '2021-06-17'
+to_date: '2021-06-18'
+tags: ''
+talks:
+  -
+    title: 'Going Serverless with PHP & Bref.sh - Mike Lehan'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-06-17 10:00'
+    speakers:
+      -
+        name: 'Mike Lehan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'MySQL 8.0 Indexes, Histograms, and Other Ways to Speed Up Your Queries'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-06-17 10:00'
+    speakers:
+      -
+        name: 'Dave Stokes'
+        twitter: iansltx
+        github: mysqlmentor
+    videos: null
+    slides: null
+  -
+    title: 'Diversity and Inclusion in Tech'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-06-17 14:00'
+    speakers:
+      -
+        name: 'Ayesh Karunaratne'
+        twitter: null
+        github: null
+      -
+        name: ' Francesca Marano '
+        twitter: null
+        github: null
+      -
+        name: 'Juliette Reinders Folmer'
+        twitter: null
+        github: null
+      -
+        name: ' Koen Cornelis '
+        twitter: null
+        github: null
+      -
+        name: 'Zan Baldwin'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:ytiZjz9z_9k'
+    slides: null
+  -
+    title: Opening
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-06-18 09:30'
+    speakers:
+      -
+        name: 'Cal Evans '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "How'd we get here? A guide to Architectural Decision Records"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-06-18 09:45'
+    speakers:
+      -
+        name: ' Rafael Dohms'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:faZJnR3wLvs'
+    slides: null
+  -
+    title: 'PHP Enums'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-06-18 10:45'
+    speakers:
+      -
+        name: 'Ayesh Karunaratne'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:NfQUlcwQymM'
+    slides: null
+  -
+    title: 'Securing PHP APIs with Decentralised Identity Tokens'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-06-18 11:45'
+    speakers:
+      -
+        name: 'Mohammad Shahbaz Alam'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:AnSxjh8wrfc'
+    slides: null
+  -
+    title: 'Beyond Relational: Data storage for modern applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-06-18 13:00'
+    speakers:
+      -
+        name: 'Mike Lehan'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:INT1hdrPdpA'
+    slides: null
+  -
+    title: 'A short tale about state machine'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-06-18 14:00'
+    speakers:
+      -
+        name: 'Łukasz Chruściel'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:a4qezTp1i8M'
+    slides: null
+  -
+    title: 'HTTP Patterns: PSR 7 & 15 By Example'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-06-18 15:00'
+    speakers:
+      -
+        name: 'Tim Lytle'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dutrUmKcTng'
+    slides: null
+  -
+    title: Closing
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2021-06-18 15:45'
+    speakers:
+      -
+        name: 'Cal Evans '
+        twitter: null
+        github: null
+    videos: null
+    slides: null

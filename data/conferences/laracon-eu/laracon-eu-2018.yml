@@ -215,7 +215,7 @@ talks:
     talk_date: '2018-08-31 00:00'
     speakers:
       -
-        name: 'Freek van der Herten'
+        name: 'Freek Van der Herten'
         twitter: freekmurze
         github: freekmurze
     videos: null
@@ -404,7 +404,7 @@ talks:
     talk_date: '2018-08-30 00:00'
     speakers:
       -
-        name: 'Freek van der Herten'
+        name: 'Freek Van der Herten'
         twitter: freekmurze
         github: freekmurze
     videos:

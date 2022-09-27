@@ -1,0 +1,762 @@
+name: 'Dutch PHP Conference 2013'
+description: ''
+location: ''
+venue: ''
+city: Amsterdam
+country: Netherlands
+link: 'https://joind.in/event/dutch-php-conference-2013'
+playlist: 'youtube:PLV9OnTq0kQ5xwr9eRAzyW-lWaVjd1N_0F'
+from_date: '2013-06-06'
+to_date: '2013-06-08'
+tags: ''
+talks:
+  -
+    title: 'Hands on PHP memory usage'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-06 09:30'
+    speakers:
+      -
+        name: 'Julien Pauli'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to Modules in Zend Framework 2 (tutorial)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-06 09:30'
+    speakers:
+      -
+        name: 'Evan Coury'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Code Review for Security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-06 09:30'
+    speakers:
+      -
+        name: 'Anthony Ferrara'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Rapid, Smart Development in Magento: 120 Minute Module'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-06 09:30'
+    speakers:
+      -
+        name: 'Ben Marks'
+        twitter: benmarks
+        github: benmarks
+    videos: null
+    slides: null
+  -
+    title: 'The Pair-Programming Workshop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-06 09:30'
+    speakers:
+      -
+        name: 'Sebastian Schürmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Extra Workshop: Advanced Symfony2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-06 09:30'
+    speakers:
+      -
+        name: 'Hugo Hamon'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Varnish workshop'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-06 13:45'
+    speakers:
+      -
+        name: 'Thijs Feryn'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Build RESTful JSON API's with HAL"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-06 13:45'
+    speakers:
+      -
+        name: "Matthew Weier O'Phinney"
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to Symfony'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-06 13:45'
+    speakers:
+      -
+        name: 'Hugo Hamon'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Extra Workshop: The Pair-Programming Workshop -Half day-'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-06 13:45'
+    speakers: {  }
+    videos: null
+    slides: null
+  -
+    title: 'Extra Workshop: Code Review for Security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-06 13:45'
+    speakers:
+      -
+        name: 'Anthony Ferrara'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Extra Workshop: Hands on PHP memory usage'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-06 13:45'
+    speakers:
+      -
+        name: 'Julien Pauli'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Big Data Analytics (with Hadoop and PHP)'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-06 17:30'
+    speakers:
+      -
+        name: 'David Zuelke'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'A Web Of Identity'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 09:40'
+    speakers:
+      -
+        name: 'Ade Oshineye'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:f3PbPQdTH-8'
+    slides: null
+  -
+    title: 'Introduction to Modules in Zend Framework 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 10:45'
+    speakers:
+      -
+        name: 'Evan Coury'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:yu1e3KDFqk8'
+    slides: null
+  -
+    title: 'Unbreakable Domain Models'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 10:45'
+    speakers:
+      -
+        name: 'Mathias Verraes'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'How to remove PHP calls and scale your site like crazy!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 10:45'
+    speakers:
+      -
+        name: 'Wim Godden'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Uncon: Phing for power users'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 10:45'
+    speakers:
+      -
+        name: 'Stephan Hochdörfer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Surviving a Prime Time TV Commercial'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 11:45'
+    speakers:
+      -
+        name: 'David Zuelke'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:kj8cTX1zHS4'
+    slides: null
+  -
+    title: 'The latest MySQL with PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 11:45'
+    speakers:
+      -
+        name: 'Johannes Schlüter'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to Lisp'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 11:45'
+    speakers:
+      -
+        name: Igor
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Uncon: Hands-on PHPStorm Tips & Tricks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 11:45'
+    speakers:
+      -
+        name: 'Alexey Gopachenko'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'PHP, Under The Hood'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 13:30'
+    speakers:
+      -
+        name: 'Anthony Ferrara'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:TrfVCP2auH4'
+    slides: null
+  -
+    title: 'Reverse caching proxies: Varnish or Nginx?'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 13:30'
+    speakers:
+      -
+        name: 'Thijs Feryn'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Sass in the real world'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 13:30'
+    speakers:
+      -
+        name: 'Roy Tomeij'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Uncon: ZF2 for ZF1 devs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 13:30'
+    speakers:
+      -
+        name: 'Gary Hockin'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Uncon: The Mikado method'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 13:30'
+    speakers:
+      -
+        name: 'Pascal de Vink'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Cheater's Math"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 14:30'
+    speakers:
+      -
+        name: ' Ivo Jansch'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Dependency Injection Smells'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 14:30'
+    speakers:
+      -
+        name: 'Matthias Noback'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'High Performance Websites with Scalable Workers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 14:30'
+    speakers:
+      -
+        name: 'Justin Carmony'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Uncon: Testing with Codeception'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 14:30'
+    speakers:
+      -
+        name: 'Jeremy Coates'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The Hypermedia API'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 15:45'
+    speakers:
+      -
+        name: 'Ben Longden'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Fun with BIG Data with various databases'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 15:45'
+    speakers:
+      -
+        name: 'David Ennis'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:67ZIyGVlmzU'
+    slides: null
+  -
+    title: 'The Proxy pattern in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 15:45'
+    speakers:
+      -
+        name: 'Marco Pivetta'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Uncon: User acceptance testing with Selenium and PHPUnit'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 15:45'
+    speakers:
+      -
+        name: 'Michelangelo van Dam'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Modern HTTP Architecture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 16:45'
+    speakers:
+      -
+        name: 'Travis Swicegood'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:76Mgcawh-tI'
+    slides: null
+  -
+    title: 'Getting your toolbox together'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 16:45'
+    speakers:
+      -
+        name: 'Daan van Renterghem'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'To Pair or not to Pair. That is not a question'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-07 16:45'
+    speakers:
+      -
+        name: 'Sebastian Schürmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Growth Hacking for Humans'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 09:40'
+    speakers:
+      -
+        name: 'Eamon Leonard'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:Egecyv_byYw'
+    slides: null
+  -
+    title: 'Know your algorithms - sorting and searching'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 10:45'
+    speakers:
+      -
+        name: 'Rowan Merewood'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:CRllFXqiDJk'
+    slides: null
+  -
+    title: 'Scenario Driven API Design'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 10:45'
+    speakers:
+      -
+        name: ' Ivo Jansch'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Composer for busy developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 10:45'
+    speakers:
+      -
+        name: ' Rafael Dohms'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Uncon: Event driven applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 10:45'
+    speakers:
+      -
+        name: 'Chris Saylor'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: "Let's have a look at PHP5.5"
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 11:45'
+    speakers:
+      -
+        name: 'Julien Pauli'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Introduction to Django'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 11:45'
+    speakers:
+      -
+        name: 'Travis Swicegood'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Nginx: The power within'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 11:45'
+    speakers:
+      -
+        name: 'Helgi Þormar Þorbjörnsson '
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:d8W4qJtRjDU'
+    slides: null
+  -
+    title: 'Uncon: QA - Ask a Magento Guy'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 11:45'
+    speakers:
+      -
+        name: 'Ben Marks'
+        twitter: benmarks
+        github: benmarks
+    videos: null
+    slides: null
+  -
+    title: 'Uncon: Developers travel in style'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 11:45'
+    speakers:
+      -
+        name: 'Thijs Feryn'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Emergent Design with phpspec'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 13:30'
+    speakers:
+      -
+        name: 'Marcello Duarte'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Your Business. Your Language. Your Code'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 13:30'
+    speakers:
+      -
+        name: 'Stephan Hochdörfer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Deploying your apps... the right way!'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 13:30'
+    speakers:
+      -
+        name: 'Robbert van den Bogerd'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:uNGg84E9Xck'
+    slides: null
+  -
+    title: 'Uncon: Cyber security'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 13:30'
+    speakers:
+      -
+        name: 'Clinton Ingrams'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Salt: The New Configuration Management System'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 14:30'
+    speakers:
+      -
+        name: 'Justin Carmony'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:dAB_oBB5arU'
+    slides: null
+  -
+    title: 'Growing spiders to crawl the web'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 14:30'
+    speakers:
+      -
+        name: ' Juozas Kaziukėnas'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:5ADXFJcAaOI'
+    slides: null
+  -
+    title: 'Measuring and Logging Everything in Real Time'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 14:30'
+    speakers:
+      -
+        name: 'Bastian Hofmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Uncon: Development by the numbers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 14:30'
+    speakers:
+      -
+        name: 'Anthony Ferrara'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Worse Is Better, for Better or for Worse'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2013-06-08 15:45'
+    speakers:
+      -
+        name: 'Kevlin Henney'
+        twitter: null
+        github: null
+    videos:
+      - 'youtube:mZXp-2vycHg'
+    slides: null

@@ -154,7 +154,7 @@ talks:
     talk_date: '2019-10-22 14:15'
     speakers:
       -
-        name: ' Stefan Priebsch  '
+        name: 'Stefan Priebsch'
         twitter: null
         github: null
     videos: null
@@ -376,7 +376,7 @@ talks:
     talk_date: '2019-10-23 11:45'
     speakers:
       -
-        name: ' Stefan Priebsch  '
+        name: 'Stefan Priebsch'
         twitter: null
         github: null
     videos: null
@@ -429,7 +429,7 @@ talks:
     talk_date: '2019-10-23 14:15'
     speakers:
       -
-        name: 'Sebastian Bergmann  '
+        name: 'Sebastian Bergmann'
         twitter: null
         github: null
     videos:
@@ -579,7 +579,7 @@ talks:
     talk_date: '2019-10-24 09:00'
     speakers:
       -
-        name: 'Sebastian Bergmann  '
+        name: 'Sebastian Bergmann'
         twitter: null
         github: null
     videos: null

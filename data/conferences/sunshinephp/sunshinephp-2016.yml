@@ -122,7 +122,7 @@ talks:
     talk_date: '2016-02-05 10:15'
     speakers:
       -
-        name: 'Ligaya Turmelle'
+        name: ' Ligaya Turmelle'
         twitter: null
         github: null
     videos: null
@@ -304,7 +304,7 @@ talks:
     talk_date: '2016-02-06 16:00'
     speakers:
       -
-        name: 'Stephan Hochdorfer'
+        name: 'Stephan Hochdörfer'
         twitter: null
         github: null
     videos: null
@@ -538,7 +538,7 @@ talks:
     talk_date: '2016-02-06 18:15'
     speakers:
       -
-        name: 'Cal Evans'
+        name: 'Cal Evans '
         twitter: null
         github: null
     videos: null

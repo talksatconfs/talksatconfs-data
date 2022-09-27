@@ -1,60 +1,181 @@
-name: 'SunshinePHP 2017'
+name: 'Dutch PHP Conference 2011'
 description: ''
 location: ''
 venue: ''
-city: ''
-country: ''
-link: ''
+city: Amsterdam
+country: Netherlands
+link: 'https://joind.in/event/dutch-php-conference-2011'
 playlist: ''
-from_date: '2017-02-02'
-to_date: '2017-02-04'
+from_date: '2011-05-19'
+to_date: '2011-05-21'
 tags: ''
 talks:
   -
-    title: 'Graph Databases Will Change Your Freakin Life'
+    title: 'ZCE 5.3 Exam Preparation'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-03 17:15'
+    talk_date: '2011-05-19 09:30'
     speakers:
       -
-        name: 'Ed Finkler'
+        name: 'Lorna Mitchell'
+        twitter: lornajane
+        github: lornajane
+    videos: null
+    slides: null
+  -
+    title: 'Optimizing MySQL Essentials'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-19 09:30'
+    speakers:
+      -
+        name: 'Ray Deroo '
+        twitter: null
+        github: null
+      -
+        name: ' Ligaya Turmelle'
         twitter: null
         github: null
     videos: null
     slides: null
   -
-    title: 'Hack Event'
+    title: 'Caching on the edge'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-03 18:30'
+    talk_date: '2011-05-19 09:30'
     speakers:
       -
-        name: 'Dana Luther'
-        twitter: danaluther
-        github: DanaLuther
-    videos: null
-    slides: null
-  -
-    title: 'Unit Testing by Example'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-04 17:15'
-    speakers:
-      -
-        name: 'Anna Filina'
+        name: 'Fabien Potencier'
         twitter: null
         github: null
     videos: null
     slides: null
   -
-    title: 'Life Badges'
+    title: 'Think like an ant, distribute the workload'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-03 09:00'
+    talk_date: '2011-05-19 09:30'
+    speakers:
+      -
+        name: 'Helgi Þormar Þorbjörnsson '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'XP Principles and Practices'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-19 09:30'
+    speakers:
+      -
+        name: 'Sebastian Schürmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Doctrine 2'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-19 13:45'
+    speakers:
+      -
+        name: ' Juozas Kaziukėnas'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Isolation for your tests'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-19 13:45'
+    speakers:
+      -
+        name: 'Giorgio Sironi'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Making the new everyday things'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-20 09:40'
+    speakers:
+      -
+        name: 'Aral Balkan'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'TDD and getting paid'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-20 10:45'
+    speakers:
+      -
+        name: 'Rowan Merewood'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'ZeroMQ Is The Answer'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-20 10:45'
+    speakers:
+      -
+        name: 'Ian Barber'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Tips and Tricks for Tuning PHP for Windows and IIS'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-20 10:45'
+    speakers:
+      -
+        name: 'Mark Brown'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Searching with Solr - Why, When and How'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-20 10:45'
+    speakers:
+      -
+        name: 'Paul Matthews'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Zend Framework from the CLI'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-20 11:45'
     speakers:
       -
         name: 'Cal Evans '
@@ -63,401 +184,50 @@ talks:
     videos: null
     slides: null
   -
-    title: 'Websockets and Event-driven Programming with ReactPHP'
+    title: 'IPv6 for PHP Developers'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-04 14:45'
+    talk_date: '2011-05-20 11:45'
     speakers:
       -
-        name: 'Steve Meyers'
+        name: 'David Soria Parra'
         twitter: null
         github: null
     videos: null
     slides: null
   -
-    title: 'Pulling up Your Legacy App by its Bootstraps!'
+    title: 'Pursuing Practices of Domain - Driven Design in PHP'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-04 11:30'
+    talk_date: '2011-05-20 11:45'
     speakers:
       -
-        name: 'Emily Stamey'
+        name: 'Giorgio Sironi'
         twitter: null
         github: null
     videos: null
     slides: null
   -
-    title: 'Composing PHP Applications with Middleware'
+    title: 'Developing & Deploying High Performance PHP Applications'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-03 10:15'
+    talk_date: '2011-05-20 11:45'
     speakers:
       -
-        name: 'Josh Butts'
+        name: 'Christopher Jones'
         twitter: null
         github: null
     videos: null
     slides: null
   -
-    title: 'Tales from the Crypt: Cryptography Primer'
+    title: 'Geolocation and Maps with PHP'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-03 14:45'
-    speakers:
-      -
-        name: 'Adam Englander'
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'Making the most out of MySQL'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-04 10:15'
-    speakers:
-      -
-        name: "Gabriela D'Ávila Ferrara"
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'PHP Extensions Tutorial'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-02 09:00'
-    speakers:
-      -
-        name: 'Elizabeth Marie Smith'
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'Securing Legacy Applications'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-04 16:00'
-    speakers:
-      -
-        name: 'Chris Cornutt'
-        twitter: enygma
-        github: enygma
-    videos: null
-    slides: null
-  -
-    title: 'Irritating Strings -- Iterating Things'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-03 10:15'
-    speakers:
-      -
-        name: 'Eric Poe'
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'Baby Steps -> Giant Leaps. (Xdebug for beginners)'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-03 11:30'
-    speakers:
-      -
-        name: 'Sean Prunka'
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'Time Management For Grumpy Programmers'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-04 10:15'
-    speakers:
-      -
-        name: 'Chris Hartjes'
-        twitter: grmpyprogrammer
-        github: chartjes
-    videos: null
-    slides: null
-  -
-    title: 'Irresistible APIs'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-03 11:30'
-    speakers:
-      -
-        name: 'Kirsten Hunter'
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'Building great admin panels with Symfony and SonataAdminBundle'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-04 11:30'
-    speakers:
-      -
-        name: 'Victoria Quirante'
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'Panel Discussion: "PHPantastic Security"'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-03 18:30'
-    speakers:
-      -
-        name: 'Samantha Quiñones'
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'Accidental Professional'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-04 18:30'
-    speakers:
-      -
-        name: 'Adam Culp'
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'Debugging Effectively'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-03 14:45'
-    speakers:
-      -
-        name: "Colin O'Dell"
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: "MySQL's JSON Data Type & Document Store"
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-04 11:30'
-    speakers:
-      -
-        name: 'Dave Stokes'
-        twitter: iansltx
-        github: mysqlmentor
-    videos: null
-    slides: null
-  -
-    title: 'AMP your website: An Introduction to Accelerated Mobile Pages'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-03 11:30'
-    speakers:
-      -
-        name: 'Robert McFrazier'
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'From Docker to Production'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-04 17:15'
-    speakers:
-      -
-        name: 'Chris Tankersley'
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'Untangle your async spaghetti code'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-02 13:00'
-    speakers:
-      -
-        name: Luis
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'Employing CQRS and Event Sourcing to Build an MVP'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-04 14:45'
-    speakers:
-      -
-        name: 'Beau Simensen'
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'Data Visualization with D3'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-03 11:30'
-    speakers:
-      -
-        name: 'Wenting Zhao'
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'Meet your BFF - Building Backends-for-Frontends'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-03 17:15'
-    speakers:
-      -
-        name: Luis
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'Code Coverage for Security in Application Migrations'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-03 16:00'
-    speakers:
-      -
-        name: 'Dana Luther'
-        twitter: danaluther
-        github: DanaLuther
-    videos: null
-    slides: null
-  -
-    title: 'A World Without PHP'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-04 09:00'
-    speakers:
-      -
-        name: 'Ben Marks'
-        twitter: benmarks
-        github: benmarks
-    videos: null
-    slides: null
-  -
-    title: 'Develop A Security Mindset'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-04 14:45'
-    speakers:
-      -
-        name: 'Lisa Bock'
-        twitter: michelletyrone
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'DevOps For Small Teams'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-03 16:00'
-    speakers:
-      -
-        name: 'Joe Ferguson'
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'Learn To Test Like A Grumpy Programmer'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-02 09:00'
-    speakers:
-      -
-        name: 'Chris Hartjes'
-        twitter: grmpyprogrammer
-        github: chartjes
-    videos: null
-    slides: null
-  -
-    title: 'Web Performance 2017: Myths and Truths'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-04 17:15'
-    speakers:
-      -
-        name: 'Christian Wenz'
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: "Don't work for PHPCS, make PHPCS work for you"
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-03 14:45'
-    speakers:
-      -
-        name: 'Juliette Reinders Folmer'
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'Practical Performance Tips and Tricks to Make Your HTML/JavaScript Faster'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-03 10:15'
-    speakers:
-      -
-        name: 'Doris Chen'
-        twitter: null
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'Locate all the things'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-04 16:00'
+    talk_date: '2011-05-20 13:30'
     speakers:
       -
         name: 'Derick Rethans'
@@ -466,167 +236,154 @@ talks:
     videos: null
     slides: null
   -
-    title: 'Using Open Source for Fun and Profit'
+    title: 'Cooking up your development environment'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-04 13:30'
+    talk_date: '2011-05-20 13:30'
     speakers:
       -
-        name: 'Gary Hockin'
+        name: 'Alistair Stead'
         twitter: null
         github: null
     videos: null
     slides: null
   -
-    title: 'Not-On-Calliday: On-Call Best Practices'
+    title: 'The hitchhikers guide to agile'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-03 17:15'
+    talk_date: '2011-05-20 13:30'
     speakers:
       -
-        name: 'Amanda Folson'
-        twitter: AmbassadorAwsum
-        github: afolson
-    videos: null
-    slides: null
-  -
-    title: 'HTTP/2 and Asynchronous APIs'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-04 10:15'
-    speakers:
-      -
-        name: 'Davey Shafik'
+        name: 'Sebastian Schürmann'
         twitter: null
         github: null
     videos: null
     slides: null
   -
-    title: 'Design for Developers'
+    title: 'Inside DocBlox'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-04 10:15'
+    talk_date: '2011-05-20 13:30'
     speakers:
       -
-        name: 'Cathy Bruce'
+        name: 'Mike van Riel'
         twitter: null
         github: null
     videos: null
     slides: null
   -
-    title: 'The New Revolution'
+    title: 'How XHP Revolutionized Frontend Development at Facebook'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-03 13:30'
+    talk_date: '2011-05-20 14:30'
     speakers:
       -
-        name: 'Samantha Quiñones'
+        name: 'Stefan Parker'
         twitter: null
         github: null
     videos: null
     slides: null
   -
-    title: 'Docker for PHP Developers'
+    title: 'So you think you know REST?'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-02 13:00'
+    talk_date: '2011-05-20 14:30'
     speakers:
       -
-        name: 'Chris Tankersley'
+        name: 'Evert Pot'
         twitter: null
         github: null
     videos: null
     slides: null
   -
-    title: 'Create Your Own Local Development Environments With Vagrant'
+    title: 'Simplify your external dependency management'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-02 09:00'
+    talk_date: '2011-05-20 14:30'
     speakers:
       -
-        name: 'Joe Ferguson'
+        name: 'Stephan Hochdörfer'
         twitter: null
         github: null
     videos: null
     slides: null
   -
-    title: 'Kicking off with Zend Expressive and Doctrine ORM'
+    title: 'Public key encryption 101'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-03 16:00'
+    talk_date: '2011-05-20 14:30'
     speakers:
       -
-        name: 'James Titcumb'
+        name: 'Joshua Thijssen'
         twitter: null
         github: null
     videos: null
     slides: null
   -
-    title: 'Console Applications: Automate your life away'
+    title: 'Clean PHP'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-04 11:30'
+    talk_date: '2011-05-20 15:45'
     speakers:
       -
-        name: 'Matt Trask'
-        twitter: matthewtrask
-        github: matthewtrask
-    videos: null
-    slides: null
-  -
-    title: 'A Common Taxonomy of Bugs and How to Squash Them'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-03 17:15'
-    speakers:
-      -
-        name: 'Kylie Stradley'
-        twitter: KyFaSt
-        github: null
-    videos: null
-    slides: null
-  -
-    title: 'Taming the Resource Tiger'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-03 14:45'
-    speakers:
-      -
-        name: 'Elizabeth Marie Smith'
+        name: 'Sebastian Bergmann'
         twitter: null
         github: null
     videos: null
     slides: null
   -
-    title: 'Going Password-Free'
+    title: 'Distributed Couch Apps - Embracing eventual consistency'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-03 10:15'
+    talk_date: '2011-05-20 15:45'
     speakers:
       -
-        name: 'Eric Mann'
+        name: ' Kore Nordmann'
         twitter: null
         github: null
     videos: null
     slides: null
   -
-    title: 'From SQL to noSQL'
+    title: 'Implementing Comet using PHP'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-02 13:00'
+    talk_date: '2011-05-20 15:45'
+    speakers:
+      -
+        name: 'Jonas Marien'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'The missing link between IDE and webserver'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-20 15:45'
+    speakers:
+      -
+        name: 'Arne Rudolph'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Why Google Maps sucks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-20 16:00'
     speakers:
       -
         name: 'Derick Rethans'
@@ -635,37 +392,266 @@ talks:
     videos: null
     slides: null
   -
-    title: 'MySQL: Analysis, understanding, and optimization of queries'
+    title: 'PHPSpec - BDD for PHP'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-03 16:00'
+    talk_date: '2011-05-20 16:15'
     speakers:
       -
-        name: 'Michael Moussa'
-        twitter: michaelmoussa
-        github: michaelmoussa
-    videos: null
-    slides: null
-  -
-    title: 'Introduction to Event Sourcing and CQRS'
-    description: ''
-    tags: ''
-    link: ''
-    talk_date: '2017-02-02 09:00'
-    speakers:
-      -
-        name: 'Beau Simensen'
+        name: 'Marcello Duarte'
         twitter: null
         github: null
     videos: null
     slides: null
   -
-    title: 'Dockerize your unit tests for faster feedback'
+    title: "Zend Framework 2.0: what's new and what's changed?"
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-04 16:00'
+    talk_date: '2011-05-20 16:45'
+    speakers:
+      -
+        name: 'Rob Allen'
+        twitter: akrabat
+        github: akrabat
+    videos: null
+    slides: null
+  -
+    title: 'HTML5 for PHP Developers'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-20 16:45'
+    speakers:
+      -
+        name: 'Thorsten Rinne'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Advanced OO patterns'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-20 16:45'
+    speakers:
+      -
+        name: 'Tobias Schlitt '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Saving time by applying clean code principles - ranting about documentation'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-20 16:45'
+    speakers:
+      -
+        name: 'Volker Dusch'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'DPC Conference Social'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-20 20:30'
+    speakers:
+      -
+        name: 'Ibuildings, Sanoma Digital and Github'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'First Class APIs'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-21 09:40'
+    speakers:
+      -
+        name: 'Helgi Þormar Þorbjörnsson '
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Profiling PHP Applications'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-21 10:45'
+    speakers:
+      -
+        name: 'Derick Rethans'
+        twitter: derickr
+        github: derickr
+    videos: null
+    slides: null
+  -
+    title: 'Implementing OAuth'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-21 10:45'
+    speakers:
+      -
+        name: 'Lorna Mitchell'
+        twitter: lornajane
+        github: lornajane
+    videos: null
+    slides: null
+  -
+    title: 'The new era of PHP frameworks'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-21 10:45'
+    speakers:
+      -
+        name: ' Juozas Kaziukėnas'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Launching content in mobility with REST & eZ Publish'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-21 10:45'
+    speakers:
+      -
+        name: 'Nicolas Pastorino'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Optimising a Zend Framework application'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-21 11:45'
+    speakers:
+      -
+        name: 'Rob Allen'
+        twitter: akrabat
+        github: akrabat
+    videos: null
+    slides: null
+  -
+    title: 'Strong cryptography in PHP'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-21 11:45'
+    speakers:
+      -
+        name: 'Enrico Zimuel'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Managing a shared MySQL farm'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-21 11:45'
+    speakers:
+      -
+        name: 'Thijs Feryn'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Writing documentation the easy way'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-21 11:45'
+    speakers:
+      -
+        name: 'Bram Vogelaar'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Agility and Quality'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-21 13:30'
+    speakers:
+      -
+        name: 'Sebastian Bergmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Modular Application Architecture'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-21 13:30'
+    speakers:
+      -
+        name: 'Tobias Schlitt '
+        twitter: null
+        github: null
+      -
+        name: ' Kore Nordmann'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Character Sets Suck'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-21 13:30'
+    speakers:
+      -
+        name: 'Ray Deroo '
+        twitter: null
+        github: null
+      -
+        name: ' Ligaya Turmelle'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Bugfixing for Zend Framework'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-21 13:30'
+    speakers:
+      -
+        name: 'Bart McLeod'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'API driven Zend Framework app'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-21 13:45'
     speakers:
       -
         name: 'Michelangelo van Dam'
@@ -674,53 +660,79 @@ talks:
     videos: null
     slides: null
   -
-    title: 'Engineering - Mastering the art of Software'
+    title: 'Tasks, daemons, light blubs'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-04 17:15'
+    talk_date: '2011-05-21 14:00'
     speakers:
       -
-        name: 'Cristiano Diniz da Silva'
+        name: 'Dirk Engels'
         twitter: null
         github: null
     videos: null
     slides: null
   -
-    title: 'Control your application with your brain'
+    title: 'Practical Git'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-04 16:00'
+    talk_date: '2011-05-21 14:30'
     speakers:
       -
-        name: 'Ibis Arrastia'
+        name: 'David Soria Parra'
         twitter: null
         github: null
     videos: null
     slides: null
   -
-    title: 'Build Security In'
+    title: 'Large-Scale Data Processing with Hadoop and PHP'
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-02 13:00'
+    talk_date: '2011-05-21 14:30'
     speakers:
       -
-        name: 'Chris Cornutt'
-        twitter: enygma
-        github: enygma
+        name: 'David Zuelke'
+        twitter: null
+        github: null
     videos: null
     slides: null
   -
-    title: 'Containing Chaos with Kubernetes'
+    title: "Let's take over the world with Zend Framework"
     description: ''
     tags: ''
     link: ''
-    talk_date: '2017-02-04 14:45'
+    talk_date: '2011-05-21 14:30'
     speakers:
       -
-        name: 'Terrence Ryan'
+        name: 'Martin de Keijzer'
+        twitter: null
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Phing - a PHP build tool - short introduction'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-21 14:30'
+    speakers:
+      -
+        name: 'Michiel Rook'
+        twitter: michieltcs
+        github: null
+    videos: null
+    slides: null
+  -
+    title: 'Closing Keynote: Open Teams'
+    description: ''
+    tags: ''
+    link: ''
+    talk_date: '2011-05-21 15:45'
+    speakers:
+      -
+        name: 'Cal Evans '
         twitter: null
         github: null
     videos: null
